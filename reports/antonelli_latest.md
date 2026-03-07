@@ -17,6 +17,8 @@
 
 ### 📰 The Shout
 
+![The Shout](https://theshout.com.au/wp-content/uploads/2026/02/VB-3.5-Stubby-and-Can.jpg?w=780)
+
 - **[Victoria Bitter moves into mid-strength with VB Mid](https://theshout.com.au/victoria-bitter-moves-into-mid-strength-with-vb-mid/)**
   Brewed with the same flavour characteristics as VB Classic, the new mid-strength equals just one standard drink per 375m...
 
@@ -73,6 +75,8 @@
 ## 🌍 欧洲
 
 ### 📰 Wine-Searcher
+
+![Wine-Searcher](https://www.wine-searcher.com/images/news-rss/98/99/9899114196469aa225d_italf1.jpg)
 
 - **[Huge Fake Wine Seizure in Italy](https://www.wine-searcher.com/m/2026/03/huge-fake-wine-seizure-in-italy?rss=Y)**
   With exploitation, human trafficking and fraudulent wine, this week's news roundup reads more like a police blotter....
@@ -189,5 +193,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-03-07 22:05*  
+*报告生成时间: 2026-03-07 22:11*  
 *Antonelli Intelligence System*

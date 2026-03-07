@@ -221,6 +221,10 @@ def generate_markdown_report():
         key = (region, source)
         if key not in by_region_source:
             by_region_source[key] = []
+            # 提取该信源的第一张图片作为代表
+            img_url = extract_image_from_summary(summary)
+            if img_url:
+                source_images[key] = img_url
         by_region_source[key].append(a)
     
     # 按地区组织
@@ -228,18 +232,22 @@ def generate_markdown_report():
     for (region, source), items in by_region_source.items():
         if region not in region_sources:
             region_sources[region] = []
-        region_sources[region].append((source, items))
+        region_sources[region].append((source, items, source_images.get((region, source))))
     
     # 生成各地区内容
     for region in sorted(region_sources.keys()):
         md += f"\n## 🌍 {region}\n\n"
         
-        for source, items in region_sources[region]:
+        for source, items, source_image in region_sources[region]:
             # 信源标题
             md += f"### 📰 {source}\n\n"
             
             # 如果有文章
             if items:
+                # 如果有图片，添加图片标记
+                if source_image:
+                    md += f"![{source}]({source_image})\n\n"
+                
                 # 列出该信源的文章（最多5条）
                 for title, link, summary, published, s, r, keywords in items[:5]:
                     md += f"- **[{title}]({link})**\n"
@@ -343,8 +351,11 @@ def markdown_to_html(md_path):
             in_source_section = True
             continue
         
-        # 跳过 Markdown 图片格式 ![alt](url)
-        if stripped.startswith('!['):
+        # 处理 Markdown 图片格式 ![alt](url)
+        img_match = re.match(r'!\[(.+?)\]\((.+?)\)', stripped)
+        if img_match:
+            alt_text, img_url = img_match.groups()
+            html_lines.append(f'<img src="{img_url}" alt="{alt_text}" loading="lazy">')
             continue
         
         # 处理列表项（文章列表）
@@ -452,6 +463,21 @@ def markdown_to_html(md_path):
             border-radius: 8px;
             margin: 10px 0;
             display: block;
+        }}
+        
+        /* 信源图片样式 */
+        .source-image {{
+            margin: 15px 0;
+            text-align: center;
+            width: 100%;
+            overflow: hidden;
+            border-radius: 8px;
+        }}
+        .source-image img {{
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
         }}
         
         /* 文章列表 */
