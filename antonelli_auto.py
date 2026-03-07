@@ -158,7 +158,10 @@ def fetch_all_rss():
             added = save_articles(articles)
             total_added += added
             total_sources += 1
-            print(f"     新增 {added} 条")
+            if added > 0:
+                print(f"     新增 {added} 条")
+            else:
+                print(f"     暂无更新")
     
     print(f"\n✅ 抓取完成! 共 {total_sources} 个源，新增 {total_added} 条资讯")
     return total_added
@@ -239,19 +242,24 @@ def generate_markdown_report():
             # 信源标题
             md += f"### 📰 {source}\n\n"
             
-            # 如果有图片，添加图片标记
-            if source_image:
-                md += f"![{source}]({source_image})\n\n"
-            
-            # 列出该信源的文章（最多5条）
-            for title, link, summary, published, s, r, keywords in items[:5]:
-                md += f"- **[{title}]({link})**\n"
-                # 清理 HTML 标签
-                clean_summary = clean_html_tags(summary)[:120]
-                md += f"  {clean_summary}...\n"
-                if keywords:
-                    md += f"  *关键词: {', '.join(keywords.split(',')[:3])}*\n"
-                md += "\n"
+            # 如果有文章
+            if items:
+                # 如果有图片，添加图片标记
+                if source_image:
+                    md += f"![{source}]({source_image})\n\n"
+                
+                # 列出该信源的文章（最多5条）
+                for title, link, summary, published, s, r, keywords in items[:5]:
+                    md += f"- **[{title}]({link})**\n"
+                    # 清理 HTML 标签
+                    clean_summary = clean_html_tags(summary)[:120]
+                    md += f"  {clean_summary}...\n"
+                    if keywords:
+                        md += f"  *关键词: {', '.join(keywords.split(',')[:3])}*\n"
+                    md += "\n"
+            else:
+                # 该信源暂无更新
+                md += "*📝 该信源暂无更新*\n\n"
     
     if not articles:
         md += "\n*今日暂无新资讯*\n"
