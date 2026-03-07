@@ -485,6 +485,8 @@ def markdown_to_html(md_path):
             text-align: center;
             width: 100%;
             overflow: hidden;
+            border-radius: 8px;
+            background: #f5f5f5;
         }}
         .article-image img {{
             max-width: 100%;
@@ -494,6 +496,8 @@ def markdown_to_html(md_path):
             border-radius: 8px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
             object-fit: contain;
+            display: block;
+            margin: 0 auto;
         }}
         hr {{
             border: none;
@@ -508,20 +512,29 @@ def markdown_to_html(md_path):
         }}
         @media (max-width: 768px) {{
             body {{ padding: 10px; }}
-            header {{ padding: 20px 10px; }}
-            header h1 {{ font-size: 1.6em; }}
-            .card {{ padding: 15px; border-radius: 12px; }}
-            .card h2 {{ font-size: 1.3em; margin: 20px 0 15px 0; }}
-            .card h3 {{ font-size: 1em; margin: 20px 0 10px 0; }}
-            .article-card {{ padding: 15px; margin-bottom: 15px; }}
-            .article-image {{ margin-top: 10px; }}
-            .article-image img {{ 
-                max-height: none; 
-                width: 100%; 
+            header {{ padding: 15px 10px; }}
+            header h1 {{ font-size: 1.4em; margin-bottom: 5px; }}
+            header p {{ font-size: 0.9em; }}
+            .update-time {{ padding: 5px 12px; font-size: 0.8em; margin-top: 10px; }}
+            .card {{ padding: 12px; border-radius: 10px; margin-bottom: 15px; }}
+            .card h2 {{ font-size: 1.1em; margin: 15px 0 10px 0; padding-bottom: 8px; }}
+            .card h3 {{ font-size: 0.95em; margin: 12px 0 8px 0; padding-left: 8px; border-left-width: 2px; }}
+            .article-card {{ padding: 12px; margin-bottom: 12px; border-left-width: 3px; }}
+            .article-image {{ 
+                margin-top: 8px; 
                 border-radius: 6px;
+                max-height: 35vh;
             }}
-            .card ul.article-meta {{ padding: 10px; }}
-            .card ul.article-meta li {{ font-size: 0.9em; }}
+            .article-image img {{ 
+                max-height: 35vh;
+                width: auto;
+                max-width: 100%;
+                border-radius: 6px;
+                object-fit: contain;
+            }}
+            .card ul.article-meta {{ padding: 8px; margin: 8px 0 10px 0; }}
+            .card ul.article-meta li {{ font-size: 0.85em; padding: 3px 0; }}
+            .card ul.article-meta li strong {{ min-width: 60px; }}
         }}
     </style>
 </head>
