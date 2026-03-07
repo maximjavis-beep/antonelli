@@ -3,709 +3,438 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Antonelli | 全球酒类行业情报</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <title>Antonelli 酒类情报日报</title>
     <style>
-        :root {
-            --background-body: #0d1117;
-            --background: #161b22;
-            --background-alt: #21262d;
-            --text-main: #c9d1d9;
-            --text-bright: #f0f6fc;
-            --text-muted: #8b949e;
-            --links: #58a6ff;
-            --focus: #388bfd;
-            --border: #30363d;
-            --code: #f78166;
-            --button-hover: #388bfd;
-        }
-        * {
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            max-width: 1400px;
-            margin: 0 auto;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #722f37 0%, #8b4513 100%);
+            min-height: 100vh;
             padding: 20px;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
         }
-        .header {
+        .container { max-width: 1200px; margin: 0 auto; }
+        header {
             text-align: center;
-            padding: 40px 0;
-            border-bottom: 1px solid var(--border);
-            margin-bottom: 40px;
+            padding: 40px 20px;
+            color: white;
         }
-        .header h1 {
-            font-size: 3em;
-            margin: 0;
-            background: linear-gradient(135deg, #f78166 0%, #ff6b6b 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        .header p {
-            color: var(--text-muted);
-            margin-top: 10px;
-            font-size: 1.1em;
-        }
+        header h1 { font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        header p { font-size: 1.1em; opacity: 0.9; }
         .update-time {
-            text-align: center;
-            color: var(--text-muted);
-            margin-bottom: 30px;
+            background: rgba(255,255,255,0.2);
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 20px;
+            margin-top: 15px;
             font-size: 0.9em;
         }
-        .update-time a {
-            color: var(--links);
+        .card {
+            background: white;
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        .card h2 {
+            color: #722f37;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #722f37;
+            font-size: 1.5em;
+        }
+        .card h3 {
+            color: #8b4513;
+            margin: 25px 0 15px 0;
+            padding-left: 10px;
+            border-left: 3px solid #8b4513;
+            font-size: 1.2em;
+        }
+        .card h3 a {
+            color: #722f37;
             text-decoration: none;
         }
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 20px;
-            margin-bottom: 40px;
+        .card h3 a:hover { color: #8b4513; text-decoration: underline; }
+        .card ul { list-style: none; padding-left: 0; margin: 10px 0; }
+        .card li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            color: #555;
+        }
+        .card li:last-child { border-bottom: none; }
+        .card li strong { color: #722f37; }
+        hr {
+            border: none;
+            border-top: 2px solid #e0e0e0;
+            margin: 30px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: rgba(255,255,255,0.8);
+            font-size: 0.9em;
         }
         @media (max-width: 768px) {
-            .stats {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        .stat-card {
-            background: var(--background);
-            padding: 25px 20px;
-            border-radius: 12px;
-            text-align: center;
-            border: 1px solid var(--border);
-            transition: transform 0.2s, border-color 0.2s;
-        }
-        .stat-card:hover {
-            transform: translateY(-2px);
-            border-color: var(--links);
-        }
-        .stat-card h3 {
-            margin: 0;
-            font-size: 2.5em;
-            color: #f78166;
-        }
-        .stat-card p {
-            margin: 10px 0 0;
-            color: var(--text-muted);
-            font-size: 0.95em;
-        }
-        
-        /* 四栏布局 */
-        .regions-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 20px;
-            margin-top: 40px;
-        }
-        @media (max-width: 1200px) {
-            .regions-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        @media (max-width: 768px) {
-            .regions-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-        
-        .region-column {
-            background: var(--background);
-            border-radius: 12px;
-            border: 1px solid var(--border);
-            overflow: hidden;
-        }
-        .region-header {
-            padding: 20px;
-            font-size: 1.3em;
-            font-weight: bold;
-            color: white;
-            text-align: center;
-        }
-        .region-header.中国 { background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%); }
-        .region-header.欧洲 { background: linear-gradient(135deg, #3498db 0%, #2980b9 100%); }
-        .region-header.美洲 { background: linear-gradient(135deg, #2ecc71 0%, #27ae60 100%); }
-        .region-header.亚洲 { background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%); }
-        
-        .region-content {
-            padding: 15px;
-            max-height: 800px;
-            overflow-y: auto;
-        }
-        
-        .article {
-            background: var(--background-alt);
-            padding: 15px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-            border: 1px solid var(--border);
-            transition: border-color 0.2s;
-        }
-        .article:hover {
-            border-color: var(--links);
-        }
-        .article h4 {
-            margin: 0 0 8px;
-            font-size: 0.95em;
-            line-height: 1.4;
-        }
-        .article h4 a {
-            color: var(--text-bright);
-            text-decoration: none;
-        }
-        .article h4 a:hover {
-            color: var(--links);
-        }
-        .article-meta {
-            color: var(--text-muted);
-            font-size: 0.8em;
-            margin-bottom: 8px;
-        }
-        .article-summary {
-            color: var(--text-main);
-            font-size: 0.85em;
-            line-height: 1.5;
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        .keywords {
-            margin-top: 10px;
-        }
-        .keyword {
-            display: inline-block;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-size: 0.75em;
-            margin-right: 4px;
-            margin-bottom: 4px;
-            background: var(--background);
-            color: var(--text-muted);
-            border: 1px solid var(--border);
-        }
-        .footer {
-            text-align: center;
-            padding: 40px 0;
-            border-top: 1px solid var(--border);
-            margin-top: 60px;
-            color: var(--text-muted);
-        }
-        .footer a {
-            color: var(--links);
-        }
-        
-        /* 滚动条样式 */
-        .region-content::-webkit-scrollbar {
-            width: 6px;
-        }
-        .region-content::-webkit-scrollbar-track {
-            background: var(--background);
-        }
-        .region-content::-webkit-scrollbar-thumb {
-            background: var(--border);
-            border-radius: 3px;
-        }
-        .region-content::-webkit-scrollbar-thumb:hover {
-            background: var(--text-muted);
+            header h1 { font-size: 1.8em; }
+            .card { padding: 20px; }
         }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>🍷 Antonelli</h1>
-        <p>全球酒类行业情报追踪系统 · Powered by PureCut</p>
-    </div>
-    
-    <div class="update-time">
-        最后更新: 2026-03-07 13:58 | 
-        <a href="https://purecut.com" target="_blank">PureCut</a>
-    </div>
-    
-    <div class="stats">
-        <div class="stat-card">
-            <h3>150</h3>
-            <p>总资讯数</p>
+    <div class="container">
+        <header>
+            <h1>🍷 Antonelli 酒类情报日报</h1>
+            <p>全球酒类行业情报追踪系统</p>
+            <div class="update-time">更新时间: 2026年03月07日 15:20</div>
+        </header>
+        
+        <div class="card">
+            <h1>🍷 Antonelli 酒类情报日报</h3>
+<strong>日期</strong>: 2026-03-07  
+<strong>来源</strong>: 全球 4 个地区 · 9 个信源
+
+<hr>
+
+<h2>📊 今日概览
+
+<li><strong>新增资讯</strong>: 151 条</li>
+<li><strong>重点关键词</strong>: 并购、新品发布、市场扩张、分销合作</li>
+
+<hr>
+
+
+<h2>🌍 亚太其他
+
+<h3>[Victoria Bitter moves into mid-strength with VB Mid](https://theshout.com.au/victoria-bitter-moves-into-mid-strength-with-vb-mid/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/02/VB-3.5-Stubby-and-Can.jpg?w=780" />Brewed with the same flavour characteristics as VB Classic, the new mid-strength equals just one standard drink per 375ml can or stubby....</li>
+
+<h3>[WSET gains government regulation for beer qualifications](https://theshout.com.au/wset-gains-government-regulation-for-beer-qualifications/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/02/iStock-960435122-beertasting.jpg?w=780" />The WSET beer program has been recognised for its credibility and quality by the UK’s Office of Qualifications and Examinations Regulation....</li>
+
+<h3>[Queensland container refund scheme extends payment terms](https://theshout.com.au/queensland-container-refund-scheme-extends-payment-terms/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/02/iStock-157383990-container-recycling.jpg?w=780" />Queensland’s container refund scheme will extend payment terms for beverage manufacturers following industry consultation on the state’...</li>
+
+<h3>[Coravin sells its two millionth system](https://theshout.com.au/coravin-sells-its-two-millionth-system/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/02/Coravintwomillionthsystem.jpg?w=780" />Coravin has announced the sale of its two-millionth wine preservation system, marking a major milestone for the pioneer of wine-by-the-glass techn...</li>
+
+<h3>[New Zealand Winegrowers welcome early harvest](https://theshout.com.au/new-zealand-winegrowers-welcome-early-harvest/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/iStock1128996629-new-zealand-vineyard.jpg?w=780" />Harvest is underway or about to begin across New Zealand’s wine regions with optimism growing for vintage 2026....</li>
+
+<h3>[Angel of Malvern reimagined as multi-level destination](https://theshout.com.au/angel-of-malvern-reimagined-as-multi-level-destination/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/The-Angel-of-Malvern_Entrance_No-People-1.jpg?w=780" />The Melbourne pub will reopen as a multi-level drinking and dining precinct under Refinery Group, the new hospitality arm of Kokod...</li>
+
+<h3>[Absolut Vodka and Sprite join forces with new RTDs](https://theshout.com.au/absolut-vodka-and-sprite-join-forces-with-new-rtds/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>关键词</strong>: market</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/3-x-2-images-8.png?w=780" />Now available nationally, the global drinks brands have delivered a brand-new RTD to the Australian market in two varieties....</li>
+
+<h3>[Paramount’s Future Proof returns in 2026](https://theshout.com.au/paramounts-future-proof-returns-in-2026/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/ParamountFutureProof2026.jpg?w=780" />Future Proof, the flagship industry forum from Paramount Liquor, is returning in 2026 and will come back-to-back this year....</li>
+
+<h3>[VGCCC’s anti-money laundering resources](https://theshout.com.au/vgcccs-anti-money-laundering-resources/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/VGCCC-anti-money-laundering.jpg?w=780" />Anti-money laundering/counter-terrorism financing reforms commence in late March in Victoria, and the regulator has resources to help venues....</li>
+
+<h3>[The Star targets strategic improvements after first-half loss](https://theshout.com.au/the-star-targets-strategic-improvements-after-first-half-loss/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/iStock-157729455-The-Star-Casino-Sydney.jpg?w=780" />The Star has posted its results for the first half of the 2026 financial year, and highlights initiatives to improve its financial p...</li>
+
+<h3>[Vinexpo Asia returns to Hong Kong in 2026](https://theshout.com.au/vinexpo-asia-returns-to-hong-kong-in-2026/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/VinexpoAsia25_Singapore_RK_0043.jpg?w=780" />The expanded format targets Asia’s shifting demand, buyer priorities and cross-category growth opportunities....</li>
+
+<h3>[Wednesday Women: Sue Lauritz redefines recruitment for the drinks industry](https://theshout.com.au/wednesday-women-sue-lauritz-redefines-recruitment-for-the-drinks-industry/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/02/Gemini_Generated_Image_wk5dbpwk5dbpwk5d-11.png?w=780" />Passionate about culture and integrity, Brightside Co-founder Sue Lauritz is helping shape the future of drinks talent....</li>
+
+<h3>[The Star’s ‘material uncertainty’ over continuing as a going concern](https://theshout.com.au/the-stars-material-uncertainty-over-continuing-as-a-going-concern/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/iStock-157729455-The-Star-Casino-Sydney.jpg?w=780" />The Star Entertainment Group has laid out key interdependent events critical to its liquidity and financial outlook....</li>
+
+<h3>[Both on- and off-premise growth for Endeavour](https://theshout.com.au/both-on-and-off-premise-growth-for-endeavour/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>关键词</strong>: trend</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/02/iStock-1489413896-DanMurphysStore.jpg?w=780" />Endeavour has delivered its first-half results, with ‘sales momentum improving’ in retail and ‘positive trends’ in venues....</li>
+
+<h3>[Report puts ABAC in line with community expectations](https://theshout.com.au/report-puts-abac-in-line-with-community-expectations/)
+
+<li><strong>来源</strong>: The Shout</li>
+<li><strong>摘要</strong>: [图片]<img src="https://theshout.com.au/wp-content/uploads/2026/03/iStock-2172606324-alcohol-advertising.jpg?w=780" />New research has found the standards laid out by ABAC are an accurate reflection of Australians’ views on alcohol promotion....</li>
+
+
+<h2>🌍 北美
+
+<h3>[Insider’s Week in Beer: 🧐 A Guinness 0 NYC Mystery](https://newsletter.bevnet.com/subscriber/da1ec3bbef3e4492ab4f175691723d22)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: What happened to GUINNESS 0 in NYC?  I haven’t seen it on WHOLE FOODS’ shelves in several weeks in a couple of stores that I’ve checked, and I’ve also struck out finding it at other city food stores. It’s still plentiful in Jersey, but yeah – maybe w...</li>
+
+<h3>[Pabst, Brown-Forman FMB Partnership to End in July](https://www.brewbound.com/news/pabst-brown-forman-fmb-partnership-to-end-in-july)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>关键词</strong>: distribution, partnership, market</li>
+<li><strong>摘要</strong>: Brown-Forman and Pabst Brewing Company are ending their production, sales, marketing and distribution partnership for FMBs such as the whiskey brand’s Jack Daniel’s Country Cocktails after five years....</li>
+
+<h3>[Tilray to Acquire BrewDog Brand, IP, UK Brewery and 11 Pubs for £33 Million](https://www.brewbound.com/news/tilray-to-acquire-brewdog-brand-ip-uk-brewery-and-11-pubs-for-33-million)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: Tilray Brands has struck a deal to acquire some assets of Scottish craft brewery BrewDog, it announced today. The deal, which closed today, includes BrewDog’s global brand and intellectual property, its brewing operations in Ellon, Scotland, and 11 p...</li>
+
+<h3>[Circana Weekly Scans: YoY Growth Accelerates Despite WoW Decline](https://www.brewbound.com/news/circana-scans-yoy-growth-accelerates-despite-wow-decline)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>关键词</strong>: market</li>
+<li><strong>摘要</strong>: Despite a post-holiday decline in off-premise sales week-over-week (WoW), bev-alc’s year-over-year (YoY) growth expanded in the latest week, according to market research firm Circana....</li>
+
+<h3>[Constellation Brands Gained Share in 49 States Despite Down 2025, Looks to Get Back on Track in 2026](https://www.brewbound.com/news/constellation-brands-gained-share-in-49-states-despite-down-2025-looks-to-get-back-on-track-in-2026)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: Constellation Brands wasn’t immune from the beverage-alcohol industry’s “tough” 2025, beer division president Jim Sabia acknowledged Monday during the opening session of the company’s Gold Network Summit with distributors in Las Vegas....</li>
+
+<h3>[BrewDog Acquisition to Accelerate Tilray’s Bev-Alc Strategy ‘By Years;’ Nearly 500 UK Jobs Lost](https://www.brewbound.com/news/brewdog-acquisition-to-accelerate-tilrays-bev-alc-strategy-by-years-nearly-500-uk-jobs-lost)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>关键词</strong>: acquisition, acquisition</li>
+<li><strong>摘要</strong>: Nearly 500 workers will lose their jobs with the closure of 38 BrewDog-owned pubs across the U.K. following Tilray’s acquisition of parts of the Scottish craft brewery, consultant firm AlixPartners shared in a press release....</li>
+
+<h3>[NIQ On-Premise Report: Valentine’s Day Velocity +24% YoY, Driven by Traffic](https://www.brewbound.com/news/niq-on-premise-report-valentines-day-velocity-24-yoy-driven-by-traffic)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>关键词</strong>: market</li>
+<li><strong>摘要</strong>: More people went out to bars and restaurants to celebrate Valentine’s Day this year compared to 2025, according to the last on-premise report from market research firm NIQ, citing “CGA intelligence” data....</li>
+
+<h3>[Beer Institute Names New Federal Affairs Director](https://www.brewbound.com/news/beer-institute-names-new-federal-affairs-director)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: The Beer Institute (BI) has tapped Chris MacArthur as its new director of federal affairs, the trade group announced Tuesday. MacArthur joins the BI from the office of Rep. Dan Newhouse (R-WA) – who owns a hop farm and represents a district that incl...</li>
+
+<h3>[Bump Williams Warns of ‘Lazy’ Industry Habits: Beer is ‘Not Out of the Woods Just Yet’](https://www.brewbound.com/news/bump-williams-warns-of-lazy-industry-habits-beer-is-not-out-of-the-woods-just-yet)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: Festivus is still nine months away, but there is already an airing of grievances among industry thought leaders before the end of Q1....</li>
+
+<h3>[Constellation Brands Eyes 75M Cases for Pacifico by 2030; Victoria Breaks Through with Zillenials](https://www.brewbound.com/news/constellation-brands-eyes-75m-cases-for-pacifico-by-2030-victoria-breaks-through-with-zillenials)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: Constellation Brands leaders believe Pacifico and Victoria can be the Mexican beer importer’s next big brands alongside flagships Modelo and Corona. The company has “huge ambitions" for Pacifico, aiming to double its volume to 75 million cases by 203...</li>
+
+<h3>[Press Clips: Bev-Alc’s ‘Rich’ Future, Big Beer People Moves, a D.C. Hermit-Crabbing & More](https://www.brewbound.com/news/press-clips-bev-alcs-rich-future-big-beer-people-moves-a-d-c-hermit-crabbing-more)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: Check out news items were initially reported in the Brewbound Insider Newsletter March 2-4, including headlines from Boston Beer Company, Constellation Brands, NIQ and more....</li>
+
+<h3>[Sun Cruiser, Cutwater Power RTDs In Latest NIQ Scans](https://www.brewbound.com/news/sun-cruiser-cutwater-power-rtds-in-latest-niq-scans)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: Spirits-based ready-to-drink cocktails (RTDs) posted another blowout two-week period, up more than 30% in dollar sales, as brands such as Cutwater and Sun Cruiser continued to pull consumers away from former leaders, according to an analysis of NIQ d...</li>
+
+<h3>[3 Up 3 Down: High- and Low-ABV Single-Serves Rise While 6-Pack Woes Continue](https://www.brewbound.com/news/3-up-3-down-high-and-low-abv-single-serves-rise-while-6-pack-woes-continue)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>关键词</strong>: trend</li>
+<li><strong>摘要</strong>: In the latest installment of 3 Up, 3 Down, 3 Tier Beverages founder Donn Bichsel Jr. and consultant Danelle Kosmal share a trio of insights on industry growth – including trends in non-alcoholic (NA) and domestic beer, and high and low ABV bev-alc – ...</li>
+
+<h3>[Brewbound Podcast: 42 North on Delivering a Total Guest Experience; Plus Tilray Acquires BrewDog’s UK Operations](https://www.brewbound.com/news/brewbound-podcast-42-north-on-delivering-a-total-guest-experience-plus-tilray-acquires-brewdogs-uk-operations)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: New York’s 42 North Brewing has entered its second decade with a new mindset about what it means to be a craft brewer, founder John Cimperman said on the latest episode of the Brewbound Podcast....</li>
+
+<h3>[Report: Phusion Projects Weighs Sale of Four Loko, Valued Around $400M](https://www.brewbound.com/news/report-phusion-projects-explores-four-loko-sale-value-estimated-400m)
+
+<li><strong>来源</strong>: Brewbound</li>
+<li><strong>摘要</strong>: Phusion Projects is exploring a potential sale of its infamous Four Loko brand, which could carry a $400 million value, Reuters reported....</li>
+
+
+<h2>🌍 日本
+
+<h3>[Masu, Salt, and Taruzake](https://sake-world.com/masu-salt-and-taruzake/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: Many people have had the experience of drinking sake from a small wooden box, often with a pinch of salt on one corner. We may hear that this is one traditional way to drink sake. What is behind this custom? Those small boxes are known as masu, and w...</li>
+
+<h3>[Slightly Gassy Sake](https://sake-world.com/slightly-gassy-sake/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>关键词</strong>: trend</li>
+<li><strong>摘要</strong>: Trend or sporadic anomaly? You make the call. Trends can be difficult to identify, at least real ones. And people are always looking for them; folks are always asking about what is new in the sake world, and what trends are appearing. But amongst the...</li>
+
+<h3>[A Closer Look at Omachi Rice](https://sake-world.com/a-closer-look-at-omachi-rice/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: This article was originally published in Sake Industry News #5 Interested in more info like this? Subscribe, and enjoy your first two issues (and access to all back issues!) for free! https://sakeindustrynews.substack.com/ Studying rice varieties in ...</li>
+
+<h3>[The Young Guns of Sake Marketing](https://sake-world.com/the-young-guns-of-sake-marketing/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>关键词</strong>: market</li>
+<li><strong>摘要</strong>: This article originally appeared in Sake Industry News Issue #21 Marketing from within has never been a forte of the sake industry. Yes, it should have been, and had the industry cooperated on that front years ago then sake would not be a measly six ...</li>
+
+<h3>[Hokkaido Rising](https://sake-world.com/1997-2/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: This article was originally published in Sake Industry News Issue #17 There are 47 prefectures in Japan, and every single one of them makes at least a little bit of sake. This was not the case until a few years ago, when one company in Kagoshima, the...</li>
+
+<h3>[The Murky Doburoku Illusion](https://sake-world.com/the-murky-doburoku-illusion/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: This post is a sample from Issue #57 of Sake Industry News. Each issue of SIN has a handful of current news stories and reports, and one technical article written by John Gauntner. It is published on the 1st and the 15th of each month, and includes a...</li>
+
+<h3>[“Seimai-buai“: A Tale Of Grossly Misplaced Importance](https://sake-world.com/seimai-buai-a-tale-of-grossly-misplaced-importance/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: This post is a sample from Issue #37 of Sake Industry News. Each issue of SIN has a handful of current news stories and reports, and one technical article written by John Gauntner. It is published on the 1st and the 15th of each month, and includes a...</li>
+
+<h3>[Ishikawa Prefecture Earthquake](https://sake-world.com/ishikawa-prefecture-earthquake/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: Prayers for all in Ishikawa, hit so hard by a massive earthquake on New Year’s Day. While the loss of life was not as high as it might have been, in the hardest hit area, the city of Suzu on the Noto Peninsula, 90% of all the buildings were flattened...</li>
+
+<h3>[Nagoya Sumo Tournament Notes (a break from sake)](https://sake-world.com/nagoya-sumo-tournament-notes-a-break-from-sake/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: Do you work with sake? Or just interested beyond the basics? Then you need to be reading Sake Industry News. Subscribe now and your first two issues &#8211; as well as access to all back issues (over 120!) are free. Check it out thoroughly, and then ...</li>
+
+<h3>[What are those aromas in my sake?](https://sake-world.com/what-are-those-aromas-in-my-sake/)
+
+<li><strong>来源</strong>: Sake World</li>
+<li><strong>摘要</strong>: This article was originally published in Sake Industry News #57 Each issue of SIN has a handful of current news stories and reports, and one technical article written by John Gauntner. It is published on the 1st and the 15th of each month, and includ...</li>
+
+<h3>[Book Review: The Art of Japanese Whisky](https://www.nomunication.jp/2025/04/24/book-review-the-art-of-japanese-whisky/)
+
+<li><strong>来源</strong>: Nomunication</li>
+<li><strong>摘要</strong>: Today, we celebrate another first for Japanese whisky: a coffee table book about the category. The Art of Japanese Whisky weighs in at 372 pages and 2,900 grams, or just over 1000 ounces. It&#8217;s the culmination of &#8220;tens of thousands of phot...</li>
+
+<h3>[Event Report: Tokyo International BarShow 2025 The Historical Journey](https://www.nomunication.jp/2025/05/28/event-report-tokyo-international-barshow-2025-the-historical-journey/)
+
+<li><strong>来源</strong>: Nomunication</li>
+<li><strong>摘要</strong>: This year’s BarShow was another big one. 14,100 attendees showed up across May 10-11&#8230; and it even rained on Saturday. The rain didn&#8217;t seem to bother anyone though. 14,100 is actually a slight decrease from last year&#8217;s visitor count ...</li>
+
+<h3>[Deep Dive: Kirishima Shuzo, Japan’s biggest shochu maker](https://www.nomunication.jp/2025/06/23/deep-dive-kirishima-shuzo-japans-biggest-shochu-maker/)
+
+<li><strong>来源</strong>: Nomunication</li>
+<li><strong>摘要</strong>: We talk a lot on this site about relatively obscure bottles of honkaku shochu/awamori and some of the more technical aspects of the category. But today we&#8217;re spending some time with bottles from the granddaddy of honkaku shochu: Kirishima Shuzo...</li>
+
+<h3>[Yes, you should tip your bartender in Japan with a drink](https://www.nomunication.jp/2025/07/03/yes-you-should-tip-your-bartender-in-japan-with-a-drink/)
+
+<li><strong>来源</strong>: Nomunication</li>
+<li><strong>摘要</strong>: Tipping seems to be a hot topic at the moment, at least in the US. Reddit&#8217;s r/EndTipping has 49,000 members and John Oliver did a great segment on the subject a few months back on Last Week Tonight. So this seems like a good time to dispel a my...</li>
+
+<h3>[Event Report: iichiko Saiten Japan launch](https://www.nomunication.jp/2025/07/14/event-report-iichiko-saiten-japan-launch/)
+
+<li><strong>来源</strong>: Nomunication</li>
+<li><strong>关键词</strong>: launch</li>
+<li><strong>摘要</strong>: Shochu giant Sanwa Shurui announced the launch of iichiko Saiten here in Japan on June 17, 2025. Part of the media strategy for the launch included putting on the ritz at Tokyo&#8217;s own Ritz-Carlton Hotel. As a member of the shochu media and perso...</li>
+
+
+<h2>🌍 欧洲
+
+<h3>[Bo Barrett: The man at Chateau Montelena](https://www.decanter.com/wine/california-wine-region/bo-barrett-the-man-at-montelena)
+
+<li><strong>来源</strong>: Decanter</li>
+<li><strong>摘要</strong>: The man, the myth, the legend......</li>
+
+<h3>[How to Buy a Vineyard](https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/81/988181414046965b305_Alexhallmain2.jpg" width="144" />&nbsp;Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....</li>
+
+<h3>[What's the Point of Points?](https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/80/98801141339696ed9c0_KonMain.jpg" width="144" />&nbsp;Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....</li>
+
+<h3>[Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1](https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/86/9886314156269793ef9_WineVoices_The-Wine-Podcast-17_YouTube-thumbnail.jpg" width="144" />&nbsp;What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...</li>
+
+<h3>[The Secret Life of Old Champagne](https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/88/9888214165569815b86_WineVoices_The-Wine-Podcast-18_YouTube-thumbnail.jpg" width="144" />&nbsp;Single vineyard Champagne explained. Part 2....</li>
+
+<h3>[Business Lessons from Bernard Magrez](https://www.wine-searcher.com/m/2026/02/business-lessons-from-bernard-magrez?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/90/98903141726698d462e_WineVoices_The-Wine-Podcast-19_YouTube-thumbnail.jpg" width="144" />&nbsp;What drives a person to build an empire in the world of wine?...</li>
+
+<h3>[The Wine That Defies Time: Inside Château d'Yquem](https://www.wine-searcher.com/m/2026/02/the-wine-that-defies-time-inside-chateau-dyquem?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/96/98962141883699e05ae_The_Wine_That_Defies_Time_Inside_Chteau_dYquem_Part_1_1_.jpg" width="144" />&nbsp;In this special two-part episode of The Wine Podcast, Suzanne Mustacic...</li>
+
+<h3>[The Wine That Defies Time: Inside Château d'Yquem – Part 2](https://www.wine-searcher.com/m/2026/03/the-wine-that-defies-time-inside-chateau-dyquem-part-2?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/98/9898314194269a650bf_The_Wine_That_Defies_Time_Inside_Chteau_dYquem_Part_2_-_Jane_Anson_The_Wine_Podcast_-_E21.jpg" width="144" />&nbsp;In Part Two of this exclusive episode...</li>
+
+<h3>[Smarter Location Experience – Now Available on Web](https://www.wine-searcher.com/m/2026/02/smarter-location-experience-now-available-on-web?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/94/9894214180269965292_Frame_47472.jpg" width="144" />&nbsp;Keep up with all the lastest updates, changes and improvements to our site and our apps....</li>
+
+<h3>[Get Your Cellar Sorted](https://www.wine-searcher.com/m/2026/03/get-your-cellar-sorted?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/98/9898114193969a613ec_newcel1.jpg" width="144" />&nbsp;Managing your cellar just got easier on our app....</li>
+
+<h3>[Filter by Critic – Now Available on Web for PRO](https://www.wine-searcher.com/m/2026/03/filter-by-critic-now-available-on-web-for-pro?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/98/9898914196169a8c88c_44d176b1-69ff-4583-ab19-48830c94bed1.jpg" width="144" />&nbsp;Keep up with all the lastest updates, changes and improvements to our site and our apps....</li>
+
+<h3>[Wine Tariffs Still Up in the Air](https://www.wine-searcher.com/m/2026/02/wine-tariffs-still-up-in-the-air?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/94/98941141801699e20c6_tarff1.jpg" width="144" />&nbsp;Doubt is the only certainty a bewildered wine industry can rely on as President Trump looks for alternatives to tariffs....</li>
+
+<h3>[No-Alcohol Wine Boom not so Boomy](https://www.wine-searcher.com/m/2026/02/no-alcohol-wine-boom-not-so-boomy?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/96/98964141890699f59d8_nalc1.jpg" width="144" />&nbsp;No-alcohol wine is all the rage, if the hype is to be believed, but does it actually sell?...</li>
+
+<h3>[Wine Chasing the Wrong Dollar](https://www.wine-searcher.com/m/2026/02/wine-chasing-the-wrong-dollar?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/97/9897114190369a0a38c_comm1.jpg" width="144" />&nbsp;The wine industry needs to stop chasing the billionaire dollar and start appealing to middle classes again, <strong>Olive...</li>
+
+<h3>[Closing the Book on Dom Pérignon](https://www.wine-searcher.com/m/2026/02/closing-the-book-on-dom-perignon?rss=Y)
+
+<li><strong>来源</strong>: Wine-Searcher</li>
+<li><strong>摘要</strong>: [图片]<img height="88" src="https://www.wine-searcher.com/images/news-rss/98/96/98965141894699f6e93_EdwardMain.jpg" width="144" />&nbsp;A chat with the author of <em>Drinking Dom Pérignon 1921 to 2013</em> reveals all....</li>
+
+
+<hr>
+
+<em>报告生成时间: 2026-03-07 15:20</em>  
+<em>Antonelli Intelligence System</em>
+
         </div>
-        <div class="stat-card">
-            <h3>150</h3>
-            <p>今日新增</p>
-        </div>
-        <div class="stat-card">
-            <h3>150</h3>
-            <p>覆盖地区</p>
-        </div>
-        <div class="stat-card">
-            <h3>9</h3>
-            <p>活跃信源</p>
-        </div>
-    </div>
-    
-    <div class="regions-grid">
-
-        <div class="region-column">
-            <div class="region-header 中国">
-                中国 (0)
-            </div>
-            <div class="region-content">
-<div style="text-align: center; padding: 40px 20px; color: var(--text-muted);">暂无数据</div>
-            </div>
-        </div>
-
-        <div class="region-column">
-            <div class="region-header 欧洲">
-                欧洲 (60)
-            </div>
-            <div class="region-content">
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y" target="_blank" rel="noopener noreferrer">How to Buy a Vineyard</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y" target="_blank" rel="noopener noreferrer">What's the Point of Points?</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y" target="_blank" rel="noopener noreferrer">Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y" target="_blank" rel="noopener noreferrer">The Secret Life of Old Champagne</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Single vineyard Champagne explained. Part 2....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/business-lessons-from-bernard-magrez?rss=Y" target="_blank" rel="noopener noreferrer">Business Lessons from Bernard Magrez</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;What drives a person to build an empire in the world of wine?...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/the-wine-that-defies-time-inside-chateau-dyquem?rss=Y" target="_blank" rel="noopener noreferrer">The Wine That Defies Time: Inside Château d'Yquem</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;In this special two-part episode of The Wine Podcast, Suzanne Mustacich sits down with Lorenzo Pasquini, CEO of Château d'Yquem, for a rare and ...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/the-wine-that-defies-time-inside-chateau-dyquem-part-2?rss=Y" target="_blank" rel="noopener noreferrer">The Wine That Defies Time: Inside Château d'Yquem – Part 2</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;In Part Two of this exclusive episode of The Wine Podcast, Suzanne Mustacich continues her in-depth interview with Lorenzo Pasquini, CEO of Chât...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/smarter-location-experience-now-available-on-web?rss=Y" target="_blank" rel="noopener noreferrer">Smarter Location Experience – Now Available on Web</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Keep up with all the lastest updates, changes and improvements to our site and our apps....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/get-your-cellar-sorted?rss=Y" target="_blank" rel="noopener noreferrer">Get Your Cellar Sorted</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Managing your cellar just got easier on our app....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/filter-by-critic-now-available-on-web-for-pro?rss=Y" target="_blank" rel="noopener noreferrer">Filter by Critic – Now Available on Web for PRO</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Keep up with all the lastest updates, changes and improvements to our site and our apps....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/wine-tariffs-still-up-in-the-air?rss=Y" target="_blank" rel="noopener noreferrer">Wine Tariffs Still Up in the Air</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Doubt is the only certainty a bewildered wine industry can rely on as President Trump looks for alternatives to tariffs....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/no-alcohol-wine-boom-not-so-boomy?rss=Y" target="_blank" rel="noopener noreferrer">No-Alcohol Wine Boom not so Boomy</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;No-alcohol wine is all the rage, if the hype is to be believed, but does it actually sell?...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/wine-chasing-the-wrong-dollar?rss=Y" target="_blank" rel="noopener noreferrer">Wine Chasing the Wrong Dollar</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;The wine industry needs to stop chasing the billionaire dollar and start appealing to middle classes again, Oliver Styles argues....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/02/closing-the-book-on-dom-perignon?rss=Y" target="_blank" rel="noopener noreferrer">Closing the Book on Dom Pérignon</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;A chat with the author of Drinking Dom Pérignon 1921 to 2013 reveals all....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/eu-rides-to-wines-rescue?rss=Y" target="_blank" rel="noopener noreferrer">EU Rides to Wine's Rescue</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;The European Union has announced a major bail-out package for wine producers....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/wine-diplomacy-paves-the-way?rss=Y" target="_blank" rel="noopener noreferrer">Wine Diplomacy Paves the Way</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Wine producers in the US look to maintain goodwill during these challenging times....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/the-most-wanted-bourbons-of-2026?rss=Y" target="_blank" rel="noopener noreferrer">The Most Wanted Bourbons of 2026</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;This year's search for the most popular bottles in the world starts in Kentucky, where things are not as rosy they once were....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/wine-harks-back-to-the-ussr?rss=Y" target="_blank" rel="noopener noreferrer">Wine Harks Back to the USSR</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;The current state of the wine industry displays some interesting parallels with late Soviet-era winemaking....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/terroir-terror-in-the-loire?rss=Y" target="_blank" rel="noopener noreferrer">Terroir Terror in the Loire</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;Bureaucrats are adding to the woes of Loire winemakers by banning the use of a treasured geographical indicator....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.wine-searcher.com/m/2026/03/the-most-wanted-chardonnays-of-2026?rss=Y" target="_blank" rel="noopener noreferrer">The Most Wanted Chardonnays of 2026</a></h4>
-                    <div class="article-meta">📰 Wine-Searcher · 2026-03-07</div>
-                    <div class="article-summary">&nbsp;When it comes to the world's most wanted Chardonnay, we look beyond Burgundy....</div>
-                    
-                </div>
-
-            </div>
-        </div>
-
-        <div class="region-column">
-            <div class="region-header 美洲">
-                美洲 (50)
-            </div>
-            <div class="region-content">
-
-                <div class="article">
-                    <h4><a href="https://newsletter.bevnet.com/subscriber/da1ec3bbef3e4492ab4f175691723d22" target="_blank" rel="noopener noreferrer">Insider’s Week in Beer: 🧐 A Guinness 0 NYC Mystery</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">What happened to GUINNESS 0 in NYC?  I haven’t seen it on WHOLE FOODS’ shelves in several weeks in a couple of stores that I’ve checked, and I’ve also...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/pabst-brown-forman-fmb-partnership-to-end-in-july" target="_blank" rel="noopener noreferrer">Pabst, Brown-Forman FMB Partnership to End in July</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Brown-Forman and Pabst Brewing Company are ending their production, sales, marketing and distribution partnership for FMBs such as the whiskey brand’s...</div>
-                    <div class="keywords"><span class="keyword">distribution</span><span class="keyword">partnership</span><span class="keyword">market</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/tilray-to-acquire-brewdog-brand-ip-uk-brewery-and-11-pubs-for-33-million" target="_blank" rel="noopener noreferrer">Tilray to Acquire BrewDog Brand, IP, UK Brewery and 11 Pubs for £33 Million</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Tilray Brands has struck a deal to acquire some assets of Scottish craft brewery BrewDog, it announced today. The deal, which closed today, includes B...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/circana-scans-yoy-growth-accelerates-despite-wow-decline" target="_blank" rel="noopener noreferrer">Circana Weekly Scans: YoY Growth Accelerates Despite WoW Decline</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Despite a post-holiday decline in off-premise sales week-over-week (WoW), bev-alc’s year-over-year (YoY) growth expanded in the latest week, according...</div>
-                    <div class="keywords"><span class="keyword">market</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/constellation-brands-gained-share-in-49-states-despite-down-2025-looks-to-get-back-on-track-in-2026" target="_blank" rel="noopener noreferrer">Constellation Brands Gained Share in 49 States Despite Down 2025, Looks to Get Back on Track in 2026</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Constellation Brands wasn’t immune from the beverage-alcohol industry’s “tough” 2025, beer division president Jim Sabia acknowledged Monday during the...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/brewdog-acquisition-to-accelerate-tilrays-bev-alc-strategy-by-years-nearly-500-uk-jobs-lost" target="_blank" rel="noopener noreferrer">BrewDog Acquisition to Accelerate Tilray’s Bev-Alc Strategy ‘By Years;’ Nearly 500 UK Jobs Lost</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Nearly 500 workers will lose their jobs with the closure of 38 BrewDog-owned pubs across the U.K. following Tilray’s acquisition of parts of the Scott...</div>
-                    <div class="keywords"><span class="keyword">acquisition</span><span class="keyword">acquisition</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/niq-on-premise-report-valentines-day-velocity-24-yoy-driven-by-traffic" target="_blank" rel="noopener noreferrer">NIQ On-Premise Report: Valentine’s Day Velocity +24% YoY, Driven by Traffic</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">More people went out to bars and restaurants to celebrate Valentine’s Day this year compared to 2025, according to the last on-premise report from mar...</div>
-                    <div class="keywords"><span class="keyword">market</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/beer-institute-names-new-federal-affairs-director" target="_blank" rel="noopener noreferrer">Beer Institute Names New Federal Affairs Director</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">The Beer Institute (BI) has tapped Chris MacArthur as its new director of federal affairs, the trade group announced Tuesday. MacArthur joins the BI f...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/bump-williams-warns-of-lazy-industry-habits-beer-is-not-out-of-the-woods-just-yet" target="_blank" rel="noopener noreferrer">Bump Williams Warns of ‘Lazy’ Industry Habits: Beer is ‘Not Out of the Woods Just Yet’</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Festivus is still nine months away, but there is already an airing of grievances among industry thought leaders before the end of Q1....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/constellation-brands-eyes-75m-cases-for-pacifico-by-2030-victoria-breaks-through-with-zillenials" target="_blank" rel="noopener noreferrer">Constellation Brands Eyes 75M Cases for Pacifico by 2030; Victoria Breaks Through with Zillenials</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Constellation Brands leaders believe Pacifico and Victoria can be the Mexican beer importer’s next big brands alongside flagships Modelo and Corona. T...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/press-clips-bev-alcs-rich-future-big-beer-people-moves-a-d-c-hermit-crabbing-more" target="_blank" rel="noopener noreferrer">Press Clips: Bev-Alc’s ‘Rich’ Future, Big Beer People Moves, a D.C. Hermit-Crabbing & More</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Check out news items were initially reported in the Brewbound Insider Newsletter March 2-4, including headlines from Boston Beer Company, Constellatio...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/sun-cruiser-cutwater-power-rtds-in-latest-niq-scans" target="_blank" rel="noopener noreferrer">Sun Cruiser, Cutwater Power RTDs In Latest NIQ Scans</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Spirits-based ready-to-drink cocktails (RTDs) posted another blowout two-week period, up more than 30% in dollar sales, as brands such as Cutwater and...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/3-up-3-down-high-and-low-abv-single-serves-rise-while-6-pack-woes-continue" target="_blank" rel="noopener noreferrer">3 Up 3 Down: High- and Low-ABV Single-Serves Rise While 6-Pack Woes Continue</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">In the latest installment of 3 Up, 3 Down, 3 Tier Beverages founder Donn Bichsel Jr. and consultant Danelle Kosmal share a trio of insights on industr...</div>
-                    <div class="keywords"><span class="keyword">trend</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/brewbound-podcast-42-north-on-delivering-a-total-guest-experience-plus-tilray-acquires-brewdogs-uk-operations" target="_blank" rel="noopener noreferrer">Brewbound Podcast: 42 North on Delivering a Total Guest Experience; Plus Tilray Acquires BrewDog’s UK Operations</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">New York’s 42 North Brewing has entered its second decade with a new mindset about what it means to be a craft brewer, founder John Cimperman said on ...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/report-phusion-projects-explores-four-loko-sale-value-estimated-400m" target="_blank" rel="noopener noreferrer">Report: Phusion Projects Weighs Sale of Four Loko, Valued Around $400M</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Phusion Projects is exploring a potential sale of its infamous Four Loko brand, which could carry a $400 million value, Reuters reported....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/distribution-updates-new-trail-to-new-york-holidaily-to-utah-rupee-to-oregon-outlaw-to-west-virginia" target="_blank" rel="noopener noreferrer">Distribution Updates: New Trail to New York; Holidaily to Utah; Rupee to Oregon; Outlaw to West Virginia</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">New Trail Brewing (Williamsport, Pennsylvania) has expanded distribution to Western New York via Wright Beverage, marking its sixth state. Dedicated g...</div>
-                    <div class="keywords"><span class="keyword">distribution</span><span class="keyword">market</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/circana-monthly-report-craft-trends-soften-in-february-as-ytd-volume-dips-into-the-red" target="_blank" rel="noopener noreferrer">Circana Monthly Report: Craft Trends Soften in February as YTD Volume Dips into the Red</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Craft’s trends leveled out slightly in February after a strong January, according to the latest monthly report from market research firm Circana. The ...</div>
-                    <div class="keywords"><span class="keyword">market</span><span class="keyword">trend</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/reyes-to-purchase-5-additional-markets-from-rndc-illinois-dropped-from-deal" target="_blank" rel="noopener noreferrer">Reyes to Purchase 5 Additional Markets From RNDC; Illinois Dropped From Deal</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Reyes Beverage Group is expanding the number of territories that it will acquire from Republic National Distributing Company (RNDC), while dropping a ...</div>
-                    <div class="keywords"><span class="keyword">market</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/press-clips-diageo-reportedly-cuts-us-hospitality-partnership-pacifico-michelle-st-jacques-to-mrbeasts-feastables" target="_blank" rel="noopener noreferrer">Press Clips: Diageo Reportedly Cuts US Hospitality Partnership; Pacifico & Victoria’s New Brand Lead; Michelle St. Jacques’ to MrBeast’s Feastables</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Job cuts at Diageo; Michelle St. Jacques' landing spot; Victoria and Pacifico's new lead; Sierra Nevada's next Little Thing; Modelo's new creative; an...</div>
-                    <div class="keywords"><span class="keyword">partnership</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://www.brewbound.com/news/weavers-challenge-uncle-nearest-receivers-credibility-ahead-of-court-ruling" target="_blank" rel="noopener noreferrer">Weavers Challenge Uncle Nearest Receiver’s Credibility Ahead of Court Ruling</a></h4>
-                    <div class="article-meta">📰 Brewbound · 2026-03-07</div>
-                    <div class="article-summary">Uncle Nearest founders Fawn and Keith Weaver have made their final courtroom arguments to take back ownership of the troubled bourbon company after it...</div>
-                    
-                </div>
-
-            </div>
-        </div>
-
-        <div class="region-column">
-            <div class="region-header 亚洲">
-                亚洲 (40)
-            </div>
-            <div class="region-content">
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/victoria-bitter-moves-into-mid-strength-with-vb-mid/" target="_blank" rel="noopener noreferrer">Victoria Bitter moves into mid-strength with VB Mid</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Brewed with the same flavour characteristics as VB Classic, the new mid-strength equals just one standard drink per 375ml can or stubby....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/wset-gains-government-regulation-for-beer-qualifications/" target="_blank" rel="noopener noreferrer">WSET gains government regulation for beer qualifications</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">The WSET beer program has been recognised for its credibility and quality by the UK’s Office of Qualifications and Examinations Regulation....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/queensland-container-refund-scheme-extends-payment-terms/" target="_blank" rel="noopener noreferrer">Queensland container refund scheme extends payment terms</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Queensland’s container refund scheme will extend payment terms for beverage manufacturers following industry consultation on the state’s pricing frame...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/coravin-sells-its-two-millionth-system/" target="_blank" rel="noopener noreferrer">Coravin sells its two millionth system</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Coravin has announced the sale of its two-millionth wine preservation system, marking a major milestone for the pioneer of wine-by-the-glass technolog...</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/new-zealand-winegrowers-welcome-early-harvest/" target="_blank" rel="noopener noreferrer">New Zealand Winegrowers welcome early harvest</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Harvest is underway or about to begin across New Zealand’s wine regions with optimism growing for vintage 2026....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/angel-of-malvern-reimagined-as-multi-level-destination/" target="_blank" rel="noopener noreferrer">Angel of Malvern reimagined as multi-level destination</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">The Melbourne pub will reopen as a multi-level drinking and dining precinct under Refinery Group, the new hospitality arm of Kokoda Property....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/absolut-vodka-and-sprite-join-forces-with-new-rtds/" target="_blank" rel="noopener noreferrer">Absolut Vodka and Sprite join forces with new RTDs</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Now available nationally, the global drinks brands have delivered a brand-new RTD to the Australian market in two varieties....</div>
-                    <div class="keywords"><span class="keyword">market</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/paramounts-future-proof-returns-in-2026/" target="_blank" rel="noopener noreferrer">Paramount’s Future Proof returns in 2026</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Future Proof, the flagship industry forum from Paramount Liquor, is returning in 2026 and will come back-to-back this year....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/vgcccs-anti-money-laundering-resources/" target="_blank" rel="noopener noreferrer">VGCCC’s anti-money laundering resources</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Anti-money laundering/counter-terrorism financing reforms commence in late March in Victoria, and the regulator has resources to help venues....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/the-star-targets-strategic-improvements-after-first-half-loss/" target="_blank" rel="noopener noreferrer">The Star targets strategic improvements after first-half loss</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">The Star has posted its results for the first half of the 2026 financial year, and highlights initiatives to improve its financial position....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/vinexpo-asia-returns-to-hong-kong-in-2026/" target="_blank" rel="noopener noreferrer">Vinexpo Asia returns to Hong Kong in 2026</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">The expanded format targets Asia’s shifting demand, buyer priorities and cross-category growth opportunities....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/wednesday-women-sue-lauritz-redefines-recruitment-for-the-drinks-industry/" target="_blank" rel="noopener noreferrer">Wednesday Women: Sue Lauritz redefines recruitment for the drinks industry</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Passionate about culture and integrity, Brightside Co-founder Sue Lauritz is helping shape the future of drinks talent....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/the-stars-material-uncertainty-over-continuing-as-a-going-concern/" target="_blank" rel="noopener noreferrer">The Star’s ‘material uncertainty’ over continuing as a going concern</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">The Star Entertainment Group has laid out key interdependent events critical to its liquidity and financial outlook....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/both-on-and-off-premise-growth-for-endeavour/" target="_blank" rel="noopener noreferrer">Both on- and off-premise growth for Endeavour</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Endeavour has delivered its first-half results, with ‘sales momentum improving’ in retail and ‘positive trends’ in venues....</div>
-                    <div class="keywords"><span class="keyword">trend</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/report-puts-abac-in-line-with-community-expectations/" target="_blank" rel="noopener noreferrer">Report puts ABAC in line with community expectations</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">New research has found the standards laid out by ABAC are an accurate reflection of Australians’ views on alcohol promotion....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/paramount-outlines-future-proof-2026-program/" target="_blank" rel="noopener noreferrer">Paramount outlines Future Proof 2026 program</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Paramount Liquor’s hospitality forum, Future Proof, returns in 2026 with back-to-back events in Adelaide and Melbourne....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/queensland-leading-paper-bottle-trials/" target="_blank" rel="noopener noreferrer">Queensland leading paper bottle trials</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">A partnership of Queensland’s stadiums and Government is driving a sustainable live events initiative, with a wine and spirit paper bottle trial....</div>
-                    <div class="keywords"><span class="keyword">partnership</span></div>
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/brown-family-wine-group-and-4-pines-recognised-great-workplaces/" target="_blank" rel="noopener noreferrer">Brown Family Wine Group and 4 Pines recognised as great workplaces for women</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Great Place to Work has revealed Australia’s Best Workplaces for Women 2026, with Brown Family Wine Group and 4 Pines named....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/endeavour-leadership-team-hungry-to-deliver-significant-change-agenda/" target="_blank" rel="noopener noreferrer">Endeavour leadership team “hungry to deliver significant change agenda”</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">As well as delivering its half-yearly results earlier this week, Endeavour Group provided an update on its strategic transformation program....</div>
-                    
-                </div>
-
-                <div class="article">
-                    <h4><a href="https://theshout.com.au/world-first-jack-daniels-cola-tennessee-serve-12-abv-200ml-rtd/" target="_blank" rel="noopener noreferrer">World First Jack Daniel’s & Cola Tennessee Serve 12% ABV 200mL RTD</a></h4>
-                    <div class="article-meta">📰 The Shout · 2026-03-07</div>
-                    <div class="article-summary">Jack Daniel’s has always been poured with character, and now [&hellip;]...</div>
-                    
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-    
-    <div class="footer">
-        <p>Antonelli Intelligence System © 2026 · Powered by <a href="https://purecut.com" target="_blank">PureCut</a></p>
-        <p style="font-size: 0.9em; margin-top: 10px;">
-            数据来源: Wine Enthusiast, The Spirits Business, Decanter, The Drinks Business, Wine-Searcher, Nomunication, Sake World, The Shout
-        </p>
+        
+        <footer>
+            <p>Antonelli Intelligence System</p>
+        </footer>
     </div>
 </body>
 </html>

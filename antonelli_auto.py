@@ -1,0 +1,536 @@
+#!/opt/homebrew/bin/python3
+"""
+Antonelli 酒类情报日报 - 纯脚本版本
+零 Token 消耗，直接运行
+"""
+import feedparser
+import json
+import sqlite3
+import hashlib
+from datetime import datetime, timedelta
+from pathlib import Path
+import os
+import sys
+import subprocess
+
+# 路径配置
+PROJECT_DIR = Path(__file__).parent
+CONFIG_PATH = PROJECT_DIR / "config.json"
+DB_PATH = PROJECT_DIR / "data.db"
+REPORTS_DIR = PROJECT_DIR / "reports"
+WEB_DIR = PROJECT_DIR / "web"
+
+def init_db():
+    """初始化数据库"""
+    DB_PATH.parent.mkdir(exist_ok=True)
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    c.execute('''
+        CREATE TABLE IF NOT EXISTS articles (
+            id TEXT PRIMARY KEY,
+            title TEXT,
+            link TEXT,
+            summary TEXT,
+            published TEXT,
+            source TEXT,
+            region TEXT,
+            fetched_at TEXT,
+            keywords_matched TEXT
+        )
+    ''')
+    conn.commit()
+    conn.close()
+
+def get_keywords():
+    """获取关键词列表"""
+    with open(CONFIG_PATH) as f:
+        config = json.load(f)
+    return config.get("keywords", [])
+
+def check_keywords(text, keywords):
+    """检查文本中是否包含关键词"""
+    if not text:
+        return []
+    text_lower = text.lower()
+    matched = []
+    for kw in keywords:
+        if kw.lower() in text_lower:
+            matched.append(kw)
+    return matched
+
+def fetch_feed(name, url, region, keywords, max_items=10):
+    """抓取单个 RSS 源"""
+    articles = []
+    try:
+        feed = feedparser.parse(url)
+        for entry in feed.entries[:max_items]:
+            title = entry.get("title", "")
+            summary = entry.get("summary", entry.get("description", ""))
+            
+            # 检查关键词
+            content = f"{title} {summary}"
+            matched = check_keywords(content, keywords)
+            
+            article = {
+                "id": hashlib.md5(f"{title}{url}".encode()).hexdigest(),
+                "title": title,
+                "link": entry.get("link", ""),
+                "summary": summary[:500] if summary else "",
+                "published": entry.get("published", datetime.now().isoformat()),
+                "source": name,
+                "region": region,
+                "fetched_at": datetime.now().isoformat(),
+                "keywords_matched": ",".join(matched)
+            }
+            articles.append(article)
+    except Exception as e:
+        print(f"    ⚠️ {name}: {str(e)[:50]}")
+    return articles
+
+def save_articles(articles):
+    """保存文章到数据库"""
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    added = 0
+    for a in articles:
+        try:
+            c.execute('''
+                INSERT OR IGNORE INTO articles 
+                (id, title, link, summary, published, source, region, fetched_at, keywords_matched)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (a["id"], a["title"], a["link"], a["summary"], 
+                  a["published"], a["source"], a["region"], a["fetched_at"], a["keywords_matched"]))
+            if c.rowcount > 0:
+                added += 1
+        except Exception as e:
+            pass
+    conn.commit()
+    conn.close()
+    return added
+
+def fetch_all_rss():
+    """抓取所有 RSS 源"""
+    print("📡 步骤 1: 抓取 RSS 源")
+    print("-" * 40)
+    
+    init_db()
+    
+    with open(CONFIG_PATH) as f:
+        config = json.load(f)
+    
+    keywords = get_keywords()
+    total_added = 0
+    total_sources = 0
+    
+    for region_key, region_data in config["regions"].items():
+        region_name = region_data["name"]
+        sources = region_data.get("sources", [])
+        
+        if not sources:
+            continue
+        
+        print(f"\n📍 {region_name}")
+        
+        for source in sources:
+            name = source["name"]
+            url = source["url"]
+            print(f"  → {name}")
+            
+            articles = fetch_feed(name, url, region_name, keywords, max_items=10)
+            added = save_articles(articles)
+            total_added += added
+            total_sources += 1
+            print(f"     新增 {added} 条")
+    
+    print(f"\n✅ 抓取完成! 共 {total_sources} 个源，新增 {total_added} 条资讯")
+    return total_added
+
+def get_recent_articles(hours=24):
+    """获取最近的文章"""
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    since = (datetime.now() - timedelta(hours=hours)).isoformat()
+    
+    c.execute('''
+        SELECT title, link, summary, published, source, region, keywords_matched
+        FROM articles
+        WHERE fetched_at > ?
+        ORDER BY fetched_at DESC
+    ''', (since,))
+    
+    articles = c.fetchall()
+    conn.close()
+    return articles
+
+def generate_markdown_report():
+    """生成 Markdown 报告"""
+    print("\n📝 步骤 2: 生成 Markdown 报告")
+    print("-" * 40)
+    
+    articles = get_recent_articles(hours=24)
+    today = datetime.now().strftime("%Y-%m-%d")
+    date_file = datetime.now().strftime("%Y%m%d")
+    
+    # 统计
+    regions = set(a[5] for a in articles)
+    sources = set(a[4] for a in articles)
+    
+    md = f"""# 🍷 Antonelli 酒类情报日报
+
+**日期**: {today}  
+**来源**: 全球 {len(regions)} 个地区 · {len(sources)} 个信源
+
+---
+
+## 📊 今日概览
+
+- **新增资讯**: {len(articles)} 条
+- **重点关键词**: 并购、新品发布、市场扩张、分销合作
+
+---
+
+"""
+    
+    # 按地区分组
+    by_region = {}
+    for a in articles:
+        region = a[5]
+        if region not in by_region:
+            by_region[region] = []
+        by_region[region].append(a)
+    
+    # 生成各地区内容
+    for region, items in sorted(by_region.items()):
+        md += f"\n## 🌍 {region}\n\n"
+        for title, link, summary, published, source, _, keywords in items[:15]:  # 每地区最多15条
+            md += f"### [{title}]({link})\n\n"
+            md += f"- **来源**: {source}\n"
+            if keywords:
+                md += f"- **关键词**: {', '.join(keywords.split(','))}\n"
+            # 清理 HTML 标签
+            clean_summary = summary.replace('<img', '[图片]<img').replace('<p>', '').replace('</p>', '')[:250]
+            md += f"- **摘要**: {clean_summary}...\n\n"
+    
+    if not articles:
+        md += "\n*今日暂无新资讯*\n"
+    
+    md += f"""
+---
+
+*报告生成时间: {datetime.now().strftime("%Y-%m-%d %H:%M")}*  
+*Antonelli Intelligence System*
+"""
+    
+    # 保存报告
+    REPORTS_DIR.mkdir(exist_ok=True)
+    report_path = REPORTS_DIR / f"antonelli_report_{date_file}.md"
+    
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write(md)
+    
+    # 同时保存最新版本
+    latest_path = REPORTS_DIR / "antonelli_latest.md"
+    with open(latest_path, "w", encoding="utf-8") as f:
+        f.write(md)
+    
+    print(f"  ✅ Markdown 报告: {report_path}")
+    print(f"  ✅ 最新版本: {latest_path}")
+    print(f"  📊 共 {len(articles)} 条资讯，{len(regions)} 个地区")
+    
+    return report_path, len(articles)
+
+def markdown_to_html(md_path):
+    """将 Markdown 转换为 HTML"""
+    with open(md_path, 'r', encoding='utf-8') as f:
+        md_content = f.read()
+    
+    # 提取标题
+    title = "Antonelli 酒类情报日报"
+    update_time = datetime.now().strftime("%Y年%m月%d日 %H:%M")
+    
+    # 转换 Markdown 为 HTML
+    html_content = md_content
+    
+    # 转换标题
+    html_content = html_content.replace('### ', '<h3>').replace('\n\n', '</h3>\n', 1)
+    html_content = html_content.replace('## ', '<h2>')
+    html_content = html_content.replace('# ', '<h1>')
+    
+    # 转换列表项
+    import re
+    html_content = re.sub(r'<h3>\[(.+?)\]\((.+?)\)</h3>', r'<h3><a href="\2" target="_blank">\1</a></h3>', html_content)
+    html_content = re.sub(r'\- \*\*(.+?)\*\*:\s*(.+?)(?=\n|$)', r'<li><strong>\1</strong>: \2</li>', html_content)
+    
+    # 转换强调
+    html_content = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', html_content)
+    html_content = re.sub(r'\*(.+?)\*', r'<em>\1</em>', html_content)
+    
+    # 转换分隔线
+    html_content = html_content.replace('---', '<hr>')
+    
+    # 构建完整 HTML
+    html_template = f'''<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title}</title>
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #722f37 0%, #8b4513 100%);
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }}
+        .container {{ max-width: 1200px; margin: 0 auto; }}
+        header {{
+            text-align: center;
+            padding: 40px 20px;
+            color: white;
+        }}
+        header h1 {{ font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }}
+        header p {{ font-size: 1.1em; opacity: 0.9; }}
+        .update-time {{
+            background: rgba(255,255,255,0.2);
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 20px;
+            margin-top: 15px;
+            font-size: 0.9em;
+        }}
+        .card {{
+            background: white;
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }}
+        .card h2 {{
+            color: #722f37;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #722f37;
+            font-size: 1.5em;
+        }}
+        .card h3 {{
+            color: #8b4513;
+            margin: 25px 0 15px 0;
+            padding-left: 10px;
+            border-left: 3px solid #8b4513;
+            font-size: 1.2em;
+        }}
+        .card h3 a {{
+            color: #722f37;
+            text-decoration: none;
+        }}
+        .card h3 a:hover {{ color: #8b4513; text-decoration: underline; }}
+        .card ul {{ list-style: none; padding-left: 0; margin: 10px 0; }}
+        .card li {{
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            color: #555;
+        }}
+        .card li:last-child {{ border-bottom: none; }}
+        .card li strong {{ color: #722f37; }}
+        hr {{
+            border: none;
+            border-top: 2px solid #e0e0e0;
+            margin: 30px 0;
+        }}
+        footer {{
+            text-align: center;
+            padding: 30px;
+            color: rgba(255,255,255,0.8);
+            font-size: 0.9em;
+        }}
+        @media (max-width: 768px) {{
+            header h1 {{ font-size: 1.8em; }}
+            .card {{ padding: 20px; }}
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🍷 Antonelli 酒类情报日报</h1>
+            <p>全球酒类行业情报追踪系统</p>
+            <div class="update-time">更新时间: {update_time}</div>
+        </header>
+        
+        <div class="card">
+            {html_content}
+        </div>
+        
+        <footer>
+            <p>Antonelli Intelligence System</p>
+        </footer>
+    </div>
+</body>
+</html>'''
+    
+    return html_template
+
+def update_website():
+    """更新网站内容"""
+    print("\n🌐 步骤 3: 更新网站")
+    print("-" * 40)
+    
+    # 找到最新的 Markdown 文件
+    latest_md = REPORTS_DIR / "antonelli_latest.md"
+    
+    if not latest_md.exists():
+        print(f"  ❌ 未找到报告文件: {latest_md}")
+        return None
+    
+    # 生成 HTML
+    html_content = markdown_to_html(latest_md)
+    
+    # 保存到网站目录
+    WEB_DIR.mkdir(exist_ok=True)
+    index_path = WEB_DIR / "index.html"
+    
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    
+    print(f"  ✅ 网站已更新: {index_path}")
+    return index_path
+
+def generate_pdf():
+    """生成 PDF 版本"""
+    print("\n📑 步骤 4: 生成 PDF")
+    print("-" * 40)
+    
+    # 检查 Puppeteer 脚本
+    puppeteer_script = Path.home() / ".openclaw/workspace/html_to_pdf.js"
+    if not puppeteer_script.exists():
+        print(f"  ⚠️ Puppeteer 脚本不存在，跳过 PDF 生成")
+        return None
+    
+    # 网站 HTML 路径
+    html_path = WEB_DIR / "index.html"
+    if not html_path.exists():
+        print(f"  ❌ 未找到网站 HTML")
+        return None
+    
+    # 生成带时间戳的 PDF 文件名
+    now = datetime.now()
+    date_folder = now.strftime("%Y%m%d")
+    time_suffix = now.strftime("%H%M")
+    
+    # 目标文件夹
+    pdf_dir = REPORTS_DIR / date_folder
+    pdf_dir.mkdir(exist_ok=True)
+    
+    pdf_filename = f"antonelli_{date_folder}_{time_suffix}.pdf"
+    pdf_path = pdf_dir / pdf_filename
+    
+    # 执行转换
+    try:
+        result = subprocess.run(
+            ["node", str(puppeteer_script), str(html_path), str(pdf_path)],
+            capture_output=True,
+            text=True,
+            timeout=60
+        )
+        
+        if result.returncode == 0:
+            print(f"  ✅ PDF 已生成: {pdf_path}")
+            return pdf_path
+        else:
+            print(f"  ❌ PDF 生成失败: {result.stderr}")
+            return None
+    except Exception as e:
+        print(f"  ❌ PDF 生成异常: {str(e)}")
+        return None
+
+def deploy_to_vercel():
+    """部署到 Vercel"""
+    print("\n🚀 步骤 5: 部署到 Vercel")
+    print("-" * 40)
+    
+    # 检查是否在 git 仓库中
+    git_dir = PROJECT_DIR / ".git"
+    if not git_dir.exists():
+        print("  ❌ 未找到 Git 仓库，跳过部署")
+        return False
+    
+    # 执行 git 命令
+    os.chdir(PROJECT_DIR)
+    
+    # 添加更改
+    os.system("git add -A")
+    
+    # 提交
+    date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    result = os.system(f'git commit -m "Update: {date_str} Antonelli data"')
+    
+    if result != 0:
+        print("  ⚠️ 没有更改需要提交，或提交失败")
+        return False
+    
+    # 推送
+    result = os.system("git push origin main")
+    
+    if result == 0:
+        print("  ✅ 已推送到 GitHub，Vercel 将自动部署")
+        return True
+    else:
+        print("  ❌ 推送失败")
+        return False
+
+def main():
+    """主函数"""
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Antonelli 酒类情报日报 - 纯脚本工具')
+    parser.add_argument('--fetch', action='store_true', help='抓取 RSS 源')
+    parser.add_argument('--report', action='store_true', help='生成报告')
+    parser.add_argument('--website', action='store_true', help='更新网站')
+    parser.add_argument('--pdf', action='store_true', help='生成 PDF')
+    parser.add_argument('--deploy', action='store_true', help='部署到 Vercel')
+    parser.add_argument('--all', action='store_true', help='执行完整流程')
+    
+    args = parser.parse_args()
+    
+    if args.all or (not args.fetch and not args.report and not args.website and not args.pdf and not args.deploy):
+        # 默认执行完整流程
+        print("🍷 Antonelli 自动更新流程")
+        print("=" * 50)
+        
+        # 1. 抓取 RSS
+        fetch_all_rss()
+        
+        # 2. 生成报告
+        report_path, article_count = generate_markdown_report()
+        
+        # 3. 更新网站
+        update_website()
+        
+        # 4. 生成 PDF
+        pdf_path = generate_pdf()
+        
+        # 5. 部署
+        deploy_to_vercel()
+        
+        print("\n" + "=" * 50)
+        print("✅ 全部完成!")
+        print(f"📊 共 {article_count} 条资讯")
+        if pdf_path:
+            print(f"📑 PDF: {pdf_path}")
+        
+    else:
+        if args.fetch:
+            fetch_all_rss()
+        if args.report:
+            generate_markdown_report()
+        if args.website:
+            update_website()
+        if args.pdf:
+            generate_pdf()
+        if args.deploy:
+            deploy_to_vercel()
+
+if __name__ == "__main__":
+    main()
