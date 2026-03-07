@@ -1,7 +1,7 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-07  
-**来源**: 全球 4 个地区 · 9 个信源
+**来源**: 全球 3 个地区 · 9 个信源
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 
-## 🌍 亚太其他
+## 🌍 亚洲
 
 ### [Victoria Bitter moves into mid-strength with VB Mid](https://theshout.com.au/victoria-bitter-moves-into-mid-strength-with-vb-mid/)
 
@@ -93,7 +93,85 @@
 - **摘要**: New research has found the standards laid out by ABAC are an accurate reflection of Australians’ views on alcohol promotion....
 
 
-## 🌍 北美
+## 🌍 欧洲
+
+### [Bo Barrett: The man at Chateau Montelena](https://www.decanter.com/wine/california-wine-region/bo-barrett-the-man-at-montelena)
+
+- **来源**: Decanter
+- **摘要**: The man, the myth, the legend......
+
+### [How to Buy a Vineyard](https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....
+
+### [What's the Point of Points?](https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....
+
+### [Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1](https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...
+
+### [The Secret Life of Old Champagne](https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: Single vineyard Champagne explained. Part 2....
+
+### [Business Lessons from Bernard Magrez](https://www.wine-searcher.com/m/2026/02/business-lessons-from-bernard-magrez?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: What drives a person to build an empire in the world of wine?...
+
+### [The Wine That Defies Time: Inside Château d'Yquem](https://www.wine-searcher.com/m/2026/02/the-wine-that-defies-time-inside-chateau-dyquem?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: In this special two-part episode of The Wine Podcast, Suzanne Mustacich sits down with Lorenzo Pasquini, CEO of Château d'Yquem, for a rare and illuminating conversation....
+
+### [The Wine That Defies Time: Inside Château d'Yquem – Part 2](https://www.wine-searcher.com/m/2026/03/the-wine-that-defies-time-inside-chateau-dyquem-part-2?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: In Part Two of this exclusive episode of The Wine Podcast, Suzanne Mustacich continues her in-depth interview with Lorenzo Pasquini, CEO of Château d'Yquem....
+
+### [Smarter Location Experience – Now Available on Web](https://www.wine-searcher.com/m/2026/02/smarter-location-experience-now-available-on-web?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: Keep up with all the lastest updates, changes and improvements to our site and our apps....
+
+### [Get Your Cellar Sorted](https://www.wine-searcher.com/m/2026/03/get-your-cellar-sorted?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: Managing your cellar just got easier on our app....
+
+### [Filter by Critic – Now Available on Web for PRO](https://www.wine-searcher.com/m/2026/03/filter-by-critic-now-available-on-web-for-pro?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: Keep up with all the lastest updates, changes and improvements to our site and our apps....
+
+### [Wine Tariffs Still Up in the Air](https://www.wine-searcher.com/m/2026/02/wine-tariffs-still-up-in-the-air?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: Doubt is the only certainty a bewildered wine industry can rely on as President Trump looks for alternatives to tariffs....
+
+### [No-Alcohol Wine Boom not so Boomy](https://www.wine-searcher.com/m/2026/02/no-alcohol-wine-boom-not-so-boomy?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: No-alcohol wine is all the rage, if the hype is to be believed, but does it actually sell?...
+
+### [Wine Chasing the Wrong Dollar](https://www.wine-searcher.com/m/2026/02/wine-chasing-the-wrong-dollar?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: The wine industry needs to stop chasing the billionaire dollar and start appealing to middle classes again, Oliver Styles argues....
+
+### [Closing the Book on Dom Pérignon](https://www.wine-searcher.com/m/2026/02/closing-the-book-on-dom-perignon?rss=Y)
+
+- **来源**: Wine-Searcher
+- **摘要**: A chat with the author of Drinking Dom Pérignon 1921 to 2013 reveals all....
+
+
+## 🌍 美洲
 
 ### [Insider’s Week in Beer: 🧐 A Guinness 0 NYC Mystery](https://newsletter.bevnet.com/subscriber/da1ec3bbef3e4492ab4f175691723d22)
 
@@ -176,166 +254,7 @@
 - **摘要**: Phusion Projects is exploring a potential sale of its infamous Four Loko brand, which could carry a $400 million value, Reuters reported....
 
 
-## 🌍 日本
-
-### [Masu, Salt, and Taruzake](https://sake-world.com/masu-salt-and-taruzake/)
-
-- **来源**: Sake World
-- **摘要**: Many people have had the experience of drinking sake from a small wooden box, often with a pinch of salt on one corner. We may hear that this is one traditional way to drink sake. What is behind this ...
-
-### [Slightly Gassy Sake](https://sake-world.com/slightly-gassy-sake/)
-
-- **来源**: Sake World
-- **关键词**: trend
-- **摘要**: Trend or sporadic anomaly? You make the call. Trends can be difficult to identify, at least real ones. And people are always looking for them; folks are always asking about what is new in the sake wor...
-
-### [A Closer Look at Omachi Rice](https://sake-world.com/a-closer-look-at-omachi-rice/)
-
-- **来源**: Sake World
-- **摘要**: This article was originally published in Sake Industry News #5 Interested in more info like this? Subscribe, and enjoy your first two issues (and access to all back issues!) for free! https://sakeindu...
-
-### [The Young Guns of Sake Marketing](https://sake-world.com/the-young-guns-of-sake-marketing/)
-
-- **来源**: Sake World
-- **关键词**: market
-- **摘要**: This article originally appeared in Sake Industry News Issue #21 Marketing from within has never been a forte of the sake industry. Yes, it should have been, and had the industry cooperated on that fr...
-
-### [Hokkaido Rising](https://sake-world.com/1997-2/)
-
-- **来源**: Sake World
-- **摘要**: This article was originally published in Sake Industry News Issue #17 There are 47 prefectures in Japan, and every single one of them makes at least a little bit of sake. This was not the case until a...
-
-### [The Murky Doburoku Illusion](https://sake-world.com/the-murky-doburoku-illusion/)
-
-- **来源**: Sake World
-- **摘要**: This post is a sample from Issue #57 of Sake Industry News. Each issue of SIN has a handful of current news stories and reports, and one technical article written by John Gauntner. It is published on ...
-
-### [“Seimai-buai“: A Tale Of Grossly Misplaced Importance](https://sake-world.com/seimai-buai-a-tale-of-grossly-misplaced-importance/)
-
-- **来源**: Sake World
-- **摘要**: This post is a sample from Issue #37 of Sake Industry News. Each issue of SIN has a handful of current news stories and reports, and one technical article written by John Gauntner. It is published on ...
-
-### [Ishikawa Prefecture Earthquake](https://sake-world.com/ishikawa-prefecture-earthquake/)
-
-- **来源**: Sake World
-- **摘要**: Prayers for all in Ishikawa, hit so hard by a massive earthquake on New Year’s Day. While the loss of life was not as high as it might have been, in the hardest hit area, the city of Suzu on the Noto ...
-
-### [Nagoya Sumo Tournament Notes (a break from sake)](https://sake-world.com/nagoya-sumo-tournament-notes-a-break-from-sake/)
-
-- **来源**: Sake World
-- **摘要**: Do you work with sake? Or just interested beyond the basics? Then you need to be reading Sake Industry News. Subscribe now and your first two issues &#8211; as well as access to all back issues (over ...
-
-### [What are those aromas in my sake?](https://sake-world.com/what-are-those-aromas-in-my-sake/)
-
-- **来源**: Sake World
-- **摘要**: This article was originally published in Sake Industry News #57 Each issue of SIN has a handful of current news stories and reports, and one technical article written by John Gauntner. It is published...
-
-### [Book Review: The Art of Japanese Whisky](https://www.nomunication.jp/2025/04/24/book-review-the-art-of-japanese-whisky/)
-
-- **来源**: Nomunication
-- **摘要**: Today, we celebrate another first for Japanese whisky: a coffee table book about the category. The Art of Japanese Whisky weighs in at 372 pages and 2,900 grams, or just over 1000 ounces. It&#8217;s t...
-
-### [Event Report: Tokyo International BarShow 2025 The Historical Journey](https://www.nomunication.jp/2025/05/28/event-report-tokyo-international-barshow-2025-the-historical-journey/)
-
-- **来源**: Nomunication
-- **摘要**: This year’s BarShow was another big one. 14,100 attendees showed up across May 10-11&#8230; and it even rained on Saturday. The rain didn&#8217;t seem to bother anyone though. 14,100 is actually a sli...
-
-### [Deep Dive: Kirishima Shuzo, Japan’s biggest shochu maker](https://www.nomunication.jp/2025/06/23/deep-dive-kirishima-shuzo-japans-biggest-shochu-maker/)
-
-- **来源**: Nomunication
-- **摘要**: We talk a lot on this site about relatively obscure bottles of honkaku shochu/awamori and some of the more technical aspects of the category. But today we&#8217;re spending some time with bottles from...
-
-### [Yes, you should tip your bartender in Japan with a drink](https://www.nomunication.jp/2025/07/03/yes-you-should-tip-your-bartender-in-japan-with-a-drink/)
-
-- **来源**: Nomunication
-- **摘要**: Tipping seems to be a hot topic at the moment, at least in the US. Reddit&#8217;s r/EndTipping has 49,000 members and John Oliver did a great segment on the subject a few months back on Last Week Toni...
-
-### [Event Report: iichiko Saiten Japan launch](https://www.nomunication.jp/2025/07/14/event-report-iichiko-saiten-japan-launch/)
-
-- **来源**: Nomunication
-- **关键词**: launch
-- **摘要**: Shochu giant Sanwa Shurui announced the launch of iichiko Saiten here in Japan on June 17, 2025. Part of the media strategy for the launch included putting on the ritz at Tokyo&#8217;s own Ritz-Carlto...
-
-
-## 🌍 欧洲
-
-### [Bo Barrett: The man at Chateau Montelena](https://www.decanter.com/wine/california-wine-region/bo-barrett-the-man-at-montelena)
-
-- **来源**: Decanter
-- **摘要**: The man, the myth, the legend......
-
-### [How to Buy a Vineyard](https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....
-
-### [What's the Point of Points?](https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....
-
-### [Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1](https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...
-
-### [The Secret Life of Old Champagne](https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: Single vineyard Champagne explained. Part 2....
-
-### [Business Lessons from Bernard Magrez](https://www.wine-searcher.com/m/2026/02/business-lessons-from-bernard-magrez?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: What drives a person to build an empire in the world of wine?...
-
-### [The Wine That Defies Time: Inside Château d'Yquem](https://www.wine-searcher.com/m/2026/02/the-wine-that-defies-time-inside-chateau-dyquem?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: In this special two-part episode of The Wine Podcast, Suzanne Mustacich sits down with Lorenzo Pasquini, CEO of Château d'Yquem, for a rare and illuminating conversation....
-
-### [The Wine That Defies Time: Inside Château d'Yquem – Part 2](https://www.wine-searcher.com/m/2026/03/the-wine-that-defies-time-inside-chateau-dyquem-part-2?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: In Part Two of this exclusive episode of The Wine Podcast, Suzanne Mustacich continues her in-depth interview with Lorenzo Pasquini, CEO of Château d'Yquem....
-
-### [Smarter Location Experience – Now Available on Web](https://www.wine-searcher.com/m/2026/02/smarter-location-experience-now-available-on-web?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: Keep up with all the lastest updates, changes and improvements to our site and our apps....
-
-### [Get Your Cellar Sorted](https://www.wine-searcher.com/m/2026/03/get-your-cellar-sorted?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: Managing your cellar just got easier on our app....
-
-### [Filter by Critic – Now Available on Web for PRO](https://www.wine-searcher.com/m/2026/03/filter-by-critic-now-available-on-web-for-pro?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: Keep up with all the lastest updates, changes and improvements to our site and our apps....
-
-### [Wine Tariffs Still Up in the Air](https://www.wine-searcher.com/m/2026/02/wine-tariffs-still-up-in-the-air?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: Doubt is the only certainty a bewildered wine industry can rely on as President Trump looks for alternatives to tariffs....
-
-### [No-Alcohol Wine Boom not so Boomy](https://www.wine-searcher.com/m/2026/02/no-alcohol-wine-boom-not-so-boomy?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: No-alcohol wine is all the rage, if the hype is to be believed, but does it actually sell?...
-
-### [Wine Chasing the Wrong Dollar](https://www.wine-searcher.com/m/2026/02/wine-chasing-the-wrong-dollar?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: The wine industry needs to stop chasing the billionaire dollar and start appealing to middle classes again, Oliver Styles argues....
-
-### [Closing the Book on Dom Pérignon](https://www.wine-searcher.com/m/2026/02/closing-the-book-on-dom-perignon?rss=Y)
-
-- **来源**: Wine-Searcher
-- **摘要**: A chat with the author of Drinking Dom Pérignon 1921 to 2013 reveals all....
-
-
 ---
 
-*报告生成时间: 2026-03-07 15:53*  
+*报告生成时间: 2026-03-07 15:55*  
 *Antonelli Intelligence System*
