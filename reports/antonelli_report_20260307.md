@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 151 条
+- **新增资讯**: 152 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,8 +16,6 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
-
-![The Shout](https://theshout.com.au/wp-content/uploads/2026/02/VB-3.5-Stubby-and-Can.jpg?w=780)
 
 - **[Victoria Bitter moves into mid-strength with VB Mid](https://theshout.com.au/victoria-bitter-moves-into-mid-strength-with-vb-mid/)**
   Brewed with the same flavour characteristics as VB Classic, the new mid-strength equals just one standard drink per 375m...
@@ -74,6 +72,23 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+- **[Huge Fake Wine Seizure in Italy](https://www.wine-searcher.com/m/2026/03/huge-fake-wine-seizure-in-italy?rss=Y)**
+  With exploitation, human trafficking and fraudulent wine, this week's news roundup reads more like a police blotter....
+
+- **[How to Buy a Vineyard](https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y)**
+  Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....
+
+- **[What's the Point of Points?](https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y)**
+  Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....
+
+- **[Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1](https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y)**
+  What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...
+
+- **[The Secret Life of Old Champagne](https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y)**
+  Single vineyard Champagne explained. Part 2....
+
 ### 📰 Decanter
 
 - **[Bo Barrett: The man at Chateau Montelena](https://www.decanter.com/wine/california-wine-region/bo-barrett-the-man-at-montelena)**
@@ -91,25 +106,6 @@
 
 - **[Class of ‘89: Clos du Mont-Olivet and the birth of Châteauneuf’s cuvée spéciale](https://www.decanter.com/wine-news/opinion/class-of-89-clos-du-mont-olivet-and-the-birth-of-chateauneufs-cuvee-speciale)**
   The transition between tradition and modernity......
-
-### 📰 Wine-Searcher
-
-![Wine-Searcher](https://www.wine-searcher.com/images/news-rss/98/81/988181414046965b305_Alexhallmain2.jpg)
-
-- **[How to Buy a Vineyard](https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y)**
-  Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....
-
-- **[What's the Point of Points?](https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y)**
-  Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....
-
-- **[Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1](https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y)**
-  What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...
-
-- **[The Secret Life of Old Champagne](https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y)**
-  Single vineyard Champagne explained. Part 2....
-
-- **[Business Lessons from Bernard Magrez](https://www.wine-searcher.com/m/2026/02/business-lessons-from-bernard-magrez?rss=Y)**
-  What drives a person to build an empire in the world of wine?...
 
 ### 📰 The Drinks Business
 
@@ -193,5 +189,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-03-07 16:31*  
+*报告生成时间: 2026-03-07 22:05*  
 *Antonelli Intelligence System*

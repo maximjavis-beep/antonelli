@@ -221,10 +221,6 @@ def generate_markdown_report():
         key = (region, source)
         if key not in by_region_source:
             by_region_source[key] = []
-            # 提取该信源的第一张图片作为代表
-            img_url = extract_image_from_summary(summary)
-            if img_url:
-                source_images[key] = img_url
         by_region_source[key].append(a)
     
     # 按地区组织
@@ -232,22 +228,18 @@ def generate_markdown_report():
     for (region, source), items in by_region_source.items():
         if region not in region_sources:
             region_sources[region] = []
-        region_sources[region].append((source, items, source_images.get((region, source))))
+        region_sources[region].append((source, items))
     
     # 生成各地区内容
     for region in sorted(region_sources.keys()):
         md += f"\n## 🌍 {region}\n\n"
         
-        for source, items, source_image in region_sources[region]:
+        for source, items in region_sources[region]:
             # 信源标题
             md += f"### 📰 {source}\n\n"
             
             # 如果有文章
             if items:
-                # 如果有图片，添加图片标记
-                if source_image:
-                    md += f"![{source}]({source_image})\n\n"
-                
                 # 列出该信源的文章（最多5条）
                 for title, link, summary, published, s, r, keywords in items[:5]:
                     md += f"- **[{title}]({link})**\n"
@@ -351,11 +343,8 @@ def markdown_to_html(md_path):
             in_source_section = True
             continue
         
-        # 处理 Markdown 图片格式 ![alt](url)
-        img_match = re.match(r'!\[(.+?)\]\((.+?)\)', stripped)
-        if img_match:
-            alt_text, img_url = img_match.groups()
-            html_lines.append(f'<div class="source-image"><img src="{img_url}" alt="{alt_text}" loading="lazy"></div>')
+        # 跳过 Markdown 图片格式 ![alt](url)
+        if stripped.startswith('!['):
             continue
         
         # 处理列表项（文章列表）
@@ -456,23 +445,13 @@ def markdown_to_html(md_path):
             border-left: 3px solid #8b4513;
         }}
         
-        /* 信源图片样式 - 自适应 */
-        .source-image {{
-            margin: 15px 0;
-            text-align: center;
-            width: 100%;
-            max-height: 250px;
-            overflow: hidden;
+        /* 图片响应式 - 确保在各种设备上都能正常显示 */
+        .card img {{
+            max-width: 100%;
+            height: auto;
             border-radius: 8px;
-            background: #f0f0f0;
-        }}
-        .source-image img {{
-            width: 100%;
-            height: 100%;
-            max-height: 250px;
-            object-fit: contain;
+            margin: 10px 0;
             display: block;
-            margin: 0 auto;
         }}
         
         /* 文章列表 */
