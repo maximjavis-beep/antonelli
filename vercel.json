@@ -1,16 +1,8 @@
 {
   "version": 2,
   "name": "antonelli",
-  "builds": [
-    {
-      "src": "web/**",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/web/$1"
-    }
-  ]
+  "buildCommand": null,
+  "outputDirectory": "web",
+  "framework": null,
+  "installCommand": null
 }
