@@ -483,12 +483,17 @@ def markdown_to_html(md_path):
         .article-image {{
             margin-top: 15px;
             text-align: center;
+            width: 100%;
+            overflow: hidden;
         }}
         .article-image img {{
             max-width: 100%;
-            max-height: 300px;
+            width: auto;
+            height: auto;
+            max-height: 400px;
             border-radius: 8px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            object-fit: contain;
         }}
         hr {{
             border: none;
@@ -502,10 +507,21 @@ def markdown_to_html(md_path):
             font-size: 0.9em;
         }}
         @media (max-width: 768px) {{
-            header h1 {{ font-size: 1.8em; }}
-            .card {{ padding: 20px; }}
-            .card h3 {{ font-size: 1.1em; }}
-            .article-image img {{ max-height: 200px; }}
+            body {{ padding: 10px; }}
+            header {{ padding: 20px 10px; }}
+            header h1 {{ font-size: 1.6em; }}
+            .card {{ padding: 15px; border-radius: 12px; }}
+            .card h2 {{ font-size: 1.3em; margin: 20px 0 15px 0; }}
+            .card h3 {{ font-size: 1em; margin: 20px 0 10px 0; }}
+            .article-card {{ padding: 15px; margin-bottom: 15px; }}
+            .article-image {{ margin-top: 10px; }}
+            .article-image img {{ 
+                max-height: none; 
+                width: 100%; 
+                border-radius: 6px;
+            }}
+            .card ul.article-meta {{ padding: 10px; }}
+            .card ul.article-meta li {{ font-size: 0.9em; }}
         }}
     </style>
 </head>
