@@ -1,16 +1,4 @@
 {
   "version": 2,
-  "name": "antonelli",
-  "builds": [
-    {
-      "src": "web/index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/web/index.html"
-    }
-  ]
+  "name": "antonelli"
 }
