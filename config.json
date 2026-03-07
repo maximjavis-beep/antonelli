@@ -1,0 +1,75 @@
+{
+  "project": "Antonelli",
+  "description": "全球酒类行业情报追踪系统",
+  "regions": {
+    "north_america": {
+      "name": "北美",
+      "sources": [
+        {"name": "Wine Enthusiast", "url": "https://www.winemag.com/feed/", "type": "news"},
+        {"name": "The Spirits Business", "url": "https://www.thespiritsbusiness.com/feed/", "type": "news"},
+        {"name": "Brewbound", "url": "https://www.brewbound.com/feed", "type": "beer"}
+      ]
+    },
+    "south_america": {
+      "name": "南美",
+      "sources": []
+    },
+    "europe": {
+      "name": "欧洲",
+      "sources": [
+        {"name": "Decanter", "url": "https://www.decanter.com/feed/", "type": "news"},
+        {"name": "The Drinks Business", "url": "https://www.thedrinksbusiness.com/feed/", "type": "news"},
+        {"name": "Wine-Searcher", "url": "https://www.wine-searcher.com/rss-feed/dept/all", "type": "data"}
+      ]
+    },
+    "china": {
+      "name": "中国",
+      "sources": []
+    },
+    "japan": {
+      "name": "日本",
+      "sources": [
+        {"name": "Nomunication", "url": "https://nomunication.jp/feed/", "type": "blog"},
+        {"name": "Sake World", "url": "https://sake-world.com/feed/", "type": "sake"}
+      ]
+    },
+    "asia_pacific": {
+      "name": "亚太其他",
+      "sources": [
+        {"name": "The Shout", "url": "https://www.theshout.com.au/feed/", "type": "au"}
+      ]
+    }
+  },
+  "keywords": [
+    "acquisition", "merger", "launch", "new product", "distribution",
+    "partnership", "investment", "expansion", "market", "trend",
+    "acquisition", "并购", "新品", "分销", "合作", "投资", "扩张"
+  ],
+  "schedule": {
+    "fetch_time": "08:00",
+    "report_time": "09:00"
+  },
+  "disabled_sources": {
+    "north_america": ["Wine Spectator", "Beverage Dynamics"],
+    "south_america": ["Wines of Argentina", "Wines of Chile", "Brazil Wine Guide"],
+    "europe": ["Harpers Wine & Spirit", "Meininger's"],
+    "china": ["中国酒业新闻网", "糖酒快讯", "葡萄酒资讯网"],
+    "japan": ["Japan Times Food"],
+    "asia_pacific": ["Drinks International Asia", "Wine & Spirits Asia"]
+  },
+  "alternative_sources": {
+    "notes": "潜在替代源 - 需要验证",
+    "south_america": [
+      {"name": "Wines of Argentina Blog", "url": "https://winesofargentina.org/en/blog/", "type": "trade"},
+      {"name": "Wines of Chile News", "url": "https://www.winesofchile.org/en/news/", "type": "trade"}
+    ],
+    "china": [
+      {"name": "WBO葡萄酒商业观察", "url": "https://www.winebusiness.com.cn/", "type": "trade"},
+      {"name": "酒斛网", "url": "https://www.vinehoo.com/", "type": "news"}
+    ],
+    "global": [
+      {"name": "Wine Industry Advisor", "url": "https://wineindustryadvisor.com/feed", "type": "news"},
+      {"name": "Vino Joy News", "url": "https://vinojoy.com/feed/", "type": "asia"}
+    ]
+  }
+}
