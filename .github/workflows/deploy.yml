@@ -1,19 +1,23 @@
-name: Deploy to Vercel
+name: Update Data and Deploy
 
 on:
-  push:
-    branches: [main]
   schedule:
     # 每天 UTC 00:00 (北京时间 08:00) 自动更新
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      deploy_only:
+        description: '仅部署，不更新数据'
+        required: false
+        default: 'false'
 
 jobs:
-  deploy:
+  update-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -24,7 +28,8 @@ jobs:
       run: |
         pip install -r requirements.txt
     
-    - name: Fetch RSS data
+    - name: Fetch RSS data (if not deploy-only)
+      if: github.event.inputs.deploy_only != 'true'
       run: |
         python3 fetch_rss.py
     
@@ -32,10 +37,23 @@ jobs:
       run: |
         python3 build_site.py
     
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add web/ data.db reports/
+        git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+    
     - name: Deploy to Vercel
-      uses: vercel/action-deploy@v1
+      uses: amondnet/vercel-action@v25
       with:
         vercel-token: ${{ secrets.VERCEL_TOKEN }}
         vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
         vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-        working-directory: ./
+        working-directory: ./web
