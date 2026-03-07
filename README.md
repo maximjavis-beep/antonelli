@@ -120,3 +120,4 @@ vercel --prod
 ---
 
 *Antonelli Intelligence System - 专注于全球酒类行业情报*
+# Auto-update test
