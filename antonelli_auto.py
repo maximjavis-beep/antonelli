@@ -239,6 +239,25 @@ def generate_markdown_report():
     
     return report_path, len(articles)
 
+def extract_image_from_summary(summary):
+    """从摘要中提取图片 URL"""
+    import re
+    img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
+    if img_match:
+        return img_match.group(1)
+    return None
+
+def clean_html_tags(text):
+    """清理 HTML 标签，保留文本内容"""
+    import re
+    # 移除 script 和 style
+    text = re.sub(r'<(script|style)[^>]*>[^<]*</\1>', '', text, flags=re.DOTALL)
+    # 移除所有 HTML 标签
+    text = re.sub(r'<[^>]+>', '', text)
+    # 解码 HTML 实体
+    text = text.replace('&nbsp;', ' ').replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+    return text.strip()
+
 def markdown_to_html(md_path):
     """将 Markdown 转换为 HTML"""
     with open(md_path, 'r', encoding='utf-8') as f:
@@ -252,8 +271,9 @@ def markdown_to_html(md_path):
     lines = md_content.split('\n')
     html_lines = []
     in_list = False
+    current_article_image = None
     
-    for line in lines:
+    for i, line in enumerate(lines):
         stripped = line.strip()
         
         # 跳过第一行标题（已经在 header 中显示）
@@ -282,15 +302,28 @@ def markdown_to_html(md_path):
             html_lines.append(f'<h2>{content}</h2>')
             continue
         
-        # 处理 H3 标题（文章标题）
+        # 处理 H3 标题（文章标题）- 检查下一行是否有图片信息
         if stripped.startswith('### '):
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
+            
             # 提取链接 [title](url)
             match = re.match(r'### \[(.+?)\]\((.+?)\)', stripped)
             if match:
                 title, url = match.groups()
+                
+                # 检查后续行是否有图片（在原始 RSS 摘要中）
+                current_article_image = None
+                for j in range(i+1, min(i+5, len(lines))):
+                    if '- **摘要**:' in lines[j]:
+                        img_url = extract_image_from_summary(lines[j])
+                        if img_url:
+                            current_article_image = img_url
+                        break
+                
+                # 构建文章卡片
+                html_lines.append('<div class="article-card">')
                 html_lines.append(f'<h3><a href="{url}" target="_blank" rel="noopener">{title}</a></h3>')
             else:
                 html_lines.append(f'<h3>{stripped[4:]}</h3>')
@@ -301,28 +334,51 @@ def markdown_to_html(md_path):
             if not in_list:
                 html_lines.append('<ul class="article-meta">')
                 in_list = True
-            # 处理 **bold**: content
+            
             content = stripped[2:]
             content = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', content)
-            # 清理 HTML 标签（来自 RSS 的 img 等）
-            content = re.sub(r'<img[^>]+>', '[图片]', content)
-            content = re.sub(r'<[^>]+>', '', content)  # 移除其他 HTML 标签
-            html_lines.append(f'<li>{content}</li>')
+            
+            # 处理摘要行 - 提取图片并清理文本
+            if '**摘要**:' in content:
+                img_url = extract_image_from_summary(content)
+                clean_text = clean_html_tags(content)
+                
+                # 如果有图片，在列表后添加图片
+                if img_url and '**摘要**:' in content:
+                    current_article_image = img_url
+                
+                html_lines.append(f'<li>{clean_text}</li>')
+            else:
+                html_lines.append(f'<li>{content}</li>')
             continue
         
-        # 普通段落
+        # 普通段落或空行 - 检查是否需要关闭文章卡片
+        if not stripped and in_list:
+            html_lines.append('</ul>')
+            in_list = False
+            # 如果有图片，添加图片
+            if current_article_image:
+                html_lines.append(f'<div class="article-image"><img src="{current_article_image}" alt="文章配图" loading="lazy"></div>')
+                current_article_image = None
+            html_lines.append('</div>')  # 关闭 article-card
+            continue
+        
         if stripped:
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
-            # 清理 HTML 标签
-            content = re.sub(r'<img[^>]+>', '', stripped)
-            content = re.sub(r'<[^>]+>', '', content)
-            if content.strip():
-                html_lines.append(f'<p>{content}</p>')
+            clean_text = clean_html_tags(stripped)
+            if clean_text:
+                html_lines.append(f'<p>{clean_text}</p>')
     
+    # 清理未关闭的标签
     if in_list:
         html_lines.append('</ul>')
+    if current_article_image:
+        html_lines.append(f'<div class="article-image"><img src="{current_article_image}" alt="文章配图" loading="lazy"></div>')
+    # 关闭最后一个 article-card（如果存在）
+    if html_lines and html_lines[-1] != '</div>':
+        html_lines.append('</div>')
     
     html_content = '\n'.join(html_lines)
     
@@ -401,8 +457,8 @@ def markdown_to_html(md_path):
             border-bottom: 1px solid #eee;
         }}
         .card ul.article-meta li:last-child {{ border-bottom: none; }}
-        .card ul.article-meta li strong {{ 
-            color: #722f37; 
+        .card ul.article-meta li strong {{
+            color: #722f37;
             display: inline-block;
             min-width: 80px;
         }}
@@ -414,6 +470,35 @@ def markdown_to_html(md_path):
             color: #666;
             font-size: 0.95em;
             margin: 5px 0;
+        }}
+        /* 文章卡片样式 */
+        .article-card {{
+            background: #fafafa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 25px;
+            border-left: 4px solid #722f37;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }}
+        .article-card:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }}
+        .article-card h3 {{
+            margin-top: 0;
+            border-left: none;
+            padding-left: 0;
+        }}
+        /* 图片样式 */
+        .article-image {{
+            margin-top: 15px;
+            text-align: center;
+        }}
+        .article-image img {{
+            max-width: 100%;
+            max-height: 300px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }}
         hr {{
             border: none;
@@ -430,6 +515,7 @@ def markdown_to_html(md_path):
             header h1 {{ font-size: 1.8em; }}
             .card {{ padding: 20px; }}
             .card h3 {{ font-size: 1.1em; }}
+            .article-image img {{ max-height: 200px; }}
         }}
     </style>
 </head>
