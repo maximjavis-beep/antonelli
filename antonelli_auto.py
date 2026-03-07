@@ -244,29 +244,87 @@ def markdown_to_html(md_path):
     with open(md_path, 'r', encoding='utf-8') as f:
         md_content = f.read()
     
-    # 提取标题
-    title = "Antonelli 酒类情报日报"
     update_time = datetime.now().strftime("%Y年%m月%d日 %H:%M")
     
-    # 转换 Markdown 为 HTML
-    html_content = md_content
-    
-    # 转换标题
-    html_content = html_content.replace('### ', '<h3>').replace('\n\n', '</h3>\n', 1)
-    html_content = html_content.replace('## ', '<h2>')
-    html_content = html_content.replace('# ', '<h1>')
-    
-    # 转换列表项
+    # 使用更好的 Markdown 解析
     import re
-    html_content = re.sub(r'<h3>\[(.+?)\]\((.+?)\)</h3>', r'<h3><a href="\2" target="_blank">\1</a></h3>', html_content)
-    html_content = re.sub(r'\- \*\*(.+?)\*\*:\s*(.+?)(?=\n|$)', r'<li><strong>\1</strong>: \2</li>', html_content)
     
-    # 转换强调
-    html_content = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', html_content)
-    html_content = re.sub(r'\*(.+?)\*', r'<em>\1</em>', html_content)
+    lines = md_content.split('\n')
+    html_lines = []
+    in_list = False
     
-    # 转换分隔线
-    html_content = html_content.replace('---', '<hr>')
+    for line in lines:
+        stripped = line.strip()
+        
+        # 跳过第一行标题（已经在 header 中显示）
+        if stripped.startswith('# 🍷 Antonelli'):
+            continue
+            
+        # 处理日期和来源信息
+        if stripped.startswith('**日期**') or stripped.startswith('**来源**'):
+            html_lines.append(f'<p class="meta-info">{stripped.replace("**", "")}</p>')
+            continue
+        
+        # 处理分隔线
+        if stripped == '---':
+            if in_list:
+                html_lines.append('</ul>')
+                in_list = False
+            html_lines.append('<hr>')
+            continue
+        
+        # 处理 H2 标题（地区）
+        if stripped.startswith('## '):
+            if in_list:
+                html_lines.append('</ul>')
+                in_list = False
+            content = stripped[3:]
+            html_lines.append(f'<h2>{content}</h2>')
+            continue
+        
+        # 处理 H3 标题（文章标题）
+        if stripped.startswith('### '):
+            if in_list:
+                html_lines.append('</ul>')
+                in_list = False
+            # 提取链接 [title](url)
+            match = re.match(r'### \[(.+?)\]\((.+?)\)', stripped)
+            if match:
+                title, url = match.groups()
+                html_lines.append(f'<h3><a href="{url}" target="_blank" rel="noopener">{title}</a></h3>')
+            else:
+                html_lines.append(f'<h3>{stripped[4:]}</h3>')
+            continue
+        
+        # 处理列表项
+        if stripped.startswith('- '):
+            if not in_list:
+                html_lines.append('<ul class="article-meta">')
+                in_list = True
+            # 处理 **bold**: content
+            content = stripped[2:]
+            content = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', content)
+            # 清理 HTML 标签（来自 RSS 的 img 等）
+            content = re.sub(r'<img[^>]+>', '[图片]', content)
+            content = re.sub(r'<[^>]+>', '', content)  # 移除其他 HTML 标签
+            html_lines.append(f'<li>{content}</li>')
+            continue
+        
+        # 普通段落
+        if stripped:
+            if in_list:
+                html_lines.append('</ul>')
+                in_list = False
+            # 清理 HTML 标签
+            content = re.sub(r'<img[^>]+>', '', stripped)
+            content = re.sub(r'<[^>]+>', '', content)
+            if content.strip():
+                html_lines.append(f'<p>{content}</p>')
+    
+    if in_list:
+        html_lines.append('</ul>')
+    
+    html_content = '\n'.join(html_lines)
     
     # 构建完整 HTML
     html_template = f'''<!DOCTYPE html>
@@ -274,11 +332,11 @@ def markdown_to_html(md_path):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{title}</title>
+    <title>Antonelli 酒类情报日报</title>
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
             background: linear-gradient(135deg, #722f37 0%, #8b4513 100%);
             min-height: 100vh;
             padding: 20px;
@@ -309,31 +367,54 @@ def markdown_to_html(md_path):
         }}
         .card h2 {{
             color: #722f37;
-            margin-bottom: 20px;
+            margin: 30px 0 20px 0;
             padding-bottom: 10px;
             border-bottom: 3px solid #722f37;
             font-size: 1.5em;
         }}
+        .card h2:first-child {{ margin-top: 0; }}
         .card h3 {{
             color: #8b4513;
             margin: 25px 0 15px 0;
             padding-left: 10px;
             border-left: 3px solid #8b4513;
             font-size: 1.2em;
+            line-height: 1.4;
         }}
         .card h3 a {{
             color: #722f37;
             text-decoration: none;
+            transition: color 0.2s;
         }}
         .card h3 a:hover {{ color: #8b4513; text-decoration: underline; }}
-        .card ul {{ list-style: none; padding-left: 0; margin: 10px 0; }}
-        .card li {{
-            padding: 8px 0;
-            border-bottom: 1px solid #eee;
-            color: #555;
+        .card ul.article-meta {{ 
+            list-style: none; 
+            padding-left: 0; 
+            margin: 10px 0 20px 0;
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 15px;
         }}
-        .card li:last-child {{ border-bottom: none; }}
-        .card li strong {{ color: #722f37; }}
+        .card ul.article-meta li {{
+            padding: 5px 0;
+            color: #555;
+            border-bottom: 1px solid #eee;
+        }}
+        .card ul.article-meta li:last-child {{ border-bottom: none; }}
+        .card ul.article-meta li strong {{ 
+            color: #722f37; 
+            display: inline-block;
+            min-width: 80px;
+        }}
+        .card p {{
+            color: #555;
+            margin: 10px 0;
+        }}
+        .card p.meta-info {{
+            color: #666;
+            font-size: 0.95em;
+            margin: 5px 0;
+        }}
         hr {{
             border: none;
             border-top: 2px solid #e0e0e0;
@@ -348,6 +429,7 @@ def markdown_to_html(md_path):
         @media (max-width: 768px) {{
             header h1 {{ font-size: 1.8em; }}
             .card {{ padding: 20px; }}
+            .card h3 {{ font-size: 1.1em; }}
         }}
     </style>
 </head>
