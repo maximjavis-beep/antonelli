@@ -69,20 +69,41 @@
             margin: 10px 0;
             display: block;
         }
-        
-        /* 信源图片样式 */
+
+        /* 信源图片容器 - 自适应屏幕 */
         .source-image {
             margin: 15px 0;
             text-align: center;
             width: 100%;
             overflow: hidden;
             border-radius: 8px;
+            background: #f5f5f5;
         }
+
+        /* 信源图片 - 保持比例自适应 */
         .source-image img {
-            max-width: 100%;
+            width: 100%;
+            max-height: 300px;
             height: auto;
+            object-fit: contain;
             display: block;
             margin: 0 auto;
+        }
+
+        /* 文章内图片 - 响应式 */
+        .article-image {
+            margin: 10px 0;
+            width: 100%;
+            border-radius: 6px;
+            overflow: hidden;
+            background: #f5f5f5;
+        }
+        .article-image img {
+            width: 100%;
+            height: auto;
+            max-height: 250px;
+            object-fit: contain;
+            display: block;
         }
         
         /* 文章列表 */
@@ -142,14 +163,20 @@
             .source-section { padding: 12px; margin-bottom: 15px; }
             .source-name { font-size: 1em; margin-bottom: 10px; padding-left: 8px; }
             
-            /* 移动端图片 - 一屏内显示 */
+            /* 移动端图片 - 自适应 */
             .source-image {
-                max-height: 200px;
                 margin: 10px 0;
                 border-radius: 6px;
             }
             .source-image img {
                 max-height: 200px;
+                width: 100%;
+            }
+            .article-image {
+                margin: 8px 0;
+            }
+            .article-image img {
+                max-height: 180px;
             }
             
             .article-list { margin-top: 10px; }
@@ -162,7 +189,7 @@
         <header>
             <h1>🍷 Antonelli 酒类情报日报</h1>
             <p>全球酒类行业情报追踪系统</p>
-            <div class="update-time">更新时间: 2026年03月07日 22:11</div>
+            <div class="update-time">更新时间: 2026年03月07日 22:41</div>
         </header>
         
         <div class="card">
@@ -178,23 +205,27 @@
 <h2>🌍 亚洲</h2>
 <div class="source-section">
 <h3 class="source-name">📰 The Shout</h3>
-<img src="https://theshout.com.au/wp-content/uploads/2026/02/VB-3.5-Stubby-and-Can.jpg?w=780" alt="The Shout" loading="lazy">
+<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/02/VB-3.5-Stubby-and-Can.jpg?w=780" alt="Victoria Bitter moves into mid-strength with VB Mid" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/victoria-bitter-moves-into-mid-strength-with-vb-mid/" target="_blank" class="article-title">Victoria Bitter moves into mid-strength with VB Mid</a></li>
 </ul>
 <p class="article-desc">Brewed with the same flavour characteristics as VB Classic, the new mid-strength equals just one standard drink per 375m...</p>
+<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/02/iStock-960435122-beertasting.jpg?w=780" alt="WSET gains government regulation for beer qualifications" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/wset-gains-government-regulation-for-beer-qualifications/" target="_blank" class="article-title">WSET gains government regulation for beer qualifications</a></li>
 </ul>
 <p class="article-desc">The WSET beer program has been recognised for its credibility and quality by the UK’s Office of Qualifications and Exami...</p>
+<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/02/iStock-157383990-container-recycling.jpg?w=780" alt="Queensland container refund scheme extends payment terms" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/queensland-container-refund-scheme-extends-payment-terms/" target="_blank" class="article-title">Queensland container refund scheme extends payment terms</a></li>
 </ul>
 <p class="article-desc">Queensland’s container refund scheme will extend payment terms for beverage manufacturers following industry consultatio...</p>
+<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/02/Coravintwomillionthsystem.jpg?w=780" alt="Coravin sells its two millionth system" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/coravin-sells-its-two-millionth-system/" target="_blank" class="article-title">Coravin sells its two millionth system</a></li>
 </ul>
 <p class="article-desc">Coravin has announced the sale of its two-millionth wine preservation system, marking a major milestone for the pioneer ...</p>
+<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/03/iStock1128996629-new-zealand-vineyard.jpg?w=780" alt="New Zealand Winegrowers welcome early harvest" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/new-zealand-winegrowers-welcome-early-harvest/" target="_blank" class="article-title">New Zealand Winegrowers welcome early harvest</a></li>
 </ul>
@@ -252,23 +283,27 @@
 <h2>🌍 欧洲</h2>
 <div class="source-section">
 <h3 class="source-name">📰 Wine-Searcher</h3>
-<img src="https://www.wine-searcher.com/images/news-rss/98/99/9899114196469aa225d_italf1.jpg" alt="Wine-Searcher" loading="lazy">
+<div class="source-image"><img src="https://www.wine-searcher.com/images/news-rss/98/99/9899114196469aa225d_italf1.jpg" alt="Huge Fake Wine Seizure in Italy" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://www.wine-searcher.com/m/2026/03/huge-fake-wine-seizure-in-italy?rss=Y" target="_blank" class="article-title">Huge Fake Wine Seizure in Italy</a></li>
 </ul>
 <p class="article-desc">With exploitation, human trafficking and fraudulent wine, this week's news roundup reads more like a police blotter....</p>
+<div class="source-image"><img src="https://www.wine-searcher.com/images/news-rss/98/81/988181414046965b305_Alexhallmain2.jpg" alt="How to Buy a Vineyard" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y" target="_blank" class="article-title">How to Buy a Vineyard</a></li>
 </ul>
 <p class="article-desc">Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....</p>
+<div class="source-image"><img src="https://www.wine-searcher.com/images/news-rss/98/80/98801141339696ed9c0_KonMain.jpg" alt="What's the Point of Points?" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y" target="_blank" class="article-title">What's the Point of Points?</a></li>
 </ul>
 <p class="article-desc">Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....</p>
+<div class="source-image"><img src="https://www.wine-searcher.com/images/news-rss/98/86/9886314156269793ef9_WineVoices_The-Wine-Podcast-17_YouTube-thumbnail.jpg" alt="Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y" target="_blank" class="article-title">Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1</a></li>
 </ul>
 <p class="article-desc">What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...</p>
+<div class="source-image"><img src="https://www.wine-searcher.com/images/news-rss/98/88/9888214165569815b86_WineVoices_The-Wine-Podcast-18_YouTube-thumbnail.jpg" alt="The Secret Life of Old Champagne" loading="lazy"></div>
 <ul class="article-list">
 <li><a href="https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y" target="_blank" class="article-title">The Secret Life of Old Champagne</a></li>
 </ul>
@@ -400,7 +435,7 @@
 <p class="article-desc">UNESCO inscription is seen as a crucial step in safeguarding a tradition’s future, but there's a right way and a wrong w...</p>
 </div>
 <hr>
-<p class="article-desc">*报告生成时间: 2026-03-07 22:11*</p>
+<p class="article-desc">*报告生成时间: 2026-03-07 22:41*</p>
 <p class="article-desc">*Antonelli Intelligence System*</p>
         </div>
         

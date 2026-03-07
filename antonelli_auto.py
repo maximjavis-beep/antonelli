@@ -214,17 +214,12 @@ def generate_markdown_report():
     
     # 按地区和信源分组
     by_region_source = {}
-    source_images = {}  # 每个信源的代表图片
-    
+
     for a in articles:
         title, link, summary, published, source, region, keywords = a
         key = (region, source)
         if key not in by_region_source:
             by_region_source[key] = []
-            # 提取该信源的第一张图片作为代表
-            img_url = extract_image_from_summary(summary)
-            if img_url:
-                source_images[key] = img_url
         by_region_source[key].append(a)
     
     # 按地区组织
@@ -232,24 +227,25 @@ def generate_markdown_report():
     for (region, source), items in by_region_source.items():
         if region not in region_sources:
             region_sources[region] = []
-        region_sources[region].append((source, items, source_images.get((region, source))))
-    
+        region_sources[region].append((source, items))
+
     # 生成各地区内容
     for region in sorted(region_sources.keys()):
         md += f"\n## 🌍 {region}\n\n"
-        
-        for source, items, source_image in region_sources[region]:
+
+        for source, items in region_sources[region]:
             # 信源标题
             md += f"### 📰 {source}\n\n"
-            
+
             # 如果有文章
             if items:
-                # 如果有图片，添加图片标记
-                if source_image:
-                    md += f"![{source}]({source_image})\n\n"
-                
-                # 列出该信源的文章（最多5条）
+                # 列出该信源的文章（最多5条），每篇文章单独显示自己的图片
                 for title, link, summary, published, s, r, keywords in items[:5]:
+                    # 提取该文章的图片
+                    img_url = extract_image_from_summary(summary)
+                    if img_url:
+                        md += f"![{title}]({img_url})\n\n"
+
                     md += f"- **[{title}]({link})**\n"
                     # 清理 HTML 标签
                     clean_summary = clean_html_tags(summary)[:120]
@@ -355,7 +351,7 @@ def markdown_to_html(md_path):
         img_match = re.match(r'!\[(.+?)\]\((.+?)\)', stripped)
         if img_match:
             alt_text, img_url = img_match.groups()
-            html_lines.append(f'<img src="{img_url}" alt="{alt_text}" loading="lazy">')
+            html_lines.append(f'<div class="source-image"><img src="{img_url}" alt="{alt_text}" loading="lazy"></div>')
             continue
         
         # 处理列表项（文章列表）
@@ -464,20 +460,41 @@ def markdown_to_html(md_path):
             margin: 10px 0;
             display: block;
         }}
-        
-        /* 信源图片样式 */
+
+        /* 信源图片容器 - 自适应屏幕 */
         .source-image {{
             margin: 15px 0;
             text-align: center;
             width: 100%;
             overflow: hidden;
             border-radius: 8px;
+            background: #f5f5f5;
         }}
+
+        /* 信源图片 - 保持比例自适应 */
         .source-image img {{
-            max-width: 100%;
+            width: 100%;
+            max-height: 300px;
             height: auto;
+            object-fit: contain;
             display: block;
             margin: 0 auto;
+        }}
+
+        /* 文章内图片 - 响应式 */
+        .article-image {{
+            margin: 10px 0;
+            width: 100%;
+            border-radius: 6px;
+            overflow: hidden;
+            background: #f5f5f5;
+        }}
+        .article-image img {{
+            width: 100%;
+            height: auto;
+            max-height: 250px;
+            object-fit: contain;
+            display: block;
         }}
         
         /* 文章列表 */
@@ -537,14 +554,20 @@ def markdown_to_html(md_path):
             .source-section {{ padding: 12px; margin-bottom: 15px; }}
             .source-name {{ font-size: 1em; margin-bottom: 10px; padding-left: 8px; }}
             
-            /* 移动端图片 - 一屏内显示 */
+            /* 移动端图片 - 自适应 */
             .source-image {{
-                max-height: 200px;
                 margin: 10px 0;
                 border-radius: 6px;
             }}
             .source-image img {{
                 max-height: 200px;
+                width: 100%;
+            }}
+            .article-image {{
+                margin: 8px 0;
+            }}
+            .article-image img {{
+                max-height: 180px;
             }}
             
             .article-list {{ margin-top: 10px; }}

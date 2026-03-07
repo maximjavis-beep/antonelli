@@ -17,19 +17,27 @@
 
 ### 📰 The Shout
 
-![The Shout](https://theshout.com.au/wp-content/uploads/2026/02/VB-3.5-Stubby-and-Can.jpg?w=780)
+![Victoria Bitter moves into mid-strength with VB Mid](https://theshout.com.au/wp-content/uploads/2026/02/VB-3.5-Stubby-and-Can.jpg?w=780)
 
 - **[Victoria Bitter moves into mid-strength with VB Mid](https://theshout.com.au/victoria-bitter-moves-into-mid-strength-with-vb-mid/)**
   Brewed with the same flavour characteristics as VB Classic, the new mid-strength equals just one standard drink per 375m...
 
+![WSET gains government regulation for beer qualifications](https://theshout.com.au/wp-content/uploads/2026/02/iStock-960435122-beertasting.jpg?w=780)
+
 - **[WSET gains government regulation for beer qualifications](https://theshout.com.au/wset-gains-government-regulation-for-beer-qualifications/)**
   The WSET beer program has been recognised for its credibility and quality by the UK’s Office of Qualifications and Exami...
+
+![Queensland container refund scheme extends payment terms](https://theshout.com.au/wp-content/uploads/2026/02/iStock-157383990-container-recycling.jpg?w=780)
 
 - **[Queensland container refund scheme extends payment terms](https://theshout.com.au/queensland-container-refund-scheme-extends-payment-terms/)**
   Queensland’s container refund scheme will extend payment terms for beverage manufacturers following industry consultatio...
 
+![Coravin sells its two millionth system](https://theshout.com.au/wp-content/uploads/2026/02/Coravintwomillionthsystem.jpg?w=780)
+
 - **[Coravin sells its two millionth system](https://theshout.com.au/coravin-sells-its-two-millionth-system/)**
   Coravin has announced the sale of its two-millionth wine preservation system, marking a major milestone for the pioneer ...
+
+![New Zealand Winegrowers welcome early harvest](https://theshout.com.au/wp-content/uploads/2026/03/iStock1128996629-new-zealand-vineyard.jpg?w=780)
 
 - **[New Zealand Winegrowers welcome early harvest](https://theshout.com.au/new-zealand-winegrowers-welcome-early-harvest/)**
   Harvest is underway or about to begin across New Zealand’s wine regions with optimism growing for vintage 2026....
@@ -76,19 +84,27 @@
 
 ### 📰 Wine-Searcher
 
-![Wine-Searcher](https://www.wine-searcher.com/images/news-rss/98/99/9899114196469aa225d_italf1.jpg)
+![Huge Fake Wine Seizure in Italy](https://www.wine-searcher.com/images/news-rss/98/99/9899114196469aa225d_italf1.jpg)
 
 - **[Huge Fake Wine Seizure in Italy](https://www.wine-searcher.com/m/2026/03/huge-fake-wine-seizure-in-italy?rss=Y)**
   With exploitation, human trafficking and fraudulent wine, this week's news roundup reads more like a police blotter....
 
+![How to Buy a Vineyard](https://www.wine-searcher.com/images/news-rss/98/81/988181414046965b305_Alexhallmain2.jpg)
+
 - **[How to Buy a Vineyard](https://www.wine-searcher.com/m/2026/01/how-to-buy-a-vineyard?rss=Y)**
   Have you ever fantasized about leaving your corporate job behind to buy your own vineyard? You're not alone....
+
+![What's the Point of Points?](https://www.wine-searcher.com/images/news-rss/98/80/98801141339696ed9c0_KonMain.jpg)
 
 - **[What's the Point of Points?](https://www.wine-searcher.com/m/2026/01/whats-the-point-of-points?rss=Y)**
   Revisiting the role of wine scores today, the rise – and reassessment – of the 100-point system....
 
+![Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1](https://www.wine-searcher.com/images/news-rss/98/86/9886314156269793ef9_WineVoices_The-Wine-Podcast-17_YouTube-thumbnail.jpg)
+
 - **[Jane Anson The Wine Podcast: Single Vineyard Champagne Explained. Part 1](https://www.wine-searcher.com/m/2026/01/jane-anson-the-wine-podcast-single-vineyard-champagne-explained-part-1?rss=Y)**
   What makes Clos Lanson one of Champagne’s most fascinating and rare wines?...
+
+![The Secret Life of Old Champagne](https://www.wine-searcher.com/images/news-rss/98/88/9888214165569815b86_WineVoices_The-Wine-Podcast-18_YouTube-thumbnail.jpg)
 
 - **[The Secret Life of Old Champagne](https://www.wine-searcher.com/m/2026/02/the-secret-life-of-old-champagne?rss=Y)**
   Single vineyard Champagne explained. Part 2....
@@ -193,5 +209,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-03-07 22:11*  
+*报告生成时间: 2026-03-07 22:41*  
 *Antonelli Intelligence System*
