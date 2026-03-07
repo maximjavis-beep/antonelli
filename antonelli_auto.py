@@ -207,8 +207,8 @@ def generate_markdown_report():
             md += f"- **来源**: {source}\n"
             if keywords:
                 md += f"- **关键词**: {', '.join(keywords.split(','))}\n"
-            # 清理 HTML 标签
-            clean_summary = summary.replace('<img', '[图片]<img').replace('<p>', '').replace('</p>', '')[:250]
+            # 提取图片后清理 HTML 标签
+            clean_summary = clean_html_tags(summary)[:200]
             md += f"- **摘要**: {clean_summary}...\n\n"
     
     if not articles:
@@ -526,7 +526,7 @@ def markdown_to_html(md_path):
                 max-height: 35vh;
             }}
             .article-image img {{ 
-                max-height: 35vh;
+                max-height: 30vh;
                 width: auto;
                 max-width: 100%;
                 border-radius: 6px;
