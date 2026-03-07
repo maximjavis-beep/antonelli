@@ -1,19 +1,16 @@
 {
   "version": 2,
+  "name": "antonelli",
   "builds": [
     {
-      "src": "api/index.py",
-      "use": "@vercel/python"
+      "src": "web/**",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
-      "dest": "/api/index.py"
-    },
-    {
       "src": "/(.*)",
-      "dest": "/web/index.html"
+      "dest": "/web/$1"
     }
   ]
 }
