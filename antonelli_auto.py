@@ -240,11 +240,13 @@ def generate_markdown_report():
     return report_path, len(articles)
 
 def extract_image_from_summary(summary):
-    """从摘要中提取图片 URL"""
+    """从摘要中提取图片 URL - 只取第一张"""
     import re
-    img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
-    if img_match:
-        return img_match.group(1)
+    # 找到所有图片
+    img_matches = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
+    if img_matches:
+        # 返回第一张图片
+        return img_matches[0]
     return None
 
 def clean_html_tags(text):
@@ -302,7 +304,7 @@ def markdown_to_html(md_path):
             html_lines.append(f'<h2>{content}</h2>')
             continue
         
-        # 处理 H3 标题（文章标题）- 检查下一行是否有图片信息
+        # 处理 H3 标题（文章标题）
         if stripped.startswith('### '):
             if in_list:
                 html_lines.append('</ul>')
@@ -312,15 +314,6 @@ def markdown_to_html(md_path):
             match = re.match(r'### \[(.+?)\]\((.+?)\)', stripped)
             if match:
                 title, url = match.groups()
-                
-                # 检查后续行是否有图片（在原始 RSS 摘要中）
-                current_article_image = None
-                for j in range(i+1, min(i+5, len(lines))):
-                    if '- **摘要**:' in lines[j]:
-                        img_url = extract_image_from_summary(lines[j])
-                        if img_url:
-                            current_article_image = img_url
-                        break
                 
                 # 构建文章卡片
                 html_lines.append('<div class="article-card">')
@@ -340,13 +333,10 @@ def markdown_to_html(md_path):
             
             # 处理摘要行 - 提取图片并清理文本
             if '**摘要**:' in content:
-                img_url = extract_image_from_summary(content)
+                # 只提取一次图片
+                if not current_article_image:
+                    current_article_image = extract_image_from_summary(content)
                 clean_text = clean_html_tags(content)
-                
-                # 如果有图片，在列表后添加图片
-                if img_url and '**摘要**:' in content:
-                    current_article_image = img_url
-                
                 html_lines.append(f'<li>{clean_text}</li>')
             else:
                 html_lines.append(f'<li>{content}</li>')
@@ -356,7 +346,7 @@ def markdown_to_html(md_path):
         if not stripped and in_list:
             html_lines.append('</ul>')
             in_list = False
-            # 如果有图片，添加图片
+            # 如果有图片，添加图片（只添加一次）
             if current_article_image:
                 html_lines.append(f'<div class="article-image"><img src="{current_article_image}" alt="文章配图" loading="lazy"></div>')
                 current_article_image = None
