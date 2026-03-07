@@ -12,7 +12,6 @@ from pathlib import Path
 import os
 import sys
 import subprocess
-import re
 
 # 路径配置
 PROJECT_DIR = Path(__file__).parent
@@ -58,23 +57,6 @@ def check_keywords(text, keywords):
         if kw.lower() in text_lower:
             matched.append(kw)
     return matched
-
-def extract_image_from_summary(summary):
-    """从摘要中提取图片 URL - 只取第一张"""
-    img_matches = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
-    if img_matches:
-        return img_matches[0]
-    return None
-
-def clean_html_tags(text):
-    """清理 HTML 标签，保留文本内容"""
-    # 移除 script 和 style
-    text = re.sub(r'<(script|style)[^>]*>[^<]*</\1>', '', text, flags=re.DOTALL)
-    # 移除所有 HTML 标签
-    text = re.sub(r'<[^>]+>', '', text)
-    # 解码 HTML 实体
-    text = text.replace('&nbsp;', ' ').replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
-    return text.strip()
 
 def fetch_feed(name, url, region, keywords, max_items=10):
     """抓取单个 RSS 源"""
@@ -247,7 +229,7 @@ def generate_markdown_report():
             for title, link, summary, published, s, r, keywords in items[:5]:
                 md += f"- **[{title}]({link})**\n"
                 # 清理 HTML 标签
-                clean_summary = clean_html_tags(summary)[:120]
+                clean_summary = clean_html_tags(summary)[:150]
                 md += f"  {clean_summary}...\n"
                 if keywords:
                     md += f"  *关键词: {', '.join(keywords.split(',')[:3])}*\n"
@@ -281,22 +263,46 @@ def generate_markdown_report():
     
     return report_path, len(articles)
 
+def extract_image_from_summary(summary):
+    """从摘要中提取图片 URL - 只取第一张"""
+    import re
+    # 找到所有图片
+    img_matches = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
+    if img_matches:
+        # 返回第一张图片
+        return img_matches[0]
+    return None
+
+def clean_html_tags(text):
+    """清理 HTML 标签，保留文本内容"""
+    import re
+    # 移除 script 和 style
+    text = re.sub(r'<(script|style)[^>]*>[^<]*</\1>', '', text, flags=re.DOTALL)
+    # 移除所有 HTML 标签
+    text = re.sub(r'<[^>]+>', '', text)
+    # 解码 HTML 实体
+    text = text.replace('&nbsp;', ' ').replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+    return text.strip()
+
 def markdown_to_html(md_path):
-    """将 Markdown 转换为 HTML - 按信源分组，每个信源一张图片"""
+    """将 Markdown 转换为 HTML"""
     with open(md_path, 'r', encoding='utf-8') as f:
         md_content = f.read()
     
     update_time = datetime.now().strftime("%Y年%m月%d日 %H:%M")
     
+    # 使用更好的 Markdown 解析
+    import re
+    
     lines = md_content.split('\n')
     html_lines = []
     in_list = False
-    in_source_section = False
+    current_article_image = None
     
     for i, line in enumerate(lines):
         stripped = line.strip()
         
-        # 跳过第一行标题
+        # 跳过第一行标题（已经在 header 中显示）
         if stripped.startswith('# 🍷 Antonelli'):
             continue
             
@@ -310,9 +316,6 @@ def markdown_to_html(md_path):
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
-            if in_source_section:
-                html_lines.append('</div>')  # 关闭 source-section
-                in_source_section = False
             html_lines.append('<hr>')
             continue
         
@@ -321,65 +324,74 @@ def markdown_to_html(md_path):
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
-            if in_source_section:
-                html_lines.append('</div>')
-                in_source_section = False
             content = stripped[3:]
             html_lines.append(f'<h2>{content}</h2>')
             continue
         
-        # 处理 H3 标题（信源名称）
+        # 处理 H3 标题（文章标题）
         if stripped.startswith('### '):
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
-            if in_source_section:
-                html_lines.append('</div>')
             
-            # 提取信源名称
-            source_name = stripped[4:].replace('📰 ', '')
-            html_lines.append(f'<div class="source-section">')
-            html_lines.append(f'<h3 class="source-name">📰 {source_name}</h3>')
-            in_source_section = True
+            # 提取链接 [title](url)
+            match = re.match(r'### \[(.+?)\]\((.+?)\)', stripped)
+            if match:
+                title, url = match.groups()
+                
+                # 构建文章卡片
+                html_lines.append('<div class="article-card">')
+                html_lines.append(f'<h3><a href="{url}" target="_blank" rel="noopener">{title}</a></h3>')
+            else:
+                html_lines.append(f'<h3>{stripped[4:]}</h3>')
             continue
         
-        # 处理 Markdown 图片格式 ![alt](url)
-        img_match = re.match(r'!\[(.+?)\]\((.+?)\)', stripped)
-        if img_match:
-            alt_text, img_url = img_match.groups()
-            html_lines.append(f'<div class="source-image"><img src="{img_url}" alt="{alt_text}" loading="lazy"></div>')
-            continue
-        
-        # 处理列表项（文章列表）
+        # 处理列表项
         if stripped.startswith('- '):
             if not in_list:
-                html_lines.append('<ul class="article-list">')
+                html_lines.append('<ul class="article-meta">')
                 in_list = True
             
-            # 处理文章链接格式 - **[title](url)**
             content = stripped[2:]
-            # 转换粗体链接
-            content = re.sub(r'\*\*\[(.+?)\]\((.+?)\)\*\*', r'<a href="\2" target="_blank" class="article-title">\1</a>', content)
-            # 转换普通粗体
             content = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', content)
-            # 转换斜体（关键词）
-            content = re.sub(r'\*(.+?)\*', r'<em>\1</em>', content)
-            html_lines.append(f'<li>{content}</li>')
+            
+            # 处理摘要行 - 提取图片并清理文本
+            if '**摘要**:' in content:
+                # 只提取一次图片
+                if not current_article_image:
+                    current_article_image = extract_image_from_summary(content)
+                clean_text = clean_html_tags(content)
+                html_lines.append(f'<li>{clean_text}</li>')
+            else:
+                html_lines.append(f'<li>{content}</li>')
             continue
         
-        # 普通段落（摘要文字）
+        # 普通段落或空行 - 检查是否需要关闭文章卡片
+        if not stripped and in_list:
+            html_lines.append('</ul>')
+            in_list = False
+            # 如果有图片，添加图片（只添加一次）
+            if current_article_image:
+                html_lines.append(f'<div class="article-image"><img src="{current_article_image}" alt="文章配图" loading="lazy"></div>')
+                current_article_image = None
+            html_lines.append('</div>')  # 关闭 article-card
+            continue
+        
         if stripped:
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
             clean_text = clean_html_tags(stripped)
             if clean_text:
-                html_lines.append(f'<p class="article-desc">{clean_text}</p>')
+                html_lines.append(f'<p>{clean_text}</p>')
     
     # 清理未关闭的标签
     if in_list:
         html_lines.append('</ul>')
-    if in_source_section:
+    if current_article_image:
+        html_lines.append(f'<div class="article-image"><img src="{current_article_image}" alt="文章配图" loading="lazy"></div>')
+    # 关闭最后一个 article-card（如果存在）
+    if html_lines and html_lines[-1] != '</div>':
         html_lines.append('</div>')
     
     html_content = '\n'.join(html_lines)
@@ -431,74 +443,86 @@ def markdown_to_html(md_path):
             font-size: 1.5em;
         }}
         .card h2:first-child {{ margin-top: 0; }}
-        
-        /* 信源区块样式 */
-        .source-section {{
+        .card h3 {{
+            color: #8b4513;
+            margin: 25px 0 15px 0;
+            padding-left: 10px;
+            border-left: 3px solid #8b4513;
+            font-size: 1.2em;
+            line-height: 1.4;
+        }}
+        .card h3 a {{
+            color: #722f37;
+            text-decoration: none;
+            transition: color 0.2s;
+        }}
+        .card h3 a:hover {{ color: #8b4513; text-decoration: underline; }}
+        .card ul.article-meta {{ 
+            list-style: none; 
+            padding-left: 0; 
+            margin: 10px 0 20px 0;
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 15px;
+        }}
+        .card ul.article-meta li {{
+            padding: 5px 0;
+            color: #555;
+            border-bottom: 1px solid #eee;
+        }}
+        .card ul.article-meta li:last-child {{ border-bottom: none; }}
+        .card ul.article-meta li strong {{
+            color: #722f37;
+            display: inline-block;
+            min-width: 80px;
+        }}
+        .card p {{
+            color: #555;
+            margin: 10px 0;
+        }}
+        .card p.meta-info {{
+            color: #666;
+            font-size: 0.95em;
+            margin: 5px 0;
+        }}
+        /* 文章卡片样式 */
+        .article-card {{
             background: #fafafa;
             border-radius: 12px;
             padding: 20px;
-            margin-bottom: 20px;
+            margin-bottom: 25px;
             border-left: 4px solid #722f37;
+            transition: transform 0.2s, box-shadow 0.2s;
         }}
-        .source-name {{
-            color: #8b4513;
-            font-size: 1.2em;
-            margin-bottom: 15px;
-            padding-left: 10px;
-            border-left: 3px solid #8b4513;
+        .article-card:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }}
-        
-        /* 信源图片样式 - 自适应 */
-        .source-image {{
-            margin: 15px 0;
+        .article-card h3 {{
+            margin-top: 0;
+            border-left: none;
+            padding-left: 0;
+        }}
+        /* 图片样式 */
+        .article-image {{
+            margin-top: 15px;
             text-align: center;
             width: 100%;
-            max-height: 250px;
             overflow: hidden;
             border-radius: 8px;
-            background: #f0f0f0;
+            background: #f5f5f5;
         }}
-        .source-image img {{
-            width: 100%;
-            height: 100%;
-            max-height: 250px;
+        .article-image img {{
+            max-width: 100%;
+            width: auto;
+            height: auto;
+            max-height: 400px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
             object-fit: contain;
             display: block;
             margin: 0 auto;
         }}
-        
-        /* 文章列表 */
-        .article-list {{
-            list-style: none;
-            padding: 0;
-            margin: 15px 0 0 0;
-        }}
-        .article-list li {{
-            padding: 10px 0;
-            border-bottom: 1px solid #eee;
-            color: #555;
-            font-size: 0.95em;
-        }}
-        .article-list li:last-child {{
-            border-bottom: none;
-        }}
-        .article-title {{
-            color: #722f37;
-            text-decoration: none;
-            font-weight: 600;
-            display: block;
-            margin-bottom: 5px;
-        }}
-        .article-title:hover {{
-            color: #8b4513;
-            text-decoration: underline;
-        }}
-        .article-desc {{
-            color: #666;
-            font-size: 0.9em;
-            margin: 5px 0;
-        }}
-        
         hr {{
             border: none;
             border-top: 2px solid #e0e0e0;
@@ -510,32 +534,31 @@ def markdown_to_html(md_path):
             color: rgba(255,255,255,0.8);
             font-size: 0.9em;
         }}
-        
-        /* 移动端优化 */
         @media (max-width: 768px) {{
             body {{ padding: 10px; }}
-            header {{ padding: 20px 10px; }}
-            header h1 {{ font-size: 1.5em; margin-bottom: 5px; }}
+            header {{ padding: 15px 10px; }}
+            header h1 {{ font-size: 1.4em; margin-bottom: 5px; }}
             header p {{ font-size: 0.9em; }}
             .update-time {{ padding: 5px 12px; font-size: 0.8em; margin-top: 10px; }}
-            .card {{ padding: 15px; border-radius: 12px; }}
-            .card h2 {{ font-size: 1.2em; margin: 20px 0 15px 0; padding-bottom: 8px; }}
-            
-            .source-section {{ padding: 12px; margin-bottom: 15px; }}
-            .source-name {{ font-size: 1em; margin-bottom: 10px; padding-left: 8px; }}
-            
-            /* 移动端图片 - 一屏内显示 */
-            .source-image {{
-                max-height: 200px;
-                margin: 10px 0;
+            .card {{ padding: 12px; border-radius: 10px; margin-bottom: 15px; }}
+            .card h2 {{ font-size: 1.1em; margin: 15px 0 10px 0; padding-bottom: 8px; }}
+            .card h3 {{ font-size: 0.95em; margin: 12px 0 8px 0; padding-left: 8px; border-left-width: 2px; }}
+            .article-card {{ padding: 12px; margin-bottom: 12px; border-left-width: 3px; }}
+            .article-image {{ 
+                margin-top: 8px; 
                 border-radius: 6px;
+                max-height: 35vh;
             }}
-            .source-image img {{
-                max-height: 200px;
+            .article-image img {{ 
+                max-height: 30vh;
+                width: auto;
+                max-width: 100%;
+                border-radius: 6px;
+                object-fit: contain;
             }}
-            
-            .article-list {{ margin-top: 10px; }}
-            .article-list li {{ padding: 8px 0; font-size: 0.9em; }}
+            .card ul.article-meta {{ padding: 8px; margin: 8px 0 10px 0; }}
+            .card ul.article-meta li {{ font-size: 0.85em; padding: 3px 0; }}
+            .card ul.article-meta li strong {{ min-width: 60px; }}
         }}
     </style>
 </head>
