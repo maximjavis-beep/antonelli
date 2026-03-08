@@ -1,19 +1,26 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-09  
-**来源**: 全球 2 个地区 · 2 个信源
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 3 条
+- **新增资讯**: 4 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
 ## 🌍 欧洲
+
+### 📰 Wine-Searcher
+
+![US Doubles Down on Bordeaux](https://www.wine-searcher.com/images/news-rss/99/01/9901414200069ade8ad_lafite1.jpg)
+
+- **[US Doubles Down on Bordeaux](https://www.wine-searcher.com/m/2026/03/us-doubles-down-on-bordeaux?rss=Y)**
+  Despite fears of tariffs and trade wars, Bordeaux has strengthened its grip on US wine searches....
 
 ### 📰 Decanter
 
@@ -34,5 +41,5 @@
 
 ---
 
-*报告生成时间: 2026-03-09 02:47*  
+*报告生成时间: 2026-03-09 07:00*  
 *Antonelli Intelligence System*
