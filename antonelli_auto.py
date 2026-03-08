@@ -634,7 +634,7 @@ def update_website():
     return index_path
 
 def generate_pdf():
-    """生成 PDF 版本"""
+    """生成 PDF 版本，同时生成 latest_XX.pdf 序列号文件"""
     print("\n📑 步骤 4: 生成 PDF")
     print("-" * 40)
     
@@ -671,12 +671,33 @@ def generate_pdf():
             timeout=60
         )
         
-        if result.returncode == 0:
-            print(f"  ✅ PDF 已生成: {pdf_path}")
-            return pdf_path
-        else:
+        if result.returncode != 0:
             print(f"  ❌ PDF 生成失败: {result.stderr}")
             return None
+        
+        print(f"  ✅ PDF 已生成: {pdf_path}")
+        
+        # 生成 latest_XX.pdf 序列号文件
+        import glob
+        existing_latest = glob.glob(str(pdf_dir / "antonelli_latest_*.pdf"))
+        next_num = 1
+        for f in existing_latest:
+            try:
+                num = int(Path(f).stem.replace("antonelli_latest_", ""))
+                if num >= next_num:
+                    next_num = num + 1
+            except ValueError:
+                continue
+        
+        latest_filename = f"antonelli_latest_{next_num:02d}.pdf"
+        latest_path = pdf_dir / latest_filename
+        
+        # 复制为 latest 版本
+        import shutil
+        shutil.copy2(pdf_path, latest_path)
+        print(f"  ✅ 序列号文件已生成: {latest_path}")
+        
+        return pdf_path
     except Exception as e:
         print(f"  ❌ PDF 生成异常: {str(e)}")
         return None

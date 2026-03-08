@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-07  
+**日期**: 2026-03-08  
 **来源**: 全球 3 个地区 · 9 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 152 条
+- **新增资讯**: 153 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -150,6 +150,9 @@
 
 ### 📰 Brewbound
 
+- **[Insider’s Week in Beer: 🧐 A $10 Beer & Shot, In This Economy?](https://newsletter.bevnet.com/subscriber/8cb567fc7d894bac9060edd20afe0d59)**
+  Folks often ask me, Sean – what’s it like living the glamorous life of a weekend beer biz columnist in New York City? Is...
+
 - **[Insider’s Week in Beer: 🧐 A Guinness 0 NYC Mystery](https://newsletter.bevnet.com/subscriber/da1ec3bbef3e4492ab4f175691723d22)**
   What happened to GUINNESS 0 in NYC?  I haven’t seen it on WHOLE FOODS’ shelves in several weeks in a couple of stores th...
 
@@ -163,9 +166,6 @@
 - **[Circana Weekly Scans: YoY Growth Accelerates Despite WoW Decline](https://www.brewbound.com/news/circana-scans-yoy-growth-accelerates-despite-wow-decline)**
   Despite a post-holiday decline in off-premise sales week-over-week (WoW), bev-alc’s year-over-year (YoY) growth expanded...
   *关键词: market*
-
-- **[Constellation Brands Gained Share in 49 States Despite Down 2025, Looks to Get Back on Track in 2026](https://www.brewbound.com/news/constellation-brands-gained-share-in-49-states-despite-down-2025-looks-to-get-back-on-track-in-2026)**
-  Constellation Brands wasn’t immune from the beverage-alcohol industry’s “tough” 2025, beer division president Jim Sabia ...
 
 ### 📰 The Spirits Business
 
@@ -209,5 +209,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-03-07 22:48*  
+*报告生成时间: 2026-03-08 11:14*  
 *Antonelli Intelligence System*
