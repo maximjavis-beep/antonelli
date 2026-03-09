@@ -20,6 +20,7 @@ CONFIG_PATH = PROJECT_DIR / "config.json"
 DB_PATH = PROJECT_DIR / "data.db"
 REPORTS_DIR = PROJECT_DIR / "reports"
 WEB_DIR = PROJECT_DIR / "web"
+PDF_DIR = Path.home() / "Antonelli"  # PDF 保存到本地 Antonelli 文件夹
 
 def init_db():
     """初始化数据库"""
@@ -728,57 +729,48 @@ def update_website():
     return index_path
 
 def generate_pdf():
-    """生成 PDF 版本，同时生成 latest_XX.pdf 序列号文件"""
+    """生成 PDF 版本，保存到本地 ~/Antonelli 文件夹"""
     print("\n📑 步骤 4: 生成 PDF")
     print("-" * 40)
-    
+
     # 检查 Puppeteer 脚本（项目本地）
     puppeteer_script = PROJECT_DIR / "html_to_pdf.js"
     if not puppeteer_script.exists():
         print(f"  ⚠️ Puppeteer 脚本不存在，跳过 PDF 生成")
         return None
-    
+
     # 网站 HTML 路径
     html_path = WEB_DIR / "index.html"
     if not html_path.exists():
         print(f"  ❌ 未找到网站 HTML")
         return None
-    
+
     # 生成带时间戳的 PDF 文件名
     now = datetime.now()
     date_folder = now.strftime("%Y%m%d")
     time_suffix = now.strftime("%H%M")
-    
-    # 目标文件夹（改为 ~/Antonelli）
-    antonelli_dir = Path.home() / "Antonelli"
-    antonelli_dir.mkdir(exist_ok=True)
-    pdf_dir = antonelli_dir / date_folder
-    pdf_dir.mkdir(exist_ok=True)
-    
+
+    # 目标文件夹改为 ~/Antonelli
+    pdf_dir = PDF_DIR / date_folder
+    pdf_dir.mkdir(parents=True, exist_ok=True)
+
     pdf_filename = f"antonelli_{date_folder}_{time_suffix}.pdf"
     pdf_path = pdf_dir / pdf_filename
-    
+
     # 执行转换
     try:
         result = subprocess.run(
-            ["node", str(puppeteer_script), str(html_path), str(pdf_path)],
+            ["/opt/homebrew/bin/node", str(puppeteer_script), str(html_path), str(pdf_path)],
             capture_output=True,
             text=True,
             timeout=60
         )
-        
+
         if result.returncode != 0:
             print(f"  ❌ PDF 生成失败: {result.stderr}")
             return None
-        
-        print(f"  ✅ PDF 已生成: {pdf_path}")
 
-        # 同时复制到项目 reports 目录（保持兼容性）
-        project_pdf_dir = REPORTS_DIR / date_folder
-        project_pdf_dir.mkdir(exist_ok=True)
-        project_pdf_path = project_pdf_dir / pdf_filename
-        import shutil
-        shutil.copy2(pdf_path, project_pdf_path)
+        print(f"  ✅ PDF 已生成: {pdf_path}")
 
         return pdf_path
     except Exception as e:
