@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-09  
-**来源**: 全球 3 个地区 · 5 个信源
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 31 条
+- **新增资讯**: 38 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -51,6 +51,21 @@
 
 ### 📰 The Drinks Business
 
+![Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen](https://www.thedrinksbusiness.com/content/uploads/2026/03/Emerald-Isle-box-920x609-1-1.jpg)
+
+- **[Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen](https://www.thedrinksbusiness.com/2026/03/stolen-faberge-egg-linked-to-rare-irish-whiskey-set-worth-more-than-2m/)**
+  A luxury Fabergé egg tied to a rare Irish whiskey collection has been stolen during a handbag theft in Soho. The item, a...
+
+![BBR’s Davy Zyw competes at the Winter Paralympics](https://www.thedrinksbusiness.com/content/uploads/2024/12/ZywGT_202412066908.7430c5a5d2aa61ce11833fbbf4797066-scaled.webp)
+
+- **[BBR’s Davy Zyw competes at the Winter Paralympics](https://www.thedrinksbusiness.com/2026/03/bbrs-davy-zyw-competes-at-the-winter-paralympics/)**
+  Berry Bros. & Rudd buyer Davy Zyw is set to become the first snowsport athlete with motor neurone disease (MND) to compe...
+
+![White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’](https://www.thedrinksbusiness.com/content/uploads/2025/04/Hospices-de-Nuits-SG-2025-images-1024x651.jpg)
+
+- **[White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’](https://www.thedrinksbusiness.com/2026/03/white-wines-shine-at-hospices-de-nuits-saint-georges-auction-as-red-sees-slight-adjustment/)**
+  The 64th Hospices de Nuits auction, which raised €1,526,000 for charity on Sunday (8 March), saw strong demand for white...
+
 ![Brown-Forman pinpoints India in premium spirits push](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-470555565-scaled.jpg)
 
 - **[Brown-Forman pinpoints India in premium spirits push](https://www.thedrinksbusiness.com/2026/03/brown-forman-pinpoints-india-in-premium-spirits-push/)**
@@ -62,35 +77,12 @@
 - **[Regulations on malting barley set to protect the beer sector](https://www.thedrinksbusiness.com/2026/03/regulations-on-malting-barley-set-to-protect-the-beer-sector/)**
   The Brewers Association (BA) has asked farmers who grow barley to breed for lower protein in a bid to deliver consistent...
 
-![How pay-for-performance hollowed out wine distribution](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1416803242.jpg)
-
-- **[How pay-for-performance hollowed out wine distribution](https://www.thedrinksbusiness.com/2026/03/how-pay-for-performance-hollowed-out-wine-distribution/)**
-  For years, the wine trade blamed direct-to-consumer sales for weakening distribution. But Alfonso Cevola argues the more...
-  *关键词: distribution*
-
-![A sommelier’s advice to women entering the trade](https://www.thedrinksbusiness.com/content/uploads/2026/03/Kristina-Gladilina_head-of-wine-1-scaled-e1773052558995.jpg)
-
-- **[A sommelier’s advice to women entering the trade](https://www.thedrinksbusiness.com/2026/03/a-sommeliers-advice-to-women-entering-the-trade/)**
-  After starting her career in Russia, Kristina Gladilina, head of wine at Lita in Marylebone, tells db why working in Lon...
-
-![Château du Tertre partners with Ulysse Cazabonne to launch ‘iconoclastic’ white blend](https://www.thedrinksbusiness.com/content/uploads/2026/03/IMG_2395-scaled.jpg)
-
-- **[Château du Tertre partners with Ulysse Cazabonne to launch ‘iconoclastic’ white blend](https://www.thedrinksbusiness.com/2026/03/chateau-du-tertre-partners-with-ulysse-cazabonne-to-launch-iconoclastic-white-blend/)**
-  With the recent unveiling of the new Médoc blanc appellation and its privileging of classic Bordeaux varietals, it might...
-  *关键词: launch*
-
 ### 📰 Decanter
 
 ![Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage](https://cdn.mos.cms.futurecdn.net/gThnBLutxkzSr8qMRib39j-1280-80.png)
 
 - **[Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage](https://www.decanter.com/wine/burgundy-wine/our-experts-surprising-revelations-after-tasting-domaine-de-la-romanee-contis-exuberant-2023-vintage)**
   Not just a fruity face......
-
-- **[Yamanashi: Six star wines to try](https://www.decanter.com/wine/japan/yamanashi-regional-profile-six-star-wines-to-try)**
-  Wines from the foot of Mt Fuji......
-
-- **[Meet the sommelier: Maria José Huertas](https://www.decanter.com/magazine/meet-the-sommelier-maria-jose-huertas)**
-  Head of wine at NH Hotels Spain......
 
 ### 📰 Wine-Searcher
 
@@ -102,39 +94,43 @@
 
 ## 🌍 美洲
 
+### 📰 Brewbound
+
+- **[Former SGWS Employees Indicted For Bribery Scheme in California Grocery Chains](https://www.brewbound.com/news/former-sgws-employees-indicted-for-bribery-scheme-in-california-grocery-chains)**
+  A federal grand jury has indicted five former senior executives at Southern Glazer's Wine and Spirits (SGWS) – the large...
+
 ### 📰 The Spirits Business
 
-![Whisky drags control state spirits sales down in January](https://www.thespiritsbusiness.com/content/uploads/2025/10/Crown-Royal.jpg)
+![RNDC offloads five more markets to Reyes](https://www.thespiritsbusiness.com/content/uploads/2026/03/RNDC.jpg)
 
-- **[Whisky drags control state spirits sales down in January](https://www.thespiritsbusiness.com/2026/03/whisky-drags-control-state-spirits-sales-down-in-january/)**
-  Spirits sales in US control states fell by 3.7% in value in January 2026, driven by declines for Scotch and Canadian whi...
+- **[RNDC offloads five more markets to Reyes](https://www.thespiritsbusiness.com/2026/03/rndc-offloads-five-more-markets-to-reyes/)**
+  Reyes Beverage Group is set to take on the distribution of five more US states from Republic National Distributing Compa...
+  *关键词: distribution, market*
 
-![Hard Rock Cocktails strengthens UK presence](https://www.thespiritsbusiness.com/content/uploads/2026/03/Hard-Rock-Cocktails-AF-Blakemore.jpg)
+![Neurita Tequila secures Australian distribution](https://www.thespiritsbusiness.com/content/uploads/2026/03/2026-02-18-Neurita-29-2000px.jpg)
 
-- **[Hard Rock Cocktails strengthens UK presence](https://www.thespiritsbusiness.com/2026/03/hard-rock-cocktails-strengthens-uk-presence/)**
-  Ready-to-drink brand Hard Rock Cocktails is enhancing its UK presence through a distribution deal with AF Blakemore & So...
+- **[Neurita Tequila secures Australian distribution](https://www.thespiritsbusiness.com/2026/03/neurita-tequila-secures-australian-distribution/)**
+  Distributor JQWS has partnered with Neurita as the Tequila brand looks to capitalise on Australia’s growing appetite for...
   *关键词: distribution*
 
-![Double Dutch names female bartending scholars](https://www.thespiritsbusiness.com/content/uploads/2026/03/Double-Dutch-Female-Bartending-Scholarship-2026.jpg)
+![Taste of Rum 2026 returns to Puerto Rico](https://www.thespiritsbusiness.com/content/uploads/2026/03/Taste-of-rum.jpg)
 
-- **[Double Dutch names female bartending scholars](https://www.thespiritsbusiness.com/2026/03/double-dutch-names-female-bartending-scholars/)**
-  Mixer brand Double Dutch has selected 14 scholars for the 2026 edition of its Female Bartending Scholarship
-The post Dou...
+- **[Taste of Rum 2026 returns to Puerto Rico](https://www.thespiritsbusiness.com/2026/03/taste-of-rum-2026-returns-to-puerto-rico/)**
+  Now in its 16th year, The Rum Lab’s annual Taste of Rum conference will return to the Puerto Rico Convention Center on 2...
 
-![Distillery to open in London’s Spitalfields Market](https://www.thespiritsbusiness.com/content/uploads/2026/03/Spitalfields-Distillery.jpg)
+![Preview: ProWein 2026](https://www.thespiritsbusiness.com/content/uploads/2026/03/ProWein-2025-main-image.jpg)
 
-- **[Distillery to open in London’s Spitalfields Market](https://www.thespiritsbusiness.com/2026/03/distillery-to-open-in-londons-spitalfields-market/)**
-  East London restaurant Alfi plans to open a distillery inside the city’s historic Spitalfields Market by the end of 2026...
-  *关键词: market*
+- **[Preview: ProWein 2026](https://www.thespiritsbusiness.com/2026/03/preview-prowein-2026/)**
+  This year’s ProWein will have a heightened focus on low-and-no ‘spirits’, alongside talks on industry issues and a celeb...
 
-![Campari bets on core brands after turbulent 2025](https://www.thespiritsbusiness.com/content/uploads/2026/03/Aperol.jpg)
+![Andrew Scott expands Redbreast partnership](https://www.thespiritsbusiness.com/content/uploads/2026/03/Redbreast-Andrew-Scott-SXSW.jpg)
 
-- **[Campari bets on core brands after turbulent 2025](https://www.thespiritsbusiness.com/2026/03/campari-bets-on-core-brands-after-turbulent-2025/)**
-  After weathering 2025, Campari Group’s CEO believes a focus on its big brands and geographic expansion can deliver anoth...
-  *关键词: expansion*
+- **[Andrew Scott expands Redbreast partnership](https://www.thespiritsbusiness.com/2026/03/andrew-scott-expands-redbreast-partnership/)**
+  Bafta-winning actor Andrew Scott and Irish Distillers' Redbreast Irish Whiskey will return to the SXSW Film & TV Festiva...
+  *关键词: partnership*
 
 
 ---
 
-*报告生成时间: 2026-03-09 20:04*  
+*报告生成时间: 2026-03-09 22:30*  
 *Antonelli Intelligence System*
