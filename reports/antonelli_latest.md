@@ -1,16 +1,26 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-09  
-**来源**: 全球 2 个地区 · 3 个信源
+**来源**: 全球 3 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 4 条
+- **新增资讯**: 5 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
+
+
+## 🌍 亚洲
+
+### 📰 The Shout
+
+![Introducing Robert Mondavi California](https://theshout.com.au/wp-content/uploads/2026/03/1806-M2-RMC-NLN-Whats-Hot-Ads-1_Lead-Image.jpg?w=780)
+
+- **[Introducing Robert Mondavi California](https://theshout.com.au/introducing-robert-mondavi-california/)**
+  Introducing Robert Mondavi California, the newest range from the Robert [&hellip;]...
 
 
 ## 🌍 欧洲
@@ -41,5 +51,5 @@
 
 ---
 
-*报告生成时间: 2026-03-09 07:00*  
+*报告生成时间: 2026-03-09 08:01*  
 *Antonelli Intelligence System*
