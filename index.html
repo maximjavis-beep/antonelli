@@ -73,49 +73,83 @@
             border-left: 3px solid #8b4513;
         }
         
-        /* 图片响应式 - 确保在各种设备上都能正常显示 */
-        .card img {
+        /* ===== 图片容器和自适应样式 ===== */
+        .img-container {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            margin: 12px 0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .img-container.img-loaded {
+            background: transparent;
+            min-height: auto;
+        }
+        
+        .img-container.img-error {
+            background: #f0f0f0;
+            min-height: 80px;
+        }
+        
+        .content-img {
+            width: 100%;
             max-width: 100%;
             height: auto;
-            border-radius: 8px;
-            margin: 10px 0;
+            max-height: 400px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 12px;
             display: block;
+            opacity: 0;
+            transition: opacity 0.3s ease;
         }
-
-        /* 信源图片容器 - 自适应屏幕 */
+        
+        .img-container.img-loaded .content-img {
+            opacity: 1;
+        }
+        
+        .img-container.img-error .content-img {
+            display: none;
+        }
+        
+        .img-placeholder {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 2em;
+            opacity: 0.5;
+            transition: opacity 0.3s ease;
+        }
+        
+        .img-container.img-loaded .img-placeholder {
+            opacity: 0;
+            pointer-events: none;
+        }
+        
+        .img-container.img-error .img-placeholder {
+            opacity: 0.3;
+            font-size: 1.5em;
+        }
+        
+        /* 信源图片容器 */
         .source-image {
             margin: 15px 0;
-            text-align: center;
-            width: 100%;
-            overflow: hidden;
-            border-radius: 8px;
-            background: #f5f5f5;
         }
-
-        /* 信源图片 - 保持比例自适应 */
-        .source-image img {
-            width: 100%;
+        
+        .source-image .img-container {
+            min-height: 150px;
+        }
+        
+        .source-image .content-img {
             max-height: 300px;
-            height: auto;
-            object-fit: contain;
-            display: block;
-            margin: 0 auto;
-        }
-
-        /* 文章内图片 - 响应式 */
-        .article-image {
-            margin: 10px 0;
-            width: 100%;
-            border-radius: 6px;
-            overflow: hidden;
-            background: #f5f5f5;
-        }
-        .article-image img {
-            width: 100%;
-            height: auto;
-            max-height: 250px;
-            object-fit: contain;
-            display: block;
         }
         
         /* 文章列表 */
@@ -176,14 +210,11 @@
             .source-name { font-size: 1em; margin-bottom: 10px; padding-left: 8px; }
             
             /* 移动端图片 - 自适应 */
-            .source-image {
-                margin: 10px 0;
-                border-radius: 6px;
-            }
-            .source-image img {
-                max-height: 200px;
-                width: 100%;
-            }
+            .content-img { max-height: 300px; }
+            .img-container { min-height: 100px; border-radius: 8px; }
+            .source-image .img-container { min-height: 80px; }
+            .source-image .content-img { max-height: 200px; }
+            
             .article-image {
                 margin: 8px 0;
             }
@@ -201,47 +232,82 @@
         <header>
             <h1>🍷 Antonelli 酒类情报日报</h1>
             <p>全球酒类行业情报追踪系统</p>
-            <div class="update-time">更新时间: 2026年03月09日 22:30</div>
+            <div class="update-time">更新时间: 2026年03月10日 00:45</div>
         </header>
         
         <div class="card">
-            <p class="meta-info">日期: 2026-03-09</p>
+            <p class="meta-info">日期: 2026-03-10</p>
 <p class="meta-info">来源: 全球 3 个地区 · 6 个信源</p>
 <hr>
 <h2>📊 今日概览</h2>
 <ul class="article-list">
-<li><strong>新增资讯</strong>: 38 条</li>
+<li><strong>新增资讯</strong>: 39 条</li>
 <li><strong>重点关键词</strong>: 并购、新品发布、市场扩张、分销合作</li>
 </ul>
 <hr>
 <h2>🌍 亚洲</h2>
 <div class="source-section">
 <h3 class="source-name">📰 The Shout</h3>
-<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/03/Suntory-196lemonpassionfruit.jpg?w=780" alt="Suntory -196 launches new flavour" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://theshout.com.au/wp-content/uploads/2026/03/Suntory-196lemonpassionfruit.jpg?w=780" alt="Suntory -196 launches new flavour" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/suntory-196-launches-new-flavour/" target="_blank" class="article-title">Suntory -196 launches new flavour</a></li>
 </ul>
 <p class="article-desc">Suntory Global Spirits is building on the success of its -196 RTD, with the addition of a new flavour to its portfolio o...</p>
 <p class="article-desc">*关键词: launch*</p>
-<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/03/SamuelSmithSidewoodEstate.jpg?w=780" alt="Samuel Smith & Son secures Sidewood Estate distribution" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://theshout.com.au/wp-content/uploads/2026/03/SamuelSmithSidewoodEstate.jpg?w=780" alt="Samuel Smith & Son secures Sidewood Estate distribution" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/samuel-smith-son-secures-sidewood-estate-distribution/" target="_blank" class="article-title">Samuel Smith & Son secures Sidewood Estate distribution</a></li>
 </ul>
 <p class="article-desc">Samuel Smith & Son has been appointed the national distributor for Sidewood Estate, strengthening the fine wine distribu...</p>
 <p class="article-desc">*关键词: distribution*</p>
-<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2026/03/Coonawarra2026vintagelaunches.jpg?w=780" alt="Coonawarra launches 2026 harvest" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://theshout.com.au/wp-content/uploads/2026/03/Coonawarra2026vintagelaunches.jpg?w=780" alt="Coonawarra launches 2026 harvest" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/coonawarra-launches-2026-harvest/" target="_blank" class="article-title">Coonawarra launches 2026 harvest</a></li>
 </ul>
 <p class="article-desc">The Coonawarra wine community has celebrated the spirit of the harvest, by coming together for the launch of the 2026 vi...</p>
 <p class="article-desc">*关键词: launch*</p>
-<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2022/09/FourPillars.jpg?w=780" alt="Four Pillars relaunches community grant program" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://theshout.com.au/wp-content/uploads/2022/09/FourPillars.jpg?w=780" alt="Four Pillars relaunches community grant program" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/four-pillars-relaunches-community-grant-program/" target="_blank" class="article-title">Four Pillars relaunches community grant program</a></li>
 </ul>
 <p class="article-desc">The ‘Four Pillars of the Community’ grant program invites grassroots organisations to apply for a share in $25,000....</p>
 <p class="article-desc">*关键词: launch*</p>
-<div class="source-image"><img src="https://theshout.com.au/wp-content/uploads/2025/06/PapaSalt50mlbottle.jpg?w=780" alt="Big Papa and minis drive retail and venue engagement for Papa Salt Gin" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://theshout.com.au/wp-content/uploads/2025/06/PapaSalt50mlbottle.jpg?w=780" alt="Big Papa and minis drive retail and venue engagement for Papa Salt Gin" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://theshout.com.au/big-papa-and-minis-drive-retail-and-venue-engagement-for-papa-salt-gin/" target="_blank" class="article-title">Big Papa and minis drive retail and venue engagement for Papa Salt Gin</a></li>
 </ul>
@@ -250,28 +316,63 @@
 <h2>🌍 欧洲</h2>
 <div class="source-section">
 <h3 class="source-name">📰 The Drinks Business</h3>
-<div class="source-image"><img src="https://www.thedrinksbusiness.com/content/uploads/2026/03/Emerald-Isle-box-920x609-1-1.jpg" alt="Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thedrinksbusiness.com/content/uploads/2026/03/Emerald-Isle-box-920x609-1-1.jpg" alt="Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thedrinksbusiness.com/2026/03/stolen-faberge-egg-linked-to-rare-irish-whiskey-set-worth-more-than-2m/" target="_blank" class="article-title">Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen</a></li>
 </ul>
 <p class="article-desc">A luxury Fabergé egg tied to a rare Irish whiskey collection has been stolen during a handbag theft in Soho. The item, a...</p>
-<div class="source-image"><img src="https://www.thedrinksbusiness.com/content/uploads/2024/12/ZywGT_202412066908.7430c5a5d2aa61ce11833fbbf4797066-scaled.webp" alt="BBR’s Davy Zyw competes at the Winter Paralympics" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thedrinksbusiness.com/content/uploads/2024/12/ZywGT_202412066908.7430c5a5d2aa61ce11833fbbf4797066-scaled.webp" alt="BBR’s Davy Zyw competes at the Winter Paralympics" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thedrinksbusiness.com/2026/03/bbrs-davy-zyw-competes-at-the-winter-paralympics/" target="_blank" class="article-title">BBR’s Davy Zyw competes at the Winter Paralympics</a></li>
 </ul>
 <p class="article-desc">Berry Bros. & Rudd buyer Davy Zyw is set to become the first snowsport athlete with motor neurone disease (MND) to compe...</p>
-<div class="source-image"><img src="https://www.thedrinksbusiness.com/content/uploads/2025/04/Hospices-de-Nuits-SG-2025-images-1024x651.jpg" alt="White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thedrinksbusiness.com/content/uploads/2025/04/Hospices-de-Nuits-SG-2025-images-1024x651.jpg" alt="White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thedrinksbusiness.com/2026/03/white-wines-shine-at-hospices-de-nuits-saint-georges-auction-as-red-sees-slight-adjustment/" target="_blank" class="article-title">White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’</a></li>
 </ul>
 <p class="article-desc">The 64th Hospices de Nuits auction, which raised €1,526,000 for charity on Sunday (8 March), saw strong demand for white...</p>
-<div class="source-image"><img src="https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-470555565-scaled.jpg" alt="Brown-Forman pinpoints India in premium spirits push" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-470555565-scaled.jpg" alt="Brown-Forman pinpoints India in premium spirits push" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thedrinksbusiness.com/2026/03/brown-forman-pinpoints-india-in-premium-spirits-push/" target="_blank" class="article-title">Brown-Forman pinpoints India in premium spirits push</a></li>
 </ul>
 <p class="article-desc">US-based producer Brown-Forman, the maker of Jack Daniel’s whiskey, is gearing up to launch several premium spirits bran...</p>
 <p class="article-desc">*关键词: launch*</p>
-<div class="source-image"><img src="https://www.thedrinksbusiness.com/content/uploads/2021/11/barley-scaled.jpg" alt="Regulations on malting barley set to protect the beer sector" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thedrinksbusiness.com/content/uploads/2021/11/barley-scaled.jpg" alt="Regulations on malting barley set to protect the beer sector" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thedrinksbusiness.com/2026/03/regulations-on-malting-barley-set-to-protect-the-beer-sector/" target="_blank" class="article-title">Regulations on malting barley set to protect the beer sector</a></li>
 </ul>
@@ -279,7 +380,14 @@
 </div>
 <div class="source-section">
 <h3 class="source-name">📰 Decanter</h3>
-<div class="source-image"><img src="https://cdn.mos.cms.futurecdn.net/gThnBLutxkzSr8qMRib39j-1280-80.png" alt="Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://cdn.mos.cms.futurecdn.net/gThnBLutxkzSr8qMRib39j-1280-80.png" alt="Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.decanter.com/wine/burgundy-wine/our-experts-surprising-revelations-after-tasting-domaine-de-la-romanee-contis-exuberant-2023-vintage" target="_blank" class="article-title">Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage</a></li>
 </ul>
@@ -287,7 +395,14 @@
 </div>
 <div class="source-section">
 <h3 class="source-name">📰 Wine-Searcher</h3>
-<div class="source-image"><img src="https://www.wine-searcher.com/images/news-rss/99/01/9901414200069ade8ad_lafite1.jpg" alt="US Doubles Down on Bordeaux" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.wine-searcher.com/images/news-rss/99/01/9901414200069ade8ad_lafite1.jpg" alt="US Doubles Down on Bordeaux" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.wine-searcher.com/m/2026/03/us-doubles-down-on-bordeaux?rss=Y" target="_blank" class="article-title">US Doubles Down on Bordeaux</a></li>
 </ul>
@@ -297,35 +412,74 @@
 <div class="source-section">
 <h3 class="source-name">📰 Brewbound</h3>
 <ul class="article-list">
+<li><a href="https://www.brewbound.com/news/tilray-brands-acquires-brewdogs-australian-brewery-and-5-pubs-with-eye-to-expand-sales-of-key-brands" target="_blank" class="article-title">Tilray Brands Acquires BrewDog’s Australian Brewery and 5 Pubs With Eye to Expand Sales of Key Brands</a></li>
+</ul>
+<p class="article-desc">Tilray Brands continues to acquire pieces of Scottish craft beer maker BrewDog’s global business. The Canadian cannabis,...</p>
+<ul class="article-list">
 <li><a href="https://www.brewbound.com/news/former-sgws-employees-indicted-for-bribery-scheme-in-california-grocery-chains" target="_blank" class="article-title">Former SGWS Employees Indicted For Bribery Scheme in California Grocery Chains</a></li>
 </ul>
 <p class="article-desc">A federal grand jury has indicted five former senior executives at Southern Glazer's Wine and Spirits (SGWS) – the large...</p>
 </div>
 <div class="source-section">
 <h3 class="source-name">📰 The Spirits Business</h3>
-<div class="source-image"><img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/RNDC.jpg" alt="RNDC offloads five more markets to Reyes" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/RNDC.jpg" alt="RNDC offloads five more markets to Reyes" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thespiritsbusiness.com/2026/03/rndc-offloads-five-more-markets-to-reyes/" target="_blank" class="article-title">RNDC offloads five more markets to Reyes</a></li>
 </ul>
 <p class="article-desc">Reyes Beverage Group is set to take on the distribution of five more US states from Republic National Distributing Compa...</p>
 <p class="article-desc">*关键词: distribution, market*</p>
-<div class="source-image"><img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/2026-02-18-Neurita-29-2000px.jpg" alt="Neurita Tequila secures Australian distribution" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/2026-02-18-Neurita-29-2000px.jpg" alt="Neurita Tequila secures Australian distribution" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thespiritsbusiness.com/2026/03/neurita-tequila-secures-australian-distribution/" target="_blank" class="article-title">Neurita Tequila secures Australian distribution</a></li>
 </ul>
 <p class="article-desc">Distributor JQWS has partnered with Neurita as the Tequila brand looks to capitalise on Australia’s growing appetite for...</p>
 <p class="article-desc">*关键词: distribution*</p>
-<div class="source-image"><img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/Taste-of-rum.jpg" alt="Taste of Rum 2026 returns to Puerto Rico" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/Taste-of-rum.jpg" alt="Taste of Rum 2026 returns to Puerto Rico" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thespiritsbusiness.com/2026/03/taste-of-rum-2026-returns-to-puerto-rico/" target="_blank" class="article-title">Taste of Rum 2026 returns to Puerto Rico</a></li>
 </ul>
 <p class="article-desc">Now in its 16th year, The Rum Lab’s annual Taste of Rum conference will return to the Puerto Rico Convention Center on 2...</p>
-<div class="source-image"><img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/ProWein-2025-main-image.jpg" alt="Preview: ProWein 2026" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/ProWein-2025-main-image.jpg" alt="Preview: ProWein 2026" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thespiritsbusiness.com/2026/03/preview-prowein-2026/" target="_blank" class="article-title">Preview: ProWein 2026</a></li>
 </ul>
 <p class="article-desc">This year’s ProWein will have a heightened focus on low-and-no ‘spirits’, alongside talks on industry issues and a celeb...</p>
-<div class="source-image"><img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/Redbreast-Andrew-Scott-SXSW.jpg" alt="Andrew Scott expands Redbreast partnership" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://www.thespiritsbusiness.com/content/uploads/2026/03/Redbreast-Andrew-Scott-SXSW.jpg" alt="Andrew Scott expands Redbreast partnership" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://www.thespiritsbusiness.com/2026/03/andrew-scott-expands-redbreast-partnership/" target="_blank" class="article-title">Andrew Scott expands Redbreast partnership</a></li>
 </ul>
@@ -333,7 +487,7 @@
 <p class="article-desc">*关键词: partnership*</p>
 </div>
 <hr>
-<p class="article-desc">*报告生成时间: 2026-03-09 22:30*</p>
+<p class="article-desc">*报告生成时间: 2026-03-10 00:45*</p>
 <p class="article-desc">*Antonelli Intelligence System*</p>
         </div>
         

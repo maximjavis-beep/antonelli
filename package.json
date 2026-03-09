@@ -1,0 +1,23 @@
+{
+  "name": "antonelli",
+  "version": "1.0.0",
+  "description": "Antonelli 是一个专注于全球酒类行业的 RSS 情报追踪系统，覆盖北美、南美、欧洲、中国、日本和亚太地区的生产商、分销商和推广渠道动态。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximjavis-beep/antonelli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximjavis-beep/antonelli/issues"
+  },
+  "homepage": "https://github.com/maximjavis-beep/antonelli#readme",
+  "dependencies": {
+    "puppeteer": "^24.38.0"
+  }
+}

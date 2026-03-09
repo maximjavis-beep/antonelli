@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-09  
+**日期**: 2026-03-10  
 **来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 38 条
+- **新增资讯**: 39 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -96,6 +96,9 @@
 
 ### 📰 Brewbound
 
+- **[Tilray Brands Acquires BrewDog’s Australian Brewery and 5 Pubs With Eye to Expand Sales of Key Brands](https://www.brewbound.com/news/tilray-brands-acquires-brewdogs-australian-brewery-and-5-pubs-with-eye-to-expand-sales-of-key-brands)**
+  Tilray Brands continues to acquire pieces of Scottish craft beer maker BrewDog’s global business. The Canadian cannabis,...
+
 - **[Former SGWS Employees Indicted For Bribery Scheme in California Grocery Chains](https://www.brewbound.com/news/former-sgws-employees-indicted-for-bribery-scheme-in-california-grocery-chains)**
   A federal grand jury has indicted five former senior executives at Southern Glazer's Wine and Spirits (SGWS) – the large...
 
@@ -132,5 +135,5 @@
 
 ---
 
-*报告生成时间: 2026-03-09 22:30*  
+*报告生成时间: 2026-03-10 00:45*  
 *Antonelli Intelligence System*

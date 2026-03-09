@@ -21,6 +21,43 @@ def ensure_dirs():
     WEB_DIR.mkdir(exist_ok=True)
     (WEB_DIR / "static").mkdir(exist_ok=True)
 
+def extract_images_from_summary(summary):
+    """从摘要中提取图片URL"""
+    if not summary:
+        return []
+    # 匹配各种图片格式
+    img_patterns = [
+        r'<img[^>]+src=["\']([^"\']+)["\']',  # 标准img标签
+        r'<img[^>]+src=([^\s>]+)',  # 无引号的src
+    ]
+    images = []
+    for pattern in img_patterns:
+        matches = re.findall(pattern, summary, re.IGNORECASE)
+        images.extend(matches)
+    # 去重并限制数量
+    seen = set()
+    unique = []
+    for img in images[:3]:  # 最多3张
+        if img not in seen:
+            seen.add(img)
+            unique.append(img)
+    return unique
+
+def process_images_for_html(images):
+    """生成图片HTML，带懒加载和错误处理"""
+    if not images:
+        return ""
+    html = '<div class="article-images">'
+    for src in images:
+        html += f'''<div class="img-container">
+            <img src="{src}" alt="" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                 onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                 onload="this.parentElement.classList.add('img-loaded');">
+            <div class="img-placeholder">📷</div>
+        </div>'''
+    html += '</div>'
+    return html
+
 def get_articles():
     """获取所有文章并按地区分组"""
     conn = sqlite3.connect(DB_PATH)
@@ -316,6 +353,98 @@ def generate_html():
             -webkit-box-orient: vertical;
             overflow: hidden;
         }}
+        
+        /* ===== 图片容器和自适应样式 ===== */
+        .article-images {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin: 10px 0;
+        }}
+        
+        .img-container {{
+            position: relative;
+            flex: 1 1 calc(50% - 4px);
+            min-width: 120px;
+            max-width: 100%;
+            border-radius: 8px;
+            overflow: hidden;
+            background: var(--background);
+            min-height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }}
+        
+        .img-container.img-loaded {{
+            background: transparent;
+            min-height: auto;
+        }}
+        
+        .img-container.img-error {{
+            background: var(--background-alt);
+            min-height: 60px;
+        }}
+        
+        .content-img {{
+            width: 100%;
+            height: auto;
+            max-height: 200px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 8px;
+            display: block;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }}
+        
+        .img-container.img-loaded .content-img {{
+            opacity: 1;
+        }}
+        
+        .img-container.img-error .content-img {{
+            display: none;
+        }}
+        
+        .img-placeholder {{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 1.5em;
+            opacity: 0.4;
+            transition: opacity 0.3s ease;
+        }}
+        
+        .img-container.img-loaded .img-placeholder {{
+            opacity: 0;
+            pointer-events: none;
+        }}
+        
+        .img-container.img-error .img-placeholder {{
+            opacity: 0.2;
+            font-size: 1.2em;
+        }}
+        
+        @media (max-width: 768px) {{
+            .img-container {{
+                flex: 1 1 100%;
+                min-height: 80px;
+            }}
+            .content-img {{
+                max-height: 180px;
+            }}
+        }}
+        
+        @media (max-width: 480px) {{
+            .content-img {{
+                max-height: 150px;
+            }}
+            .img-container {{
+                min-height: 60px;
+            }}
+        }}
+        
         .keywords {{
             margin-top: 10px;
         }}
@@ -407,8 +536,12 @@ def generate_html():
         for article in articles[:20]:
             title, link, summary, published, source, region, keywords, fetched_at = article
             
-            # 清理摘要
+            # 清理摘要 (保留图片用于提取)
             clean_summary = re.sub(r'<[^>]+>', '', summary)[:150] if summary else ''
+            
+            # 提取图片
+            images = extract_images_from_summary(summary) if summary else []
+            images_html = process_images_for_html(images)
             
             # 关键词
             keywords_html = ''
@@ -420,6 +553,7 @@ def generate_html():
                 <div class="article">
                     <h4><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h4>
                     <div class="article-meta">📰 {source} · {fetched_at[:10]}</div>
+                    {images_html}
                     <div class="article-summary">{clean_summary}...</div>
                     {keywords_html}
                 </div>

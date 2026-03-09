@@ -397,11 +397,18 @@ def markdown_to_html(md_path):
             in_source_section = True
             continue
         
-        # 处理 Markdown 图片格式 ![alt](url)
+        # 处理 Markdown 图片格式 ![alt](url) - 使用新的图片容器
         img_match = re.match(r'!\[(.+?)\]\((.+?)\)', stripped)
         if img_match:
             alt_text, img_url = img_match.groups()
-            html_lines.append(f'<div class="source-image"><img src="{img_url}" alt="{alt_text}" loading="lazy"></div>')
+            html_lines.append(f'''<div class="source-image">
+                <div class="img-container">
+                    <img src="{img_url}" alt="{alt_text}" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>''')
             continue
         
         # 处理列表项（文章列表）
@@ -514,49 +521,83 @@ def markdown_to_html(md_path):
             border-left: 3px solid #8b4513;
         }}
         
-        /* 图片响应式 - 确保在各种设备上都能正常显示 */
-        .card img {{
+        /* ===== 图片容器和自适应样式 ===== */
+        .img-container {{
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            margin: 12px 0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }}
+        
+        .img-container.img-loaded {{
+            background: transparent;
+            min-height: auto;
+        }}
+        
+        .img-container.img-error {{
+            background: #f0f0f0;
+            min-height: 80px;
+        }}
+        
+        .content-img {{
+            width: 100%;
             max-width: 100%;
             height: auto;
-            border-radius: 8px;
-            margin: 10px 0;
+            max-height: 400px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 12px;
             display: block;
+            opacity: 0;
+            transition: opacity 0.3s ease;
         }}
-
-        /* 信源图片容器 - 自适应屏幕 */
+        
+        .img-container.img-loaded .content-img {{
+            opacity: 1;
+        }}
+        
+        .img-container.img-error .content-img {{
+            display: none;
+        }}
+        
+        .img-placeholder {{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 2em;
+            opacity: 0.5;
+            transition: opacity 0.3s ease;
+        }}
+        
+        .img-container.img-loaded .img-placeholder {{
+            opacity: 0;
+            pointer-events: none;
+        }}
+        
+        .img-container.img-error .img-placeholder {{
+            opacity: 0.3;
+            font-size: 1.5em;
+        }}
+        
+        /* 信源图片容器 */
         .source-image {{
             margin: 15px 0;
-            text-align: center;
-            width: 100%;
-            overflow: hidden;
-            border-radius: 8px;
-            background: #f5f5f5;
         }}
-
-        /* 信源图片 - 保持比例自适应 */
-        .source-image img {{
-            width: 100%;
+        
+        .source-image .img-container {{
+            min-height: 150px;
+        }}
+        
+        .source-image .content-img {{
             max-height: 300px;
-            height: auto;
-            object-fit: contain;
-            display: block;
-            margin: 0 auto;
-        }}
-
-        /* 文章内图片 - 响应式 */
-        .article-image {{
-            margin: 10px 0;
-            width: 100%;
-            border-radius: 6px;
-            overflow: hidden;
-            background: #f5f5f5;
-        }}
-        .article-image img {{
-            width: 100%;
-            height: auto;
-            max-height: 250px;
-            object-fit: contain;
-            display: block;
         }}
         
         /* 文章列表 */
@@ -617,14 +658,11 @@ def markdown_to_html(md_path):
             .source-name {{ font-size: 1em; margin-bottom: 10px; padding-left: 8px; }}
             
             /* 移动端图片 - 自适应 */
-            .source-image {{
-                margin: 10px 0;
-                border-radius: 6px;
-            }}
-            .source-image img {{
-                max-height: 200px;
-                width: 100%;
-            }}
+            .content-img {{ max-height: 300px; }}
+            .img-container {{ min-height: 100px; border-radius: 8px; }}
+            .source-image .img-container {{ min-height: 80px; }}
+            .source-image .content-img {{ max-height: 200px; }}
+            
             .article-image {{
                 margin: 8px 0;
             }}
@@ -694,8 +732,8 @@ def generate_pdf():
     print("\n📑 步骤 4: 生成 PDF")
     print("-" * 40)
     
-    # 检查 Puppeteer 脚本
-    puppeteer_script = Path.home() / ".openclaw/workspace/html_to_pdf.js"
+    # 检查 Puppeteer 脚本（项目本地）
+    puppeteer_script = PROJECT_DIR / "html_to_pdf.js"
     if not puppeteer_script.exists():
         print(f"  ⚠️ Puppeteer 脚本不存在，跳过 PDF 生成")
         return None
@@ -711,8 +749,10 @@ def generate_pdf():
     date_folder = now.strftime("%Y%m%d")
     time_suffix = now.strftime("%H%M")
     
-    # 目标文件夹
-    pdf_dir = REPORTS_DIR / date_folder
+    # 目标文件夹（改为 ~/Antonelli）
+    antonelli_dir = Path.home() / "Antonelli"
+    antonelli_dir.mkdir(exist_ok=True)
+    pdf_dir = antonelli_dir / date_folder
     pdf_dir.mkdir(exist_ok=True)
     
     pdf_filename = f"antonelli_{date_folder}_{time_suffix}.pdf"
@@ -732,27 +772,14 @@ def generate_pdf():
             return None
         
         print(f"  ✅ PDF 已生成: {pdf_path}")
-        
-        # 生成 latest_XX.pdf 序列号文件
-        import glob
-        existing_latest = glob.glob(str(pdf_dir / "antonelli_latest_*.pdf"))
-        next_num = 1
-        for f in existing_latest:
-            try:
-                num = int(Path(f).stem.replace("antonelli_latest_", ""))
-                if num >= next_num:
-                    next_num = num + 1
-            except ValueError:
-                continue
-        
-        latest_filename = f"antonelli_latest_{next_num:02d}.pdf"
-        latest_path = pdf_dir / latest_filename
-        
-        # 复制为 latest 版本
+
+        # 同时复制到项目 reports 目录（保持兼容性）
+        project_pdf_dir = REPORTS_DIR / date_folder
+        project_pdf_dir.mkdir(exist_ok=True)
+        project_pdf_path = project_pdf_dir / pdf_filename
         import shutil
-        shutil.copy2(pdf_path, latest_path)
-        print(f"  ✅ 序列号文件已生成: {latest_path}")
-        
+        shutil.copy2(pdf_path, project_pdf_path)
+
         return pdf_path
     except Exception as e:
         print(f"  ❌ PDF 生成异常: {str(e)}")
