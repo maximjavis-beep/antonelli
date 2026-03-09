@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 30 条
+- **新增资讯**: 31 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -51,6 +51,12 @@
 
 ### 📰 The Drinks Business
 
+![Brown-Forman pinpoints India in premium spirits push](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-470555565-scaled.jpg)
+
+- **[Brown-Forman pinpoints India in premium spirits push](https://www.thedrinksbusiness.com/2026/03/brown-forman-pinpoints-india-in-premium-spirits-push/)**
+  US-based producer Brown-Forman, the maker of Jack Daniel’s whiskey, is gearing up to launch several premium spirits bran...
+  *关键词: launch*
+
 ![Regulations on malting barley set to protect the beer sector](https://www.thedrinksbusiness.com/content/uploads/2021/11/barley-scaled.jpg)
 
 - **[Regulations on malting barley set to protect the beer sector](https://www.thedrinksbusiness.com/2026/03/regulations-on-malting-barley-set-to-protect-the-beer-sector/)**
@@ -72,11 +78,6 @@
 - **[Château du Tertre partners with Ulysse Cazabonne to launch ‘iconoclastic’ white blend](https://www.thedrinksbusiness.com/2026/03/chateau-du-tertre-partners-with-ulysse-cazabonne-to-launch-iconoclastic-white-blend/)**
   With the recent unveiling of the new Médoc blanc appellation and its privileging of classic Bordeaux varietals, it might...
   *关键词: launch*
-
-![Steinlager beer recalled after alcohol-free label error](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1656876763.jpg)
-
-- **[Steinlager beer recalled after alcohol-free label error](https://www.thedrinksbusiness.com/2026/03/steinlager-beer-recalled-after-alcohol-free-label-error/)**
-  More than 2,500 cases of Steinlager beer have been recalled in New Zealand after bottles containing alcohol were incorre...
 
 ### 📰 Decanter
 
@@ -135,5 +136,5 @@ The post Dou...
 
 ---
 
-*报告生成时间: 2026-03-09 19:46*  
+*报告生成时间: 2026-03-09 20:04*  
 *Antonelli Intelligence System*

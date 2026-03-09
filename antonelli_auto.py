@@ -272,6 +272,7 @@ def generate_markdown_report():
         region_sources[region].append((source, items))
 
     # 生成各地区内容
+    seen_links = set()
     for region in sorted(region_sources.keys()):
         md += f"\n## 🌍 {region}\n\n"
 
@@ -282,7 +283,12 @@ def generate_markdown_report():
             # 如果有文章
             if items:
                 # 列出该信源的文章（最多5条），每篇文章单独显示自己的图片
+                rendered = 0
                 for title, link, summary, published, s, r, keywords in items[:5]:
+                    if link in seen_links:
+                        continue
+                    seen_links.add(link)
+                    rendered += 1
                     # 提取该文章的图片
                     img_url = extract_image_from_summary(summary)
                     if img_url:
@@ -295,6 +301,8 @@ def generate_markdown_report():
                     if keywords:
                         md += f"  *关键词: {', '.join(keywords.split(',')[:3])}*\n"
                     md += "\n"
+                if rendered == 0:
+                    md += "*📝 该信源暂无更新*\n\n"
             else:
                 # 该信源暂无更新
                 md += "*📝 该信源暂无更新*\n\n"
