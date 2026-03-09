@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 18 条
+- **新增资讯**: 30 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -51,27 +51,32 @@
 
 ### 📰 The Drinks Business
 
-![Cava DO adds four more wineries to ‘Integral Producer’ seal](https://www.thedrinksbusiness.com/content/uploads/2026/03/image00010.width-800.jpg)
+![Regulations on malting barley set to protect the beer sector](https://www.thedrinksbusiness.com/content/uploads/2021/11/barley-scaled.jpg)
 
-- **[Cava DO adds four more wineries to ‘Integral Producer’ seal](https://www.thedrinksbusiness.com/2026/03/cava-do-adds-four-more-wineries-to-integral-producer-seal/)**
-  Celler Eudald Massana, Cavas Bolet, Torrens Moliner and Rovellats have joined the Cava DO’s Integral Producer category, ...
+- **[Regulations on malting barley set to protect the beer sector](https://www.thedrinksbusiness.com/2026/03/regulations-on-malting-barley-set-to-protect-the-beer-sector/)**
+  The Brewers Association (BA) has asked farmers who grow barley to breed for lower protein in a bid to deliver consistent...
 
-![Top table: how Prosecco seduced the on-trade](https://www.thedrinksbusiness.com/content/uploads/2026/03/Prosecco-on-trade-scaled-e1772801201908.jpg)
+![How pay-for-performance hollowed out wine distribution](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1416803242.jpg)
 
-- **[Top table: how Prosecco seduced the on-trade](https://www.thedrinksbusiness.com/2026/03/toast-of-the-trade/)**
-  As Prosecco continues to light up the global on-trade, Roger Morris discovers its pouring power by the bottle, by the gl...
+- **[How pay-for-performance hollowed out wine distribution](https://www.thedrinksbusiness.com/2026/03/how-pay-for-performance-hollowed-out-wine-distribution/)**
+  For years, the wine trade blamed direct-to-consumer sales for weakening distribution. But Alfonso Cevola argues the more...
+  *关键词: distribution*
 
-![Is it best to consume hot or cold water between alcoholic drinks?](https://www.thedrinksbusiness.com/content/uploads/2026/03/hot-or-cold-water.jpg)
+![A sommelier’s advice to women entering the trade](https://www.thedrinksbusiness.com/content/uploads/2026/03/Kristina-Gladilina_head-of-wine-1-scaled-e1773052558995.jpg)
 
-- **[Is it best to consume hot or cold water between alcoholic drinks?](https://www.thedrinksbusiness.com/2026/03/is-it-best-to-consume-hot-or-cold-water-between-alcoholic-drinks/)**
-  The question of whether warm or cold water is better to drink has led to viral discussions online. In the era of zebra-s...
-  *关键词: trend*
+- **[A sommelier’s advice to women entering the trade](https://www.thedrinksbusiness.com/2026/03/a-sommeliers-advice-to-women-entering-the-trade/)**
+  After starting her career in Russia, Kristina Gladilina, head of wine at Lita in Marylebone, tells db why working in Lon...
 
-![Felix Solis: UK ‘central to long-term strategy’](https://www.thedrinksbusiness.com/content/uploads/2026/02/Valdepenas-Huerto-solar-fsa-.png)
+![Château du Tertre partners with Ulysse Cazabonne to launch ‘iconoclastic’ white blend](https://www.thedrinksbusiness.com/content/uploads/2026/03/IMG_2395-scaled.jpg)
 
-- **[Felix Solis: UK ‘central to long-term strategy’](https://www.thedrinksbusiness.com/2026/03/felix-solis-uk-central-to-long-term-strategy/)**
-  Rising inflation, crippling wine duty and negative narratives around alcohol consumption are significantly impacting the...
-  *关键词: market*
+- **[Château du Tertre partners with Ulysse Cazabonne to launch ‘iconoclastic’ white blend](https://www.thedrinksbusiness.com/2026/03/chateau-du-tertre-partners-with-ulysse-cazabonne-to-launch-iconoclastic-white-blend/)**
+  With the recent unveiling of the new Médoc blanc appellation and its privileging of classic Bordeaux varietals, it might...
+  *关键词: launch*
+
+![Steinlager beer recalled after alcohol-free label error](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1656876763.jpg)
+
+- **[Steinlager beer recalled after alcohol-free label error](https://www.thedrinksbusiness.com/2026/03/steinlager-beer-recalled-after-alcohol-free-label-error/)**
+  More than 2,500 cases of Steinlager beer have been recalled in New Zealand after bottles containing alcohol were incorre...
 
 ### 📰 Decanter
 
@@ -98,30 +103,37 @@
 
 ### 📰 The Spirits Business
 
+![Whisky drags control state spirits sales down in January](https://www.thespiritsbusiness.com/content/uploads/2025/10/Crown-Royal.jpg)
+
+- **[Whisky drags control state spirits sales down in January](https://www.thespiritsbusiness.com/2026/03/whisky-drags-control-state-spirits-sales-down-in-january/)**
+  Spirits sales in US control states fell by 3.7% in value in January 2026, driven by declines for Scotch and Canadian whi...
+
+![Hard Rock Cocktails strengthens UK presence](https://www.thespiritsbusiness.com/content/uploads/2026/03/Hard-Rock-Cocktails-AF-Blakemore.jpg)
+
+- **[Hard Rock Cocktails strengthens UK presence](https://www.thespiritsbusiness.com/2026/03/hard-rock-cocktails-strengthens-uk-presence/)**
+  Ready-to-drink brand Hard Rock Cocktails is enhancing its UK presence through a distribution deal with AF Blakemore & So...
+  *关键词: distribution*
+
+![Double Dutch names female bartending scholars](https://www.thespiritsbusiness.com/content/uploads/2026/03/Double-Dutch-Female-Bartending-Scholarship-2026.jpg)
+
+- **[Double Dutch names female bartending scholars](https://www.thespiritsbusiness.com/2026/03/double-dutch-names-female-bartending-scholars/)**
+  Mixer brand Double Dutch has selected 14 scholars for the 2026 edition of its Female Bartending Scholarship
+The post Dou...
+
+![Distillery to open in London’s Spitalfields Market](https://www.thespiritsbusiness.com/content/uploads/2026/03/Spitalfields-Distillery.jpg)
+
+- **[Distillery to open in London’s Spitalfields Market](https://www.thespiritsbusiness.com/2026/03/distillery-to-open-in-londons-spitalfields-market/)**
+  East London restaurant Alfi plans to open a distillery inside the city’s historic Spitalfields Market by the end of 2026...
+  *关键词: market*
+
 ![Campari bets on core brands after turbulent 2025](https://www.thespiritsbusiness.com/content/uploads/2026/03/Aperol.jpg)
 
 - **[Campari bets on core brands after turbulent 2025](https://www.thespiritsbusiness.com/2026/03/campari-bets-on-core-brands-after-turbulent-2025/)**
   After weathering 2025, Campari Group’s CEO believes a focus on its big brands and geographic expansion can deliver anoth...
   *关键词: expansion*
 
-![Bulleit Bourbon experiments with mesquite-smoked malt](https://www.thespiritsbusiness.com/content/uploads/2026/03/Bulleit-Bourbon-Mesquite-Smoked-Malt-Kentucky-Straight-Bourbon-Whiskey-.jpg)
-
-- **[Bulleit Bourbon experiments with mesquite-smoked malt](https://www.thespiritsbusiness.com/2026/03/bulleit-bourbon-experiments-with-mesquite-smoked-malt/)**
-  Diageo's Bulleit Frontier Whiskey has launched a limited edition Bourbon made with an experimental mesquite wood-smoked ...
-  *关键词: launch*
-
-![VK Squashka secures B&M listing](https://www.thespiritsbusiness.com/content/uploads/2026/03/VK-Squashka-Tetra-packs.jpg)
-
-- **[VK Squashka secures B&M listing](https://www.thespiritsbusiness.com/2026/03/vk-squashka-secures-bm-listing/)**
-  Global Brands-owned ready-to-drink producer VK has gained a listing for its Squashka line in 626 B&M stores across the U...
-
-![The Curatist rum debuts with Panama Edition](https://www.thespiritsbusiness.com/content/uploads/2026/03/The-Curatist-Panama-Edition-.jpg)
-
-- **[The Curatist rum debuts with Panama Edition](https://www.thespiritsbusiness.com/2026/03/the-curatist-rum-debuts-with-panama-edition/)**
-  British drinks brand The Curatist has unveiled its inaugural limited release rum, which has been finished in Cognac cask...
-
 
 ---
 
-*报告生成时间: 2026-03-09 18:00*  
+*报告生成时间: 2026-03-09 19:46*  
 *Antonelli Intelligence System*

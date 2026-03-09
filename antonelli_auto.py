@@ -809,7 +809,11 @@ def main():
         
         # 2. 生成报告
         report_path, article_count = generate_markdown_report()
-        
+
+        if article_count == 0:
+            print("⏭️ 无内容更新，保留现有网站状态，退出")
+            return
+
         # 3. 更新网站
         update_website()
         
