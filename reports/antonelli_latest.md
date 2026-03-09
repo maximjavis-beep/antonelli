@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-10  
-**来源**: 全球 3 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 39 条
+- **新增资讯**: 45 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -49,7 +49,30 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![The World's Most Wanted New Zealand Wines](https://www.wine-searcher.com/images/news-rss/99/01/9901814202069af31a5_Tematamain_1_.jpg)
+
+- **[The World's Most Wanted New Zealand Wines](https://www.wine-searcher.com/m/2026/03/the-worlds-most-wanted-new-zealand-wines?rss=Y)**
+  We visit the world's most isolated wine region for today's chapter in our series on the world's most-wanted wines....
+
+![US Doubles Down on Bordeaux](https://www.wine-searcher.com/images/news-rss/99/01/9901414200069ade8ad_lafite1.jpg)
+
+- **[US Doubles Down on Bordeaux](https://www.wine-searcher.com/m/2026/03/us-doubles-down-on-bordeaux?rss=Y)**
+  Despite fears of tariffs and trade wars, Bordeaux has strengthened its grip on US wine searches....
+
 ### 📰 The Drinks Business
+
+![What has the end of Thailand’s afternoon alcohol ban meant for the drinks trade?](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1202531985-scaled.jpg)
+
+- **[What has the end of Thailand’s afternoon alcohol ban meant for the drinks trade?](https://www.thedrinksbusiness.com/2026/03/what-has-the-end-of-thailands-afternoon-alcohol-ban-meant-for-the-drinks-trade/)**
+  In December, Thailand lifted its long-standing alcohol sales ban. Producers, retailers and hospitality operators tell Ni...
+
+![India’s Karnataka state to scrap alcohol price controls from April](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2176420028-scaled.jpg)
+
+- **[India’s Karnataka state to scrap alcohol price controls from April](https://www.thedrinksbusiness.com/2026/03/indias-karnataka-state-to-scrap-alcohol-price-controls-from-april/)**
+  In a bid to modernise the sector and boost revenue, Karnataka, one of India’s largest alcohol markets, will scrap govern...
+  *关键词: market*
 
 ![Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen](https://www.thedrinksbusiness.com/content/uploads/2026/03/Emerald-Isle-box-920x609-1-1.jpg)
 
@@ -66,17 +89,6 @@
 - **[White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’](https://www.thedrinksbusiness.com/2026/03/white-wines-shine-at-hospices-de-nuits-saint-georges-auction-as-red-sees-slight-adjustment/)**
   The 64th Hospices de Nuits auction, which raised €1,526,000 for charity on Sunday (8 March), saw strong demand for white...
 
-![Brown-Forman pinpoints India in premium spirits push](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-470555565-scaled.jpg)
-
-- **[Brown-Forman pinpoints India in premium spirits push](https://www.thedrinksbusiness.com/2026/03/brown-forman-pinpoints-india-in-premium-spirits-push/)**
-  US-based producer Brown-Forman, the maker of Jack Daniel’s whiskey, is gearing up to launch several premium spirits bran...
-  *关键词: launch*
-
-![Regulations on malting barley set to protect the beer sector](https://www.thedrinksbusiness.com/content/uploads/2021/11/barley-scaled.jpg)
-
-- **[Regulations on malting barley set to protect the beer sector](https://www.thedrinksbusiness.com/2026/03/regulations-on-malting-barley-set-to-protect-the-beer-sector/)**
-  The Brewers Association (BA) has asked farmers who grow barley to breed for lower protein in a bid to deliver consistent...
-
 ### 📰 Decanter
 
 ![Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage](https://cdn.mos.cms.futurecdn.net/gThnBLutxkzSr8qMRib39j-1280-80.png)
@@ -84,23 +96,33 @@
 - **[Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage](https://www.decanter.com/wine/burgundy-wine/our-experts-surprising-revelations-after-tasting-domaine-de-la-romanee-contis-exuberant-2023-vintage)**
   Not just a fruity face......
 
-### 📰 Wine-Searcher
-
-![US Doubles Down on Bordeaux](https://www.wine-searcher.com/images/news-rss/99/01/9901414200069ade8ad_lafite1.jpg)
-
-- **[US Doubles Down on Bordeaux](https://www.wine-searcher.com/m/2026/03/us-doubles-down-on-bordeaux?rss=Y)**
-  Despite fears of tariffs and trade wars, Bordeaux has strengthened its grip on US wine searches....
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
+
+- **[Circana Weekly Scans: Bev-Alc Sales -1.6% YoY During Winter Storms; TBD if Trend or ‘Anomaly’](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-sales-1-6-yoy-during-winter-storms-tbd-if-trend-or-anomaly)**
+  Total bev-alc dipped back into the red year-over-year (YoY) through the last week of February, after two consecutive wee...
+  *关键词: market, trend*
 
 - **[Tilray Brands Acquires BrewDog’s Australian Brewery and 5 Pubs With Eye to Expand Sales of Key Brands](https://www.brewbound.com/news/tilray-brands-acquires-brewdogs-australian-brewery-and-5-pubs-with-eye-to-expand-sales-of-key-brands)**
   Tilray Brands continues to acquire pieces of Scottish craft beer maker BrewDog’s global business. The Canadian cannabis,...
 
 - **[Former SGWS Employees Indicted For Bribery Scheme in California Grocery Chains](https://www.brewbound.com/news/former-sgws-employees-indicted-for-bribery-scheme-in-california-grocery-chains)**
   A federal grand jury has indicted five former senior executives at Southern Glazer's Wine and Spirits (SGWS) – the large...
+
+### 📰 Wine Enthusiast
+
+![Madeira Is the Jurassic Park of Wine (Minus the Dinosaurs)](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Madeira_Travel_INSET_2_Ash_James_1920x1280-1024x683.jpg)
+
+- **[Madeira Is the Jurassic Park of Wine (Minus the Dinosaurs)](https://www.wineenthusiast.com/culture/travel/madeira-guide/)**
+  Discover the island of Madeira: land of fortified wine, stunning ocean vistas, and comically vertical roads.
+The post Ma...
+
+![In the Clouds of Switzerland, Winemakers Call Upon the Heavens for Help](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Switzerland_Wine_INSET_1_ST_JODERN_KELLEREI_1920x1280-1024x683.jpg)
+
+- **[In the Clouds of Switzerland, Winemakers Call Upon the Heavens for Help](https://www.wineenthusiast.com/culture/travel/high-altitude-swiss-wine/)**
+  At St. Jodern Kellerei, a Swiss wine cooperative with over 600 members, the alpine region's winemaking tradition is stro...
 
 ### 📰 The Spirits Business
 
@@ -135,5 +157,5 @@
 
 ---
 
-*报告生成时间: 2026-03-10 01:30*  
+*报告生成时间: 2026-03-10 07:00*  
 *Antonelli Intelligence System*
