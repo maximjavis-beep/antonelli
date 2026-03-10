@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-10  
+**日期**: 2026-03-11  
 **来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 35 条
+- **新增资讯**: 38 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,17 @@
 ## 🌍 欧洲
 
 ### 📰 The Drinks Business
+
+![Bordeaux sees booming interest from US buyers](https://www.thedrinksbusiness.com/content/uploads/2021/07/iStock-182165860-1.jpg)
+
+- **[Bordeaux sees booming interest from US buyers](https://www.thedrinksbusiness.com/2026/03/bordeaux-sees-booming-interest-from-us-buyers/)**
+  US buyers are increasingly seeking out wines from Bordeaux, despite the economic outlook, new research has shown.
+The po...
+
+![Are Bordeaux reds still in the panetheon of modern greats?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Liv-ex-piece-from-mag-scaled.jpg)
+
+- **[Are Bordeaux reds still in the panetheon of modern greats?](https://www.thedrinksbusiness.com/2026/03/are-bordeaux-reds-still-in-the-panetheon-of-modern-greats/)**
+  Ten years on from Bordeaux’s acclaimed 2016 vintage, does it represent a buying opportunity?  Liv-ex argues that now may...
 
 ![How to impress the DB Awards judges](https://www.thedrinksbusiness.com/content/uploads/2026/03/Judging-panel-scaled.jpg)
 
@@ -31,17 +42,6 @@
 
 - **[Bijou brings a taste of the ‘rapidly evolving’ Languedoc to ProWein](https://www.thedrinksbusiness.com/2026/03/bijou-brings-a-taste-of-the-rapidly-evolving-languedoc-to-prowein/)**
   Foregrounding "freshness, structure and longevity", Bijou’s new managing director Edward Vellacott tells the drinks busi...
-
-![Asahi sees profits nosedive following cyber-attack](https://www.thedrinksbusiness.com/content/uploads/2022/01/Asahi-pic-scaled.jpg)
-
-- **[Asahi sees profits nosedive following cyber-attack](https://www.thedrinksbusiness.com/2026/03/asahi-sees-profits-nosedive-following-cyber-attack/)**
-  Asahi Group Holdings has seen its profits decline in what it describes as a situation that had "unavoidable" consequence...
-  *关键词: launch*
-
-![Can bitter follow Guinness in winning younger drinkers?](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-873623888.jpg)
-
-- **[Can bitter follow Guinness in winning younger drinkers?](https://www.thedrinksbusiness.com/2026/03/can-bitter-follow-guinness-in-winning-younger-drinkers/)**
-  Traditional bitter remains profitable for pubs but faces declining volumes in the on-trade as stout, lager, and alcohol-...
 
 ### 📰 Decanter
 
@@ -65,36 +65,13 @@
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![New NYC bar is an ode to the Highball](https://www.thespiritsbusiness.com/content/uploads/2026/03/TheMarx_HighballLTD_Medsker_142.jpg)
-
-- **[New NYC bar is an ode to the Highball](https://www.thespiritsbusiness.com/2026/03/new-nyc-bar-is-an-ode-to-the-highball/)**
-  Following the launch of Mixteca in August 2025 and Kees in February, Please Don’t Tell’s Jeff Bell will open Highball Lt...
-  *关键词: launch*
-
-![Aperol unveils new bottle design](https://www.thespiritsbusiness.com/content/uploads/2026/03/Aperol-new-bottle-design.jpg)
-
-- **[Aperol unveils new bottle design](https://www.thespiritsbusiness.com/2026/03/aperol-unveils-new-bottle-design/)**
-  Campari Group has revealed a new bottle design for Aperol, reinterpreting the apéritif's appearance with a contemporary ...
-
-![Uncle Nearest allegedly hid $20m loan provided by Jay-Z](https://www.thespiritsbusiness.com/content/uploads/2025/03/Uncle-Nearest-1.png)
-
-- **[Uncle Nearest allegedly hid $20m loan provided by Jay-Z](https://www.thespiritsbusiness.com/2026/03/uncle-nearest-allegedly-hid-20m-loan-provided-by-jay-z/)**
-  Farm Credit Mid-America has accused Uncle Nearest of fraud, alleging that the brand hid a US$20 million loan from media ...
-
-![Chicken Cock debuts wheated Bourbon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Chicken-Cock-Wheated-Kentucky-Straight-Bourbon.jpg)
-
-- **[Chicken Cock debuts wheated Bourbon](https://www.thespiritsbusiness.com/2026/03/chicken-cock-debuts-wheated-bourbon/)**
-  Grain & Barrel Spirits-owned whiskey brand Chicken Cock has replaced its small batch core range expression with a new wh...
-
-![Equal Measures offers free WSET training to POC](https://www.thespiritsbusiness.com/content/uploads/2026/03/Female-whisky-drinker-woman-at-a-bar-1177-credit-OurWhisky-Foundation_Jo-Hanley.jpg)
-
-- **[Equal Measures offers free WSET training to POC](https://www.thespiritsbusiness.com/2026/03/equal-measures-offers-free-wset-training-to-poc/)**
-  Non-profit organisation Equal Measures UK has opened applications for its 2026 education and mentorship programme
-The po...
-
 ### 📰 Brewbound
+
+- **[Maine Gov. Janet Mills Touts Support for Craft Brewers Amid Tariffs, Rising Costs](https://www.brewbound.com/news/maine-gov-janet-mills-touts-support-for-craft-brewers-amid-tariffs-rising-costs)**
+  Maine Gov. Janet Mills, who is running in the Democratic primary to challenge U.S. Sen. Susan Collins, weaved local and ...
+
+- **[George Clooney & Partners Take Aim at NA Beer With Crazy Mountain; Beer Vet Steve Fechheimer Shares Details](https://www.brewbound.com/news/george-clooney-beer-vet-steve-fechheimer-shares-details)**
+  George Clooney, Rande Gerber and Mike Meldman’s non-alcoholic (NA) beer brand has been among the beer business’ worst-ke...
 
 - **[Circana Weekly Scans: Bev-Alc Sales -1.6% YoY During Winter Storms; TBD if Trend or ‘Anomaly’](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-sales-1-6-yoy-during-winter-storms-tbd-if-trend-or-anomaly)**
   Total bev-alc dipped back into the red year-over-year (YoY) through the last week of February, after two consecutive wee...
@@ -103,10 +80,54 @@ The po...
 - **[Tilray Brands Acquires BrewDog’s Australian Brewery and 5 Pubs With Eye to Expand Sales of Key Brands](https://www.brewbound.com/news/tilray-brands-acquires-brewdogs-australian-brewery-and-5-pubs-with-eye-to-expand-sales-of-key-brands)**
   Tilray Brands continues to acquire pieces of Scottish craft beer maker BrewDog’s global business. The Canadian cannabis,...
 
-- **[Former SGWS Employees Indicted For Bribery Scheme in California Grocery Chains](https://www.brewbound.com/news/former-sgws-employees-indicted-for-bribery-scheme-in-california-grocery-chains)**
-  A federal grand jury has indicted five former senior executives at Southern Glazer's Wine and Spirits (SGWS) – the large...
+### 📰 The Spirits Business
+
+![Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/content/uploads/2024/01/garrard-county-distilling.jpg)
+
+- **[Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/2026/03/sazerac-reportedly-buys-into-garrard-county-distilling/)**
+  Shuttered whiskey maker Garrard County Distilling has sold its multi-million-dollar debt to a company that is allegedly ...
+
+![Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/content/uploads/2026/03/Super-Lyte.jpg)
+
+- **[Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/2026/03/surfside-maker-explores-new-rtd-segment-with-super-lyte/)**
+  Stateside Brands has unveiled a range of vodka-based canned serves inspired by classic sports drink flavours
+The post Su...
+
+![Archie Rose celebrates women with Opal Gin](https://www.thespiritsbusiness.com/content/uploads/2026/03/Archie-Rose-Australian-Opal-Gin.jpg)
+
+- **[Archie Rose celebrates women with Opal Gin](https://www.thespiritsbusiness.com/2026/03/archie-rose-celebrates-women-with-opal-gin/)**
+  To celebrate International Women's Day, Sydney-based Archie Rose Distilling Co launched a limited edition Australian Opa...
+  *关键词: launch*
+
+![The world’s hottest bar openings from winter](https://www.thespiritsbusiness.com/content/uploads/2026/03/new-bars-9.jpg)
+
+- **[The world’s hottest bar openings from winter](https://www.thespiritsbusiness.com/2026/03/the-worlds-hottest-bar-openings-from-winter-2/)**
+  The wind blew in a number of exciting openings over winter, with new additions to the bar scenes in London, New York and...
+
+![Gabriel ‘Fluffy’ Iglesias launches Pocho Fino Tequila](https://www.thespiritsbusiness.com/content/uploads/2026/03/Gabriel-Fluffy-Iglesias-Pocho-Fino.jpg)
+
+- **[Gabriel ‘Fluffy’ Iglesias launches Pocho Fino Tequila](https://www.thespiritsbusiness.com/2026/03/gabriel-fluffy-iglesias-launches-pocho-fino-tequila/)**
+  US comedian and actor Gabriel 'Fluffy' Iglesias has teamed up with Next Century Spirits to launch a range of Pocho Fino ...
+  *关键词: launch*
 
 ### 📰 Wine Enthusiast
+
+![The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/wp-content/uploads/2024/11/43102_1.jpeg)
+
+- **[The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/culture/wine/is-everyone-a-somm-viewpoint/)**
+  Since the 2012 documentary 'Somm' helped launch the term into the mainstream lexicon, various other disciplines have ado...
+  *关键词: launch*
+
+![7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_High_Hike_Taste_High_INSET_1_DEFINITION_FILMS_FOR_MONTE_BELLO_1920x1280-1024x683.jpg)
+
+- **[7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/culture/travel/california-tasting-room-hikes/)**
+  Need a reward after a long Central Coast hike? Good news: There's always a winery close by.
+The post 7 Beautiful Califor...
+
+![Travel Issue – 2026](https://res.cloudinary.com/htt8g4cd/image/upload/w_620,h_413,c_lfill,g_center,f_auto,q_auto/wp/03_26_mexico_alto_hero_gettyimages-537325160_1920x1280)
+
+- **[Travel Issue – 2026](https://www.wineenthusiast.com/travel-issue-2026/)**
+  2026 The Travel Issue The 2026 Travel Issue will take you to new heights. On a mission to explore high-elevation winemak...
 
 ![Madeira Is the Jurassic Park of Wine (Minus the Dinosaurs)](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Madeira_Travel_INSET_2_Ash_James_1920x1280-1024x683.jpg)
 
@@ -122,5 +143,5 @@ The post Ma...
 
 ---
 
-*报告生成时间: 2026-03-10 20:17*  
+*报告生成时间: 2026-03-11 00:24*  
 *Antonelli Intelligence System*
