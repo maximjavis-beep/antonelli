@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 45 条
+- **新增资讯**: 43 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -55,11 +55,6 @@
 
 - **[The World's Most Wanted New Zealand Wines](https://www.wine-searcher.com/m/2026/03/the-worlds-most-wanted-new-zealand-wines?rss=Y)**
   We visit the world's most isolated wine region for today's chapter in our series on the world's most-wanted wines....
-
-![US Doubles Down on Bordeaux](https://www.wine-searcher.com/images/news-rss/99/01/9901414200069ade8ad_lafite1.jpg)
-
-- **[US Doubles Down on Bordeaux](https://www.wine-searcher.com/m/2026/03/us-doubles-down-on-bordeaux?rss=Y)**
-  Despite fears of tariffs and trade wars, Bordeaux has strengthened its grip on US wine searches....
 
 ### 📰 The Drinks Business
 
@@ -157,5 +152,5 @@ The post Ma...
 
 ---
 
-*报告生成时间: 2026-03-10 07:00*  
+*报告生成时间: 2026-03-10 18:00*  
 *Antonelli Intelligence System*
