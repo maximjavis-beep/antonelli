@@ -1,53 +1,59 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-10  
-**来源**: 全球 3 个地区 · 7 个信源
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 43 条
+- **新增资讯**: 35 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
-## 🌍 亚洲
-
-### 📰 The Shout
-
-![Suntory -196 launches new flavour](https://theshout.com.au/wp-content/uploads/2026/03/Suntory-196lemonpassionfruit.jpg?w=780)
-
-- **[Suntory -196 launches new flavour](https://theshout.com.au/suntory-196-launches-new-flavour/)**
-  Suntory Global Spirits is building on the success of its -196 RTD, with the addition of a new flavour to its portfolio o...
-  *关键词: launch*
-
-![Samuel Smith & Son secures Sidewood Estate distribution](https://theshout.com.au/wp-content/uploads/2026/03/SamuelSmithSidewoodEstate.jpg?w=780)
-
-- **[Samuel Smith & Son secures Sidewood Estate distribution](https://theshout.com.au/samuel-smith-son-secures-sidewood-estate-distribution/)**
-  Samuel Smith & Son has been appointed the national distributor for Sidewood Estate, strengthening the fine wine distribu...
-  *关键词: distribution*
-
-![Coonawarra launches 2026 harvest](https://theshout.com.au/wp-content/uploads/2026/03/Coonawarra2026vintagelaunches.jpg?w=780)
-
-- **[Coonawarra launches 2026 harvest](https://theshout.com.au/coonawarra-launches-2026-harvest/)**
-  The Coonawarra wine community has celebrated the spirit of the harvest, by coming together for the launch of the 2026 vi...
-  *关键词: launch*
-
-![Four Pillars relaunches community grant program](https://theshout.com.au/wp-content/uploads/2022/09/FourPillars.jpg?w=780)
-
-- **[Four Pillars relaunches community grant program](https://theshout.com.au/four-pillars-relaunches-community-grant-program/)**
-  The ‘Four Pillars of the Community’ grant program invites grassroots organisations to apply for a share in $25,000....
-  *关键词: launch*
-
-![Big Papa and minis drive retail and venue engagement for Papa Salt Gin](https://theshout.com.au/wp-content/uploads/2025/06/PapaSalt50mlbottle.jpg?w=780)
-
-- **[Big Papa and minis drive retail and venue engagement for Papa Salt Gin](https://theshout.com.au/big-papa-and-minis-drive-retail-and-venue-engagement-for-papa-salt-gin/)**
-  Alternative bottle formats are helping drive engagement with retailers and venues for Papa Salt Gin, according to CEO Ch...
-
-
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![How to impress the DB Awards judges](https://www.thedrinksbusiness.com/content/uploads/2026/03/Judging-panel-scaled.jpg)
+
+- **[How to impress the DB Awards judges](https://www.thedrinksbusiness.com/2026/03/how-to-impress-the-db-awards-judges/)**
+  With entries for The Drinks Business Awards 2026 coming in thick and fast, Sarah Neish speaks to some of the judges abou...
+
+![Should you use Prosecco in cocktails?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Aperol-Spritz-scaled.jpg)
+
+- **[Should you use Prosecco in cocktails?](https://www.thedrinksbusiness.com/2026/03/716838/)**
+  Prosecco has become a vital ingredient in some of the world's most popular cocktails, including the Aperol Spritz. But h...
+
+![Bijou brings a taste of the ‘rapidly evolving’ Languedoc to ProWein](https://www.thedrinksbusiness.com/content/uploads/2026/03/Bijou-scaled.jpg)
+
+- **[Bijou brings a taste of the ‘rapidly evolving’ Languedoc to ProWein](https://www.thedrinksbusiness.com/2026/03/bijou-brings-a-taste-of-the-rapidly-evolving-languedoc-to-prowein/)**
+  Foregrounding "freshness, structure and longevity", Bijou’s new managing director Edward Vellacott tells the drinks busi...
+
+![Asahi sees profits nosedive following cyber-attack](https://www.thedrinksbusiness.com/content/uploads/2022/01/Asahi-pic-scaled.jpg)
+
+- **[Asahi sees profits nosedive following cyber-attack](https://www.thedrinksbusiness.com/2026/03/asahi-sees-profits-nosedive-following-cyber-attack/)**
+  Asahi Group Holdings has seen its profits decline in what it describes as a situation that had "unavoidable" consequence...
+  *关键词: launch*
+
+![Can bitter follow Guinness in winning younger drinkers?](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-873623888.jpg)
+
+- **[Can bitter follow Guinness in winning younger drinkers?](https://www.thedrinksbusiness.com/2026/03/can-bitter-follow-guinness-in-winning-younger-drinkers/)**
+  Traditional bitter remains profitable for pubs but faces declining volumes in the on-trade as stout, lager, and alcohol-...
+
+### 📰 Decanter
+
+![What does America's harsh winter mean for its vineyards?](https://cdn.mos.cms.futurecdn.net/BfPFTBaxThFtyE6VerA69U-1280-80.gif)
+
+- **[What does America's harsh winter mean for its vineyards?](https://www.decanter.com/learn/what-does-americas-harsh-winter-mean-for-its-vineyards)**
+  A winter of extremes has gripped the East Coast of the US, how has this impacted the vines…...
+
+![It's a rock thing: Meeting Georges Truc, the Rhône’s wine geologist](https://cdn.mos.cms.futurecdn.net/jKzJMjtG8S5PQaR3fvVqbP-1280-80.png)
+
+- **[It's a rock thing: Meeting Georges Truc, the Rhône’s wine geologist](https://www.decanter.com/wine/rhone-valley/its-a-rock-thing-meeting-georges-truc-the-rhones-wine-geologist)**
+  The soil maestro of the Rhône......
 
 ### 📰 Wine-Searcher
 
@@ -56,43 +62,37 @@
 - **[The World's Most Wanted New Zealand Wines](https://www.wine-searcher.com/m/2026/03/the-worlds-most-wanted-new-zealand-wines?rss=Y)**
   We visit the world's most isolated wine region for today's chapter in our series on the world's most-wanted wines....
 
-### 📰 The Drinks Business
-
-![What has the end of Thailand’s afternoon alcohol ban meant for the drinks trade?](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1202531985-scaled.jpg)
-
-- **[What has the end of Thailand’s afternoon alcohol ban meant for the drinks trade?](https://www.thedrinksbusiness.com/2026/03/what-has-the-end-of-thailands-afternoon-alcohol-ban-meant-for-the-drinks-trade/)**
-  In December, Thailand lifted its long-standing alcohol sales ban. Producers, retailers and hospitality operators tell Ni...
-
-![India’s Karnataka state to scrap alcohol price controls from April](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2176420028-scaled.jpg)
-
-- **[India’s Karnataka state to scrap alcohol price controls from April](https://www.thedrinksbusiness.com/2026/03/indias-karnataka-state-to-scrap-alcohol-price-controls-from-april/)**
-  In a bid to modernise the sector and boost revenue, Karnataka, one of India’s largest alcohol markets, will scrap govern...
-  *关键词: market*
-
-![Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen](https://www.thedrinksbusiness.com/content/uploads/2026/03/Emerald-Isle-box-920x609-1-1.jpg)
-
-- **[Fabergé egg linked to rare Irish whiskey set worth more than £2m stolen](https://www.thedrinksbusiness.com/2026/03/stolen-faberge-egg-linked-to-rare-irish-whiskey-set-worth-more-than-2m/)**
-  A luxury Fabergé egg tied to a rare Irish whiskey collection has been stolen during a handbag theft in Soho. The item, a...
-
-![BBR’s Davy Zyw competes at the Winter Paralympics](https://www.thedrinksbusiness.com/content/uploads/2024/12/ZywGT_202412066908.7430c5a5d2aa61ce11833fbbf4797066-scaled.webp)
-
-- **[BBR’s Davy Zyw competes at the Winter Paralympics](https://www.thedrinksbusiness.com/2026/03/bbrs-davy-zyw-competes-at-the-winter-paralympics/)**
-  Berry Bros. & Rudd buyer Davy Zyw is set to become the first snowsport athlete with motor neurone disease (MND) to compe...
-
-![White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’](https://www.thedrinksbusiness.com/content/uploads/2025/04/Hospices-de-Nuits-SG-2025-images-1024x651.jpg)
-
-- **[White wines shine at Hospices de Nuits-Saint-Georges auction as red sees slight ‘adjustment’](https://www.thedrinksbusiness.com/2026/03/white-wines-shine-at-hospices-de-nuits-saint-georges-auction-as-red-sees-slight-adjustment/)**
-  The 64th Hospices de Nuits auction, which raised €1,526,000 for charity on Sunday (8 March), saw strong demand for white...
-
-### 📰 Decanter
-
-![Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage](https://cdn.mos.cms.futurecdn.net/gThnBLutxkzSr8qMRib39j-1280-80.png)
-
-- **[Our expert's surprising revelations after tasting Domaine de la Romanée-Conti's 'exuberant' 2023 vintage](https://www.decanter.com/wine/burgundy-wine/our-experts-surprising-revelations-after-tasting-domaine-de-la-romanee-contis-exuberant-2023-vintage)**
-  Not just a fruity face......
-
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![New NYC bar is an ode to the Highball](https://www.thespiritsbusiness.com/content/uploads/2026/03/TheMarx_HighballLTD_Medsker_142.jpg)
+
+- **[New NYC bar is an ode to the Highball](https://www.thespiritsbusiness.com/2026/03/new-nyc-bar-is-an-ode-to-the-highball/)**
+  Following the launch of Mixteca in August 2025 and Kees in February, Please Don’t Tell’s Jeff Bell will open Highball Lt...
+  *关键词: launch*
+
+![Aperol unveils new bottle design](https://www.thespiritsbusiness.com/content/uploads/2026/03/Aperol-new-bottle-design.jpg)
+
+- **[Aperol unveils new bottle design](https://www.thespiritsbusiness.com/2026/03/aperol-unveils-new-bottle-design/)**
+  Campari Group has revealed a new bottle design for Aperol, reinterpreting the apéritif's appearance with a contemporary ...
+
+![Uncle Nearest allegedly hid $20m loan provided by Jay-Z](https://www.thespiritsbusiness.com/content/uploads/2025/03/Uncle-Nearest-1.png)
+
+- **[Uncle Nearest allegedly hid $20m loan provided by Jay-Z](https://www.thespiritsbusiness.com/2026/03/uncle-nearest-allegedly-hid-20m-loan-provided-by-jay-z/)**
+  Farm Credit Mid-America has accused Uncle Nearest of fraud, alleging that the brand hid a US$20 million loan from media ...
+
+![Chicken Cock debuts wheated Bourbon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Chicken-Cock-Wheated-Kentucky-Straight-Bourbon.jpg)
+
+- **[Chicken Cock debuts wheated Bourbon](https://www.thespiritsbusiness.com/2026/03/chicken-cock-debuts-wheated-bourbon/)**
+  Grain & Barrel Spirits-owned whiskey brand Chicken Cock has replaced its small batch core range expression with a new wh...
+
+![Equal Measures offers free WSET training to POC](https://www.thespiritsbusiness.com/content/uploads/2026/03/Female-whisky-drinker-woman-at-a-bar-1177-credit-OurWhisky-Foundation_Jo-Hanley.jpg)
+
+- **[Equal Measures offers free WSET training to POC](https://www.thespiritsbusiness.com/2026/03/equal-measures-offers-free-wset-training-to-poc/)**
+  Non-profit organisation Equal Measures UK has opened applications for its 2026 education and mentorship programme
+The po...
 
 ### 📰 Brewbound
 
@@ -119,38 +119,8 @@ The post Ma...
 - **[In the Clouds of Switzerland, Winemakers Call Upon the Heavens for Help](https://www.wineenthusiast.com/culture/travel/high-altitude-swiss-wine/)**
   At St. Jodern Kellerei, a Swiss wine cooperative with over 600 members, the alpine region's winemaking tradition is stro...
 
-### 📰 The Spirits Business
-
-![RNDC offloads five more markets to Reyes](https://www.thespiritsbusiness.com/content/uploads/2026/03/RNDC.jpg)
-
-- **[RNDC offloads five more markets to Reyes](https://www.thespiritsbusiness.com/2026/03/rndc-offloads-five-more-markets-to-reyes/)**
-  Reyes Beverage Group is set to take on the distribution of five more US states from Republic National Distributing Compa...
-  *关键词: distribution, market*
-
-![Neurita Tequila secures Australian distribution](https://www.thespiritsbusiness.com/content/uploads/2026/03/2026-02-18-Neurita-29-2000px.jpg)
-
-- **[Neurita Tequila secures Australian distribution](https://www.thespiritsbusiness.com/2026/03/neurita-tequila-secures-australian-distribution/)**
-  Distributor JQWS has partnered with Neurita as the Tequila brand looks to capitalise on Australia’s growing appetite for...
-  *关键词: distribution*
-
-![Taste of Rum 2026 returns to Puerto Rico](https://www.thespiritsbusiness.com/content/uploads/2026/03/Taste-of-rum.jpg)
-
-- **[Taste of Rum 2026 returns to Puerto Rico](https://www.thespiritsbusiness.com/2026/03/taste-of-rum-2026-returns-to-puerto-rico/)**
-  Now in its 16th year, The Rum Lab’s annual Taste of Rum conference will return to the Puerto Rico Convention Center on 2...
-
-![Preview: ProWein 2026](https://www.thespiritsbusiness.com/content/uploads/2026/03/ProWein-2025-main-image.jpg)
-
-- **[Preview: ProWein 2026](https://www.thespiritsbusiness.com/2026/03/preview-prowein-2026/)**
-  This year’s ProWein will have a heightened focus on low-and-no ‘spirits’, alongside talks on industry issues and a celeb...
-
-![Andrew Scott expands Redbreast partnership](https://www.thespiritsbusiness.com/content/uploads/2026/03/Redbreast-Andrew-Scott-SXSW.jpg)
-
-- **[Andrew Scott expands Redbreast partnership](https://www.thespiritsbusiness.com/2026/03/andrew-scott-expands-redbreast-partnership/)**
-  Bafta-winning actor Andrew Scott and Irish Distillers' Redbreast Irish Whiskey will return to the SXSW Film & TV Festiva...
-  *关键词: partnership*
-
 
 ---
 
-*报告生成时间: 2026-03-10 18:00*  
+*报告生成时间: 2026-03-10 20:17*  
 *Antonelli Intelligence System*
