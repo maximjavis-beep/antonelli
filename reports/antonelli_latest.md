@@ -15,7 +15,30 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![How a Great Vineyard Inspired a New Luxury Skincare](https://www.wine-searcher.com/images/news-rss/98/73/9873514114669387f91_How_A_Great_Vineyard_Inspired_a_New_Luxury_SkincareRS.jpg)
+
+- **[How a Great Vineyard Inspired a New Luxury Skincare](https://www.wine-searcher.com/m/2025/12/how-a-great-vineyard-inspired-a-new-luxury-skincare?rss=Y)**
+  From L'Oréal to Bordeaux, from vineyards to active ingredients – this week on The Wine Podcast, Suzanne Mustacich speaks...
+
+![Drink Like an MW this Christmas](https://www.wine-searcher.com/images/news-rss/98/77/987701412136944add2_kb.jpg)
+
+- **[Drink Like an MW this Christmas](https://www.wine-searcher.com/m/2025/12/drink-like-an-mw-this-christmas?rss=Y)**
+  Unsure what to drink for Christmas? Try these three wine styles recommended by Konstantin Baum MW....
+
+![Ornellaia, Masseto and the Future of Super Tuscans](https://www.wine-searcher.com/images/news-rss/99/02/9902014202569af765d_WineVoices_The-Wine-Podcast-22_YouTube-thumbnail.jpg)
+
+- **[Ornellaia, Masseto and the Future of Super Tuscans](https://www.wine-searcher.com/m/2026/03/ornellaia-masseto-and-the-future-of-super-tuscans?rss=Y)**
+  The Super Tuscan category has emerged as one of the strongest-performing sectors in fine wine – and few estates define t...
+
 ### 📰 The Drinks Business
+
+![‘Very strong’ demand for fine wine in Singapore’s secondary market](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2233636892-scaled.jpg)
+
+- **[‘Very strong’ demand for fine wine in Singapore’s secondary market](https://www.thedrinksbusiness.com/2026/03/very-strong-demand-for-fine-wine-in-singapores-secondary-market/)**
+  The appetite for fine wine bidding on Singapore's secondary market is “very strong,” with prices competitive, collectors...
+  *关键词: market*
 
 ![Bordeaux sees booming interest from US buyers](https://www.thedrinksbusiness.com/content/uploads/2021/07/iStock-182165860-1.jpg)
 
@@ -38,11 +61,6 @@ The po...
 - **[Should you use Prosecco in cocktails?](https://www.thedrinksbusiness.com/2026/03/716838/)**
   Prosecco has become a vital ingredient in some of the world's most popular cocktails, including the Aperol Spritz. But h...
 
-![Bijou brings a taste of the ‘rapidly evolving’ Languedoc to ProWein](https://www.thedrinksbusiness.com/content/uploads/2026/03/Bijou-scaled.jpg)
-
-- **[Bijou brings a taste of the ‘rapidly evolving’ Languedoc to ProWein](https://www.thedrinksbusiness.com/2026/03/bijou-brings-a-taste-of-the-rapidly-evolving-languedoc-to-prowein/)**
-  Foregrounding "freshness, structure and longevity", Bijou’s new managing director Edward Vellacott tells the drinks busi...
-
 ### 📰 Decanter
 
 ![What does America's harsh winter mean for its vineyards?](https://cdn.mos.cms.futurecdn.net/BfPFTBaxThFtyE6VerA69U-1280-80.gif)
@@ -55,17 +73,16 @@ The po...
 - **[It's a rock thing: Meeting Georges Truc, the Rhône’s wine geologist](https://www.decanter.com/wine/rhone-valley/its-a-rock-thing-meeting-georges-truc-the-rhones-wine-geologist)**
   The soil maestro of the Rhône......
 
-### 📰 Wine-Searcher
-
-![The World's Most Wanted New Zealand Wines](https://www.wine-searcher.com/images/news-rss/99/01/9901814202069af31a5_Tematamain_1_.jpg)
-
-- **[The World's Most Wanted New Zealand Wines](https://www.wine-searcher.com/m/2026/03/the-worlds-most-wanted-new-zealand-wines?rss=Y)**
-  We visit the world's most isolated wine region for today's chapter in our series on the world's most-wanted wines....
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
+
+- **[JuneShine Brands to Outsource All Production, Shut Down Own Facility; 30 Employees Affected](https://www.brewbound.com/news/juneshine-brands-to-outsource-all-production-shut-down-own-facility-30-employees-affected)**
+  JuneShine Brands is shifting production of all its brands to third-party producers, the San Diego-based company announce...
+
+- **[Half Acre, Maplewood Merge to Form Chicago Beverage Platform That Won’t Become ‘a Collection of Brands’](https://www.brewbound.com/news/half-acre-maplewood-merge-to-form-chicago-beverage-platform-that-wont-become-a-collection-of-brands)**
+  Chicago’s Half Acre Beer Company and Maplewood Brewery &#038; Distillery have merged into what the brands’ leaders are c...
 
 - **[Maine Gov. Janet Mills Touts Support for Craft Brewers Amid Tariffs, Rising Costs](https://www.brewbound.com/news/maine-gov-janet-mills-touts-support-for-craft-brewers-amid-tariffs-rising-costs)**
   Maine Gov. Janet Mills, who is running in the Democratic primary to challenge U.S. Sen. Susan Collins, weaved local and ...
@@ -73,12 +90,29 @@ The po...
 - **[George Clooney & Partners Take Aim at NA Beer With Crazy Mountain; Beer Vet Steve Fechheimer Shares Details](https://www.brewbound.com/news/george-clooney-beer-vet-steve-fechheimer-shares-details)**
   George Clooney, Rande Gerber and Mike Meldman’s non-alcoholic (NA) beer brand has been among the beer business’ worst-ke...
 
-- **[Circana Weekly Scans: Bev-Alc Sales -1.6% YoY During Winter Storms; TBD if Trend or ‘Anomaly’](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-sales-1-6-yoy-during-winter-storms-tbd-if-trend-or-anomaly)**
-  Total bev-alc dipped back into the red year-over-year (YoY) through the last week of February, after two consecutive wee...
-  *关键词: market, trend*
+### 📰 Wine Enthusiast
 
-- **[Tilray Brands Acquires BrewDog’s Australian Brewery and 5 Pubs With Eye to Expand Sales of Key Brands](https://www.brewbound.com/news/tilray-brands-acquires-brewdogs-australian-brewery-and-5-pubs-with-eye-to-expand-sales-of-key-brands)**
-  Tilray Brands continues to acquire pieces of Scottish craft beer maker BrewDog’s global business. The Canadian cannabis,...
+![There’s So Much More to Bordeaux Than Bordeaux](https://www.wineenthusiast.com/wp-content/uploads/2026/02/03_26_City_of_Bordeaux_INSET_GettyImages-1165067990_1920x1280-1024x683.jpg)
+
+- **[There’s So Much More to Bordeaux Than Bordeaux](https://www.wineenthusiast.com/culture/travel/bordeaux-city-nouvelle-aquitaine/)**
+  Bordeaux built its name on wine, but the city and surrounding region have transformed into a world-class tourist destina...
+
+![The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/wp-content/uploads/2024/11/43102_1.jpeg)
+
+- **[The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/culture/wine/is-everyone-a-somm-viewpoint/)**
+  Since the 2012 documentary 'Somm' helped launch the term into the mainstream lexicon, various other disciplines have ado...
+  *关键词: launch*
+
+![7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_High_Hike_Taste_High_INSET_1_DEFINITION_FILMS_FOR_MONTE_BELLO_1920x1280-1024x683.jpg)
+
+- **[7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/culture/travel/california-tasting-room-hikes/)**
+  Need a reward after a long Central Coast hike? Good news: There's always a winery close by.
+The post 7 Beautiful Califor...
+
+![Travel Issue – 2026](https://res.cloudinary.com/htt8g4cd/image/upload/w_620,h_413,c_lfill,g_center,f_auto,q_auto/wp/03_26_mexico_alto_hero_gettyimages-537325160_1920x1280)
+
+- **[Travel Issue – 2026](https://www.wineenthusiast.com/travel-issue-2026/)**
+  2026 The Travel Issue The 2026 Travel Issue will take you to new heights. On a mission to explore high-elevation winemak...
 
 ### 📰 The Spirits Business
 
@@ -110,38 +144,8 @@ The post Su...
   US comedian and actor Gabriel 'Fluffy' Iglesias has teamed up with Next Century Spirits to launch a range of Pocho Fino ...
   *关键词: launch*
 
-### 📰 Wine Enthusiast
-
-![The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/wp-content/uploads/2024/11/43102_1.jpeg)
-
-- **[The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/culture/wine/is-everyone-a-somm-viewpoint/)**
-  Since the 2012 documentary 'Somm' helped launch the term into the mainstream lexicon, various other disciplines have ado...
-  *关键词: launch*
-
-![7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_High_Hike_Taste_High_INSET_1_DEFINITION_FILMS_FOR_MONTE_BELLO_1920x1280-1024x683.jpg)
-
-- **[7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/culture/travel/california-tasting-room-hikes/)**
-  Need a reward after a long Central Coast hike? Good news: There's always a winery close by.
-The post 7 Beautiful Califor...
-
-![Travel Issue – 2026](https://res.cloudinary.com/htt8g4cd/image/upload/w_620,h_413,c_lfill,g_center,f_auto,q_auto/wp/03_26_mexico_alto_hero_gettyimages-537325160_1920x1280)
-
-- **[Travel Issue – 2026](https://www.wineenthusiast.com/travel-issue-2026/)**
-  2026 The Travel Issue The 2026 Travel Issue will take you to new heights. On a mission to explore high-elevation winemak...
-
-![Madeira Is the Jurassic Park of Wine (Minus the Dinosaurs)](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Madeira_Travel_INSET_2_Ash_James_1920x1280-1024x683.jpg)
-
-- **[Madeira Is the Jurassic Park of Wine (Minus the Dinosaurs)](https://www.wineenthusiast.com/culture/travel/madeira-guide/)**
-  Discover the island of Madeira: land of fortified wine, stunning ocean vistas, and comically vertical roads.
-The post Ma...
-
-![In the Clouds of Switzerland, Winemakers Call Upon the Heavens for Help](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Switzerland_Wine_INSET_1_ST_JODERN_KELLEREI_1920x1280-1024x683.jpg)
-
-- **[In the Clouds of Switzerland, Winemakers Call Upon the Heavens for Help](https://www.wineenthusiast.com/culture/travel/high-altitude-swiss-wine/)**
-  At St. Jodern Kellerei, a Swiss wine cooperative with over 600 members, the alpine region's winemaking tradition is stro...
-
 
 ---
 
-*报告生成时间: 2026-03-11 00:24*  
+*报告生成时间: 2026-03-11 07:00*  
 *Antonelli Intelligence System*
