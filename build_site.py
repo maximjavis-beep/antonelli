@@ -72,9 +72,8 @@ def get_articles():
     articles = c.fetchall()
     conn.close()
     
-    # 按地区分组
+    # 按地区分组（不含中国）
     by_region = {
-        '中国': [],
         '欧洲': [],
         '美洲': [],
         '亚洲': []
@@ -82,13 +81,11 @@ def get_articles():
     
     for article in articles:
         region = article[5]  # region 字段
-        if region == '中国':
-            by_region['中国'].append(article)
-        elif region == '欧洲':
+        if region == '欧洲':
             by_region['欧洲'].append(article)
         elif region in ['北美', '南美']:
             by_region['美洲'].append(article)
-        elif region in ['日本', '亚太其他']:
+        elif region in ['日本', '亚太其他', '中国']:
             by_region['亚洲'].append(article)
         else:
             # 其他归类到亚洲
@@ -112,16 +109,15 @@ def get_stats():
     c.execute('SELECT region, COUNT(*) FROM articles GROUP BY region')
     raw_regions = dict(c.fetchall())
     
-    # 合并为四大地区
-    by_region = {'中国': 0, '欧洲': 0, '美洲': 0, '亚洲': 0}
+    # 合并为三大地区（不含中国）
+    by_region = {'欧洲': 0, '美洲': 0, '亚洲': 0}
     for region, count in raw_regions.items():
-        if region == '中国':
-            by_region['中国'] += count
-        elif region == '欧洲':
+        if region == '欧洲':
             by_region['欧洲'] += count
         elif region in ['北美', '南美']:
             by_region['美洲'] += count
         else:
+            # 中国、日本、亚太其他都归类到亚洲
             by_region['亚洲'] += count
     
     conn.close()
@@ -507,7 +503,7 @@ def generate_html():
             <p>今日新增</p>
         </div>
         <div class="stat-card">
-            <h3>{stats['by_region']['中国'] + stats['by_region']['欧洲'] + stats['by_region']['美洲'] + stats['by_region']['亚洲']}</h3>
+            <h3>3</h3>
             <p>覆盖地区</p>
         </div>
         <div class="stat-card">
@@ -519,8 +515,8 @@ def generate_html():
     <div class="regions-grid">
 '''
     
-    # 生成四大地区栏目
-    for region_name in ['中国', '欧洲', '美洲', '亚洲']:
+    # 生成三大地区栏目（不含中国）
+    for region_name in ['欧洲', '美洲', '亚洲']:
         articles = articles_by_region.get(region_name, [])
         count = len(articles)
         
@@ -560,7 +556,7 @@ def generate_html():
 '''
         
         if not articles:
-            html += '<div style="text-align: center; padding: 40px 20px; color: var(--text-muted);">暂无数据</div>'
+            html += '<div style="text-align: center; padding: 40px 20px; color: var(--text-muted);">今日暂无新资讯，显示历史数据</div>'
         
         html += '''
             </div>
