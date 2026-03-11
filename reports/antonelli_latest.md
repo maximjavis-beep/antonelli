@@ -1,19 +1,78 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-11  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 38 条
+- **新增资讯**: 52 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
+## 🌍 亚洲
+
+### 📰 The Shout
+
+![RNA corrects Royal Queensland Beer Awards result](https://theshout.com.au/wp-content/uploads/2026/03/Gage-Roads.jpg?w=780)
+
+- **[RNA corrects Royal Queensland Beer Awards result](https://theshout.com.au/rna-corrects-royal-queensland-beer-awards-result/)**
+  RNA has amended the 2026 Royal Queensland Beer Awards result, confirming Gage Roads as Champion Large Brewery....
+
+![Wednesday Women: Ingredient innovation and embracing change with Rebecca Grey](https://theshout.com.au/wp-content/uploads/2026/03/3-x-2-images-.png?w=780)
+
+- **[Wednesday Women: Ingredient innovation and embracing change with Rebecca Grey](https://theshout.com.au/wednesday-women-ingredient-innovation-and-embracing-change-with-rebecca-grey/)**
+  The Co-founder of Aquafab shares how her leap to hospitality inspired the creation of an allergen-free, sustainable cock...
+
+![WCA seeking 2026 wine industry mentors](https://theshout.com.au/wp-content/uploads/2026/03/2026-wine-industry-mentor.jpg?w=780)
+
+- **[WCA seeking 2026 wine industry mentors](https://theshout.com.au/wca-seeking-2026-wine-industry-mentors/)**
+  The Wine Industry Mentor Program, which helps guide the next generation of wine professionals, is seeking mentors for it...
+
+![New bursary to help rising stars attend IMW Symposium 2027](https://theshout.com.au/wp-content/uploads/2026/03/102296-36.jpg?w=780)
+
+- **[New bursary to help rising stars attend IMW Symposium 2027](https://theshout.com.au/new-bursary-to-help-rising-stars-attend-imw-symposium-2027/)**
+  Applications are now open to wine professionals 35 and under to attend the Institute of Masters of Wine Symposium next y...
+
+![‘Give it a crack’: Stuart Gregor on reshaping Lark and taking Tasmanian whisky to the world](https://theshout.com.au/wp-content/uploads/2026/03/StuGregorLarkwhisky.jpg?w=780)
+
+- **[‘Give it a crack’: Stuart Gregor on reshaping Lark and taking Tasmanian whisky to the world](https://theshout.com.au/give-it-a-crack-stuart-gregor-on-reshaping-lark-and-taking-tasmanian-whisky-to-the-world/)**
+  Lark will soon unveil four new expressions that represent the first major step in Stu Gregor’s plan to reposition the pi...
+
+
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![Final call: enter The Global Bordeaux Wine Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/03/iStock-585297592.jpg)
+
+- **[Final call: enter The Global Bordeaux Wine Masters 2026](https://www.thedrinksbusiness.com/2026/03/the-global-wine-masters-showcasing-bordeauxs-brilliance/)**
+  To honour Bordeaux’s unique contribution to the world of wine, our latest Global Wine Masters competition will shine a s...
+
+![Cider now worth £2 billion to UK pubs and bars](https://www.thedrinksbusiness.com/content/uploads/2026/03/Cider-glass.-jpg-scaled.jpg)
+
+- **[Cider now worth £2 billion to UK pubs and bars](https://www.thedrinksbusiness.com/2026/03/cider-now-worth-2-billion-to-uk-pubs-and-bars/)**
+  Around 96 pints and 25 bottles of cider are being sold in an average pub each week, equal to approximately £433 in sales...
+
+![Sunrise Beverages makes £25K investment into the ICA](https://www.thedrinksbusiness.com/content/uploads/2026/03/ICA.jpg)
+
+- **[Sunrise Beverages makes £25K investment into the ICA](https://www.thedrinksbusiness.com/2026/03/sunrise-beverages-makes-25k-investment-into-the-ica/)**
+  Sunrise Beverages, which owns beer brands such as St Peter’s, Efes, Orion, Portobello, Wild Beer Co and Gipsy Hill, has ...
+  *关键词: investment*
+
+![APIs driving ‘exponential’ growth in fine wine trading](https://www.thedrinksbusiness.com/content/uploads/2026/03/LiveTrade-Phone-Mockup-scaled-e1773140020736.jpg)
+
+- **[APIs driving ‘exponential’ growth in fine wine trading](https://www.thedrinksbusiness.com/2026/03/101-apis-driving-exponential-growth-in-fine-wine-trading/)**
+  With the use of APIs, merchants can instantly and seamlessly integrate with Bordeaux Index’s LiveTrade platform, dramati...
+  *关键词: market*
+
+![Piper-Heidsieck returns courtside at Miami Open with Champagne Garden activation](https://www.thedrinksbusiness.com/content/uploads/2026/03/Piper-Heidsieck-Miami-Open-Cuvee-Brut-and-tennis-March-2026-1-scaled.jpg)
+
+- **[Piper-Heidsieck returns courtside at Miami Open with Champagne Garden activation](https://www.thedrinksbusiness.com/2026/03/piper-heidsieck-returns-courtside-at-miami-open-with-champagne-garden-activation/)**
+  Piper-Heidsieck is bringing Champagne, music and a US$100 Wagyu hot dog to the Miami Open as the house returns to the te...
 
 ### 📰 Wine-Searcher
 
@@ -32,35 +91,6 @@
 - **[Ornellaia, Masseto and the Future of Super Tuscans](https://www.wine-searcher.com/m/2026/03/ornellaia-masseto-and-the-future-of-super-tuscans?rss=Y)**
   The Super Tuscan category has emerged as one of the strongest-performing sectors in fine wine – and few estates define t...
 
-### 📰 The Drinks Business
-
-![‘Very strong’ demand for fine wine in Singapore’s secondary market](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2233636892-scaled.jpg)
-
-- **[‘Very strong’ demand for fine wine in Singapore’s secondary market](https://www.thedrinksbusiness.com/2026/03/very-strong-demand-for-fine-wine-in-singapores-secondary-market/)**
-  The appetite for fine wine bidding on Singapore's secondary market is “very strong,” with prices competitive, collectors...
-  *关键词: market*
-
-![Bordeaux sees booming interest from US buyers](https://www.thedrinksbusiness.com/content/uploads/2021/07/iStock-182165860-1.jpg)
-
-- **[Bordeaux sees booming interest from US buyers](https://www.thedrinksbusiness.com/2026/03/bordeaux-sees-booming-interest-from-us-buyers/)**
-  US buyers are increasingly seeking out wines from Bordeaux, despite the economic outlook, new research has shown.
-The po...
-
-![Are Bordeaux reds still in the panetheon of modern greats?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Liv-ex-piece-from-mag-scaled.jpg)
-
-- **[Are Bordeaux reds still in the panetheon of modern greats?](https://www.thedrinksbusiness.com/2026/03/are-bordeaux-reds-still-in-the-panetheon-of-modern-greats/)**
-  Ten years on from Bordeaux’s acclaimed 2016 vintage, does it represent a buying opportunity?  Liv-ex argues that now may...
-
-![How to impress the DB Awards judges](https://www.thedrinksbusiness.com/content/uploads/2026/03/Judging-panel-scaled.jpg)
-
-- **[How to impress the DB Awards judges](https://www.thedrinksbusiness.com/2026/03/how-to-impress-the-db-awards-judges/)**
-  With entries for The Drinks Business Awards 2026 coming in thick and fast, Sarah Neish speaks to some of the judges abou...
-
-![Should you use Prosecco in cocktails?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Aperol-Spritz-scaled.jpg)
-
-- **[Should you use Prosecco in cocktails?](https://www.thedrinksbusiness.com/2026/03/716838/)**
-  Prosecco has become a vital ingredient in some of the world's most popular cocktails, including the Aperol Spritz. But h...
-
 ### 📰 Decanter
 
 ![What does America's harsh winter mean for its vineyards?](https://cdn.mos.cms.futurecdn.net/BfPFTBaxThFtyE6VerA69U-1280-80.gif)
@@ -75,6 +105,37 @@ The po...
 
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Tanglin creates Golden Blossom Gin for Changi Airport](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tanglin-Golden-Blossom-Gin.jpg)
+
+- **[Tanglin creates Golden Blossom Gin for Changi Airport](https://www.thespiritsbusiness.com/2026/03/tanglin-creates-golden-blossom-gin-for-changi-airport/)**
+  Singapore-based craft distiller Tanglin Spirits has partnered with Lotte Duty Free at Changi Airport to launch Golden Bl...
+  *关键词: launch*
+
+![Bemakers webinar explores sustainability in drinks](https://www.thespiritsbusiness.com/content/uploads/2026/03/Bemakers-webinar.jpg)
+
+- **[Bemakers webinar explores sustainability in drinks](https://www.thespiritsbusiness.com/2026/03/bemakers-webinar-explores-sustainability-in-drinks/)**
+  Direct beverage distribution platform Bemakers will host its Sustainability and Beverage Brands 2026 webinar on 17 March...
+  *关键词: distribution*
+
+![Glen Moray unveils Forbidden Fruit](https://www.thespiritsbusiness.com/content/uploads/2026/03/Glen-Moray.jpg)
+
+- **[Glen Moray unveils Forbidden Fruit](https://www.thespiritsbusiness.com/2026/03/glen-moray-unveils-forbidden-fruit/)**
+  Speyside distillery Glen Moray will launch a single malt whisky finished in Calvados casks next month, titled Forbidden ...
+  *关键词: launch*
+
+![Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/content/uploads/2024/01/garrard-county-distilling.jpg)
+
+- **[Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/2026/03/sazerac-reportedly-buys-into-garrard-county-distilling/)**
+  Shuttered whiskey maker Garrard County Distilling has sold its multi-million-dollar debt to a company that is allegedly ...
+
+![Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/content/uploads/2026/03/Super-Lyte.jpg)
+
+- **[Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/2026/03/surfside-maker-explores-new-rtd-segment-with-super-lyte/)**
+  Stateside Brands has unveiled a range of vodka-based canned serves inspired by classic sports drink flavours
+The post Su...
 
 ### 📰 Brewbound
 
@@ -114,38 +175,8 @@ The post 7 Beautiful Califor...
 - **[Travel Issue – 2026](https://www.wineenthusiast.com/travel-issue-2026/)**
   2026 The Travel Issue The 2026 Travel Issue will take you to new heights. On a mission to explore high-elevation winemak...
 
-### 📰 The Spirits Business
-
-![Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/content/uploads/2024/01/garrard-county-distilling.jpg)
-
-- **[Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/2026/03/sazerac-reportedly-buys-into-garrard-county-distilling/)**
-  Shuttered whiskey maker Garrard County Distilling has sold its multi-million-dollar debt to a company that is allegedly ...
-
-![Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/content/uploads/2026/03/Super-Lyte.jpg)
-
-- **[Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/2026/03/surfside-maker-explores-new-rtd-segment-with-super-lyte/)**
-  Stateside Brands has unveiled a range of vodka-based canned serves inspired by classic sports drink flavours
-The post Su...
-
-![Archie Rose celebrates women with Opal Gin](https://www.thespiritsbusiness.com/content/uploads/2026/03/Archie-Rose-Australian-Opal-Gin.jpg)
-
-- **[Archie Rose celebrates women with Opal Gin](https://www.thespiritsbusiness.com/2026/03/archie-rose-celebrates-women-with-opal-gin/)**
-  To celebrate International Women's Day, Sydney-based Archie Rose Distilling Co launched a limited edition Australian Opa...
-  *关键词: launch*
-
-![The world’s hottest bar openings from winter](https://www.thespiritsbusiness.com/content/uploads/2026/03/new-bars-9.jpg)
-
-- **[The world’s hottest bar openings from winter](https://www.thespiritsbusiness.com/2026/03/the-worlds-hottest-bar-openings-from-winter-2/)**
-  The wind blew in a number of exciting openings over winter, with new additions to the bar scenes in London, New York and...
-
-![Gabriel ‘Fluffy’ Iglesias launches Pocho Fino Tequila](https://www.thespiritsbusiness.com/content/uploads/2026/03/Gabriel-Fluffy-Iglesias-Pocho-Fino.jpg)
-
-- **[Gabriel ‘Fluffy’ Iglesias launches Pocho Fino Tequila](https://www.thespiritsbusiness.com/2026/03/gabriel-fluffy-iglesias-launches-pocho-fino-tequila/)**
-  US comedian and actor Gabriel 'Fluffy' Iglesias has teamed up with Next Century Spirits to launch a range of Pocho Fino ...
-  *关键词: launch*
-
 
 ---
 
-*报告生成时间: 2026-03-11 07:00*  
+*报告生成时间: 2026-03-11 18:00*  
 *Antonelli Intelligence System*
