@@ -1,6 +1,6 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-11  
+**日期**: 2026-03-12  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
@@ -45,36 +45,12 @@
 
 ## 🌍 欧洲
 
-### 📰 The Drinks Business
-
-![Final call: enter The Global Bordeaux Wine Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/03/iStock-585297592.jpg)
-
-- **[Final call: enter The Global Bordeaux Wine Masters 2026](https://www.thedrinksbusiness.com/2026/03/the-global-wine-masters-showcasing-bordeauxs-brilliance/)**
-  To honour Bordeaux’s unique contribution to the world of wine, our latest Global Wine Masters competition will shine a s...
-
-![Cider now worth £2 billion to UK pubs and bars](https://www.thedrinksbusiness.com/content/uploads/2026/03/Cider-glass.-jpg-scaled.jpg)
-
-- **[Cider now worth £2 billion to UK pubs and bars](https://www.thedrinksbusiness.com/2026/03/cider-now-worth-2-billion-to-uk-pubs-and-bars/)**
-  Around 96 pints and 25 bottles of cider are being sold in an average pub each week, equal to approximately £433 in sales...
-
-![Sunrise Beverages makes £25K investment into the ICA](https://www.thedrinksbusiness.com/content/uploads/2026/03/ICA.jpg)
-
-- **[Sunrise Beverages makes £25K investment into the ICA](https://www.thedrinksbusiness.com/2026/03/sunrise-beverages-makes-25k-investment-into-the-ica/)**
-  Sunrise Beverages, which owns beer brands such as St Peter’s, Efes, Orion, Portobello, Wild Beer Co and Gipsy Hill, has ...
-  *关键词: investment*
-
-![APIs driving ‘exponential’ growth in fine wine trading](https://www.thedrinksbusiness.com/content/uploads/2026/03/LiveTrade-Phone-Mockup-scaled-e1773140020736.jpg)
-
-- **[APIs driving ‘exponential’ growth in fine wine trading](https://www.thedrinksbusiness.com/2026/03/101-apis-driving-exponential-growth-in-fine-wine-trading/)**
-  With the use of APIs, merchants can instantly and seamlessly integrate with Bordeaux Index’s LiveTrade platform, dramati...
-  *关键词: market*
-
-![Piper-Heidsieck returns courtside at Miami Open with Champagne Garden activation](https://www.thedrinksbusiness.com/content/uploads/2026/03/Piper-Heidsieck-Miami-Open-Cuvee-Brut-and-tennis-March-2026-1-scaled.jpg)
-
-- **[Piper-Heidsieck returns courtside at Miami Open with Champagne Garden activation](https://www.thedrinksbusiness.com/2026/03/piper-heidsieck-returns-courtside-at-miami-open-with-champagne-garden-activation/)**
-  Piper-Heidsieck is bringing Champagne, music and a US$100 Wagyu hot dog to the Miami Open as the house returns to the te...
-
 ### 📰 Wine-Searcher
+
+![The Enduring Brilliance of 2021 Brunello](https://www.wine-searcher.com/images/news-rss/99/03/9903014204569b0d1ec_Vineyardsunsrs.jpg)
+
+- **[The Enduring Brilliance of 2021 Brunello](https://www.wine-searcher.com/m/2026/03/the-enduring-brilliance-of-2021-brunello?rss=Y)**
+  For Brunello di Montalcino, the early 2020s have been nothing short of a triumph....
 
 ![How a Great Vineyard Inspired a New Luxury Skincare](https://www.wine-searcher.com/images/news-rss/98/73/9873514114669387f91_How_A_Great_Vineyard_Inspired_a_New_Luxury_SkincareRS.jpg)
 
@@ -91,92 +67,97 @@
 - **[Ornellaia, Masseto and the Future of Super Tuscans](https://www.wine-searcher.com/m/2026/03/ornellaia-masseto-and-the-future-of-super-tuscans?rss=Y)**
   The Super Tuscan category has emerged as one of the strongest-performing sectors in fine wine – and few estates define t...
 
+### 📰 The Drinks Business
+
+- **[Golden Vines scholarships open to wine professionals affected by conflict](https://www.thedrinksbusiness.com/2026/03/golden-vines-scholarships-open-to-wine-professionals-affected-by-conflict/)**
+  Applications are now open for the 2026 Artémis Domaines Golden Vines Victims of Conflict Scholarships. The programme off...
+
+- **[World Atlas of Wine returns with ninth edition](https://www.thedrinksbusiness.com/2026/03/world-atlas-of-wine-returns-with-ninth-edition/)**
+  The landmark wine reference first published in 1971 will appear in a newly revised ninth edition. Hugh Johnson and Janci...
+
+- **[Rare Japanese whisky casks smash auction record to achieve £4.25 million](https://www.thedrinksbusiness.com/2026/03/rare-japaneses-whisky-casks-smash-auction-records-to-achieve-4-25-million-at-auction/)**
+  Two very rare casks of whisky from 'ghost' Japanese distillery Karuizawa became the highest value lots ever sold at a Ch...
+
+- **[Master Winemaker 100: Fabrice Bandiera](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-fabrice-bandiera/)**
+  The technical director at Bordeaux's Château des Laurets tells db about revelling in the unexpected, dispelling preconce...
+
+- **[New documentary exposes dangers of Cambodia’s unregulated beer industry](https://www.thedrinksbusiness.com/2026/03/new-documentary-exposes-dangers-of-cambodias-unregulated-beer-industry/)**
+  A new documentary from Laurits Nansen follows activist Kim Eng as he challenges Cambodia’s powerful beer sector and the ...
+  *关键词: market*
+
 ### 📰 Decanter
 
-![What does America's harsh winter mean for its vineyards?](https://cdn.mos.cms.futurecdn.net/BfPFTBaxThFtyE6VerA69U-1280-80.gif)
+- **[DWWA success story: Paris-Simoneau praises medal impact](https://www.decanter.com/decanter-world-wine-awards/dwwa-success-story-paris-simoneau-praises-medal-impact)**
+  Loire Valley winery Paris-Simoneau has become one of the latest producers to see powerful benefits that success at the D...
 
-- **[What does America's harsh winter mean for its vineyards?](https://www.decanter.com/learn/what-does-americas-harsh-winter-mean-for-its-vineyards)**
-  A winter of extremes has gripped the East Coast of the US, how has this impacted the vines…...
+- **[On the rack: Jeanette Winterson CBE](https://www.decanter.com/magazine/on-the-rack-jeanette-winterson-cbe)**
+  The award-winning novelist talks wine with Decanter......
 
-![It's a rock thing: Meeting Georges Truc, the Rhône’s wine geologist](https://cdn.mos.cms.futurecdn.net/jKzJMjtG8S5PQaR3fvVqbP-1280-80.png)
-
-- **[It's a rock thing: Meeting Georges Truc, the Rhône’s wine geologist](https://www.decanter.com/wine/rhone-valley/its-a-rock-thing-meeting-georges-truc-the-rhones-wine-geologist)**
-  The soil maestro of the Rhône......
+- **[Canadian wine finds a silver lining in the strained relationship with ‘America first’](https://www.decanter.com/learn/canadian-wine-finds-a-silver-lining-in-the-strained-relationship-with-america-first)**
+  Oh Canada......
 
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Tanglin creates Golden Blossom Gin for Changi Airport](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tanglin-Golden-Blossom-Gin.jpg)
-
-- **[Tanglin creates Golden Blossom Gin for Changi Airport](https://www.thespiritsbusiness.com/2026/03/tanglin-creates-golden-blossom-gin-for-changi-airport/)**
-  Singapore-based craft distiller Tanglin Spirits has partnered with Lotte Duty Free at Changi Airport to launch Golden Bl...
-  *关键词: launch*
-
-![Bemakers webinar explores sustainability in drinks](https://www.thespiritsbusiness.com/content/uploads/2026/03/Bemakers-webinar.jpg)
-
-- **[Bemakers webinar explores sustainability in drinks](https://www.thespiritsbusiness.com/2026/03/bemakers-webinar-explores-sustainability-in-drinks/)**
-  Direct beverage distribution platform Bemakers will host its Sustainability and Beverage Brands 2026 webinar on 17 March...
-  *关键词: distribution*
-
-![Glen Moray unveils Forbidden Fruit](https://www.thespiritsbusiness.com/content/uploads/2026/03/Glen-Moray.jpg)
-
-- **[Glen Moray unveils Forbidden Fruit](https://www.thespiritsbusiness.com/2026/03/glen-moray-unveils-forbidden-fruit/)**
-  Speyside distillery Glen Moray will launch a single malt whisky finished in Calvados casks next month, titled Forbidden ...
-  *关键词: launch*
-
-![Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/content/uploads/2024/01/garrard-county-distilling.jpg)
-
-- **[Sazerac reportedly buys into Garrard County Distilling](https://www.thespiritsbusiness.com/2026/03/sazerac-reportedly-buys-into-garrard-county-distilling/)**
-  Shuttered whiskey maker Garrard County Distilling has sold its multi-million-dollar debt to a company that is allegedly ...
-
-![Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/content/uploads/2026/03/Super-Lyte.jpg)
-
-- **[Surfside maker explores new RTD segment with Super Lyte](https://www.thespiritsbusiness.com/2026/03/surfside-maker-explores-new-rtd-segment-with-super-lyte/)**
-  Stateside Brands has unveiled a range of vodka-based canned serves inspired by classic sports drink flavours
-The post Su...
-
 ### 📰 Brewbound
 
-- **[JuneShine Brands to Outsource All Production, Shut Down Own Facility; 30 Employees Affected](https://www.brewbound.com/news/juneshine-brands-to-outsource-all-production-shut-down-own-facility-30-employees-affected)**
-  JuneShine Brands is shifting production of all its brands to third-party producers, the San Diego-based company announce...
+- **[Garage Beer Adds Molson Coors, BeatBox Vets to C-Suite](https://www.brewbound.com/news/garage-beer-adds-molson-coors-beatbox-vets-to-c-suite)**
+  Garage Beer continues to build out its executive team. The independent beer brand, which is backed by Jason and Travis K...
 
-- **[Half Acre, Maplewood Merge to Form Chicago Beverage Platform That Won’t Become ‘a Collection of Brands’](https://www.brewbound.com/news/half-acre-maplewood-merge-to-form-chicago-beverage-platform-that-wont-become-a-collection-of-brands)**
-  Chicago’s Half Acre Beer Company and Maplewood Brewery &#038; Distillery have merged into what the brands’ leaders are c...
+- **[Press Clips: Boston Beer to Lay Off 66 Angel City Workers; Black Frog’s 1st Location Closes; BA Offers ‘National Beer Day’ Toolkit](https://www.brewbound.com/news/press-clips-boston-beer-to-lay-off-66-angel-city-workers-black-frogs-1st-location-closes-ba-offers-national-beer-day-toolkit)**
+  Check out news items initially reported in the Brewbound Insider Newsletter March 9-11, including headlines from Boston ...
 
-- **[Maine Gov. Janet Mills Touts Support for Craft Brewers Amid Tariffs, Rising Costs](https://www.brewbound.com/news/maine-gov-janet-mills-touts-support-for-craft-brewers-amid-tariffs-rising-costs)**
-  Maine Gov. Janet Mills, who is running in the Democratic primary to challenge U.S. Sen. Susan Collins, weaved local and ...
+- **[CPI: Beer Leads On-Premise Price Increases in February](https://www.brewbound.com/news/cpi-beer-leads-on-premise-price-increases-in-february)**
+  It continues to get more expensive to go out than to stay home, according to food and beverage metrics in the U.S. Burea...
 
-- **[George Clooney & Partners Take Aim at NA Beer With Crazy Mountain; Beer Vet Steve Fechheimer Shares Details](https://www.brewbound.com/news/george-clooney-beer-vet-steve-fechheimer-shares-details)**
-  George Clooney, Rande Gerber and Mike Meldman’s non-alcoholic (NA) beer brand has been among the beer business’ worst-ke...
+- **[New on Shelves: Sam Adams’ ‘Our City. Our Beer’ Variety Pack, Stateside’s Super Lyte, Blake’s Giddy Up & More](https://www.brewbound.com/news/new-on-shelves-sam-adams-our-city-our-beer-variety-pack-statesides-super-lyte-blakes-giddy-up-more)**
+  Check out new products initially reported in the Brewbound Insider Newsletter March 9-11, including offerings from Samue...
+  *关键词: new product*
+
+- **[As Ohio Intoxicating Hemp Beverage Ban Looms, Lawsuit Seeks to Block Shutdown](https://www.brewbound.com/news/as-ohio-intoxicating-hemp-beverage-ban-looms-lawsuit-seeks-to-block-impending-shutdown)**
+  Several producers and a distributor filed an emergency lawsuit in Ohio last week in an effort to block Gov. Mike DeWine’...
 
 ### 📰 Wine Enthusiast
 
-![There’s So Much More to Bordeaux Than Bordeaux](https://www.wineenthusiast.com/wp-content/uploads/2026/02/03_26_City_of_Bordeaux_INSET_GettyImages-1165067990_1920x1280-1024x683.jpg)
+![The Biggest Wine Trends We’re Seeing This Spring](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/03_26_zanoli_wines_2024_escolle_chardonnay_inset_zanoli_wines_700x466)
 
-- **[There’s So Much More to Bordeaux Than Bordeaux](https://www.wineenthusiast.com/culture/travel/bordeaux-city-nouvelle-aquitaine/)**
-  Bordeaux built its name on wine, but the city and surrounding region have transformed into a world-class tourist destina...
+- **[The Biggest Wine Trends We’re Seeing This Spring](https://www.wineenthusiast.com/culture/wine-trends/)**
+  From savory Lambrusco to white wines with salinity, we can’t get enough of these spring-friendly bottles.
+The post The B...
+  *关键词: trend*
 
-![The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/wp-content/uploads/2024/11/43102_1.jpeg)
+- **[Everyone in Hollywood Has a Spirit Brand—But Are They Making Any Money?](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/celebrity-spirit-brands-podcast/)**
+  Ahead of the 98th Academy Awards, we speak with a beverage industry expert about why some celebrity spirits brands succe...
 
-- **[The Term ‘Sommelier’ Is Losing All Meaning](https://www.wineenthusiast.com/culture/wine/is-everyone-a-somm-viewpoint/)**
-  Since the 2012 documentary 'Somm' helped launch the term into the mainstream lexicon, various other disciplines have ado...
-  *关键词: launch*
+- **[The Willamette Valley’s Culinary Scene Is Now as World-Class as Its Pinot](https://www.wineenthusiast.com/culture/travel/willamette-valley-restaurants/)**
+  A growing number of chefs are flocking to the wine region after careers in larger cities—drawn by the lower costs and se...
 
-![7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_High_Hike_Taste_High_INSET_1_DEFINITION_FILMS_FOR_MONTE_BELLO_1920x1280-1024x683.jpg)
+- **[Celebrate St. Patrick’s Day with These Extremely Green Cocktails](https://www.wineenthusiast.com/recipes/cocktail-recipes/green-cocktails-st-patricks-day/)**
+  Swap out green beer for these festive emerald-hued cocktails, from a classic Grasshopper to the fluorescent Monocane Moc...
 
-- **[7 Beautiful California Hikes That End in a Tasting Room](https://www.wineenthusiast.com/culture/travel/california-tasting-room-hikes/)**
-  Need a reward after a long Central Coast hike? Good news: There's always a winery close by.
-The post 7 Beautiful Califor...
+### 📰 The Spirits Business
 
-![Travel Issue – 2026](https://res.cloudinary.com/htt8g4cd/image/upload/w_620,h_413,c_lfill,g_center,f_auto,q_auto/wp/03_26_mexico_alto_hero_gettyimages-537325160_1920x1280)
+- **[Top marketing moves from February 2026](https://www.thespiritsbusiness.com/2026/03/top-marketing-moves-from-february-2026/)**
+  From the Brits to the Super Bowl LX, spirits brands took their marketing plans absolutely everywhere in February
+The pos...
+  *关键词: market*
 
-- **[Travel Issue – 2026](https://www.wineenthusiast.com/travel-issue-2026/)**
-  2026 The Travel Issue The 2026 Travel Issue will take you to new heights. On a mission to explore high-elevation winemak...
+- **[SB meets… Ingrid Smith, Nirvana](https://www.thespiritsbusiness.com/2026/03/sb-meets-ingrid-smith-nirvana/)**
+  Launched in November 2025, ready-to-drink brand Nirvana aims to fill a gap in the market with its sparkling coconut wate...
+  *关键词: launch, market*
+
+- **[Are national drink days creating too much noise at the bar?](https://www.thespiritsbusiness.com/2026/03/are-national-drink-days-creating-too-much-noise-at-the-bar/)**
+  With more than 100 drinks awareness days now crowding the calendar, are these celebrations still worth toasting, or are ...
+  *关键词: market*
+
+- **[‘Last’ Karuizawa casks break record with £4.25m sale](https://www.thespiritsbusiness.com/2026/03/last-karuizawa-casks-break-record-with-4-25m-sale/)**
+  Christie's London has set a new record for its highest price ever achieved for 'the last two casks' from the Japanese di...
+
+- **[Art of Italicus Aperitivo Challenge returns for 2026](https://www.thespiritsbusiness.com/2026/03/art-of-italicus-aperitivo-challenge-returns-for-2026/)**
+  For its 10th anniversary, Italicus is asking bartenders to redefine the Spritz for its Art of Italicus Aperitivo Challen...
 
 
 ---
 
-*报告生成时间: 2026-03-11 18:00*  
+*报告生成时间: 2026-03-12 07:00*  
 *Antonelli Intelligence System*

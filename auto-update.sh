@@ -24,7 +24,7 @@ python3 build_site.py
 
 # Git 提交
 echo "💾 提交更改..."
-git add web/ data.db reports/
+git add web/ data.db
 git commit -m "Auto-update: $TIMESTAMP" || echo "无更改需要提交"
 
 # 推送到 GitHub (如果配置了远程仓库)
