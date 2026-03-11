@@ -59,15 +59,19 @@ def process_images_for_html(images):
     return html
 
 def get_articles():
-    """获取所有文章并按地区分组"""
+    """获取所有文章并按地区分组，优先显示今日文章，否则显示最近文章"""
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
     
+    today = datetime.now().strftime('%Y-%m-%d')
+    
+    # 先获取今日文章
     c.execute('''
-        SELECT title, link, summary, published, source, region, keywords_matched, fetched_at
+        SELECT title, link, summary, published, source, region, keywords_matched, fetched_at,
+               CASE WHEN date(fetched_at) = ? THEN 1 ELSE 0 END as is_today
         FROM articles
-        ORDER BY fetched_at DESC
-    ''')
+        ORDER BY is_today DESC, fetched_at DESC
+    ''', (today,))
     
     articles = c.fetchall()
     conn.close()
@@ -530,7 +534,7 @@ def generate_html():
         
         # 显示该地区的文章 (最多显示20条)
         for article in articles[:20]:
-            title, link, summary, published, source, region, keywords, fetched_at = article
+            title, link, summary, published, source, region, keywords, fetched_at, is_today = article
             
             # 清理摘要 (保留图片用于提取)
             clean_summary = re.sub(r'<[^>]+>', '', summary)[:150] if summary else ''
@@ -555,8 +559,7 @@ def generate_html():
                 </div>
 '''
         
-        if not articles:
-            html += '<div style="text-align: center; padding: 40px 20px; color: var(--text-muted);">今日暂无新资讯，显示历史数据</div>'
+
         
         html += '''
             </div>
