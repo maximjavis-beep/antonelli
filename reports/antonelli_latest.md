@@ -1,91 +1,55 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-12  
-**来源**: 全球 3 个地区 · 7 个信源
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 52 条
+- **新增资讯**: 43 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
-## 🌍 亚洲
-
-### 📰 The Shout
-
-![RNA corrects Royal Queensland Beer Awards result](https://theshout.com.au/wp-content/uploads/2026/03/Gage-Roads.jpg?w=780)
-
-- **[RNA corrects Royal Queensland Beer Awards result](https://theshout.com.au/rna-corrects-royal-queensland-beer-awards-result/)**
-  RNA has amended the 2026 Royal Queensland Beer Awards result, confirming Gage Roads as Champion Large Brewery....
-
-![Wednesday Women: Ingredient innovation and embracing change with Rebecca Grey](https://theshout.com.au/wp-content/uploads/2026/03/3-x-2-images-.png?w=780)
-
-- **[Wednesday Women: Ingredient innovation and embracing change with Rebecca Grey](https://theshout.com.au/wednesday-women-ingredient-innovation-and-embracing-change-with-rebecca-grey/)**
-  The Co-founder of Aquafab shares how her leap to hospitality inspired the creation of an allergen-free, sustainable cock...
-
-![WCA seeking 2026 wine industry mentors](https://theshout.com.au/wp-content/uploads/2026/03/2026-wine-industry-mentor.jpg?w=780)
-
-- **[WCA seeking 2026 wine industry mentors](https://theshout.com.au/wca-seeking-2026-wine-industry-mentors/)**
-  The Wine Industry Mentor Program, which helps guide the next generation of wine professionals, is seeking mentors for it...
-
-![New bursary to help rising stars attend IMW Symposium 2027](https://theshout.com.au/wp-content/uploads/2026/03/102296-36.jpg?w=780)
-
-- **[New bursary to help rising stars attend IMW Symposium 2027](https://theshout.com.au/new-bursary-to-help-rising-stars-attend-imw-symposium-2027/)**
-  Applications are now open to wine professionals 35 and under to attend the Institute of Masters of Wine Symposium next y...
-
-![‘Give it a crack’: Stuart Gregor on reshaping Lark and taking Tasmanian whisky to the world](https://theshout.com.au/wp-content/uploads/2026/03/StuGregorLarkwhisky.jpg?w=780)
-
-- **[‘Give it a crack’: Stuart Gregor on reshaping Lark and taking Tasmanian whisky to the world](https://theshout.com.au/give-it-a-crack-stuart-gregor-on-reshaping-lark-and-taking-tasmanian-whisky-to-the-world/)**
-  Lark will soon unveil four new expressions that represent the first major step in Stu Gregor’s plan to reposition the pi...
-
-
 ## 🌍 欧洲
-
-### 📰 Wine-Searcher
-
-![The Enduring Brilliance of 2021 Brunello](https://www.wine-searcher.com/images/news-rss/99/03/9903014204569b0d1ec_Vineyardsunsrs.jpg)
-
-- **[The Enduring Brilliance of 2021 Brunello](https://www.wine-searcher.com/m/2026/03/the-enduring-brilliance-of-2021-brunello?rss=Y)**
-  For Brunello di Montalcino, the early 2020s have been nothing short of a triumph....
-
-![How a Great Vineyard Inspired a New Luxury Skincare](https://www.wine-searcher.com/images/news-rss/98/73/9873514114669387f91_How_A_Great_Vineyard_Inspired_a_New_Luxury_SkincareRS.jpg)
-
-- **[How a Great Vineyard Inspired a New Luxury Skincare](https://www.wine-searcher.com/m/2025/12/how-a-great-vineyard-inspired-a-new-luxury-skincare?rss=Y)**
-  From L'Oréal to Bordeaux, from vineyards to active ingredients – this week on The Wine Podcast, Suzanne Mustacich speaks...
-
-![Drink Like an MW this Christmas](https://www.wine-searcher.com/images/news-rss/98/77/987701412136944add2_kb.jpg)
-
-- **[Drink Like an MW this Christmas](https://www.wine-searcher.com/m/2025/12/drink-like-an-mw-this-christmas?rss=Y)**
-  Unsure what to drink for Christmas? Try these three wine styles recommended by Konstantin Baum MW....
-
-![Ornellaia, Masseto and the Future of Super Tuscans](https://www.wine-searcher.com/images/news-rss/99/02/9902014202569af765d_WineVoices_The-Wine-Podcast-22_YouTube-thumbnail.jpg)
-
-- **[Ornellaia, Masseto and the Future of Super Tuscans](https://www.wine-searcher.com/m/2026/03/ornellaia-masseto-and-the-future-of-super-tuscans?rss=Y)**
-  The Super Tuscan category has emerged as one of the strongest-performing sectors in fine wine – and few estates define t...
 
 ### 📰 The Drinks Business
 
-- **[Golden Vines scholarships open to wine professionals affected by conflict](https://www.thedrinksbusiness.com/2026/03/golden-vines-scholarships-open-to-wine-professionals-affected-by-conflict/)**
-  Applications are now open for the 2026 Artémis Domaines Golden Vines Victims of Conflict Scholarships. The programme off...
+![Beer and fishing collaboration to catch angler demographic](https://www.thedrinksbusiness.com/content/uploads/2026/03/Busch-Light.jpg)
 
-- **[World Atlas of Wine returns with ninth edition](https://www.thedrinksbusiness.com/2026/03/world-atlas-of-wine-returns-with-ninth-edition/)**
-  The landmark wine reference first published in 1971 will appear in a newly revised ninth edition. Hugh Johnson and Janci...
+- **[Beer and fishing collaboration to catch angler demographic](https://www.thedrinksbusiness.com/2026/03/beer-and-fishing-collaboration-to-catch-angler-demographic/)**
+  AB InBev-owned beer brand Busch Light has collaborated with Bass Pro Shops and also launched a contest to further solidi...
+  *关键词: launch*
 
-- **[Rare Japanese whisky casks smash auction record to achieve £4.25 million](https://www.thedrinksbusiness.com/2026/03/rare-japaneses-whisky-casks-smash-auction-records-to-achieve-4-25-million-at-auction/)**
-  Two very rare casks of whisky from 'ghost' Japanese distillery Karuizawa became the highest value lots ever sold at a Ch...
+![Chivite’s Gran Vino Rosado 2023 is ripe for ageing](https://www.thedrinksbusiness.com/content/uploads/2026/03/Chivite-Coleccion-125-Gran-Vino-Rosado-2023-2.png)
 
-- **[Master Winemaker 100: Fabrice Bandiera](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-fabrice-bandiera/)**
-  The technical director at Bordeaux's Château des Laurets tells db about revelling in the unexpected, dispelling preconce...
+- **[Chivite’s Gran Vino Rosado 2023 is ripe for ageing](https://www.thedrinksbusiness.com/2026/03/chivites-gran-vino-rosado-2023-is-ripe-for-ageing/)**
+  Chivite Winery's Colección 125 Gran Vino Rosado 2023 is crafted from Garnacha, Tempranillo, and Syrah, and aged 12 month...
 
-- **[New documentary exposes dangers of Cambodia’s unregulated beer industry](https://www.thedrinksbusiness.com/2026/03/new-documentary-exposes-dangers-of-cambodias-unregulated-beer-industry/)**
-  A new documentary from Laurits Nansen follows activist Kim Eng as he challenges Cambodia’s powerful beer sector and the ...
-  *关键词: market*
+![Crown jewels: Marlborough sub-regions steal the spotlight](https://www.thedrinksbusiness.com/content/uploads/2026/03/Crown-new-zealand-scaled-e1772803888563.jpg)
+
+- **[Crown jewels: Marlborough sub-regions steal the spotlight](https://www.thedrinksbusiness.com/2026/03/keeping-the-crown/)**
+  Marlborough Sauvignon Blanc is pivoting to sub-regional storytelling to make sure it stays seated in the global white wi...
+
+![Ramón Bilbao’s Finca Lalinde rosé is defined by provenance](https://www.thedrinksbusiness.com/content/uploads/2026/03/CREATIVA-LALOMBA-FINCA-LALINDE-3-scaled.jpg)
+
+- **[Ramón Bilbao’s Finca Lalinde rosé is defined by provenance](https://www.thedrinksbusiness.com/2026/03/ramon-bilbaos-finca-lalinde-rose-is-defined-by-provenance/)**
+  When it was launched in 2016, Ramón Bilbao's Finca Lalinde Rosado "made a mark". A decade later, it continues to wow win...
+  *关键词: launch*
+
+![Beer Hour: Rachel Auty](https://www.thedrinksbusiness.com/content/uploads/2026/03/rachel-auty-claire-mcclean-photography-6-scaled.jpg)
+
+- **[Beer Hour: Rachel Auty](https://www.thedrinksbusiness.com/2026/03/beer-hour-rachel-auty/)**
+  After founding the social enterprise Women on Tap CIC (WOT) in 2017 championing women in the beer industry, Rachel Auty ...
 
 ### 📰 Decanter
+
+![Italy for the cellar: A DWWA collection](https://cdn.mos.cms.futurecdn.net/NVj8mXhRZVqAW7oi997jtF-1280-80.jpg)
+
+- **[Italy for the cellar: A DWWA collection](https://www.decanter.com/decanter-world-wine-awards/dwwa-results-highlights/italy-for-the-cellar-a-dwwa-collection)**
+  Italy's vineyards have long captivated wine lovers and the results from Decanter World Wine Awards 2025 serve as a timel...
 
 - **[DWWA success story: Paris-Simoneau praises medal impact](https://www.decanter.com/decanter-world-wine-awards/dwwa-success-story-paris-simoneau-praises-medal-impact)**
   Loire Valley winery Paris-Simoneau has become one of the latest producers to see powerful benefits that success at the D...
@@ -96,8 +60,38 @@
 - **[Canadian wine finds a silver lining in the strained relationship with ‘America first’](https://www.decanter.com/learn/canadian-wine-finds-a-silver-lining-in-the-strained-relationship-with-america-first)**
   Oh Canada......
 
+### 📰 Wine-Searcher
+
+![The Enduring Brilliance of 2021 Brunello](https://www.wine-searcher.com/images/news-rss/99/03/9903014204569b0d1ec_Vineyardsunsrs.jpg)
+
+- **[The Enduring Brilliance of 2021 Brunello](https://www.wine-searcher.com/m/2026/03/the-enduring-brilliance-of-2021-brunello?rss=Y)**
+  For Brunello di Montalcino, the early 2020s have been nothing short of a triumph....
+
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Lillet ditches alcohol for Blanc 0%](https://www.thespiritsbusiness.com/content/uploads/2026/03/Lillet-Blanc-0.jpg)
+
+- **[Lillet ditches alcohol for Blanc 0%](https://www.thespiritsbusiness.com/2026/03/lillet-ditches-alcohol-for-blanc-0/)**
+  Pernod Ricard-owned French apéritif Maison Lillet has introduced a non-alcoholic version of Lillet Blanc to its portfoli...
+
+- **[Top marketing moves from February 2026](https://www.thespiritsbusiness.com/2026/03/top-marketing-moves-from-february-2026/)**
+  From the Brits to the Super Bowl LX, spirits brands took their marketing plans absolutely everywhere in February
+The pos...
+  *关键词: market*
+
+- **[SB meets… Ingrid Smith, Nirvana](https://www.thespiritsbusiness.com/2026/03/sb-meets-ingrid-smith-nirvana/)**
+  Launched in November 2025, ready-to-drink brand Nirvana aims to fill a gap in the market with its sparkling coconut wate...
+  *关键词: launch, market*
+
+- **[Are national drink days creating too much noise at the bar?](https://www.thespiritsbusiness.com/2026/03/are-national-drink-days-creating-too-much-noise-at-the-bar/)**
+  With more than 100 drinks awareness days now crowding the calendar, are these celebrations still worth toasting, or are ...
+  *关键词: market*
+
+- **[‘Last’ Karuizawa casks break record with £4.25m sale](https://www.thespiritsbusiness.com/2026/03/last-karuizawa-casks-break-record-with-4-25m-sale/)**
+  Christie's London has set a new record for its highest price ever achieved for 'the last two casks' from the Japanese di...
 
 ### 📰 Brewbound
 
@@ -135,29 +129,8 @@ The post The B...
 - **[Celebrate St. Patrick’s Day with These Extremely Green Cocktails](https://www.wineenthusiast.com/recipes/cocktail-recipes/green-cocktails-st-patricks-day/)**
   Swap out green beer for these festive emerald-hued cocktails, from a classic Grasshopper to the fluorescent Monocane Moc...
 
-### 📰 The Spirits Business
-
-- **[Top marketing moves from February 2026](https://www.thespiritsbusiness.com/2026/03/top-marketing-moves-from-february-2026/)**
-  From the Brits to the Super Bowl LX, spirits brands took their marketing plans absolutely everywhere in February
-The pos...
-  *关键词: market*
-
-- **[SB meets… Ingrid Smith, Nirvana](https://www.thespiritsbusiness.com/2026/03/sb-meets-ingrid-smith-nirvana/)**
-  Launched in November 2025, ready-to-drink brand Nirvana aims to fill a gap in the market with its sparkling coconut wate...
-  *关键词: launch, market*
-
-- **[Are national drink days creating too much noise at the bar?](https://www.thespiritsbusiness.com/2026/03/are-national-drink-days-creating-too-much-noise-at-the-bar/)**
-  With more than 100 drinks awareness days now crowding the calendar, are these celebrations still worth toasting, or are ...
-  *关键词: market*
-
-- **[‘Last’ Karuizawa casks break record with £4.25m sale](https://www.thespiritsbusiness.com/2026/03/last-karuizawa-casks-break-record-with-4-25m-sale/)**
-  Christie's London has set a new record for its highest price ever achieved for 'the last two casks' from the Japanese di...
-
-- **[Art of Italicus Aperitivo Challenge returns for 2026](https://www.thespiritsbusiness.com/2026/03/art-of-italicus-aperitivo-challenge-returns-for-2026/)**
-  For its 10th anniversary, Italicus is asking bartenders to redefine the Spritz for its Art of Italicus Aperitivo Challen...
-
 
 ---
 
-*报告生成时间: 2026-03-12 07:00*  
+*报告生成时间: 2026-03-12 18:00*  
 *Antonelli Intelligence System*
