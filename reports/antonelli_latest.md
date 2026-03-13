@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 45 条
+- **新增资讯**: 51 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,11 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
+
+![Tasmania’s 2026 harvest commences](https://theshout.com.au/wp-content/uploads/2026/03/iStock-956770626-Tasmania-wine-harvest.jpg?w=780)
+
+- **[Tasmania’s 2026 harvest commences](https://theshout.com.au/tasmanias-2026-harvest-commences/)**
+  After a growing season that’s been ‘anything but predictable’ Tasmania’s 2026 wine grape harvest is finally underway....
 
 ![Oxyfuel glass furnace underlines Orora’s sustainability credentials](https://theshout.com.au/wp-content/uploads/2026/03/OroraOxyfuelGlassFurnace.jpg?w=780)
 
@@ -36,14 +41,24 @@
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Alcohol, Health and the New Puritans](https://www.wine-searcher.com/images/news-rss/99/04/9904114206569b317cf_hospo1.jpg)
-
-- **[Alcohol, Health and the New Puritans](https://www.wine-searcher.com/m/2026/03/alcohol-health-and-the-new-puritans?rss=Y)**
-  ...
-
 ### 📰 The Drinks Business
+
+![Why failing to stock a non-alcoholic cider is ‘a missed opportunity’](https://www.thedrinksbusiness.com/content/uploads/2025/11/Chance-Clean-Cider-1.jpg)
+
+- **[Why failing to stock a non-alcoholic cider is ‘a missed opportunity’](https://www.thedrinksbusiness.com/2026/03/why-failing-to-stock-a-non-alcoholic-cider-is-a-missed-opportunity/)**
+  Cider’s popularity as a sales driver for pubs, bars and restaurants has led to a renewed take on the trend, with its pot...
+  *关键词: trend*
+
+![Vault City Brewing invests in flavour development](https://www.thedrinksbusiness.com/content/uploads/2026/03/Madz-Spence-scaled.jpg)
+
+- **[Vault City Brewing invests in flavour development](https://www.thedrinksbusiness.com/2026/03/vault-city-brewing-invests-in-flavour-development/)**
+  Edinburgh-based sour beer producer Vault City Brewing has appointed Madeline Spence as its first in-house food scientist...
+  *关键词: investment*
+
+![“Consumers are taking a leap into the unexpected”: Ukrainian wine brand Bolgrad expands UK listings](https://www.thedrinksbusiness.com/content/uploads/2026/03/Bolgrad1-2-1-scaled.jpg)
+
+- **[“Consumers are taking a leap into the unexpected”: Ukrainian wine brand Bolgrad expands UK listings](https://www.thedrinksbusiness.com/2026/03/consumers-are-taking-a-leap-into-the-unexpected-ukrainian-wine-brand-bolgrad-expands-uk-listings/)**
+  Ukrainian wine brand Bolgrad is strengthening its foothold in the UK after securing further Lidl listings and expanding ...
 
 ![Premium organic Cava rises in popularity in the US](https://www.thedrinksbusiness.com/content/uploads/2026/03/pexels-cottonbro-6728572.jpg)
 
@@ -56,23 +71,22 @@
 - **[Half of UK and Ireland hospitality operators concerned about AI data security, study finds](https://www.thedrinksbusiness.com/2026/03/half-of-uk-and-ireland-hospitality-operators-concerned-about-ai-data-security-study-finds/)**
   A new study from Access Hospitality shows that while AI adoption is rising across hospitality businesses in the UK and I...
 
-![Asahi Breweries to fully resume shipments in wake of cyber-attack](https://www.thedrinksbusiness.com/content/uploads/2026/03/Asahi-billboard-1536x1024-1.jpg)
-
-- **[Asahi Breweries to fully resume shipments in wake of cyber-attack](https://www.thedrinksbusiness.com/2026/03/asahi-breweries-to-fully-resume-shipments-in-wake-of-cyberattack/)**
-  Asahi Breweries is set to recommence shipments of all products next month (7 April), almost six months after a cyber-att...
-
-![Wines of Georgia appoints Glodow Nead Communications as US PR partner](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-180734242.jpg)
-
-- **[Wines of Georgia appoints Glodow Nead Communications as US PR partner](https://www.thedrinksbusiness.com/2026/03/wines-of-georgia-appoints-glodow-nead-communications-as-us-pr-partner/)**
-  Wines of Georgia has appointed Glodow Nead Communications to lead its communications strategy in the US as the category ...
-  *关键词: market*
-
-![Guinness at £3.49 leads St Patrick’s Day pricing push in UK pubs](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-537953507.jpg)
-
-- **[Guinness at £3.49 leads St Patrick’s Day pricing push in UK pubs](https://www.thedrinksbusiness.com/2026/03/guinness-at-3-49-leads-st-patricks-day-pricing-push-in-uk-pubs/)**
-  Major pub chains are leaning into St Patrick’s Day with sharp drink pricing and exclusive brews aimed at drawing custome...
-
 ### 📰 Decanter
+
+![Wines without pedigree: from outsiders to Spanish icons of the future](https://cdn.mos.cms.futurecdn.net/KAGgcBG6mi5oBVno2MLR8J-1280-80.png)
+
+- **[Wines without pedigree: from outsiders to Spanish icons of the future](https://www.decanter.com/wine/wine-regions/wines-without-pedigree-from-outsiders-to-spanish-icons-of-the-future)**
+  Conjured and moderated by Fernando Mora MW, the session stood out within Barcelona Wine Week’s programme focused on lega...
+
+![The nomads: Winemakers who wander](https://cdn.mos.cms.futurecdn.net/d3CvSSZ4MVe9dmHQHMx5qE-1280-80.jpg)
+
+- **[The nomads: Winemakers who wander](https://www.decanter.com/wine/wine-regions/the-nomads-winemakers-who-wander)**
+  Footloose and fancy-free......
+
+![Why Irish whiskey loves sweet and fortified wine casks](https://cdn.mos.cms.futurecdn.net/VoAEQNf7Lh2kSFwr4tQEb7-1280-80.jpg)
+
+- **[Why Irish whiskey loves sweet and fortified wine casks](https://www.decanter.com/spirits/why-irish-whiskey-loves-sweet-and-fortified-wine-casks)**
+  Barrels used to age Marsala, Madeira and Sauternes have a special affinity with triple-distilled Irish whiskeys, thanks ...
 
 ![Best books on sake: Discover the story of Japan’s national drink](https://cdn.mos.cms.futurecdn.net/GN53n2K4cTmvNgsGzbvuJY-1280-80.jpg)
 
@@ -83,6 +97,13 @@
 
 - **[Italy for the cellar: A DWWA collection](https://www.decanter.com/decanter-world-wine-awards/dwwa-results-highlights/italy-for-the-cellar-a-dwwa-collection)**
   Italy's vineyards have long captivated wine lovers and the results from Decanter World Wine Awards 2025 serve as a timel...
+
+### 📰 Wine-Searcher
+
+![Alcohol, Health and the New Puritans](https://www.wine-searcher.com/images/news-rss/99/04/9904114206569b317cf_hospo1.jpg)
+
+- **[Alcohol, Health and the New Puritans](https://www.wine-searcher.com/m/2026/03/alcohol-health-and-the-new-puritans?rss=Y)**
+  ...
 
 
 ## 🌍 美洲
@@ -169,5 +190,5 @@ T...
 
 ---
 
-*报告生成时间: 2026-03-13 07:00*  
+*报告生成时间: 2026-03-13 18:00*  
 *Antonelli Intelligence System*
