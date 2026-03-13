@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-13  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-03-14  
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 51 条
+- **新增资讯**: 32 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -22,54 +22,38 @@
 - **[Tasmania’s 2026 harvest commences](https://theshout.com.au/tasmanias-2026-harvest-commences/)**
   After a growing season that’s been ‘anything but predictable’ Tasmania’s 2026 wine grape harvest is finally underway....
 
-![Oxyfuel glass furnace underlines Orora’s sustainability credentials](https://theshout.com.au/wp-content/uploads/2026/03/OroraOxyfuelGlassFurnace.jpg?w=780)
-
-- **[Oxyfuel glass furnace underlines Orora’s sustainability credentials](https://theshout.com.au/oxyfuel-glass-furnace-underlines-ororas-sustainability-credentials/)**
-  Orora’s high efficiency G3 oxyfuel glass furnace has been in operation for 12 months, eliminating over 13,000 tonnes of ...
-
-![Tilray Brands acquires BrewDog Australia](https://theshout.com.au/wp-content/uploads/2022/11/BrewDogVenue.jpg?w=780)
-
-- **[Tilray Brands acquires BrewDog Australia](https://theshout.com.au/tilray-brands-acquires-brewdog-australia/)**
-  The Australian buy follows Tilray’s recent acquisition of the struggling Scotland-based brewery’s business across the UK...
-  *关键词: acquisition, acquisition*
-
-![Tequila Ocho debuts new look after four-year redesign](https://theshout.com.au/wp-content/uploads/2026/03/Ocho_3-Bottles_Agave-Row-web.jpeg?w=780)
-
-- **[Tequila Ocho debuts new look after four-year redesign](https://theshout.com.au/tequila-ocho-debuts-new-look-after-four-year-redesign/)**
-  Refining how the brand communicates its story of terroir, tradition and craftmanship, the packaging refresh works as eff...
-
 
 ## 🌍 欧洲
 
 ### 📰 The Drinks Business
 
-![Why failing to stock a non-alcoholic cider is ‘a missed opportunity’](https://www.thedrinksbusiness.com/content/uploads/2025/11/Chance-Clean-Cider-1.jpg)
+![Noma’s René Redzepi resigns after shocking abuse allegations](https://www.thedrinksbusiness.com/content/uploads/2026/03/Noma_AV4A6351_41760085092-scaled.jpg)
 
-- **[Why failing to stock a non-alcoholic cider is ‘a missed opportunity’](https://www.thedrinksbusiness.com/2026/03/why-failing-to-stock-a-non-alcoholic-cider-is-a-missed-opportunity/)**
-  Cider’s popularity as a sales driver for pubs, bars and restaurants has led to a renewed take on the trend, with its pot...
-  *关键词: trend*
+- **[Noma’s René Redzepi resigns after shocking abuse allegations](https://www.thedrinksbusiness.com/2026/03/nomas-rene-redzepi-resigns-after-shocking-abuse-allegations/)**
+  The co-founder and former head chef of Copenhagen's Noma restaurant has been accused of inflicting "psychological and ph...
 
-![Vault City Brewing invests in flavour development](https://www.thedrinksbusiness.com/content/uploads/2026/03/Madz-Spence-scaled.jpg)
+![#WeekInPictures: rum for International Women’s Day, Champagne in Aÿ and a new non alcohol brew](https://www.thedrinksbusiness.com/content/uploads/2026/03/3Q0A0083.jpg)
 
-- **[Vault City Brewing invests in flavour development](https://www.thedrinksbusiness.com/2026/03/vault-city-brewing-invests-in-flavour-development/)**
-  Edinburgh-based sour beer producer Vault City Brewing has appointed Madeline Spence as its first in-house food scientist...
-  *关键词: investment*
+- **[#WeekInPictures: rum for International Women’s Day, Champagne in Aÿ and a new non alcohol brew](https://www.thedrinksbusiness.com/2026/03/weekinpictures-rum-for-international-womens-day-champagne-in-ay-and-a-new-non-alcohol-brew/)**
+  From London panels and Rosewood roundtables to cellars in Champagne and a brewery launch in America, the week offered a ...
+  *关键词: launch*
 
-![“Consumers are taking a leap into the unexpected”: Ukrainian wine brand Bolgrad expands UK listings](https://www.thedrinksbusiness.com/content/uploads/2026/03/Bolgrad1-2-1-scaled.jpg)
+![Canada wine ban wipes US$357m from US exports](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-173870672-1.jpg)
 
-- **[“Consumers are taking a leap into the unexpected”: Ukrainian wine brand Bolgrad expands UK listings](https://www.thedrinksbusiness.com/2026/03/consumers-are-taking-a-leap-into-the-unexpected-ukrainian-wine-brand-bolgrad-expands-uk-listings/)**
-  Ukrainian wine brand Bolgrad is strengthening its foothold in the UK after securing further Lidl listings and expanding ...
+- **[Canada wine ban wipes US$357m from US exports](https://www.thedrinksbusiness.com/2026/03/canada-wine-ban-wipes-us357m-from-us-exports/)**
+  A year after Canadian provinces removed US wines from store shelves, full-year trade data reveal the steepest disruption...
+  *关键词: market*
 
-![Premium organic Cava rises in popularity in the US](https://www.thedrinksbusiness.com/content/uploads/2026/03/pexels-cottonbro-6728572.jpg)
+![Master Winemaker 100: Francesca Giuggioli](https://www.thedrinksbusiness.com/content/uploads/2026/03/Francesca-Giuggioli_Enologo-San-Felice-scaled.jpg)
 
-- **[Premium organic Cava rises in popularity in the US](https://www.thedrinksbusiness.com/2026/03/premium-organic-cava-rises-in-popularity-in-the-us/)**
-  The US market has become increasingly interested in premium Spanish sparkling wine, specifically premium organic Cava, a...
-  *关键词: market, trend*
+- **[Master Winemaker 100: Francesca Giuggioli](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-francesca-giuggioli/)**
+  The winemaker at Tuscany's San Felice tells db about knowing when to step aside, pairing wine with suckling pig and wine...
 
-![Half of UK and Ireland hospitality operators concerned about AI data security, study finds](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1079268360.jpg)
+![Champagne Dom Pérignon launches ‘smallest blend ever’](https://www.thedrinksbusiness.com/content/uploads/2026/03/dom-perignon-2017-launch-london-12-march-2026.j-scaled.jpeg)
 
-- **[Half of UK and Ireland hospitality operators concerned about AI data security, study finds](https://www.thedrinksbusiness.com/2026/03/half-of-uk-and-ireland-hospitality-operators-concerned-about-ai-data-security-study-finds/)**
-  A new study from Access Hospitality shows that while AI adoption is rising across hospitality businesses in the UK and I...
+- **[Champagne Dom Pérignon launches ‘smallest blend ever’](https://www.thedrinksbusiness.com/2026/03/dom-perignon-launches-smallest-blend-ever-from-extreme-2017-vintage/)**
+  Dom Pérignon has released a Champagne from the 2017 vintage, a harvest which yielded the prestige cuvée’s "smallest blen...
+  *关键词: launch*
 
 ### 📰 Decanter
 
@@ -88,107 +72,67 @@
 - **[Why Irish whiskey loves sweet and fortified wine casks](https://www.decanter.com/spirits/why-irish-whiskey-loves-sweet-and-fortified-wine-casks)**
   Barrels used to age Marsala, Madeira and Sauternes have a special affinity with triple-distilled Irish whiskeys, thanks ...
 
-![Best books on sake: Discover the story of Japan’s national drink](https://cdn.mos.cms.futurecdn.net/GN53n2K4cTmvNgsGzbvuJY-1280-80.jpg)
-
-- **[Best books on sake: Discover the story of Japan’s national drink](https://www.decanter.com/learn/wine-books-latest-reviews/best-books-on-sake-discover-the-story-of-japans-national-drink)**
-  Great reads that will leave you thirsty for a glass......
-
-![Italy for the cellar: A DWWA collection](https://cdn.mos.cms.futurecdn.net/NVj8mXhRZVqAW7oi997jtF-1280-80.jpg)
-
-- **[Italy for the cellar: A DWWA collection](https://www.decanter.com/decanter-world-wine-awards/dwwa-results-highlights/italy-for-the-cellar-a-dwwa-collection)**
-  Italy's vineyards have long captivated wine lovers and the results from Decanter World Wine Awards 2025 serve as a timel...
-
-### 📰 Wine-Searcher
-
-![Alcohol, Health and the New Puritans](https://www.wine-searcher.com/images/news-rss/99/04/9904114206569b317cf_hospo1.jpg)
-
-- **[Alcohol, Health and the New Puritans](https://www.wine-searcher.com/m/2026/03/alcohol-health-and-the-new-puritans?rss=Y)**
-  ...
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
-- **[NIQ: Adult Non-Alc Needs to ‘Move Beyond Flavor Extensions’](https://www.brewbound.com/news/niq-adult-non-alc-needs-to-move-beyond-flavor-extensions)**
-  Non-alcoholic (NA) wine, beer and spirits still account for less than 1% of total alcohol category sales – leaving a run...
-  *关键词: market*
+- **[Former Sycamore Brewing Sold, Will Reopen Saturday as ‘Club West’](https://www.brewbound.com/news/former-sycamore-brewing-sold-will-reopen-saturday-as-club-west)**
+  Club West, the Charlotte, North Carolina-based craft brewery formerly known as Sycamore Brewing, is in the process of be...
 
-- **[Cans 78% BA-Defined Craft in 2025, Share Growth Slowing](https://www.brewbound.com/news/cans-78-ba-defined-craft-in-2025-share-growth-slowing)**
-  Cans may be maxing out their share of packaged craft products, Brewers Association (BA) staff economist Matt Gacioch wro...
-  *关键词: trend*
+- **[‘Finding Focus Through Values’ with Russian River Co-founder Natalie Cilurzo](https://www.brewbound.com/news/finding-focus-through-values-with-russian-river-co-founder-natalie-cilurzo)**
+  “Focus” has been one of the buzziest words for craft breweries over the last 2+ years: focus within portfolios; focus ac...
+  *关键词: launch, distribution*
 
-- **[Brewbound Podcast: A Changing of the Guard at Oxbow](https://www.brewbound.com/news/brewbound-podcast-a-changing-of-the-guard-at-oxbow)**
-  Two months into her role as president of Portland, Maine-based Oxbow Brewing Company, Bri Warner is finding her groove a...
+- **[Press Clips: Lone River Founder Leaving Diageo; BrewDog Closes Atlanta Location](https://www.brewbound.com/news/press-clips-lone-river-founder-leaving-diageo-brewdog-closes-atlanta-location)**
+  Check out news items initially reported in the Brewbound Insider Newsletter March 12-13, including headlines from Lone R...
 
-- **[NIQ Weekly Scans: RTDs Remain Only Major Category to Record YoY Growth Thru February](https://www.brewbound.com/news/niq-weekly-scans-rtds-remain-only-major-category-to-record-yoy-growth-thru-february)**
-  One consistent trend through the first two months of 2026 has been the strength of ready-to-drink cocktails (RTDs)....
-  *关键词: trend*
-
-- **[Margarita RTDs Outpacing Hard Tea](https://www.brewbound.com/news/margarita-rtds-outpacing-hard-tea)**
-  The ready-to-drink (RTD) margarita is outpacing some of the industry’s hottest new RTD segments, with high ABV and spiri...
+- **[Numerator: 36% Consumers Plan to Celebrate St. Patrick’s Day; 46% of Celebrants to Purchase Bev-Alc](https://www.brewbound.com/news/numerator-36-consumers-plan-to-celebrate-st-patricks-day-46-of-celebrants-to-purchase-bev-alc)**
+  Forty-six-percent of consumers who plan to celebrate St. Patrick’s Day (March 17) this year, will purchase beverage-alco...
 
 ### 📰 The Spirits Business
 
-![Cocktail stories: Get the MSG?, Cat Bite Club](https://www.thespiritsbusiness.com/content/uploads/2026/03/Cat-Bite-Club-Get-The-MSG_-1.jpg)
+![El Supremo Rum responds to criticism after UK launch event](https://www.thespiritsbusiness.com/content/uploads/2026/03/El-Supremo-Rum.jpg)
 
-- **[Cocktail stories: Get the MSG?, Cat Bite Club](https://www.thespiritsbusiness.com/2026/03/cocktail-stories-get-the-msg-cat-bite-club/)**
-  Singapore’s Cat Bite Club takes inspiration from savoury cocktails like the Michelada and the Bloody Mary, but adds an A...
-
-![Lucky One offers alternative to ‘artificial’ malt iced teas](https://www.thespiritsbusiness.com/content/uploads/2026/03/Lucky-One-Sweet-Tea.jpg)
-
-- **[Lucky One offers alternative to ‘artificial’ malt iced teas](https://www.thespiritsbusiness.com/2026/03/lucky-one-offers-alternative-to-artificial-malt-iced-teas/)**
-  After hitting one million cases last year, Gallo-owned Lucky One has revealed its first line extension: Sweet Tea
-The po...
-
-![Cotswolds offers distillery trips](https://www.thespiritsbusiness.com/content/uploads/2026/03/Cotswolds.jpg)
-
-- **[Cotswolds offers distillery trips](https://www.thespiritsbusiness.com/2026/03/cotswolds-offers-distillery-trips/)**
-  The Cotswolds Distillery has launched an on-pack promotion in the UK on-trade, offering two trips to visit its brand hom...
+- **[El Supremo Rum responds to criticism after UK launch event](https://www.thespiritsbusiness.com/2026/03/el-supremo-rum-responds-to-criticism-after-uk-launch-event/)**
+  Rum brand El Supremo said it had “no intention to trivialise Indigenous culture” after receiving criticism about a launc...
   *关键词: launch*
 
-![Nikka Frontier heads to Europe](https://www.thespiritsbusiness.com/content/uploads/2026/03/Nikka-Frontier-2.jpg)
+![Glasgow’s East End inspires cocktail menu](https://www.thespiritsbusiness.com/content/uploads/2026/03/The-Gate-New-Menu-Feb-2026-32.jpg)
 
-- **[Nikka Frontier heads to Europe](https://www.thespiritsbusiness.com/2026/03/nikka-frontier-heads-to-europe/)**
-  Asahi Group-owned Nikka will launch its Frontier whisky outside Japan this month, starting with South Korea and France
-T...
-  *关键词: launch*
+- **[Glasgow’s East End inspires cocktail menu](https://www.thespiritsbusiness.com/2026/03/glasgows-east-end-inspires-cocktail-menu/)**
+  The Gate in Scotland’s Glasgow has created a drinks list celebrating the 200-year heritage of the city’s Gallowgate neig...
 
-![Spirit of Barcelona: MG Destilerías](https://www.thespiritsbusiness.com/content/uploads/2026/03/Mg-Destilerias.jpg)
+![Rotten Little Bastard Distillery goes into liquidation](https://www.thespiritsbusiness.com/content/uploads/2026/03/Beaufort-South-Carolina.jpg)
 
-- **[Spirit of Barcelona: MG Destilerías](https://www.thespiritsbusiness.com/2026/03/spirit-of-barcelona-mg-destilerias/)**
-  MG Destilerías’s recently relaunched ready-to-drink range brings the taste of the Spanish city to any occasion, with 12 ...
-  *关键词: launch*
+- **[Rotten Little Bastard Distillery goes into liquidation](https://www.thespiritsbusiness.com/2026/03/rotten-little-bastard-distillery-goes-into-liquidation/)**
+  South Carolina-based Rotten Little Bastard Distillery has filed for Chapter 7 bankruptcy almost six years after opening
+...
+
+![Bacardí debuts music-led campaign with Puerto Rican creatives](https://www.thespiritsbusiness.com/content/uploads/2026/03/Bacardi-campaign.jpg)
+
+- **[Bacardí debuts music-led campaign with Puerto Rican creatives](https://www.thespiritsbusiness.com/2026/03/bacardi-debuts-music-led-campaign-with-puerto-rican-creatives/)**
+  Puerto Rican rum brand Bacardí has unveiled a global music-led campaign in partnership with Bad Bunny producer Tainy
+The...
+  *关键词: partnership*
+
+![Workers at Drinks Inc to vote on strike action over pay](https://www.thespiritsbusiness.com/content/uploads/2021/09/Irish-whiskey-Northern-Ireland.jpeg)
+
+- **[Workers at Drinks Inc to vote on strike action over pay](https://www.thespiritsbusiness.com/2026/03/workers-at-drinks-inc-to-vote-on-strike-action-over-pay/)**
+  Unite the Union will open a strike ballot for members working at Northern Ireland distributor Drinks Inc over a pay disp...
 
 ### 📰 Wine Enthusiast
 
-![Want to Actually Drink Like the Irish This St. Patrick’s Day? Buy a Round](https://www.wineenthusiast.com/wp-content/uploads/2023/03/48547_1.jpeg)
+- **[Meet the Team](https://www.wineenthusiast.com/meet-the-team/)**
+  The post Meet the Team appeared first on Wine Enthusiast....
 
-- **[Want to Actually Drink Like the Irish This St. Patrick’s Day? Buy a Round](https://www.wineenthusiast.com/culture/buying-a-round-st-patricks-day/)**
-  Much of what we drink in the name of St. Patrick has little relation to Ireland. But buying a round? It doesn't get more...
+![Prohibition Brought Women into the Bar—and Changed Their Role in the World](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_24_When_Women_Snagged_a_Seat_at_the_Speakeasy_INSET_GettyImages-104412147_1920x1280-1024x683.jpg)
 
-![This Cold Brew and Tequila Cocktail Is Oscars’ Afterparty Fuel](https://www.wineenthusiast.com/wp-content/uploads/2026/01/01_26_Crafthouse_by_Fortessa_Signature_Gold_6_Piece_Bartender_Essentials_Set_INSET_WE_1500x1500-1024x1024.jpg)
-
-- **[This Cold Brew and Tequila Cocktail Is Oscars’ Afterparty Fuel](https://www.wineenthusiast.com/recipe/sequel-recipe/)**
-  The Sequel cocktail is a highly caffeinated treat that will be served at the 98th Oscars Governors Ball. Here’s how to m...
-
-![The ‘Best in Show’ Cocktail Comes from the Team Behind the World’s Best Bar](https://www.wineenthusiast.com/wp-content/uploads/2026/01/01_26_Crafthouse_by_Fortessa_Signature_Gold_6_Piece_Bartender_Essentials_Set_INSET_WE_1500x1500-1024x1024.jpg)
-
-- **[The ‘Best in Show’ Cocktail Comes from the Team Behind the World’s Best Bar](https://www.wineenthusiast.com/recipe/best-in-show-cocktail/)**
-  Bar Leone's 'Best in Show' cocktail, which will be served at the Oscars Governors Ball, is floral, bubbly, and botanical...
-
-![The Golden Margarita Deserves a Hollywood Star](https://www.wineenthusiast.com/wp-content/uploads/2026/01/01_26_Crafthouse_by_Fortessa_Signature_Gold_6_Piece_Bartender_Essentials_Set_INSET_WE_1500x1500-1024x1024.jpg)
-
-- **[The Golden Margarita Deserves a Hollywood Star](https://www.wineenthusiast.com/recipe/golden-cut-margarita/)**
-  This elevated margarita riff from the team behind the World's Best Bar gets additional layers of flavor from gin and gra...
-
-![Tired of the Same Old Martini? Get Pineapple Amaro Involved](https://www.wineenthusiast.com/wp-content/uploads/2026/01/01_26_Crafthouse_by_Fortessa_Signature_Gold_6_Piece_Bartender_Essentials_Set_INSET_WE_1500x1500-1024x1024.jpg)
-
-- **[Tired of the Same Old Martini? Get Pineapple Amaro Involved](https://www.wineenthusiast.com/recipe/maestro-martini/)**
-  Starring tequila, pineapple amaro, and banana liqueur, the Maestro Martini also sees salt water and clove orange peel sh...
+- **[Prohibition Brought Women into the Bar—and Changed Their Role in the World](https://www.wineenthusiast.com/culture/prohibition-women-social-movement/)**
+  The 18th Amendment was meant to protect women from booze. Instead, it gave them a seat in the speakeasy and a new kind o...
 
 
 ---
 
-*报告生成时间: 2026-03-13 18:00*  
+*报告生成时间: 2026-03-14 07:00*  
 *Antonelli Intelligence System*
