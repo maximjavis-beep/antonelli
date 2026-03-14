@@ -1,16 +1,26 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-14  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 28 条
+- **新增资讯**: 36 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
+
+
+## 🌍 亚洲
+
+### 📰 The Shout
+
+![Tasmania’s 2026 harvest commences](https://theshout.com.au/wp-content/uploads/2026/03/iStock-956770626-Tasmania-wine-harvest.jpg?w=780)
+
+- **[Tasmania’s 2026 harvest commences](https://theshout.com.au/tasmanias-2026-harvest-commences/)**
+  After a growing season that’s been ‘anything but predictable’ Tasmania’s 2026 wine grape harvest is finally underway....
 
 
 ## 🌍 欧洲
@@ -33,6 +43,21 @@
 
 - **[Riesling wine quiz: Test your knowledge](https://www.decanter.com/learn/winequiz/riesling-wine-quiz-test-your-knowledge)**
   Can you get a perfect score?......
+
+![Wines without pedigree: from outsiders to Spanish icons of the future](https://cdn.mos.cms.futurecdn.net/KAGgcBG6mi5oBVno2MLR8J-1280-80.png)
+
+- **[Wines without pedigree: from outsiders to Spanish icons of the future](https://www.decanter.com/wine/wine-regions/wines-without-pedigree-from-outsiders-to-spanish-icons-of-the-future)**
+  Conjured and moderated by Fernando Mora MW, the session stood out within Barcelona Wine Week’s programme focused on lega...
+
+![The nomads: Winemakers who wander](https://cdn.mos.cms.futurecdn.net/d3CvSSZ4MVe9dmHQHMx5qE-1280-80.jpg)
+
+- **[The nomads: Winemakers who wander](https://www.decanter.com/wine/wine-regions/the-nomads-winemakers-who-wander)**
+  Footloose and fancy-free......
+
+![Why Irish whiskey loves sweet and fortified wine casks](https://cdn.mos.cms.futurecdn.net/VoAEQNf7Lh2kSFwr4tQEb7-1280-80.jpg)
+
+- **[Why Irish whiskey loves sweet and fortified wine casks](https://www.decanter.com/spirits/why-irish-whiskey-loves-sweet-and-fortified-wine-casks)**
+  Barrels used to age Marsala, Madeira and Sauternes have a special affinity with triple-distilled Irish whiskeys, thanks ...
 
 ### 📰 The Drinks Business
 
@@ -68,6 +93,9 @@
 ## 🌍 美洲
 
 ### 📰 Brewbound
+
+- **[Insider’s Week in Beer: NA Beer, Welcome To the A-List](https://www.brewbound.com/news/insiders-week-in-beer-na-beer-welcome-to-the-a-list)**
+  NA beer is now on the list, with a new crop of celebrities joining Tom Holland, Charlie Sheen and John Mulaney – althoug...
 
 - **[Former Sycamore Brewing Sold, Will Reopen Saturday as ‘Club West’](https://www.brewbound.com/news/former-sycamore-brewing-sold-will-reopen-saturday-as-club-west)**
   Club West, the Charlotte, North Carolina-based craft brewery formerly known as Sycamore Brewing, is in the process of be...
@@ -126,5 +154,5 @@ The...
 
 ---
 
-*报告生成时间: 2026-03-14 22:29*  
+*报告生成时间: 2026-03-14 09:31*  
 *Antonelli Intelligence System*
