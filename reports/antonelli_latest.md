@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 27 条
+- **新增资讯**: 28 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,11 @@
 ## 🌍 欧洲
 
 ### 📰 Wine-Searcher
+
+![Snoop Hits the Wine Trail with Tupac](https://www.wine-searcher.com/images/news-rss/99/03/9903614205669b4b196_snoop1.jpg)
+
+- **[Snoop Hits the Wine Trail with Tupac](https://www.wine-searcher.com/m/2026/03/snoop-hits-the-wine-trail-with-tupac?rss=Y)**
+  An unlikely pairing of rap and war features heavily in this week's round up of the wine news....
 
 ![The Most Wanted Absinthes of 2026](https://www.wine-searcher.com/images/news-rss/98/98/9898614195169a8b1fb_Absinthemain.jpg)
 
@@ -121,5 +126,5 @@ The...
 
 ---
 
-*报告生成时间: 2026-03-14 18:00*  
+*报告生成时间: 2026-03-14 22:29*  
 *Antonelli Intelligence System*
