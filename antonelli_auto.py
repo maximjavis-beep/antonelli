@@ -812,6 +812,25 @@ def deploy_to_vercel():
         print("  ❌ 推送失败")
         return False
 
+def has_content_update():
+    """检查是否有新的内容更新（与上次生成报告相比）"""
+    latest_md = REPORTS_DIR / "antonelli_latest.md"
+    
+    if not latest_md.exists():
+        return True  # 首次运行，需要生成
+    
+    # 读取现有报告内容
+    with open(latest_md, 'r', encoding='utf-8') as f:
+        existing_content = f.read()
+    
+    # 检查是否有 "今日暂无新资讯" 或 "暂无更新" 标记
+    if "今日暂无新资讯" in existing_content or "该信源暂无更新" in existing_content:
+        # 上次就是空的，检查这次是否有新内容
+        articles = get_recent_articles(hours=24)
+        return len(articles) > 0
+    
+    return True  # 有现有内容，保留
+
 def main():
     """主函数"""
     import argparse
@@ -838,7 +857,13 @@ def main():
         report_path, article_count = generate_markdown_report()
 
         if article_count == 0:
-            print("⏭️ 无内容更新，保留现有网站状态，退出")
+            print("\n⏭️ 今日无新内容，检查现有网站...")
+            if has_content_update():
+                print("✅ 保留现有网站内容，不更新")
+            else:
+                print("⚠️ 网站当前为空，但今日仍无新内容")
+            print("=" * 50)
+            print("✅ 流程完成（无更新）")
             return
 
         # 3. 更新网站
