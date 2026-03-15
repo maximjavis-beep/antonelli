@@ -12,6 +12,7 @@ from pathlib import Path
 import os
 import sys
 import subprocess
+import re
 
 # 路径配置
 PROJECT_DIR = Path(__file__).parent
@@ -19,6 +20,7 @@ CONFIG_PATH = PROJECT_DIR / "config.json"
 DB_PATH = PROJECT_DIR / "data.db"
 REPORTS_DIR = PROJECT_DIR / "reports"
 WEB_DIR = PROJECT_DIR / "web"
+PDF_DIR = Path.home() / "Antonelli"  # PDF 保存到本地 Antonelli 文件夹
 
 def init_db():
     """初始化数据库"""
@@ -58,6 +60,59 @@ def check_keywords(text, keywords):
             matched.append(kw)
     return matched
 
+def extract_images_from_entry(entry):
+    """从 feedparser entry 的所有可能字段中提取图片 URL"""
+    img_urls = []
+
+    for m in entry.get('media_content', []):
+        url = m.get('url', '')
+        medium = m.get('medium', '')
+        if url and (medium in ('image', '') or re.search(r'\.(jpg|jpeg|png|webp|gif)', url, re.I)):
+            img_urls.append(url)
+
+    for t in entry.get('media_thumbnail', []):
+        url = t.get('url', '')
+        if url:
+            img_urls.append(url)
+
+    for enc in entry.get('enclosures', []):
+        if enc.get('type', '').startswith('image'):
+            img_urls.append(enc.get('href', enc.get('url', '')))
+
+    for c in entry.get('content', []):
+        found = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', c.get('value', ''))
+        img_urls.extend(found)
+
+    raw_summary = entry.get('summary', entry.get('description', ''))
+    found = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', raw_summary)
+    img_urls.extend(found)
+
+    seen = set()
+    unique = []
+    for u in img_urls:
+        if u and u not in seen:
+            seen.add(u)
+            unique.append(u)
+    return unique
+
+
+def extract_image_from_summary(summary):
+    """从摘要中提取图片 URL - 只取第一张"""
+    img_matches = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
+    if img_matches:
+        return img_matches[0]
+    return None
+
+def clean_html_tags(text):
+    """清理 HTML 标签，保留文本内容"""
+    # 移除 script 和 style
+    text = re.sub(r'<(script|style)[^>]*>[^<]*</\1>', '', text, flags=re.DOTALL)
+    # 移除所有 HTML 标签
+    text = re.sub(r'<[^>]+>', '', text)
+    # 解码 HTML 实体
+    text = text.replace('&nbsp;', ' ').replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+    return text.strip()
+
 def fetch_feed(name, url, region, keywords, max_items=10):
     """抓取单个 RSS 源"""
     articles = []
@@ -66,11 +121,17 @@ def fetch_feed(name, url, region, keywords, max_items=10):
         for entry in feed.entries[:max_items]:
             title = entry.get("title", "")
             summary = entry.get("summary", entry.get("description", ""))
-            
+
+            # 如果 summary 中没有图片，从媒体字段提取并注入
+            if not re.search(r'<img', summary or ''):
+                img_urls = extract_images_from_entry(entry)
+                if img_urls:
+                    summary = f'<img src="{img_urls[0]}" />' + (summary or '')
+
             # 检查关键词
             content = f"{title} {summary}"
             matched = check_keywords(content, keywords)
-            
+
             article = {
                 "id": hashlib.md5(f"{title}{url}".encode()).hexdigest(),
                 "title": title,
@@ -140,7 +201,10 @@ def fetch_all_rss():
             added = save_articles(articles)
             total_added += added
             total_sources += 1
-            print(f"     新增 {added} 条")
+            if added > 0:
+                print(f"     新增 {added} 条")
+            else:
+                print(f"     暂无更新")
     
     print(f"\n✅ 抓取完成! 共 {total_sources} 个源，新增 {total_added} 条资讯")
     return total_added
@@ -161,6 +225,34 @@ def get_recent_articles(hours=24):
     articles = c.fetchall()
     conn.close()
     return articles
+
+def get_articles_by_source(hours=24):
+    """按信源获取文章，返回新文章和旧文章"""
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    
+    # 获取新文章（最近24小时）
+    since = (datetime.now() - timedelta(hours=hours)).isoformat()
+    c.execute('''
+        SELECT title, link, summary, published, source, region, keywords_matched, fetched_at
+        FROM articles
+        WHERE fetched_at > ?
+        ORDER BY fetched_at DESC
+    ''', (since,))
+    new_articles = c.fetchall()
+    
+    # 获取旧文章（24小时前，但最近7天内）用于补充
+    seven_days_ago = (datetime.now() - timedelta(days=7)).isoformat()
+    c.execute('''
+        SELECT title, link, summary, published, source, region, keywords_matched, fetched_at
+        FROM articles
+        WHERE fetched_at <= ? AND fetched_at > ?
+        ORDER BY fetched_at DESC
+    ''', (since, seven_days_ago))
+    old_articles = c.fetchall()
+    
+    conn.close()
+    return new_articles, old_articles
 
 def generate_markdown_report():
     """生成 Markdown 报告 - 按信源分组，每个信源一张图片"""
@@ -193,17 +285,12 @@ def generate_markdown_report():
     
     # 按地区和信源分组
     by_region_source = {}
-    source_images = {}  # 每个信源的代表图片
-    
+
     for a in articles:
         title, link, summary, published, source, region, keywords = a
         key = (region, source)
         if key not in by_region_source:
             by_region_source[key] = []
-            # 提取该信源的第一张图片作为代表
-            img_url = extract_image_from_summary(summary)
-            if img_url:
-                source_images[key] = img_url
         by_region_source[key].append(a)
     
     # 按地区组织
@@ -211,29 +298,43 @@ def generate_markdown_report():
     for (region, source), items in by_region_source.items():
         if region not in region_sources:
             region_sources[region] = []
-        region_sources[region].append((source, items, source_images.get((region, source))))
-    
+        region_sources[region].append((source, items))
+
     # 生成各地区内容
+    seen_links = set()
     for region in sorted(region_sources.keys()):
         md += f"\n## 🌍 {region}\n\n"
-        
-        for source, items, source_image in region_sources[region]:
+
+        for source, items in region_sources[region]:
             # 信源标题
             md += f"### 📰 {source}\n\n"
-            
-            # 如果有图片，添加图片标记
-            if source_image:
-                md += f"![{source}]({source_image})\n\n"
-            
-            # 列出该信源的文章（最多5条）
-            for title, link, summary, published, s, r, keywords in items[:5]:
-                md += f"- **[{title}]({link})**\n"
-                # 清理 HTML 标签
-                clean_summary = clean_html_tags(summary)[:150]
-                md += f"  {clean_summary}...\n"
-                if keywords:
-                    md += f"  *关键词: {', '.join(keywords.split(',')[:3])}*\n"
-                md += "\n"
+
+            # 如果有文章
+            if items:
+                # 列出该信源的文章（最多5条），每篇文章单独显示自己的图片
+                rendered = 0
+                for title, link, summary, published, s, r, keywords in items[:5]:
+                    if link in seen_links:
+                        continue
+                    seen_links.add(link)
+                    rendered += 1
+                    # 提取该文章的图片
+                    img_url = extract_image_from_summary(summary)
+                    if img_url:
+                        md += f"![{title}]({img_url})\n\n"
+
+                    md += f"- **[{title}]({link})**\n"
+                    # 清理 HTML 标签
+                    clean_summary = clean_html_tags(summary)[:120]
+                    md += f"  {clean_summary}...\n"
+                    if keywords:
+                        md += f"  *关键词: {', '.join(keywords.split(',')[:3])}*\n"
+                    md += "\n"
+                if rendered == 0:
+                    md += "*📝 该信源暂无更新*\n\n"
+            else:
+                # 该信源暂无更新
+                md += "*📝 该信源暂无更新*\n\n"
     
     if not articles:
         md += "\n*今日暂无新资讯*\n"
@@ -263,46 +364,22 @@ def generate_markdown_report():
     
     return report_path, len(articles)
 
-def extract_image_from_summary(summary):
-    """从摘要中提取图片 URL - 只取第一张"""
-    import re
-    # 找到所有图片
-    img_matches = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
-    if img_matches:
-        # 返回第一张图片
-        return img_matches[0]
-    return None
-
-def clean_html_tags(text):
-    """清理 HTML 标签，保留文本内容"""
-    import re
-    # 移除 script 和 style
-    text = re.sub(r'<(script|style)[^>]*>[^<]*</\1>', '', text, flags=re.DOTALL)
-    # 移除所有 HTML 标签
-    text = re.sub(r'<[^>]+>', '', text)
-    # 解码 HTML 实体
-    text = text.replace('&nbsp;', ' ').replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
-    return text.strip()
-
 def markdown_to_html(md_path):
-    """将 Markdown 转换为 HTML"""
+    """将 Markdown 转换为 HTML - 按信源分组，每个信源一张图片"""
     with open(md_path, 'r', encoding='utf-8') as f:
         md_content = f.read()
     
     update_time = datetime.now().strftime("%Y年%m月%d日 %H:%M")
     
-    # 使用更好的 Markdown 解析
-    import re
-    
     lines = md_content.split('\n')
     html_lines = []
     in_list = False
-    current_article_image = None
+    in_source_section = False
     
     for i, line in enumerate(lines):
         stripped = line.strip()
         
-        # 跳过第一行标题（已经在 header 中显示）
+        # 跳过第一行标题
         if stripped.startswith('# 🍷 Antonelli'):
             continue
             
@@ -316,6 +393,9 @@ def markdown_to_html(md_path):
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
+            if in_source_section:
+                html_lines.append('</div>')  # 关闭 source-section
+                in_source_section = False
             html_lines.append('<hr>')
             continue
         
@@ -324,74 +404,72 @@ def markdown_to_html(md_path):
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
+            if in_source_section:
+                html_lines.append('</div>')
+                in_source_section = False
             content = stripped[3:]
             html_lines.append(f'<h2>{content}</h2>')
             continue
         
-        # 处理 H3 标题（文章标题）
+        # 处理 H3 标题（信源名称）
         if stripped.startswith('### '):
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
+            if in_source_section:
+                html_lines.append('</div>')
             
-            # 提取链接 [title](url)
-            match = re.match(r'### \[(.+?)\]\((.+?)\)', stripped)
-            if match:
-                title, url = match.groups()
-                
-                # 构建文章卡片
-                html_lines.append('<div class="article-card">')
-                html_lines.append(f'<h3><a href="{url}" target="_blank" rel="noopener">{title}</a></h3>')
-            else:
-                html_lines.append(f'<h3>{stripped[4:]}</h3>')
+            # 提取信源名称
+            source_name = stripped[4:].replace('📰 ', '')
+            html_lines.append(f'<div class="source-section">')
+            html_lines.append(f'<h3 class="source-name">📰 {source_name}</h3>')
+            in_source_section = True
             continue
         
-        # 处理列表项
+        # 处理 Markdown 图片格式 ![alt](url) - 使用新的图片容器
+        img_match = re.match(r'!\[(.+?)\]\((.+?)\)', stripped)
+        if img_match:
+            alt_text, img_url = img_match.groups()
+            html_lines.append(f'''<div class="source-image">
+                <div class="img-container">
+                    <img src="{img_url}" alt="{alt_text}" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>''')
+            continue
+        
+        # 处理列表项（文章列表）
         if stripped.startswith('- '):
             if not in_list:
-                html_lines.append('<ul class="article-meta">')
+                html_lines.append('<ul class="article-list">')
                 in_list = True
             
+            # 处理文章链接格式 - **[title](url)**
             content = stripped[2:]
+            # 转换粗体链接
+            content = re.sub(r'\*\*\[(.+?)\]\((.+?)\)\*\*', r'<a href="\2" target="_blank" class="article-title">\1</a>', content)
+            # 转换普通粗体
             content = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', content)
-            
-            # 处理摘要行 - 提取图片并清理文本
-            if '**摘要**:' in content:
-                # 只提取一次图片
-                if not current_article_image:
-                    current_article_image = extract_image_from_summary(content)
-                clean_text = clean_html_tags(content)
-                html_lines.append(f'<li>{clean_text}</li>')
-            else:
-                html_lines.append(f'<li>{content}</li>')
+            # 转换斜体（关键词）
+            content = re.sub(r'\*(.+?)\*', r'<em>\1</em>', content)
+            html_lines.append(f'<li>{content}</li>')
             continue
         
-        # 普通段落或空行 - 检查是否需要关闭文章卡片
-        if not stripped and in_list:
-            html_lines.append('</ul>')
-            in_list = False
-            # 如果有图片，添加图片（只添加一次）
-            if current_article_image:
-                html_lines.append(f'<div class="article-image"><img src="{current_article_image}" alt="文章配图" loading="lazy"></div>')
-                current_article_image = None
-            html_lines.append('</div>')  # 关闭 article-card
-            continue
-        
+        # 普通段落（摘要文字）
         if stripped:
             if in_list:
                 html_lines.append('</ul>')
                 in_list = False
             clean_text = clean_html_tags(stripped)
             if clean_text:
-                html_lines.append(f'<p>{clean_text}</p>')
+                html_lines.append(f'<p class="article-desc">{clean_text}</p>')
     
     # 清理未关闭的标签
     if in_list:
         html_lines.append('</ul>')
-    if current_article_image:
-        html_lines.append(f'<div class="article-image"><img src="{current_article_image}" alt="文章配图" loading="lazy"></div>')
-    # 关闭最后一个 article-card（如果存在）
-    if html_lines and html_lines[-1] != '</div>':
+    if in_source_section:
         html_lines.append('</div>')
     
     html_content = '\n'.join(html_lines)
@@ -403,6 +481,18 @@ def markdown_to_html(md_path):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Antonelli 酒类情报日报</title>
+    <meta name="description" content="全球酒类行业情报追踪系统 - 覆盖亚洲、欧洲、美洲的葡萄酒、烈酒、啤酒行业动态">
+    <!-- Open Graph 元标签 -->
+    <meta property="og:title" content="🍷 Antonelli 酒类情报日报">
+    <meta property="og:description" content="全球酒类行业情报追踪系统 - 每日更新葡萄酒、烈酒、啤酒行业资讯">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1200&h=630&fit=crop">
+    <meta property="og:url" content="https://rss.shaojiujidi.com/">
+    <meta property="og:type" content="website">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="🍷 Antonelli 酒类情报日报">
+    <meta name="twitter:description" content="全球酒类行业情报追踪系统">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1200&h=630&fit=crop">
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
@@ -443,86 +533,134 @@ def markdown_to_html(md_path):
             font-size: 1.5em;
         }}
         .card h2:first-child {{ margin-top: 0; }}
-        .card h3 {{
-            color: #8b4513;
-            margin: 25px 0 15px 0;
-            padding-left: 10px;
-            border-left: 3px solid #8b4513;
-            font-size: 1.2em;
-            line-height: 1.4;
-        }}
-        .card h3 a {{
-            color: #722f37;
-            text-decoration: none;
-            transition: color 0.2s;
-        }}
-        .card h3 a:hover {{ color: #8b4513; text-decoration: underline; }}
-        .card ul.article-meta {{ 
-            list-style: none; 
-            padding-left: 0; 
-            margin: 10px 0 20px 0;
-            background: #f8f9fa;
-            border-radius: 8px;
-            padding: 15px;
-        }}
-        .card ul.article-meta li {{
-            padding: 5px 0;
-            color: #555;
-            border-bottom: 1px solid #eee;
-        }}
-        .card ul.article-meta li:last-child {{ border-bottom: none; }}
-        .card ul.article-meta li strong {{
-            color: #722f37;
-            display: inline-block;
-            min-width: 80px;
-        }}
-        .card p {{
-            color: #555;
-            margin: 10px 0;
-        }}
-        .card p.meta-info {{
-            color: #666;
-            font-size: 0.95em;
-            margin: 5px 0;
-        }}
-        /* 文章卡片样式 */
-        .article-card {{
+        
+        /* 信源区块样式 */
+        .source-section {{
             background: #fafafa;
             border-radius: 12px;
             padding: 20px;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
             border-left: 4px solid #722f37;
-            transition: transform 0.2s, box-shadow 0.2s;
         }}
-        .article-card:hover {{
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        .source-name {{
+            color: #8b4513;
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            padding-left: 10px;
+            border-left: 3px solid #8b4513;
         }}
-        .article-card h3 {{
-            margin-top: 0;
-            border-left: none;
-            padding-left: 0;
-        }}
-        /* 图片样式 */
-        .article-image {{
-            margin-top: 15px;
-            text-align: center;
+        
+        /* ===== 图片容器和自适应样式 ===== */
+        .img-container {{
+            position: relative;
             width: 100%;
-            overflow: hidden;
-            border-radius: 8px;
-            background: #f5f5f5;
-        }}
-        .article-image img {{
             max-width: 100%;
-            width: auto;
+            margin: 12px 0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }}
+        
+        .img-container.img-loaded {{
+            background: transparent;
+            min-height: auto;
+        }}
+        
+        .img-container.img-error {{
+            background: #f0f0f0;
+            min-height: 80px;
+        }}
+        
+        .content-img {{
+            width: 100%;
+            max-width: 100%;
             height: auto;
             max-height: 400px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            object-fit: contain;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 12px;
             display: block;
-            margin: 0 auto;
+            opacity: 0;
+            transition: opacity 0.3s ease;
         }}
+        
+        .img-container.img-loaded .content-img {{
+            opacity: 1;
+        }}
+        
+        .img-container.img-error .content-img {{
+            display: none;
+        }}
+        
+        .img-placeholder {{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 2em;
+            opacity: 0.5;
+            transition: opacity 0.3s ease;
+        }}
+        
+        .img-container.img-loaded .img-placeholder {{
+            opacity: 0;
+            pointer-events: none;
+        }}
+        
+        .img-container.img-error .img-placeholder {{
+            opacity: 0.3;
+            font-size: 1.5em;
+        }}
+        
+        /* 信源图片容器 */
+        .source-image {{
+            margin: 15px 0;
+        }}
+        
+        .source-image .img-container {{
+            min-height: 150px;
+        }}
+        
+        .source-image .content-img {{
+            max-height: 300px;
+        }}
+        
+        /* 文章列表 */
+        .article-list {{
+            list-style: none;
+            padding: 0;
+            margin: 15px 0 0 0;
+        }}
+        .article-list li {{
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+            color: #555;
+            font-size: 0.95em;
+        }}
+        .article-list li:last-child {{
+            border-bottom: none;
+        }}
+        .article-title {{
+            color: #722f37;
+            text-decoration: none;
+            font-weight: 600;
+            display: block;
+            margin-bottom: 5px;
+        }}
+        .article-title:hover {{
+            color: #8b4513;
+            text-decoration: underline;
+        }}
+        .article-desc {{
+            color: #666;
+            font-size: 0.9em;
+            margin: 5px 0;
+        }}
+        
         hr {{
             border: none;
             border-top: 2px solid #e0e0e0;
@@ -534,31 +672,35 @@ def markdown_to_html(md_path):
             color: rgba(255,255,255,0.8);
             font-size: 0.9em;
         }}
+        
+        /* 移动端优化 */
         @media (max-width: 768px) {{
             body {{ padding: 10px; }}
-            header {{ padding: 15px 10px; }}
-            header h1 {{ font-size: 1.4em; margin-bottom: 5px; }}
+            header {{ padding: 20px 10px; }}
+            header h1 {{ font-size: 1.5em; margin-bottom: 5px; }}
             header p {{ font-size: 0.9em; }}
             .update-time {{ padding: 5px 12px; font-size: 0.8em; margin-top: 10px; }}
-            .card {{ padding: 12px; border-radius: 10px; margin-bottom: 15px; }}
-            .card h2 {{ font-size: 1.1em; margin: 15px 0 10px 0; padding-bottom: 8px; }}
-            .card h3 {{ font-size: 0.95em; margin: 12px 0 8px 0; padding-left: 8px; border-left-width: 2px; }}
-            .article-card {{ padding: 12px; margin-bottom: 12px; border-left-width: 3px; }}
-            .article-image {{ 
-                margin-top: 8px; 
-                border-radius: 6px;
-                max-height: 35vh;
+            .card {{ padding: 15px; border-radius: 12px; }}
+            .card h2 {{ font-size: 1.2em; margin: 20px 0 15px 0; padding-bottom: 8px; }}
+            
+            .source-section {{ padding: 12px; margin-bottom: 15px; }}
+            .source-name {{ font-size: 1em; margin-bottom: 10px; padding-left: 8px; }}
+            
+            /* 移动端图片 - 自适应 */
+            .content-img {{ max-height: 300px; }}
+            .img-container {{ min-height: 100px; border-radius: 8px; }}
+            .source-image .img-container {{ min-height: 80px; }}
+            .source-image .content-img {{ max-height: 200px; }}
+            
+            .article-image {{
+                margin: 8px 0;
             }}
-            .article-image img {{ 
-                max-height: 30vh;
-                width: auto;
-                max-width: 100%;
-                border-radius: 6px;
-                object-fit: contain;
+            .article-image img {{
+                max-height: 180px;
             }}
-            .card ul.article-meta {{ padding: 8px; margin: 8px 0 10px 0; }}
-            .card ul.article-meta li {{ font-size: 0.85em; padding: 3px 0; }}
-            .card ul.article-meta li strong {{ min-width: 60px; }}
+            
+            .article-list {{ margin-top: 10px; }}
+            .article-list li {{ padding: 8px 0; font-size: 0.9em; }}
         }}
     </style>
 </head>
@@ -605,53 +747,60 @@ def update_website():
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
     
+    # 同时复制到根目录的 index.html（Vercel 部署需要）
+    root_index = PROJECT_DIR / "index.html"
+    with open(root_index, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    
     print(f"  ✅ 网站已更新: {index_path}")
+    print(f"  ✅ 根目录 index.html 已同步")
     return index_path
 
 def generate_pdf():
-    """生成 PDF 版本"""
+    """生成 PDF 版本，保存到本地 ~/Antonelli 文件夹"""
     print("\n📑 步骤 4: 生成 PDF")
     print("-" * 40)
-    
-    # 检查 Puppeteer 脚本
-    puppeteer_script = Path.home() / ".openclaw/workspace/html_to_pdf.js"
+
+    # 检查 Puppeteer 脚本（项目本地）
+    puppeteer_script = PROJECT_DIR / "html_to_pdf.js"
     if not puppeteer_script.exists():
         print(f"  ⚠️ Puppeteer 脚本不存在，跳过 PDF 生成")
         return None
-    
+
     # 网站 HTML 路径
     html_path = WEB_DIR / "index.html"
     if not html_path.exists():
         print(f"  ❌ 未找到网站 HTML")
         return None
-    
+
     # 生成带时间戳的 PDF 文件名
     now = datetime.now()
     date_folder = now.strftime("%Y%m%d")
     time_suffix = now.strftime("%H%M")
-    
-    # 目标文件夹
-    pdf_dir = REPORTS_DIR / date_folder
-    pdf_dir.mkdir(exist_ok=True)
-    
+
+    # 目标文件夹改为 ~/Antonelli
+    pdf_dir = PDF_DIR / date_folder
+    pdf_dir.mkdir(parents=True, exist_ok=True)
+
     pdf_filename = f"antonelli_{date_folder}_{time_suffix}.pdf"
     pdf_path = pdf_dir / pdf_filename
-    
+
     # 执行转换
     try:
         result = subprocess.run(
-            ["node", str(puppeteer_script), str(html_path), str(pdf_path)],
+            ["/opt/homebrew/bin/node", str(puppeteer_script), str(html_path), str(pdf_path)],
             capture_output=True,
             text=True,
             timeout=60
         )
-        
-        if result.returncode == 0:
-            print(f"  ✅ PDF 已生成: {pdf_path}")
-            return pdf_path
-        else:
+
+        if result.returncode != 0:
             print(f"  ❌ PDF 生成失败: {result.stderr}")
             return None
+
+        print(f"  ✅ PDF 已生成: {pdf_path}")
+
+        return pdf_path
     except Exception as e:
         print(f"  ❌ PDF 生成异常: {str(e)}")
         return None
@@ -691,6 +840,25 @@ def deploy_to_vercel():
         print("  ❌ 推送失败")
         return False
 
+def has_content_update():
+    """检查是否有新的内容更新（与上次生成报告相比）"""
+    latest_md = REPORTS_DIR / "antonelli_latest.md"
+    
+    if not latest_md.exists():
+        return True  # 首次运行，需要生成
+    
+    # 读取现有报告内容
+    with open(latest_md, 'r', encoding='utf-8') as f:
+        existing_content = f.read()
+    
+    # 检查是否有 "今日暂无新资讯" 或 "暂无更新" 标记
+    if "今日暂无新资讯" in existing_content or "该信源暂无更新" in existing_content:
+        # 上次就是空的，检查这次是否有新内容
+        articles = get_recent_articles(hours=24)
+        return len(articles) > 0
+    
+    return True  # 有现有内容，保留
+
 def main():
     """主函数"""
     import argparse
@@ -715,7 +883,17 @@ def main():
         
         # 2. 生成报告
         report_path, article_count = generate_markdown_report()
-        
+
+        if article_count == 0:
+            print("\n⏭️ 今日无新内容，检查现有网站...")
+            if has_content_update():
+                print("✅ 保留现有网站内容，不更新")
+            else:
+                print("⚠️ 网站当前为空，但今日仍无新内容")
+            print("=" * 50)
+            print("✅ 流程完成（无更新）")
+            return
+
         # 3. 更新网站
         update_website()
         

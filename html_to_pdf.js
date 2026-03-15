@@ -12,14 +12,20 @@ async function convertHTMLToPDF(inputPath, outputPath) {
 
     const browser = await puppeteer.launch({
         headless: 'new',
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
+        args: [
+            '--no-sandbox', 
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-accelerated-2d-canvas',
+            '--disable-gpu'
+        ]
     });
 
     try {
         const page = await browser.newPage();
         
-        // 设置视口大小，确保图片正常加载
-        await page.setViewport({ width: 1280, height: 800 });
+        // 设置较小的视口，降低图片分辨率
+        await page.setViewport({ width: 1024, height: 768, deviceScaleFactor: 1 });
         
         // 加载 HTML 文件
         const fileUrl = 'file://' + path.resolve(inputPath);
@@ -50,7 +56,7 @@ async function convertHTMLToPDF(inputPath, outputPath) {
         console.log('⏳ 等待图片加载...');
         let lastLoadedCount = 0;
         let stableCount = 0;
-        const maxWaitTime = 45000; // 最长等待 45 秒
+        const maxWaitTime = 45000;
         const startTime = Date.now();
         
         while (Date.now() - startTime < maxWaitTime) {
@@ -68,16 +74,14 @@ async function convertHTMLToPDF(inputPath, outputPath) {
             const totalImages = await page.evaluate(() => document.querySelectorAll('img').length);
             console.log(`  图片加载进度: ${loadedCount}/${totalImages}`);
             
-            // 如果所有图片都加载完成
             if (loadedCount === totalImages && totalImages > 0) {
                 console.log('✅ 所有图片加载完成');
                 break;
             }
             
-            // 如果加载数量稳定（没有新图片加载）
             if (loadedCount === lastLoadedCount) {
                 stableCount++;
-                if (stableCount >= 3) { // 连续 3 次没有变化
+                if (stableCount >= 3) {
                     console.log(`⚠️ 图片加载稳定 (${loadedCount}/${totalImages})，继续生成 PDF`);
                     break;
                 }
@@ -93,21 +97,31 @@ async function convertHTMLToPDF(inputPath, outputPath) {
         console.log('⏳ 等待渲染完成...');
         await new Promise(resolve => setTimeout(resolve, 3000));
 
-        // 生成 PDF
+        // 生成 PDF，使用打印优化选项
         console.log('📝 生成 PDF...');
         await page.pdf({
             path: outputPath,
             format: 'A4',
             printBackground: true,
+            preferCSSPageSize: false,
+            width: '210mm',
+            height: '297mm',
             margin: {
-                top: '20mm',
-                right: '15mm',
-                bottom: '20mm',
-                left: '15mm'
+                top: '10mm',
+                right: '10mm',
+                bottom: '10mm',
+                left: '10mm'
             }
         });
 
-        console.log(`✅ PDF 已生成: ${outputPath}`);
+        // 获取文件大小
+        const stats = fs.statSync(outputPath);
+        const fileSizeMB = (stats.size / 1024 / 1024).toFixed(2);
+        console.log(`✅ PDF 已生成: ${outputPath} (${fileSizeMB} MB)`);
+        
+        if (stats.size > 50 * 1024 * 1024) {
+            console.log(`⚠️ 警告: PDF 文件较大 (${fileSizeMB} MB)，建议定期清理旧文件`);
+        }
     } catch (error) {
         console.error(`❌ 转换失败: ${error.message}`);
         process.exit(1);

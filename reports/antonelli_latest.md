@@ -22,6 +22,33 @@
 - **[Tasmania’s 2026 harvest commences](https://theshout.com.au/tasmanias-2026-harvest-commences/)**
   After a growing season that’s been ‘anything but predictable’ Tasmania’s 2026 wine grape harvest is finally underway....
 
+### 📰 Sake World
+
+- **[Masu, Salt, and Taruzake](https://sake-world.com/masu-salt-and-taruzake/)**
+  Many people have had the experience of drinking sake from a small wooden box, often with a pinch of salt on one corner. ...
+
+- **[Slightly Gassy Sake](https://sake-world.com/slightly-gassy-sake/)**
+  Trend or sporadic anomaly? You make the call. Trends can be difficult to identify, at least real ones. And people are al...
+  *关键词: trend*
+
+- **[A Closer Look at Omachi Rice](https://sake-world.com/a-closer-look-at-omachi-rice/)**
+  This article was originally published in Sake Industry News #5 Interested in more info like this? Subscribe, and enjoy y...
+
+*📚 以上为近期内容*
+
+### 📰 Nomunication
+
+- **[Book Review: The Art of Japanese Whisky](https://www.nomunication.jp/2025/04/24/book-review-the-art-of-japanese-whisky/)**
+  Today, we celebrate another first for Japanese whisky: a coffee table book about the category. The Art of Japanese Whisk...
+
+- **[Event Report: Tokyo International BarShow 2025 The Historical Journey](https://www.nomunication.jp/2025/05/28/event-report-tokyo-international-barshow-2025-the-historical-journey/)**
+  This year’s BarShow was another big one. 14,100 attendees showed up across May 10-11&#8230; and it even rained on Saturd...
+
+- **[Deep Dive: Kirishima Shuzo, Japan’s biggest shochu maker](https://www.nomunication.jp/2025/06/23/deep-dive-kirishima-shuzo-japans-biggest-shochu-maker/)**
+  We talk a lot on this site about relatively obscure bottles of honkaku shochu/awamori and some of the more technical asp...
+
+*📚 以上为近期内容*
+
 
 ## 🌍 欧洲
 
@@ -154,5 +181,5 @@ The...
 
 ---
 
-*报告生成时间: 2026-03-14 10:01*  
+*报告生成时间: 2026-03-14 10:47*  
 *Antonelli Intelligence System*
