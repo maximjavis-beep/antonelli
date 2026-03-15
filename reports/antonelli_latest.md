@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-15  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 1 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 29 条
+- **新增资讯**: 6 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -40,6 +40,11 @@
 
 ### 📰 Wine-Searcher
 
+![California Grape Crush Hits 30-Year Low](https://www.wine-searcher.com/images/news-rss/99/04/9904514207469b7041c_calee1.jpg)
+
+- **[California Grape Crush Hits 30-Year Low](https://www.wine-searcher.com/m/2026/03/california-grape-crush-hits-30-year-low?rss=Y)**
+  A small grape crush might be good for wine lovers, but the wider agricultural picture is less cheerful....
+
 ![Snoop Hits the Wine Trail with Tupac](https://www.wine-searcher.com/images/news-rss/99/03/9903614205669b4b196_snoop1.jpg)
 
 - **[Snoop Hits the Wine Trail with Tupac](https://www.wine-searcher.com/m/2026/03/snoop-hits-the-wine-trail-with-tupac?rss=Y)**
@@ -51,6 +56,16 @@
   Absinthe makes the heart grow fonder, and these examples of the Green Fairy will warm your cockles....
 
 ### 📰 Decanter
+
+![Wines without pedigree: From outsiders to Spanish icons of the future](https://cdn.mos.cms.futurecdn.net/KAGgcBG6mi5oBVno2MLR8J-1280-80.png)
+
+- **[Wines without pedigree: From outsiders to Spanish icons of the future](https://www.decanter.com/wine/wine-regions/wines-without-pedigree-from-outsiders-to-spanish-icons-of-the-future)**
+  Conjured and moderated by Fernando Mora MW, the session stood out within Barcelona Wine Week’s programme focused on lega...
+
+![We recommend the best of South Africa's red blends](https://cdn.mos.cms.futurecdn.net/MYzwAR7XeXMqR5v39zitKG-1280-80.jpg)
+
+- **[We recommend the best of South Africa's red blends](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/south-african-red-blends-panel-tasting-results)**
+  Strength in union......
 
 ![Riesling wine quiz: Test your knowledge](https://cdn.mos.cms.futurecdn.net/9kffVs7fFUN3dZnFUs4stK-1280-80.jpg)
 
@@ -76,16 +91,7 @@
   A year after Canadian provinces removed US wines from store shelves, full-year trade data reveal the steepest disruption...
   *关键词: market*
 
-![Master Winemaker 100: Francesca Giuggioli](https://www.thedrinksbusiness.com/content/uploads/2026/03/Francesca-Giuggioli_Enologo-San-Felice-scaled.jpg)
-
-- **[Master Winemaker 100: Francesca Giuggioli](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-francesca-giuggioli/)**
-  The winemaker at Tuscany's San Felice tells db about knowing when to step aside, pairing wine with suckling pig and wine...
-
-![Champagne Dom Pérignon launches ‘smallest blend ever’](https://www.thedrinksbusiness.com/content/uploads/2026/03/dom-perignon-2017-launch-london-12-march-2026.j-scaled.jpeg)
-
-- **[Champagne Dom Pérignon launches ‘smallest blend ever’](https://www.thedrinksbusiness.com/2026/03/dom-perignon-launches-smallest-blend-ever-from-extreme-2017-vintage/)**
-  Dom Pérignon has released a Champagne from the 2017 vintage, a harvest which yielded the prestige cuvée’s "smallest blen...
-  *关键词: launch*
+*📚 以上为近期内容*
 
 
 ## 🌍 美洲
@@ -102,11 +108,7 @@
   “Focus” has been one of the buzziest words for craft breweries over the last 2+ years: focus within portfolios; focus ac...
   *关键词: launch, distribution*
 
-- **[Press Clips: Lone River Founder Leaving Diageo; BrewDog Closes Atlanta Location](https://www.brewbound.com/news/press-clips-lone-river-founder-leaving-diageo-brewdog-closes-atlanta-location)**
-  Check out news items initially reported in the Brewbound Insider Newsletter March 12-13, including headlines from Lone R...
-
-- **[Numerator: 36% Consumers Plan to Celebrate St. Patrick’s Day; 46% of Celebrants to Purchase Bev-Alc](https://www.brewbound.com/news/numerator-36-consumers-plan-to-celebrate-st-patricks-day-46-of-celebrants-to-purchase-bev-alc)**
-  Forty-six-percent of consumers who plan to celebrate St. Patrick’s Day (March 17) this year, will purchase beverage-alco...
+*📚 以上为近期内容*
 
 ### 📰 The Spirits Business
 
@@ -127,17 +129,7 @@
   South Carolina-based Rotten Little Bastard Distillery has filed for Chapter 7 bankruptcy almost six years after opening
 ...
 
-![Bacardí debuts music-led campaign with Puerto Rican creatives](https://www.thespiritsbusiness.com/content/uploads/2026/03/Bacardi-campaign.jpg)
-
-- **[Bacardí debuts music-led campaign with Puerto Rican creatives](https://www.thespiritsbusiness.com/2026/03/bacardi-debuts-music-led-campaign-with-puerto-rican-creatives/)**
-  Puerto Rican rum brand Bacardí has unveiled a global music-led campaign in partnership with Bad Bunny producer Tainy
-The...
-  *关键词: partnership*
-
-![Workers at Drinks Inc to vote on strike action over pay](https://www.thespiritsbusiness.com/content/uploads/2021/09/Irish-whiskey-Northern-Ireland.jpeg)
-
-- **[Workers at Drinks Inc to vote on strike action over pay](https://www.thespiritsbusiness.com/2026/03/workers-at-drinks-inc-to-vote-on-strike-action-over-pay/)**
-  Unite the Union will open a strike ballot for members working at Northern Ireland distributor Drinks Inc over a pay disp...
+*📚 以上为近期内容*
 
 ### 📰 Wine Enthusiast
 
@@ -149,8 +141,15 @@ The...
 - **[Prohibition Brought Women into the Bar—and Changed Their Role in the World](https://www.wineenthusiast.com/culture/prohibition-women-social-movement/)**
   The 18th Amendment was meant to protect women from booze. Instead, it gave them a seat in the speakeasy and a new kind o...
 
+![Want to Actually Drink Like the Irish This St. Patrick’s Day? Buy a Round](https://www.wineenthusiast.com/wp-content/uploads/2023/03/48547_1.jpeg)
+
+- **[Want to Actually Drink Like the Irish This St. Patrick’s Day? Buy a Round](https://www.wineenthusiast.com/culture/buying-a-round-st-patricks-day/)**
+  Much of what we drink in the name of St. Patrick has little relation to Ireland. But buying a round? It doesn't get more...
+
+*📚 以上为近期内容*
+
 
 ---
 
-*报告生成时间: 2026-03-15 03:00*  
+*报告生成时间: 2026-03-15 16:00*  
 *Antonelli Intelligence System*
