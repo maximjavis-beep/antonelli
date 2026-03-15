@@ -2,10 +2,10 @@
 # Antonelli 自动更新脚本 - 用于 OpenClaw Cron
 # 每天早上7点和晚上6点运行
 
-cd /Users/streitenjavis/.openclaw/workspace/projects/antonelli
+cd /Users/maxim/.openclaw/workspace/projects/antonelli
 
 # 日志
-LOG_FILE="/Users/streitenjavis/.openclaw/logs/antonelli_cron.log"
+LOG_FILE="/Users/maxim/.openclaw/logs/antonelli_cron.log"
 mkdir -p "$(dirname "$LOG_FILE")"
 
 echo "========== Antonelli 更新开始: $(date) ==========" >> "$LOG_FILE"

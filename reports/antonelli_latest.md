@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-14  
-**来源**: 全球 3 个地区 · 7 个信源
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 36 条
+- **新增资讯**: 29 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -22,30 +22,16 @@
 - **[Tasmania’s 2026 harvest commences](https://theshout.com.au/tasmanias-2026-harvest-commences/)**
   After a growing season that’s been ‘anything but predictable’ Tasmania’s 2026 wine grape harvest is finally underway....
 
-### 📰 Sake World
+![Oxyfuel glass furnace underlines Orora’s sustainability credentials](https://theshout.com.au/wp-content/uploads/2026/03/OroraOxyfuelGlassFurnace.jpg?w=780)
 
-- **[Masu, Salt, and Taruzake](https://sake-world.com/masu-salt-and-taruzake/)**
-  Many people have had the experience of drinking sake from a small wooden box, often with a pinch of salt on one corner. ...
+- **[Oxyfuel glass furnace underlines Orora’s sustainability credentials](https://theshout.com.au/oxyfuel-glass-furnace-underlines-ororas-sustainability-credentials/)**
+  Orora’s high efficiency G3 oxyfuel glass furnace has been in operation for 12 months, eliminating over 13,000 tonnes of ...
 
-- **[Slightly Gassy Sake](https://sake-world.com/slightly-gassy-sake/)**
-  Trend or sporadic anomaly? You make the call. Trends can be difficult to identify, at least real ones. And people are al...
-  *关键词: trend*
+![Tilray Brands acquires BrewDog Australia](https://theshout.com.au/wp-content/uploads/2022/11/BrewDogVenue.jpg?w=780)
 
-- **[A Closer Look at Omachi Rice](https://sake-world.com/a-closer-look-at-omachi-rice/)**
-  This article was originally published in Sake Industry News #5 Interested in more info like this? Subscribe, and enjoy y...
-
-*📚 以上为近期内容*
-
-### 📰 Nomunication
-
-- **[Book Review: The Art of Japanese Whisky](https://www.nomunication.jp/2025/04/24/book-review-the-art-of-japanese-whisky/)**
-  Today, we celebrate another first for Japanese whisky: a coffee table book about the category. The Art of Japanese Whisk...
-
-- **[Event Report: Tokyo International BarShow 2025 The Historical Journey](https://www.nomunication.jp/2025/05/28/event-report-tokyo-international-barshow-2025-the-historical-journey/)**
-  This year’s BarShow was another big one. 14,100 attendees showed up across May 10-11&#8230; and it even rained on Saturd...
-
-- **[Deep Dive: Kirishima Shuzo, Japan’s biggest shochu maker](https://www.nomunication.jp/2025/06/23/deep-dive-kirishima-shuzo-japans-biggest-shochu-maker/)**
-  We talk a lot on this site about relatively obscure bottles of honkaku shochu/awamori and some of the more technical asp...
+- **[Tilray Brands acquires BrewDog Australia](https://theshout.com.au/tilray-brands-acquires-brewdog-australia/)**
+  The Australian buy follows Tilray’s recent acquisition of the struggling Scotland-based brewery’s business across the UK...
+  *关键词: acquisition, acquisition*
 
 *📚 以上为近期内容*
 
@@ -70,21 +56,6 @@
 
 - **[Riesling wine quiz: Test your knowledge](https://www.decanter.com/learn/winequiz/riesling-wine-quiz-test-your-knowledge)**
   Can you get a perfect score?......
-
-![Wines without pedigree: from outsiders to Spanish icons of the future](https://cdn.mos.cms.futurecdn.net/KAGgcBG6mi5oBVno2MLR8J-1280-80.png)
-
-- **[Wines without pedigree: from outsiders to Spanish icons of the future](https://www.decanter.com/wine/wine-regions/wines-without-pedigree-from-outsiders-to-spanish-icons-of-the-future)**
-  Conjured and moderated by Fernando Mora MW, the session stood out within Barcelona Wine Week’s programme focused on lega...
-
-![The nomads: Winemakers who wander](https://cdn.mos.cms.futurecdn.net/d3CvSSZ4MVe9dmHQHMx5qE-1280-80.jpg)
-
-- **[The nomads: Winemakers who wander](https://www.decanter.com/wine/wine-regions/the-nomads-winemakers-who-wander)**
-  Footloose and fancy-free......
-
-![Why Irish whiskey loves sweet and fortified wine casks](https://cdn.mos.cms.futurecdn.net/VoAEQNf7Lh2kSFwr4tQEb7-1280-80.jpg)
-
-- **[Why Irish whiskey loves sweet and fortified wine casks](https://www.decanter.com/spirits/why-irish-whiskey-loves-sweet-and-fortified-wine-casks)**
-  Barrels used to age Marsala, Madeira and Sauternes have a special affinity with triple-distilled Irish whiskeys, thanks ...
 
 ### 📰 The Drinks Business
 
@@ -181,5 +152,5 @@ The...
 
 ---
 
-*报告生成时间: 2026-03-14 10:47*  
+*报告生成时间: 2026-03-14 22:07*  
 *Antonelli Intelligence System*
