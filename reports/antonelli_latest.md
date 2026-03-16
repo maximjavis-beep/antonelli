@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-15  
-**来源**: 全球 1 个地区 · 2 个信源
+**日期**: 2026-03-16  
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 6 条
+- **新增资讯**: 8 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,26 +17,36 @@
 
 ### 📰 The Shout
 
-![Tasmania’s 2026 harvest commences](https://theshout.com.au/wp-content/uploads/2026/03/iStock-956770626-Tasmania-wine-harvest.jpg?w=780)
+![Make The Shout your preferred Google news source](https://theshout.com.au/wp-content/uploads/2026/02/iStock-1064547148.jpg?w=780)
 
-- **[Tasmania’s 2026 harvest commences](https://theshout.com.au/tasmanias-2026-harvest-commences/)**
-  After a growing season that’s been ‘anything but predictable’ Tasmania’s 2026 wine grape harvest is finally underway....
+- **[Make The Shout your preferred Google news source](https://theshout.com.au/make-the-shout-your-preferred-google-news-source/)**
+  Find out how you can personalise your news to see more from The Shout....
 
-![Oxyfuel glass furnace underlines Orora’s sustainability credentials](https://theshout.com.au/wp-content/uploads/2026/03/OroraOxyfuelGlassFurnace.jpg?w=780)
+![Affinity Labs marks 40 years of NATA accreditation](https://theshout.com.au/wp-content/uploads/2026/03/iStock-1067828796-wine-labratory.jpg?w=780)
 
-- **[Oxyfuel glass furnace underlines Orora’s sustainability credentials](https://theshout.com.au/oxyfuel-glass-furnace-underlines-ororas-sustainability-credentials/)**
-  Orora’s high efficiency G3 oxyfuel glass furnace has been in operation for 12 months, eliminating over 13,000 tonnes of ...
+- **[Affinity Labs marks 40 years of NATA accreditation](https://theshout.com.au/affinity-labs-marks-40-years-of-nata-accreditation/)**
+  Affinity Labs, part of the Australian Wine Research Institute (AWRI), is celebrating 40 years of continuous accreditatio...
 
-![Tilray Brands acquires BrewDog Australia](https://theshout.com.au/wp-content/uploads/2022/11/BrewDogVenue.jpg?w=780)
+![Peter Gago receives Lifetime Achievement Award](https://theshout.com.au/wp-content/uploads/2025/10/PeterGagoLegendVine.jpg?w=780)
 
-- **[Tilray Brands acquires BrewDog Australia](https://theshout.com.au/tilray-brands-acquires-brewdog-australia/)**
-  The Australian buy follows Tilray’s recent acquisition of the struggling Scotland-based brewery’s business across the UK...
-  *关键词: acquisition, acquisition*
+- **[Peter Gago receives Lifetime Achievement Award](https://theshout.com.au/peter-gago-receives-lifetime-achievement-award/)**
+  Penfolds’ Chief Winemaker Peter Gago has been honoured with a Lifetime Achievement Award at the Meininger Awards....
 
-*📚 以上为近期内容*
+![NSW venues embrace outdoor dining under vibrancy reforms](https://theshout.com.au/wp-content/uploads/2021/06/Dolphinoutdoordining.jpg?w=780)
+
+- **[NSW venues embrace outdoor dining under vibrancy reforms](https://theshout.com.au/nsw-venues-embrace-outdoor-dining-under-vibrancy-reforms/)**
+  Over 580 hospitality businesses across New South Wales have taken advantage of relaxed outdoor dining rules....
 
 
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![Top Finger Lakes trends of 2026](https://www.thedrinksbusiness.com/content/uploads/2026/03/Finger-Lakes-lead-scaled.jpg)
+
+- **[Top Finger Lakes trends of 2026](https://www.thedrinksbusiness.com/2026/03/in-from-the-cold/)**
+  The Finger Lakes in New York State is finally getting its moment in the spotlight as markets wake up to its cool-climate...
+  *关键词: market, trend*
 
 ### 📰 Wine-Searcher
 
@@ -44,16 +54,6 @@
 
 - **[California Grape Crush Hits 30-Year Low](https://www.wine-searcher.com/m/2026/03/california-grape-crush-hits-30-year-low?rss=Y)**
   A small grape crush might be good for wine lovers, but the wider agricultural picture is less cheerful....
-
-![Snoop Hits the Wine Trail with Tupac](https://www.wine-searcher.com/images/news-rss/99/03/9903614205669b4b196_snoop1.jpg)
-
-- **[Snoop Hits the Wine Trail with Tupac](https://www.wine-searcher.com/m/2026/03/snoop-hits-the-wine-trail-with-tupac?rss=Y)**
-  An unlikely pairing of rap and war features heavily in this week's round up of the wine news....
-
-![The Most Wanted Absinthes of 2026](https://www.wine-searcher.com/images/news-rss/98/98/9898614195169a8b1fb_Absinthemain.jpg)
-
-- **[The Most Wanted Absinthes of 2026](https://www.wine-searcher.com/m/2026/03/the-most-wanted-absinthes-of-2026?rss=Y)**
-  Absinthe makes the heart grow fonder, and these examples of the Green Fairy will warm your cockles....
 
 ### 📰 Decanter
 
@@ -66,32 +66,6 @@
 
 - **[We recommend the best of South Africa's red blends](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/south-african-red-blends-panel-tasting-results)**
   Strength in union......
-
-![Riesling wine quiz: Test your knowledge](https://cdn.mos.cms.futurecdn.net/9kffVs7fFUN3dZnFUs4stK-1280-80.jpg)
-
-- **[Riesling wine quiz: Test your knowledge](https://www.decanter.com/learn/winequiz/riesling-wine-quiz-test-your-knowledge)**
-  Can you get a perfect score?......
-
-### 📰 The Drinks Business
-
-![Noma’s René Redzepi resigns after shocking abuse allegations](https://www.thedrinksbusiness.com/content/uploads/2026/03/Noma_AV4A6351_41760085092-scaled.jpg)
-
-- **[Noma’s René Redzepi resigns after shocking abuse allegations](https://www.thedrinksbusiness.com/2026/03/nomas-rene-redzepi-resigns-after-shocking-abuse-allegations/)**
-  The co-founder and former head chef of Copenhagen's Noma restaurant has been accused of inflicting "psychological and ph...
-
-![#WeekInPictures: rum for International Women’s Day, Champagne in Aÿ and a new non alcohol brew](https://www.thedrinksbusiness.com/content/uploads/2026/03/3Q0A0083.jpg)
-
-- **[#WeekInPictures: rum for International Women’s Day, Champagne in Aÿ and a new non alcohol brew](https://www.thedrinksbusiness.com/2026/03/weekinpictures-rum-for-international-womens-day-champagne-in-ay-and-a-new-non-alcohol-brew/)**
-  From London panels and Rosewood roundtables to cellars in Champagne and a brewery launch in America, the week offered a ...
-  *关键词: launch*
-
-![Canada wine ban wipes US$357m from US exports](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-173870672-1.jpg)
-
-- **[Canada wine ban wipes US$357m from US exports](https://www.thedrinksbusiness.com/2026/03/canada-wine-ban-wipes-us357m-from-us-exports/)**
-  A year after Canadian provinces removed US wines from store shelves, full-year trade data reveal the steepest disruption...
-  *关键词: market*
-
-*📚 以上为近期内容*
 
 
 ## 🌍 美洲
@@ -151,5 +125,5 @@
 
 ---
 
-*报告生成时间: 2026-03-15 16:00*  
+*报告生成时间: 2026-03-16 03:00*  
 *Antonelli Intelligence System*
