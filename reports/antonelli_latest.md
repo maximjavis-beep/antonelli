@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-17  
-**来源**: 全球 3 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 32 条
+- **新增资讯**: 36 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,6 +17,16 @@
 
 ### 📰 The Shout
 
+![Every day is a lovely day for a Guinness](https://theshout.com.au/wp-content/uploads/2026/03/Shout-lead-Guinness.png?w=780)
+
+- **[Every day is a lovely day for a Guinness](https://theshout.com.au/every-day-is-a-lovely-day-for-a-guinness/)**
+  Guinness is on track for one of its biggest years [&hellip;]...
+
+![Wednesday Women: What does Pink Boots Society Australia stand for today?](https://theshout.com.au/wp-content/uploads/2026/03/Pink-Boots-Society.png?w=780)
+
+- **[Wednesday Women: What does Pink Boots Society Australia stand for today?](https://theshout.com.au/wednesday-women-what-does-pink-boots-society-australia-stand-for-today/)**
+  Fourteen years since its inception, the organisation exists to support women and non-binary people in fermentation to co...
+
 ![Meet Australia’s Quiet House-Spirit Disruptor](https://theshout.com.au/wp-content/uploads/2026/03/image.jpg?w=780)
 
 - **[Meet Australia’s Quiet House-Spirit Disruptor](https://theshout.com.au/meet-australias-quiet-house-spirit-disruptor/)**
@@ -25,33 +35,40 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/images/news-rss/99/05/9905414210069b9b114_Sherrymain.jpg)
+
+- **[Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/m/2026/03/pingus-man-turns-sights-to-sherry?rss=Y)**
+  Peter Sisseck founded the phenomenally successful Pingus brand, but he has also broadened his reach....
+
 ### 📰 The Drinks Business
 
-![Tokaj appellation rules revised in Hungary](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2237157065.jpg)
+![Alcohol-free beer joins inflation basket](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1312825752.jpg)
 
-- **[Tokaj appellation rules revised in Hungary](https://www.thedrinksbusiness.com/2026/03/tokaj-appellation-rules-revised-in-hungary/)**
-  Hungary has approved a revision of the production rules governing Tokaj wines, published in the Official Journal of the ...
+- **[Alcohol-free beer joins inflation basket](https://www.thedrinksbusiness.com/2026/03/alcohol-free-beer-joins-inflation-basket/)**
+  The Office for National Statistics has added alcohol-free beer to the official basket used to measure UK consumer price ...
 
-![US craft beer sector’s migration from bottles to cans slows](https://www.thedrinksbusiness.com/content/uploads/2026/03/craft-beer-cans-and-bottles-in-fridge-scaled.jpg)
+![Can the beer industry learn about brand loyalty to strengthen its appeal?](https://www.thedrinksbusiness.com/content/uploads/2026/03/brand-loyalty-scaled.jpg)
 
-- **[US craft beer sector’s migration from bottles to cans slows](https://www.thedrinksbusiness.com/2026/03/us-craft-beer-sectors-migration-from-bottles-to-cans-slows/)**
-  The shift from beer being packaged in cans instead of bottles is “levelling off in the US, according to new research fro...
+- **[Can the beer industry learn about brand loyalty to strengthen its appeal?](https://www.thedrinksbusiness.com/2026/03/can-the-beer-industry-learn-about-brand-loyalty-to-strengthen-its-appeal/)**
+  The notion that the beer industry can learn a little from the fast food sector, where brand loyalty is back on track and...
 
-![Brewers hit ‘structural stagnation’ with beer ‘no longer a growth or margin-expansion story’](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1072338570-scaled.jpg)
+![‘Meeting of minds’: inside the Amorim/Cotarella partnership](https://www.thedrinksbusiness.com/content/uploads/2026/03/Cotarella-Amorim-team-scaled.jpg)
 
-- **[Brewers hit ‘structural stagnation’ with beer ‘no longer a growth or margin-expansion story’](https://www.thedrinksbusiness.com/2026/03/brewers-hit-structural-stagnation-with-beer-no-longer-a-growth-or-margin-expansion-story/)**
-  Global brewers have gone from growth to “stagnation” as developed market volumes enter structural decline, according to ...
-  *关键词: expansion, market*
+- **[‘Meeting of minds’: inside the Amorim/Cotarella partnership](https://www.thedrinksbusiness.com/2026/03/meeting-of-minds-inside-the-amorim-cotarella-partnership/)**
+  Rather than being a conventional consultant winemaker arrangement, Riccardo Cotarella’s work with Amorim Family Estates ...
+  *关键词: partnership*
 
-![‘Wine is the third character in the series’: Sébastien Pradal on shaping Drops of God](https://www.thedrinksbusiness.com/content/uploads/2026/03/Untitled-design-65.png)
+![Why the Waitrose independent beer section is the progressive change the sector needs](https://www.thedrinksbusiness.com/content/uploads/2026/03/Waitrose-Website.png)
 
-- **[‘Wine is the third character in the series’: Sébastien Pradal on shaping Drops of God](https://www.thedrinksbusiness.com/2026/03/wine-is-the-third-character-in-the-series-sebastien-pradal-on-shaping-drops-of-god/)**
-  The Paris-based sommelier, restaurateur and consultant played a key role in bringing authenticity to Apple TV+ drama Dro...
+- **[Why the Waitrose independent beer section is the progressive change the sector needs](https://www.thedrinksbusiness.com/2026/03/why-the-waitrose-independent-beer-section-is-the-progressive-change-the-sector-needs/)**
+  A new deal made by Waitrose and The Society of Independent Brewers and Associates (SIBA) is set to uncover the beers mad...
 
-![London tube strikes threaten spring trade for hospitality](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-931353412.jpg)
+![On-trade poses ‘huge opportunity’ for Armit, despite ‘existential challenges’ facing hospitality](https://www.thedrinksbusiness.com/content/uploads/2021/12/ARMIT-199_CSP-scaled-e1639574770596.jpg)
 
-- **[London tube strikes threaten spring trade for hospitality](https://www.thedrinksbusiness.com/2026/03/london-tube-strikes-threaten-spring-trade-for-hospitality/)**
-  Planned London Underground walkouts from March to May could disrupt a crucial trading period for bars and restaurants. I...
+- **[On-trade poses ‘huge opportunity’ for Armit, despite ‘existential challenges’ facing hospitality](https://www.thedrinksbusiness.com/2026/03/on-trade-poses-huge-opportunity-for-armit-despite-existential-challenges-facing-hospitality/)**
+  Armit Wines is focussing on building its on-trade business, which it says poses a huge opportunity, despite the "existen...
 
 ### 📰 Decanter
 
@@ -65,88 +82,87 @@
 - **[Try these 10 wines from Piedmont's microscopic Nebbiolo outposts](https://www.decanter.com/wine/piedmont-wine-region/try-these-10-wines-from-piedmonts-microscopic-nebbiolo-outposts)**
   We're not in Alba anymore......
 
-![The Santa Lucia Highlands: Wild winds and Pinot Noir heritage](https://cdn.mos.cms.futurecdn.net/iq5CK6gpnrTLacY7yGaSN3-1280-80.gif)
-
-- **[The Santa Lucia Highlands: Wild winds and Pinot Noir heritage](https://www.decanter.com/wine/california-wine-region/the-santa-lucia-highlands-wild-winds-and-pinot-noir-heritage)**
-  Pinot from the windy coast......
-
-![Andrew Jefford: Where are we with wine and oak?](https://cdn.mos.cms.futurecdn.net/9BQA2PWM35ZPddFvG6JeNm-1280-80.jpg)
-
-- **[Andrew Jefford: Where are we with wine and oak?](https://www.decanter.com/wine-news/jefford-on-monday/andrew-jefford-where-are-we-with-wine-and-oak)**
-  'I dislike "oakiness" – but I've come to realise I also relish it'......
-
-### 📰 Wine-Searcher
-
-![The Most Wanted Rieslings of 2026](https://www.wine-searcher.com/images/news-rss/99/04/9904814209369b8639c_RieslingMain_1_.jpg)
-
-- **[The Most Wanted Rieslings of 2026](https://www.wine-searcher.com/m/2026/03/the-most-wanted-rieslings-of-2026?rss=Y)**
-  For a grape variety prone to bamboozling its audience, Americans know exactly what they want from it....
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Brown-Forman names next CFO](https://www.thespiritsbusiness.com/content/uploads/2026/03/Jim-Peters.jpg)
-
-- **[Brown-Forman names next CFO](https://www.thespiritsbusiness.com/2026/03/brown-forman-names-next-cfo/)**
-  Jack Daniel’s owner Brown-Forman has appointed a new chief financial officer in Jim Peters, who will also serve as the f...
-
-![From the Andes to the world: Ron Viejo de Caldas](https://www.thespiritsbusiness.com/content/uploads/2026/03/Licores-de-Caldas-.jpg)
-
-- **[From the Andes to the world: Ron Viejo de Caldas](https://www.thespiritsbusiness.com/2026/03/from-the-andes-to-the-world-ron-viejo-de-caldas/)**
-  For decades, Colombian rum has felt overlooked beyond its home. But that is changing, with Industria Licorera de Caldas ...
-
-![El Supremo Rum lands in UK](https://www.thespiritsbusiness.com/content/uploads/2026/03/El-Supremo-Rum-1.jpg)
-
-- **[El Supremo Rum lands in UK](https://www.thespiritsbusiness.com/2026/03/el-supremo-rum-lands-in-uk/)**
-  Paraguayan rum El Supremo has officially launched in the UK, offering a unique spirit that combines tradition with moder...
-  *关键词: launch*
-
-![Tomatin refreshes look with focus on wood](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tomatin-refreshed-look-2026.jpg)
-
-- **[Tomatin refreshes look with focus on wood](https://www.thespiritsbusiness.com/2026/03/tomatin-refreshes-look-with-focus-on-wood/)**
-  Highland distillery Tomatin has unveiled new packaging for its core range of single malts, highlighting its dedication t...
-
-![Angelita fuses Prosecco with Negroni powder](https://www.thespiritsbusiness.com/content/uploads/2026/03/Angelita-1.jpg)
-
-- **[Angelita fuses Prosecco with Negroni powder](https://www.thespiritsbusiness.com/2026/03/angelita-fuses-prosecco-with-negroni-powder/)**
-  As it celebrates its 10th anniversary, Madrid bar Angelita has launched a cocktail menu, titled Raíces, which features a...
-  *关键词: launch*
-
 ### 📰 Brewbound
 
-- **[MJF 2025 Impact Report: $608,713 in Scholarships Awarded in Last 5 Years](https://www.brewbound.com/news/mjf-2025-impact-report-608713-in-scholarships-awarded-in-last-5-years)**
-  The Michael James Jackson Foundation (MJF) has helped more than 70 industry members further their education and technica...
+- **[Circana Weekly Scans: Bev-Alc YoY Growth Returns, Negative Shift Concerns ‘Placed on Hold’](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-yoy-growth-returns-negative-shift-concerns-placed-on-hold)**
+  Bev-alc off-premise dollar sales returned to growth in the latest weekly report from market research firm Circana, sugge...
+  *关键词: market*
 
-- **[January US Beer Shipments -9.4%; Imports -17%; State STWs -11%](https://www.brewbound.com/news/january-us-beer-shipments-9-4-imports-17-state-stws-11)**
-  U.S. brewers shipped nearly 1 million fewer barrels year-over-year (YoY) in January 2026, according to domestic tax paid...
+- **[NIQ Weekly Scans: Bev-Alc Declines Persist Thru Early March, Dragged by Liquor and Grocery](https://www.brewbound.com/news/niq-weekly-scans-bev-alc-declines-persist-thru-early-march-dragged-by-liquor-and-grocery)**
+  The kickoff to March brought continued declines for the bev-alc industry in NIQ-tracked off-premise channels, according ...
+  *关键词: market*
 
-- **[Tilray Brands to Acquire BrewDog’s US Assets in Ohio, Las Vegas](https://www.brewbound.com/news/tilray-brands-to-acquire-brewdogs-us-assets-in-ohio-las-vegas)**
-  Tilray Brands will acquire several assets from BrewDog’s U.S. business, including its Ohio production facility and remai...
+- **[Press Clips: Bev-Alc Leaders Land on Inc.’s 2026 Female Founders 500; Ex-Boston Beer CEO Won’t Seek Board Re-Election](https://www.brewbound.com/news/press-clips-bev-alc-leaders-land-on-inc-s-2026-female-founders-500-ex-boston-beer-ceo-wont-seek-board-re-election)**
+  Sixteen leaders from 12 bev-alc brands (and adjacent) were named to Inc.’s 2026 Female Founders 500. Representing craft ...
 
-- **[Schilling Cider & Brooklyn Cider House Leaders Elected to American Cider Association Board](https://www.brewbound.com/news/schilling-cider-brooklyn-cider-house-leaders-elected-to-american-cider-association-board)**
-  Members of the American Cider Association (ACA) elected two new and four returning representatives to the trade group’s ...
+- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
+  The founder of Uncle Nearest has filed for Chapter 11 bankruptcy protection after the troubled bourbon company defaulted...
+
+### 📰 The Spirits Business
+
+![Stauning launches its first gin](https://www.thespiritsbusiness.com/content/uploads/2026/03/Stauning-Danish-Dry-Gin.jpg)
+
+- **[Stauning launches its first gin](https://www.thespiritsbusiness.com/2026/03/stauning-launches-its-first-gin/)**
+  Danish craft distillery Stauning has ventured beyond whisky with the launch of its first gin, crafted with locally sourc...
+  *关键词: launch*
+
+![Patrick Schwarzenegger fronts Ketel One’s daytime campaign](https://www.thespiritsbusiness.com/content/uploads/2026/03/Ketel-One.jpg)
+
+- **[Patrick Schwarzenegger fronts Ketel One’s daytime campaign](https://www.thespiritsbusiness.com/2026/03/patrick-schwarzenegger-fronts-ketel-ones-daytime-campaign/)**
+  Diageo's Ketel One Vodka brand is embracing daytime Martinis in its latest campaign with actor Patrick Schwarzenegger
+Th...
+
+![Born Irish ‘tops’ signature serve](https://www.thespiritsbusiness.com/content/uploads/2026/03/Born-Irish-Tops.jpg)
+
+- **[Born Irish ‘tops’ signature serve](https://www.thespiritsbusiness.com/2026/03/born-irish-tops-signature-serve/)**
+  Kirker Greer Spirits has launched a new serve strategy for Born Irish Whiskey to attract a new generation of drinkers
+Th...
+  *关键词: launch*
+
+![Tilray to snap up BrewDog’s US business](https://www.thespiritsbusiness.com/content/uploads/2026/03/BrewDog-Las-Vegas-US.jpg)
+
+- **[Tilray to snap up BrewDog’s US business](https://www.thespiritsbusiness.com/2026/03/tilray-to-snap-up-brewdogs-us-business/)**
+  After purchasing BrewDog’s UK and Australian arms, Tilray Brands has now expanded its deal to include the brewer’s US op...
+
+![Isolabella is number-one limoncello in UK on-trade](https://www.thespiritsbusiness.com/content/uploads/2026/03/2025_03_20_isolabella106902.jpg)
+
+- **[Isolabella is number-one limoncello in UK on-trade](https://www.thespiritsbusiness.com/2026/03/isolabella-is-number-one-limoncello-in-uk-on-trade/)**
+  Disaronno International UK was the fastest-growing supplier by value in 2025's fourth quarter, with Isolabella topping t...
 
 ### 📰 Wine Enthusiast
 
-- **[Meet the Team](https://www.wineenthusiast.com/meet-the-team/)**
-  The post Meet the Team appeared first on Wine Enthusiast....
+![Glassware Sale](https://res.cloudinary.com/htt8g4cd/image/upload/w_1920,c_scale,f_auto,q_auto/wp/we-glassware-sale_v2_1920x660_position2)
 
-![Prohibition Brought Women into the Bar—and Changed Their Role in the World](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_24_When_Women_Snagged_a_Seat_at_the_Speakeasy_INSET_GettyImages-104412147_1920x1280-1024x683.jpg)
+- **[Glassware Sale](https://www.wineenthusiast.com/shop/sale/glassware/)**
+  What’s Behind The Glass Fine glassware is so much more than just a simple vessel. Learn how it’s made, how to build the ...
 
-- **[Prohibition Brought Women into the Bar—and Changed Their Role in the World](https://www.wineenthusiast.com/culture/prohibition-women-social-movement/)**
-  The 18th Amendment was meant to protect women from booze. Instead, it gave them a seat in the speakeasy and a new kind o...
+![What Does ‘Wine Travel’ Look Like in 2026?](https://www.wineenthusiast.com/wp-content/uploads/2024/04/9530116_1.webp)
 
-![Want to Actually Drink Like the Irish This St. Patrick’s Day? Buy a Round](https://www.wineenthusiast.com/wp-content/uploads/2023/03/48547_1.jpeg)
+- **[What Does ‘Wine Travel’ Look Like in 2026?](https://www.wineenthusiast.com/culture/industry-news/wine-travel-2026/)**
+  As consumer preferences continue to shift, we wanted to better understand what wine travel looks like in 2026. So, we su...
 
-- **[Want to Actually Drink Like the Irish This St. Patrick’s Day? Buy a Round](https://www.wineenthusiast.com/culture/buying-a-round-st-patricks-day/)**
-  Much of what we drink in the name of St. Patrick has little relation to Ireland. But buying a round? It doesn't get more...
+![Sure, Aged Wines Can Turn a Profit. Can Aged Vines Do the Same?](https://www.wineenthusiast.com/wp-content/uploads/2024/04/9530116_1.webp)
 
-*📚 以上为近期内容*
+- **[Sure, Aged Wines Can Turn a Profit. Can Aged Vines Do the Same?](https://www.wineenthusiast.com/culture/industry-news/commercializing-old-vines/)**
+  Around the world, winemakers, researchers, and advocates are racing to define (and commercialize) old-vine wines.
+The po...
+
+![These Girl Scout Cookie and Wine Pairings Deserve a Badge](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Girlscout_Cookie_Pairings_Thin_Mints_1920x1280-1024x683.jpg)
+
+- **[These Girl Scout Cookie and Wine Pairings Deserve a Badge](https://www.wineenthusiast.com/culture/wine/girl-scout-cookies-wine-pairing/)**
+  What's better than downing a box of Girl Scout Cookies on the couch? Doing it with wine.
+The post These Girl Scout Cooki...
+
+![Oregon’s Sparkling Wine Has Always Been Elite—Now, It’s Official](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Oregons_sparkling_wine_industry_is_saying_Put_our_name_on_it_INSET_1_Lester_Tsai_1920x1280-1024x683.jpg)
+
+- **[Oregon’s Sparkling Wine Has Always Been Elite—Now, It’s Official](https://www.wineenthusiast.com/culture/industry-news/method-oregon/)**
+  Oregon's top sparkling wine producers are banding together with a new set of standards to raise the profile of their tra...
 
 
 ---
 
-*报告生成时间: 2026-03-17 03:00*  
+*报告生成时间: 2026-03-17 16:00*  
 *Antonelli Intelligence System*
