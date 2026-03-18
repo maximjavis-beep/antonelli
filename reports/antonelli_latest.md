@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-17  
+**日期**: 2026-03-18  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 36 条
+- **新增资讯**: 41 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,21 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
+
+![Maltstock Down Under to debut in May](https://theshout.com.au/wp-content/uploads/2026/03/MaltstockDownUnderdebut.jpg?w=780)
+
+- **[Maltstock Down Under to debut in May](https://theshout.com.au/maltstock-down-under-to-debut-in-may/)**
+  The celebrated whisky gathering will make its Australian debut in Tasmania, the first time the gathering will happen out...
+
+![The 2026-28 NSW liquor accords strategy now available](https://theshout.com.au/wp-content/uploads/2026/03/iStock-1367899893-brainstorm-meeting-discussion.jpg?w=780)
+
+- **[The 2026-28 NSW liquor accords strategy now available](https://theshout.com.au/the-2026-28-nsw-liquor-accords-strategy-now-available/)**
+  The NSW Liquor Accords Strategy outlines the priorities and objectives for the liquor accords program over the next thre...
+
+![Global finalists revealed in 2026 World Whiskies Awards](https://theshout.com.au/wp-content/uploads/2026/03/iStock-2188351321-whisky-tasting.jpg?w=780)
+
+- **[Global finalists revealed in 2026 World Whiskies Awards](https://theshout.com.au/global-finalists-revealed-in-2026-world-whiskies-awards/)**
+  A number of Australian whiskies have once again been recognised as being among the best in the world....
 
 ![Every day is a lovely day for a Guinness](https://theshout.com.au/wp-content/uploads/2026/03/Shout-lead-Guinness.png?w=780)
 
@@ -27,22 +42,15 @@
 - **[Wednesday Women: What does Pink Boots Society Australia stand for today?](https://theshout.com.au/wednesday-women-what-does-pink-boots-society-australia-stand-for-today/)**
   Fourteen years since its inception, the organisation exists to support women and non-binary people in fermentation to co...
 
-![Meet Australia’s Quiet House-Spirit Disruptor](https://theshout.com.au/wp-content/uploads/2026/03/image.jpg?w=780)
-
-- **[Meet Australia’s Quiet House-Spirit Disruptor](https://theshout.com.au/meet-australias-quiet-house-spirit-disruptor/)**
-  Casa Spirits has gone from underground favourite to national player [&hellip;]...
-
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/images/news-rss/99/05/9905414210069b9b114_Sherrymain.jpg)
-
-- **[Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/m/2026/03/pingus-man-turns-sights-to-sherry?rss=Y)**
-  Peter Sisseck founded the phenomenally successful Pingus brand, but he has also broadened his reach....
-
 ### 📰 The Drinks Business
+
+![Should soft play centres sell alcohol?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Soft-play-scaled.jpg)
+
+- **[Should soft play centres sell alcohol?](https://www.thedrinksbusiness.com/2026/03/should-soft-play-centres-sell-alcohol/)**
+  Queries over the appropriateness of soft play centres serving alcohol to parents have been raised in online debates this...
 
 ![Alcohol-free beer joins inflation basket](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1312825752.jpg)
 
@@ -65,12 +73,17 @@
 - **[Why the Waitrose independent beer section is the progressive change the sector needs](https://www.thedrinksbusiness.com/2026/03/why-the-waitrose-independent-beer-section-is-the-progressive-change-the-sector-needs/)**
   A new deal made by Waitrose and The Society of Independent Brewers and Associates (SIBA) is set to uncover the beers mad...
 
-![On-trade poses ‘huge opportunity’ for Armit, despite ‘existential challenges’ facing hospitality](https://www.thedrinksbusiness.com/content/uploads/2021/12/ARMIT-199_CSP-scaled-e1639574770596.jpg)
-
-- **[On-trade poses ‘huge opportunity’ for Armit, despite ‘existential challenges’ facing hospitality](https://www.thedrinksbusiness.com/2026/03/on-trade-poses-huge-opportunity-for-armit-despite-existential-challenges-facing-hospitality/)**
-  Armit Wines is focussing on building its on-trade business, which it says poses a huge opportunity, despite the "existen...
-
 ### 📰 Decanter
+
+![What wines to pair with Malaysian food](https://cdn.mos.cms.futurecdn.net/ao2SZeXu6t3WxSWz4aGiPF-1280-80.jpg)
+
+- **[What wines to pair with Malaysian food](https://www.decanter.com/learn/what-wines-to-pair-with-malaysian-food)**
+  An unlikely relationship......
+
+![Discover Canberra’s cool-climate wine scene](https://cdn.mos.cms.futurecdn.net/5HQ9nyEVxVsumHoCPsZtkb-1280-80.jpg)
+
+- **[Discover Canberra’s cool-climate wine scene](https://www.decanter.com/wine/wine-regions/discover-canberras-cool-climate-wine-scene)**
+  A new cool-climate frontier......
 
 ![Editors’ picks: Bonus tips on wines to watch – March 2026](https://cdn.mos.cms.futurecdn.net/piZJ4yx2FyoNUVHayBKevY-1280-80.jpg)
 
@@ -82,26 +95,22 @@
 - **[Try these 10 wines from Piedmont's microscopic Nebbiolo outposts](https://www.decanter.com/wine/piedmont-wine-region/try-these-10-wines-from-piedmonts-microscopic-nebbiolo-outposts)**
   We're not in Alba anymore......
 
+### 📰 Wine-Searcher
+
+![Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/images/news-rss/99/05/9905414210069b9b114_Sherrymain.jpg)
+
+- **[Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/m/2026/03/pingus-man-turns-sights-to-sherry?rss=Y)**
+  Peter Sisseck founded the phenomenally successful Pingus brand, but he has also broadened his reach....
+
 
 ## 🌍 美洲
 
-### 📰 Brewbound
-
-- **[Circana Weekly Scans: Bev-Alc YoY Growth Returns, Negative Shift Concerns ‘Placed on Hold’](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-yoy-growth-returns-negative-shift-concerns-placed-on-hold)**
-  Bev-alc off-premise dollar sales returned to growth in the latest weekly report from market research firm Circana, sugge...
-  *关键词: market*
-
-- **[NIQ Weekly Scans: Bev-Alc Declines Persist Thru Early March, Dragged by Liquor and Grocery](https://www.brewbound.com/news/niq-weekly-scans-bev-alc-declines-persist-thru-early-march-dragged-by-liquor-and-grocery)**
-  The kickoff to March brought continued declines for the bev-alc industry in NIQ-tracked off-premise channels, according ...
-  *关键词: market*
-
-- **[Press Clips: Bev-Alc Leaders Land on Inc.’s 2026 Female Founders 500; Ex-Boston Beer CEO Won’t Seek Board Re-Election](https://www.brewbound.com/news/press-clips-bev-alc-leaders-land-on-inc-s-2026-female-founders-500-ex-boston-beer-ceo-wont-seek-board-re-election)**
-  Sixteen leaders from 12 bev-alc brands (and adjacent) were named to Inc.’s 2026 Female Founders 500. Representing craft ...
-
-- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
-  The founder of Uncle Nearest has filed for Chapter 11 bankruptcy protection after the troubled bourbon company defaulted...
-
 ### 📰 The Spirits Business
+
+![Southern Glazer’s appoints senior strategic advisor](https://www.thespiritsbusiness.com/content/uploads/2026/03/Stephen-Von-Oehsen-Southern-Glazers.jpg)
+
+- **[Southern Glazer’s appoints senior strategic advisor](https://www.thespiritsbusiness.com/2026/03/southern-glazers-appoints-senior-strategic-advisor/)**
+  US distributor Southern Glazer’s Wine & Spirits has announced multiple transitions within its corporate strategy leaders...
 
 ![Stauning launches its first gin](https://www.thespiritsbusiness.com/content/uploads/2026/03/Stauning-Danish-Dry-Gin.jpg)
 
@@ -127,10 +136,21 @@ Th...
 - **[Tilray to snap up BrewDog’s US business](https://www.thespiritsbusiness.com/2026/03/tilray-to-snap-up-brewdogs-us-business/)**
   After purchasing BrewDog’s UK and Australian arms, Tilray Brands has now expanded its deal to include the brewer’s US op...
 
-![Isolabella is number-one limoncello in UK on-trade](https://www.thespiritsbusiness.com/content/uploads/2026/03/2025_03_20_isolabella106902.jpg)
+### 📰 Brewbound
 
-- **[Isolabella is number-one limoncello in UK on-trade](https://www.thespiritsbusiness.com/2026/03/isolabella-is-number-one-limoncello-in-uk-on-trade/)**
-  Disaronno International UK was the fastest-growing supplier by value in 2025's fourth quarter, with Isolabella topping t...
+- **[Circana Weekly Scans: Bev-Alc YoY Growth Returns, Negative Shift Concerns ‘Placed on Hold’](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-yoy-growth-returns-negative-shift-concerns-placed-on-hold)**
+  Bev-alc off-premise dollar sales returned to growth in the latest weekly report from market research firm Circana, sugge...
+  *关键词: market*
+
+- **[NIQ Weekly Scans: Bev-Alc Declines Persist Thru Early March, Dragged by Liquor and Grocery](https://www.brewbound.com/news/niq-weekly-scans-bev-alc-declines-persist-thru-early-march-dragged-by-liquor-and-grocery)**
+  The kickoff to March brought continued declines for the bev-alc industry in NIQ-tracked off-premise channels, according ...
+  *关键词: market*
+
+- **[Press Clips: Bev-Alc Leaders Land on Inc.’s 2026 Female Founders 500; Ex-Boston Beer CEO Won’t Seek Board Re-Election](https://www.brewbound.com/news/press-clips-bev-alc-leaders-land-on-inc-s-2026-female-founders-500-ex-boston-beer-ceo-wont-seek-board-re-election)**
+  Sixteen leaders from 12 bev-alc brands (and adjacent) were named to Inc.’s 2026 Female Founders 500. Representing craft ...
+
+- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
+  The founder of Uncle Nearest has filed for Chapter 11 bankruptcy protection after the troubled bourbon company defaulted...
 
 ### 📰 Wine Enthusiast
 
@@ -164,5 +184,5 @@ The post These Girl Scout Cooki...
 
 ---
 
-*报告生成时间: 2026-03-17 16:00*  
+*报告生成时间: 2026-03-18 03:00*  
 *Antonelli Intelligence System*
