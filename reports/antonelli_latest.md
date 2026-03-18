@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 41 条
+- **新增资讯**: 36 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -32,48 +32,51 @@
 - **[Global finalists revealed in 2026 World Whiskies Awards](https://theshout.com.au/global-finalists-revealed-in-2026-world-whiskies-awards/)**
   A number of Australian whiskies have once again been recognised as being among the best in the world....
 
-![Every day is a lovely day for a Guinness](https://theshout.com.au/wp-content/uploads/2026/03/Shout-lead-Guinness.png?w=780)
-
-- **[Every day is a lovely day for a Guinness](https://theshout.com.au/every-day-is-a-lovely-day-for-a-guinness/)**
-  Guinness is on track for one of its biggest years [&hellip;]...
-
-![Wednesday Women: What does Pink Boots Society Australia stand for today?](https://theshout.com.au/wp-content/uploads/2026/03/Pink-Boots-Society.png?w=780)
-
-- **[Wednesday Women: What does Pink Boots Society Australia stand for today?](https://theshout.com.au/wednesday-women-what-does-pink-boots-society-australia-stand-for-today/)**
-  Fourteen years since its inception, the organisation exists to support women and non-binary people in fermentation to co...
-
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Chianti Classico Riserva – the Crowd Pleaser](https://www.wine-searcher.com/images/news-rss/99/05/9905614210569bb0f86_classi1.jpg)
+
+- **[Chianti Classico Riserva – the Crowd Pleaser](https://www.wine-searcher.com/m/2026/03/chianti-classico-riserva-the-crowd-pleaser?rss=Y)**
+  Although Chianti Classico Riservas have been slightly overshadowed by the Gran Selezione classification, they still offe...
+
 ### 📰 The Drinks Business
 
-![Should soft play centres sell alcohol?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Soft-play-scaled.jpg)
+![Italy about to start making domestically dealcoholised wine](https://www.thedrinksbusiness.com/content/uploads/2026/03/Italian-gavel2-scaled.jpg)
 
-- **[Should soft play centres sell alcohol?](https://www.thedrinksbusiness.com/2026/03/should-soft-play-centres-sell-alcohol/)**
-  Queries over the appropriateness of soft play centres serving alcohol to parents have been raised in online debates this...
+- **[Italy about to start making domestically dealcoholised wine](https://www.thedrinksbusiness.com/2026/03/italy-to-lift-ban-on-making-dealcoholised-wines/)**
+  Following a decree passed in late 2025 to reverse the clamp-down on dealcoholisation, Italian producers are expecting to...
 
-![Alcohol-free beer joins inflation basket](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1312825752.jpg)
+![Master Winemaker 100: Álvaro Martínez](https://www.thedrinksbusiness.com/content/uploads/2026/03/RETRATOS-MLC-23-scaled.jpg)
 
-- **[Alcohol-free beer joins inflation basket](https://www.thedrinksbusiness.com/2026/03/alcohol-free-beer-joins-inflation-basket/)**
-  The Office for National Statistics has added alcohol-free beer to the official basket used to measure UK consumer price ...
+- **[Master Winemaker 100: Álvaro Martínez](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-alvaro-martinez/)**
+  The winemaker at Rioja's Bodegas Martínez Lacuesta tells db about learning from other winemakers, tasting century-old bo...
 
-![Can the beer industry learn about brand loyalty to strengthen its appeal?](https://www.thedrinksbusiness.com/content/uploads/2026/03/brand-loyalty-scaled.jpg)
+![Syria’s Damascus bans alcohol sales](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1147022856-scaled.jpg)
 
-- **[Can the beer industry learn about brand loyalty to strengthen its appeal?](https://www.thedrinksbusiness.com/2026/03/can-the-beer-industry-learn-about-brand-loyalty-to-strengthen-its-appeal/)**
-  The notion that the beer industry can learn a little from the fast food sector, where brand loyalty is back on track and...
+- **[Syria’s Damascus bans alcohol sales](https://www.thedrinksbusiness.com/2026/03/syrias-damascus-bans-alcohol-sales/)**
+  Syrian authorities have banned alcohol in Damascus restaurants and bars, except in several Christian neighbourhoods. Off...
 
-![‘Meeting of minds’: inside the Amorim/Cotarella partnership](https://www.thedrinksbusiness.com/content/uploads/2026/03/Cotarella-Amorim-team-scaled.jpg)
+![The bone broth cocktail trend continues to climb](https://www.thedrinksbusiness.com/content/uploads/2026/03/Bone-broth-cocktail-scaled.jpg)
 
-- **[‘Meeting of minds’: inside the Amorim/Cotarella partnership](https://www.thedrinksbusiness.com/2026/03/meeting-of-minds-inside-the-amorim-cotarella-partnership/)**
-  Rather than being a conventional consultant winemaker arrangement, Riccardo Cotarella’s work with Amorim Family Estates ...
-  *关键词: partnership*
+- **[The bone broth cocktail trend continues to climb](https://www.thedrinksbusiness.com/2026/03/the-bone-broth-cocktail-trend-takes-off/)**
+  The craze leading to mixologists adding umami-rich bone broth to drinks has not just been riding wellness and savoury co...
+  *关键词: trend*
 
-![Why the Waitrose independent beer section is the progressive change the sector needs](https://www.thedrinksbusiness.com/content/uploads/2026/03/Waitrose-Website.png)
+![Concha y Toro lifts sales on premium focus as Provence deal adds new dimension](https://www.thedrinksbusiness.com/content/uploads/2026/03/CP-CyT-1200_Plaza-Concha-y-Toro-Bodega-Concha-y-Toro-scaled.jpg)
 
-- **[Why the Waitrose independent beer section is the progressive change the sector needs](https://www.thedrinksbusiness.com/2026/03/why-the-waitrose-independent-beer-section-is-the-progressive-change-the-sector-needs/)**
-  A new deal made by Waitrose and The Society of Independent Brewers and Associates (SIBA) is set to uncover the beers mad...
+- **[Concha y Toro lifts sales on premium focus as Provence deal adds new dimension](https://www.thedrinksbusiness.com/2026/03/concha-y-toro-lifts-sales-on-premium-focus-as-provence-deal-adds-new-dimension/)**
+  Chilean wine group Concha y Toro has reported modest revenue growth in 2025 while accelerating its move upmarket. Meanwh...
+  *关键词: acquisition, market, acquisition*
 
 ### 📰 Decanter
+
+![Colli di Luni: A wine lover's guide](https://cdn.mos.cms.futurecdn.net/wHHvHf5Q7rbtQXcd55uveM-1280-80.jpg)
+
+- **[Colli di Luni: A wine lover's guide](https://www.decanter.com/wine-travel/colli-di-luni-a-wine-lovers-guide)**
+  ‘For fans of authentic Italian white wines, stunning scenery and ancient history, Colli di Luni is like nowhere else.’...
 
 ![What wines to pair with Malaysian food](https://cdn.mos.cms.futurecdn.net/ao2SZeXu6t3WxSWz4aGiPF-1280-80.jpg)
 
@@ -85,104 +88,77 @@
 - **[Discover Canberra’s cool-climate wine scene](https://www.decanter.com/wine/wine-regions/discover-canberras-cool-climate-wine-scene)**
   A new cool-climate frontier......
 
-![Editors’ picks: Bonus tips on wines to watch – March 2026](https://cdn.mos.cms.futurecdn.net/piZJ4yx2FyoNUVHayBKevY-1280-80.jpg)
-
-- **[Editors’ picks: Bonus tips on wines to watch – March 2026](https://www.decanter.com/wine/editors-picks-bonus-tips-on-wines-to-watch-march-2026)**
-  See what our team has been trying recently......
-
-![Try these 10 wines from Piedmont's microscopic Nebbiolo outposts](https://cdn.mos.cms.futurecdn.net/hXWXyoGa6CbyQu8VWEPfB-1280-80.jpg)
-
-- **[Try these 10 wines from Piedmont's microscopic Nebbiolo outposts](https://www.decanter.com/wine/piedmont-wine-region/try-these-10-wines-from-piedmonts-microscopic-nebbiolo-outposts)**
-  We're not in Alba anymore......
-
-### 📰 Wine-Searcher
-
-![Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/images/news-rss/99/05/9905414210069b9b114_Sherrymain.jpg)
-
-- **[Pingus Man Turns Sights to Sherry](https://www.wine-searcher.com/m/2026/03/pingus-man-turns-sights-to-sherry?rss=Y)**
-  Peter Sisseck founded the phenomenally successful Pingus brand, but he has also broadened his reach....
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Southern Glazer’s appoints senior strategic advisor](https://www.thespiritsbusiness.com/content/uploads/2026/03/Stephen-Von-Oehsen-Southern-Glazers.jpg)
-
-- **[Southern Glazer’s appoints senior strategic advisor](https://www.thespiritsbusiness.com/2026/03/southern-glazers-appoints-senior-strategic-advisor/)**
-  US distributor Southern Glazer’s Wine & Spirits has announced multiple transitions within its corporate strategy leaders...
-
-![Stauning launches its first gin](https://www.thespiritsbusiness.com/content/uploads/2026/03/Stauning-Danish-Dry-Gin.jpg)
-
-- **[Stauning launches its first gin](https://www.thespiritsbusiness.com/2026/03/stauning-launches-its-first-gin/)**
-  Danish craft distillery Stauning has ventured beyond whisky with the launch of its first gin, crafted with locally sourc...
-  *关键词: launch*
-
-![Patrick Schwarzenegger fronts Ketel One’s daytime campaign](https://www.thespiritsbusiness.com/content/uploads/2026/03/Ketel-One.jpg)
-
-- **[Patrick Schwarzenegger fronts Ketel One’s daytime campaign](https://www.thespiritsbusiness.com/2026/03/patrick-schwarzenegger-fronts-ketel-ones-daytime-campaign/)**
-  Diageo's Ketel One Vodka brand is embracing daytime Martinis in its latest campaign with actor Patrick Schwarzenegger
-Th...
-
-![Born Irish ‘tops’ signature serve](https://www.thespiritsbusiness.com/content/uploads/2026/03/Born-Irish-Tops.jpg)
-
-- **[Born Irish ‘tops’ signature serve](https://www.thespiritsbusiness.com/2026/03/born-irish-tops-signature-serve/)**
-  Kirker Greer Spirits has launched a new serve strategy for Born Irish Whiskey to attract a new generation of drinkers
-Th...
-  *关键词: launch*
-
-![Tilray to snap up BrewDog’s US business](https://www.thespiritsbusiness.com/content/uploads/2026/03/BrewDog-Las-Vegas-US.jpg)
-
-- **[Tilray to snap up BrewDog’s US business](https://www.thespiritsbusiness.com/2026/03/tilray-to-snap-up-brewdogs-us-business/)**
-  After purchasing BrewDog’s UK and Australian arms, Tilray Brands has now expanded its deal to include the brewer’s US op...
-
 ### 📰 Brewbound
 
-- **[Circana Weekly Scans: Bev-Alc YoY Growth Returns, Negative Shift Concerns ‘Placed on Hold’](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-yoy-growth-returns-negative-shift-concerns-placed-on-hold)**
-  Bev-alc off-premise dollar sales returned to growth in the latest weekly report from market research firm Circana, sugge...
-  *关键词: market*
-
-- **[NIQ Weekly Scans: Bev-Alc Declines Persist Thru Early March, Dragged by Liquor and Grocery](https://www.brewbound.com/news/niq-weekly-scans-bev-alc-declines-persist-thru-early-march-dragged-by-liquor-and-grocery)**
-  The kickoff to March brought continued declines for the bev-alc industry in NIQ-tracked off-premise channels, according ...
-  *关键词: market*
-
-- **[Press Clips: Bev-Alc Leaders Land on Inc.’s 2026 Female Founders 500; Ex-Boston Beer CEO Won’t Seek Board Re-Election](https://www.brewbound.com/news/press-clips-bev-alc-leaders-land-on-inc-s-2026-female-founders-500-ex-boston-beer-ceo-wont-seek-board-re-election)**
-  Sixteen leaders from 12 bev-alc brands (and adjacent) were named to Inc.’s 2026 Female Founders 500. Representing craft ...
-
-- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
+- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender (UPDATED)](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
   The founder of Uncle Nearest has filed for Chapter 11 bankruptcy protection after the troubled bourbon company defaulted...
+
+- **[Blueprint for Scale: How Mission Craft Cocktails Went From 2K to 80K Cases](https://www.brewbound.com/news/blueprint-for-scale-how-mission-craft-cocktails-went-from-2k-to-80k-cases)**
+  The founders of Mission Craft Cocktails, the Southern California brand built on bar-strength bottled cocktails made with...
+
+- **[Tilray’s BrewDog Plans: ‘Stabilize the Brand,’ Focus on 4 Midwest Markets; Total Price Estimated at £41 Million](https://www.brewbound.com/news/tilrays-brewdog-plans-stabilize-the-brand-focus-on-4-midwest-markets-total-price-estimated-at-41-million)**
+  After a three-week sprint to finalize deals to acquire BrewDog’s business on three continents, Tilray Brands’ first orde...
+  *关键词: market*
+
+- **[Breakthru Beverage Launches Intoxicating Hemp Drink Distribution in Minnesota](https://www.brewbound.com/news/breakthru-beverage-launches-intoxicating-hemp-drink-distribution-in-minnesota)**
+  Breakthru Beverage Group, one of the largest beverage distributors in the U.S., is jumping into the intoxicating hemp dr...
+  *关键词: launch, distribution*
+
+### 📰 The Spirits Business
+
+![CVH Spirits relocates office to Glasgow city centre](https://www.thespiritsbusiness.com/content/uploads/2026/03/Ronan-ORahilly-CVH-Spirits-CEO.jpg)
+
+- **[CVH Spirits relocates office to Glasgow city centre](https://www.thespiritsbusiness.com/2026/03/cvh-spirits-relocates-office-to-glasgow-city-centre/)**
+  The owner of Bunnahabhain Distillery, CVH Spirits, is set to move its head office from East Kilbride to Kintyre House in...
+
+![Tarsier Gin heads to Moldova](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tarsier-Gin.jpg)
+
+- **[Tarsier Gin heads to Moldova](https://www.thespiritsbusiness.com/2026/03/tarsier-gin-heads-to-moldova/)**
+  Manchester-based Tarsier Southeast Asian Spirits has partnered with distributor MGM to launch its gin range in Moldova
+T...
+  *关键词: launch*
+
+![De Kuyper to offload Mandarine Napoléon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Mandarine-Napoleon.jpg)
+
+- **[De Kuyper to offload Mandarine Napoléon](https://www.thespiritsbusiness.com/2026/03/de-kuyper-to-offload-mandarine-napoleon/)**
+  Dutch drinks group De Kuyper has agreed to sell its Mandarine Napoléon liqueur brand to French firm Iconic Nectars
+The p...
+
+![Cantineros Game takes flair bartending to Miami](https://www.thespiritsbusiness.com/content/uploads/2026/03/Cantineros-Game.jpg)
+
+- **[Cantineros Game takes flair bartending to Miami](https://www.thespiritsbusiness.com/2026/03/cantineros-game-takes-flair-bartending-to-miami/)**
+  Chelo Tiki and the Miami Rum Congress organised the third edition of the Cantineros Game last month, spotlighting flair ...
+
+![Glenmorangie adds 30YO whisky to core range](https://www.thespiritsbusiness.com/content/uploads/2026/03/Glenmorangie-The-Thirty.jpg)
+
+- **[Glenmorangie adds 30YO whisky to core range](https://www.thespiritsbusiness.com/2026/03/glenmorangie-adds-30yo-whisky-to-core-range/)**
+  Scotch whisky distillery Glenmorangie has launched a 30-year-old single malt as part of its permanent range
+The post Gle...
+  *关键词: launch*
 
 ### 📰 Wine Enthusiast
 
-![Glassware Sale](https://res.cloudinary.com/htt8g4cd/image/upload/w_1920,c_scale,f_auto,q_auto/wp/we-glassware-sale_v2_1920x660_position2)
+![The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Disney_Pairings_Pretzels_1920x1280-1024x683.jpg)
 
-- **[Glassware Sale](https://www.wineenthusiast.com/shop/sale/glassware/)**
-  What’s Behind The Glass Fine glassware is so much more than just a simple vessel. Learn how it’s made, how to build the ...
+- **[The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/basics/how-to-pair/disney-snacks-wine-pairings/)**
+  From Dole Whips and Tokaji to Mickey Pretzels and Pinot Noir, these pairings are sure to impress the Disney adult sommel...
 
-![What Does ‘Wine Travel’ Look Like in 2026?](https://www.wineenthusiast.com/wp-content/uploads/2024/04/9530116_1.webp)
+![The Best Wineries (and More) to Visit in Paso Robles Right Now](https://www.wineenthusiast.com/wp-content/uploads/2023/11/11_23_TOP_Winery_INSET_TOP_Winery_1920x1280-1024x683.jpg)
 
-- **[What Does ‘Wine Travel’ Look Like in 2026?](https://www.wineenthusiast.com/culture/industry-news/wine-travel-2026/)**
-  As consumer preferences continue to shift, we wanted to better understand what wine travel looks like in 2026. So, we su...
+- **[The Best Wineries (and More) to Visit in Paso Robles Right Now](https://www.wineenthusiast.com/culture/travel/best-paso-robles-wineries/)**
+  From sprawling estates and trendy hangouts to full-service wineries with restaurants and hotels, here are the region's b...
+  *关键词: trend*
 
-![Sure, Aged Wines Can Turn a Profit. Can Aged Vines Do the Same?](https://www.wineenthusiast.com/wp-content/uploads/2024/04/9530116_1.webp)
+![The Best Wineries (And More) to Visit in Santa Barbara](https://www.wineenthusiast.com/wp-content/uploads/2024/03/03_24_Pali_Wine_Co_INSET_Pali_Wine_Co_1000x667.jpg)
 
-- **[Sure, Aged Wines Can Turn a Profit. Can Aged Vines Do the Same?](https://www.wineenthusiast.com/culture/industry-news/commercializing-old-vines/)**
-  Around the world, winemakers, researchers, and advocates are racing to define (and commercialize) old-vine wines.
-The po...
-
-![These Girl Scout Cookie and Wine Pairings Deserve a Badge](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Girlscout_Cookie_Pairings_Thin_Mints_1920x1280-1024x683.jpg)
-
-- **[These Girl Scout Cookie and Wine Pairings Deserve a Badge](https://www.wineenthusiast.com/culture/wine/girl-scout-cookies-wine-pairing/)**
-  What's better than downing a box of Girl Scout Cookies on the couch? Doing it with wine.
-The post These Girl Scout Cooki...
-
-![Oregon’s Sparkling Wine Has Always Been Elite—Now, It’s Official](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Oregons_sparkling_wine_industry_is_saying_Put_our_name_on_it_INSET_1_Lester_Tsai_1920x1280-1024x683.jpg)
-
-- **[Oregon’s Sparkling Wine Has Always Been Elite—Now, It’s Official](https://www.wineenthusiast.com/culture/industry-news/method-oregon/)**
-  Oregon's top sparkling wine producers are banding together with a new set of standards to raise the profile of their tra...
+- **[The Best Wineries (And More) to Visit in Santa Barbara](https://www.wineenthusiast.com/culture/travel/santa-barbara-wineries/)**
+  There are so many tasting options in Santa Barbara now, it’s possible to spend an entire wine vacation within city limit...
 
 
 ---
 
-*报告生成时间: 2026-03-18 03:00*  
+*报告生成时间: 2026-03-18 16:00*  
 *Antonelli Intelligence System*
