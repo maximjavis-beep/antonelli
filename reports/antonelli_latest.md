@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 37 条
+- **新增资讯**: 36 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -42,35 +42,53 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Travelling on the Wine Time Machine](https://www.wine-searcher.com/images/news-rss/99/05/9905714210969bb4bd2_wintimes.jpg)
+
+- **[Travelling on the Wine Time Machine](https://www.wine-searcher.com/m/2026/03/travelling-on-the-wine-time-machine?rss=Y)**
+  How better to revisit the past than with a glass of something exquisite? We've got eight top-notch suggestions....
+
 ### 📰 The Drinks Business
 
-![Moldova’s quiet wine revolution](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2201426637.jpg)
+![We’re on a mission to discover the best wines under £15](https://www.thedrinksbusiness.com/content/uploads/2025/01/iStock-1973413475.jpg)
 
-- **[Moldova’s quiet wine revolution](https://www.thedrinksbusiness.com/2026/03/moldovas-quiet-wine-revolution/)**
-  With a long winemaking history, distinctive grape varieties and a developing wine tourism sector, Moldova is perfectly p...
+- **[We’re on a mission to discover the best wines under £15](https://www.thedrinksbusiness.com/2026/03/join-our-quest-to-discover-the-best-wines-under-10/)**
+  The Global Wine Masters is thrilled to announce its second-ever competition dedicated to a price point – the Global Unde...
 
-![Why tea deserves its place at the table](https://www.thedrinksbusiness.com/content/uploads/2026/03/Johnny-Stephens-Photography-0E8A0479-Edit-scaled.jpg)
+![Free energy tool to trim costs for pubs and bars](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1379163684.jpg)
 
-- **[Why tea deserves its place at the table](https://www.thedrinksbusiness.com/2026/03/why-tea-deserves-its-place-at-the-table/)**
-  The founders of Saicho Sparkling Tea desperately wanted an alcohol-free option that matched wine for its complexity and ...
+- **[Free energy tool to trim costs for pubs and bars](https://www.thedrinksbusiness.com/2026/03/free-energy-tool-to-trim-costs-for-pubs-and-bars/)**
+  A UK Government-backed scheme will soon launch in hundreds of hospitality venues. Trial data suggests meaningful reducti...
+  *关键词: launch*
 
-![Business rates hikes ‘symbolic of how little Labour is doing to help’ independent drinks retailers](https://www.thedrinksbusiness.com/content/uploads/2024/12/iStock-1124920033-1.jpg)
+![WineGB names new comms and marketing head](https://www.thedrinksbusiness.com/content/uploads/2026/03/Kirsty-Rushby_WineGB.jpg.jpeg)
 
-- **[Business rates hikes ‘symbolic of how little Labour is doing to help’ independent drinks retailers](https://www.thedrinksbusiness.com/2026/03/business-rates-hikes-symbolic-of-how-little-labour-is-doing-to-help-independent-drinks-retailers/)**
-  The post Business rates hikes &#8216;symbolic of how little Labour is doing to help&#8217; independent drinks retailers ...
+- **[WineGB names new comms and marketing head](https://www.thedrinksbusiness.com/2026/03/winesgb-names-new-comms-and-marketing-head/)**
+  WineGB has appointed Kirsty Rushby from the Co-op, as it new head of communications and marketing at an important time f...
+  *关键词: market*
 
-![Iran war threatens to lift UK beer prices](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2207950613.jpg)
+![Marlborough winegrowers brace for challenging years ahead](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1128996629.jpg)
 
-- **[Iran war threatens to lift UK beer prices](https://www.thedrinksbusiness.com/2026/03/iran-war-threatens-to-lift-uk-beer-prices/)**
-  Rising crude and gas costs linked to the Iran conflict are set to ripple through brewing and pubs. An insolvency special...
+- **[Marlborough winegrowers brace for challenging years ahead](https://www.thedrinksbusiness.com/2026/03/marlborough-winegrowers-brace-for-challenging-years-ahead/)**
+  New Zealand’s largest wine region is bracing for a prolonged downturn, with growers cutting production and facing mounti...
 
-![Why a decades-old flavour still dominates cocktail menus](https://www.thedrinksbusiness.com/content/uploads/2026/03/NR5A2708-1-scaled.jpg)
+![Beer Hour: Andy Slee](https://www.thedrinksbusiness.com/content/uploads/2026/03/Andy-Slee-Headshot-New-SIBA-logo-version-scaled.jpg)
 
-- **[Why a decades-old flavour still dominates cocktail menus](https://www.thedrinksbusiness.com/2026/03/why-a-decades-old-flavour-still-dominates-cocktail-menus/)**
-  Passion fruit has survived years of innovative cocktail trends — and remains one of the most reliable flavours behind th...
-  *关键词: trend*
+- **[Beer Hour: Andy Slee](https://www.thedrinksbusiness.com/2026/03/beer-hour-andy-slee/)**
+  Andy Slee, chief executive of Society of Independent Brewers and Associates (SIBA) speaks to Jessica Mason about the cha...
 
 ### 📰 Decanter
+
+![100-points for latest Château Latour in whirlwind of spring releases](https://cdn.mos.cms.futurecdn.net/YGatvhi3YBBLA2x4YefmJF-1280-80.gif)
+
+- **[100-points for latest Château Latour in whirlwind of spring releases](https://www.decanter.com/wine/wine-regions/la-place-de-bordeaux-march-releases-2026)**
+  Over 50 new international fine wine releases......
+
+![Wine and music quiz: From UB40 to Debussy](https://cdn.mos.cms.futurecdn.net/iJKmqWo7RdD8sDzCzrv3ic-1280-80.jpg)
+
+- **[Wine and music quiz: From UB40 to Debussy](https://www.decanter.com/learn/winequiz/wine-and-music-quiz-from-ub40-to-debussy)**
+  Can you get a pitch-perfect score?......
 
 ![Wine investment: Eyes turn to Bordeaux 2016 once more](https://cdn.mos.cms.futurecdn.net/CUeNxjqNfGQZRzHv5WsMSN-1280-80.jpg)
 
@@ -78,87 +96,62 @@
   A famed Bordeaux vintage hoves back into view......
   *关键词: investment*
 
-![Colli di Luni: A wine lover's guide](https://cdn.mos.cms.futurecdn.net/wHHvHf5Q7rbtQXcd55uveM-1280-80.jpg)
-
-- **[Colli di Luni: A wine lover's guide](https://www.decanter.com/wine-travel/colli-di-luni-a-wine-lovers-guide)**
-  ‘For fans of authentic Italian white wines, stunning scenery and ancient history, Colli di Luni is like nowhere else.’...
-
-### 📰 Wine-Searcher
-
-![Chianti Classico Riserva – the Crowd Pleaser](https://www.wine-searcher.com/images/news-rss/99/05/9905614210569bb0f86_classi1.jpg)
-
-- **[Chianti Classico Riserva – the Crowd Pleaser](https://www.wine-searcher.com/m/2026/03/chianti-classico-riserva-the-crowd-pleaser?rss=Y)**
-  Although Chianti Classico Riservas have been slightly overshadowed by the Gran Selezione classification, they still offe...
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Diistil develops two spirits for Brooklands Bar](https://www.thespiritsbusiness.com/content/uploads/2026/03/Diistil-Brooklands-Bar-Dill-Vodka.jpg)
-
-- **[Diistil develops two spirits for Brooklands Bar](https://www.thespiritsbusiness.com/2026/03/diistil-develops-two-spirits-for-brooklands-bar/)**
-  On-demand spirits platform Diistil has created two products for Brooklands Bar as part of its collaboration with The Pen...
-
-![CVH Spirits relocates office to Glasgow city centre](https://www.thespiritsbusiness.com/content/uploads/2026/03/Ronan-ORahilly-CVH-Spirits-CEO.jpg)
-
-- **[CVH Spirits relocates office to Glasgow city centre](https://www.thespiritsbusiness.com/2026/03/cvh-spirits-relocates-office-to-glasgow-city-centre/)**
-  The owner of Bunnahabhain Distillery, CVH Spirits, is set to move its head office from East Kilbride to Kintyre House in...
-
-![Tarsier Gin heads to Moldova](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tarsier-Gin.jpg)
-
-- **[Tarsier Gin heads to Moldova](https://www.thespiritsbusiness.com/2026/03/tarsier-gin-heads-to-moldova/)**
-  Manchester-based Tarsier Southeast Asian Spirits has partnered with distributor MGM to launch its gin range in Moldova
-T...
-  *关键词: launch*
-
-![De Kuyper to offload Mandarine Napoléon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Mandarine-Napoleon.jpg)
-
-- **[De Kuyper to offload Mandarine Napoléon](https://www.thespiritsbusiness.com/2026/03/de-kuyper-to-offload-mandarine-napoleon/)**
-  Dutch drinks group De Kuyper has agreed to sell its Mandarine Napoléon liqueur brand to French firm Iconic Nectars
-The p...
-
-![Cantineros Game takes flair bartending to Miami](https://www.thespiritsbusiness.com/content/uploads/2026/03/Cantineros-Game.jpg)
-
-- **[Cantineros Game takes flair bartending to Miami](https://www.thespiritsbusiness.com/2026/03/cantineros-game-takes-flair-bartending-to-miami/)**
-  Chelo Tiki and the Miami Rum Congress organised the third edition of the Cantineros Game last month, spotlighting flair ...
-
 ### 📰 Brewbound
 
-- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender (UPDATED)](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
-  The founder of Uncle Nearest has filed for Chapter 11 bankruptcy protection after the troubled bourbon company defaulted...
+- **[A Pint of Gold: St. Patrick’s Day Draft Volume +35.5% YoY, per BeerBoard](https://www.brewbound.com/news/a-pint-of-gold-st-patricks-day-draft-volume-35-5-yoy-per-beerboard)**
+  St. Patrick’s Day may have fallen on a Tuesday this year, but the weekday timing didn’t stop consumers from celebrating ...
 
-- **[Blueprint for Scale: How Mission Craft Cocktails Went From 2K to 80K Cases](https://www.brewbound.com/news/blueprint-for-scale-how-mission-craft-cocktails-went-from-2k-to-80k-cases)**
-  The founders of Mission Craft Cocktails, the Southern California brand built on bar-strength bottled cocktails made with...
+- **[A-B Strikes Deal for Advance Beverage in California; Southern Glazer’s to Add Clare Rose on Long Island](https://www.brewbound.com/news/a-b-strikes-deal-for-advance-beverage-in-california-southern-glazers-to-add-clare-rose-on-long-island)**
+  A pair of big red network distribution deals were announced in the last 24 hours. Anheuser-Busch InBev has agreed to pur...
+  *关键词: distribution*
 
-- **[Tilray’s BrewDog Plans: ‘Stabilize the Brand,’ Focus on 4 Midwest Markets; Total Price Estimated at £41 Million](https://www.brewbound.com/news/tilrays-brewdog-plans-stabilize-the-brand-focus-on-4-midwest-markets-total-price-estimated-at-41-million)**
-  After a three-week sprint to finalize deals to acquire BrewDog’s business on three continents, Tilray Brands’ first orde...
+- **[From Blueberries to Boom Season: Baxter and Orono’s Maine Strategy](https://www.brewbound.com/news/brewbound-podcast-from-blueberries-to-boom-season-baxter-and-oronos-maine-strategy)**
+  The latest edition of the Brewbound Podcast features Baxter Brewing president Jenn Lever and Orono Brewing co-owner Abe ...
+
+- **[Court Dismisses Uncle Nearest Bankruptcy Case, Leaving Receivership Intact](https://www.brewbound.com/news/court-dismisses-uncle-nearest-bankruptcy-case-leaving-receivership-intact)**
+  The legal battle over Uncle Nearest has taken another dramatic turn: Founder Fawn Weaver's attempt to use bankruptcy cou...
+
+### 📰 The Spirits Business
+
+![Guillermo del Toro helms new Patrón campaign](https://www.thespiritsbusiness.com/content/uploads/2026/03/Patron-1.jpg)
+
+- **[Guillermo del Toro helms new Patrón campaign](https://www.thespiritsbusiness.com/2026/03/guillermo-del-toro-helms-new-patron-campaign/)**
+  Bacardi-owned Patrón Tequila has enlisted Oscar-winning filmmaker Guillermo del Toro to direct its latest marketing camp...
   *关键词: market*
 
-- **[Breakthru Beverage Launches Intoxicating Hemp Drink Distribution in Minnesota](https://www.brewbound.com/news/breakthru-beverage-launches-intoxicating-hemp-drink-distribution-in-minnesota)**
-  Breakthru Beverage Group, one of the largest beverage distributors in the U.S., is jumping into the intoxicating hemp dr...
-  *关键词: launch, distribution*
+![How to crack India’s complex spirits market](https://www.thespiritsbusiness.com/content/uploads/2026/03/India-Jaipur.jpg)
+
+- **[How to crack India’s complex spirits market](https://www.thespiritsbusiness.com/2026/03/how-to-crack-indias-complex-spirits-market/)**
+  Independent communications expert Chris Patt examines India’s fast-growing spirits market and why local partners are ess...
+  *关键词: market*
+
+![Kings County celebrates one-millionth bottle sale](https://www.thespiritsbusiness.com/content/uploads/2026/03/Kings-County-distillery-1.jpg)
+
+- **[Kings County celebrates one-millionth bottle sale](https://www.thespiritsbusiness.com/2026/03/kings-county-celebrates-one-millionth-bottle-sale/)**
+  New York whiskey distillery Kings County is celebrating its one-millionth bottle sale this month with the release of a c...
+
+![Worthy Park: single estate, many possibilities](https://www.thespiritsbusiness.com/content/uploads/2026/03/Worthy-Park-Estate.jpg)
+
+- **[Worthy Park: single estate, many possibilities](https://www.thespiritsbusiness.com/2026/03/worthy-park-single-estate-many-possibilities/)**
+  The only single estate rum brand in Jamaica, Worthy Park, offers a rare, fully integrated approach, with total control f...
+
+![St Patrick’s Day gives 16% boost to Irish on-trade](https://www.thespiritsbusiness.com/content/uploads/2026/03/St-Patricks-Day-bar.jpg)
+
+- **[St Patrick’s Day gives 16% boost to Irish on-trade](https://www.thespiritsbusiness.com/2026/03/st-patricks-day-gives-16-boost-to-irish-on-trade/)**
+  Irish pubs and restaurants recorded a 16% boost in trading figures on St Patrick’s Day as patrons celebrated the nationa...
 
 ### 📰 Wine Enthusiast
 
-![The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Disney_Pairings_Pretzels_1920x1280-1024x683.jpg)
+![Pakistan’s Covert Home Winemakers Are Embracing the ChatGPT Era](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_With_Heavy_Restrictions_on_Alcohol_Pakistanis_are_Learning_to_Make_their_Own_INSET_Vartika_Sharma_1920x1280-1024x683.jpg)
 
-- **[The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/basics/how-to-pair/disney-snacks-wine-pairings/)**
-  From Dole Whips and Tokaji to Mickey Pretzels and Pinot Noir, these pairings are sure to impress the Disney adult sommel...
-
-![The Best Wineries (and More) to Visit in Paso Robles Right Now](https://www.wineenthusiast.com/wp-content/uploads/2023/11/11_23_TOP_Winery_INSET_TOP_Winery_1920x1280-1024x683.jpg)
-
-- **[The Best Wineries (and More) to Visit in Paso Robles Right Now](https://www.wineenthusiast.com/culture/travel/best-paso-robles-wineries/)**
-  From sprawling estates and trendy hangouts to full-service wineries with restaurants and hotels, here are the region's b...
-  *关键词: trend*
-
-![The Best Wineries (And More) to Visit in Santa Barbara](https://www.wineenthusiast.com/wp-content/uploads/2024/03/03_24_Pali_Wine_Co_INSET_Pali_Wine_Co_1000x667.jpg)
-
-- **[The Best Wineries (And More) to Visit in Santa Barbara](https://www.wineenthusiast.com/culture/travel/santa-barbara-wineries/)**
-  There are so many tasting options in Santa Barbara now, it’s possible to spend an entire wine vacation within city limit...
+- **[Pakistan’s Covert Home Winemakers Are Embracing the ChatGPT Era](https://www.wineenthusiast.com/culture/pakistan-home-winemaking-chatgpt-youtube/)**
+  Even as prohibition remains in effect for Pakistan’s Muslim population, some young winemakers are using AI to produce DI...
 
 
 ---
 
-*报告生成时间: 2026-03-19 03:00*  
+*报告生成时间: 2026-03-19 16:00*  
 *Antonelli Intelligence System*
