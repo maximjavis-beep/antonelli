@@ -1,19 +1,24 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-18  
+**日期**: 2026-03-19  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 36 条
+- **新增资讯**: 37 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
 ## 🌍 亚洲
+
+### 📰 Nomunication
+
+- **[Japanese Whisky law: The National Tax Agency is working on it](https://www.nomunication.jp/2026/03/19/japanese-whisky-law-the-national-tax-agency-is-working-on-it/)**
+  Just minutes ago, on the floor of the National Diet&#8217;s House of the Councillors Budget Committee meeting, Councillo...
 
 ### 📰 The Shout
 
@@ -32,8 +37,51 @@
 - **[Global finalists revealed in 2026 World Whiskies Awards](https://theshout.com.au/global-finalists-revealed-in-2026-world-whiskies-awards/)**
   A number of Australian whiskies have once again been recognised as being among the best in the world....
 
+*📚 以上为近期内容*
+
 
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![Moldova’s quiet wine revolution](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2201426637.jpg)
+
+- **[Moldova’s quiet wine revolution](https://www.thedrinksbusiness.com/2026/03/moldovas-quiet-wine-revolution/)**
+  With a long winemaking history, distinctive grape varieties and a developing wine tourism sector, Moldova is perfectly p...
+
+![Why tea deserves its place at the table](https://www.thedrinksbusiness.com/content/uploads/2026/03/Johnny-Stephens-Photography-0E8A0479-Edit-scaled.jpg)
+
+- **[Why tea deserves its place at the table](https://www.thedrinksbusiness.com/2026/03/why-tea-deserves-its-place-at-the-table/)**
+  The founders of Saicho Sparkling Tea desperately wanted an alcohol-free option that matched wine for its complexity and ...
+
+![Business rates hikes ‘symbolic of how little Labour is doing to help’ independent drinks retailers](https://www.thedrinksbusiness.com/content/uploads/2024/12/iStock-1124920033-1.jpg)
+
+- **[Business rates hikes ‘symbolic of how little Labour is doing to help’ independent drinks retailers](https://www.thedrinksbusiness.com/2026/03/business-rates-hikes-symbolic-of-how-little-labour-is-doing-to-help-independent-drinks-retailers/)**
+  The post Business rates hikes &#8216;symbolic of how little Labour is doing to help&#8217; independent drinks retailers ...
+
+![Iran war threatens to lift UK beer prices](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2207950613.jpg)
+
+- **[Iran war threatens to lift UK beer prices](https://www.thedrinksbusiness.com/2026/03/iran-war-threatens-to-lift-uk-beer-prices/)**
+  Rising crude and gas costs linked to the Iran conflict are set to ripple through brewing and pubs. An insolvency special...
+
+![Why a decades-old flavour still dominates cocktail menus](https://www.thedrinksbusiness.com/content/uploads/2026/03/NR5A2708-1-scaled.jpg)
+
+- **[Why a decades-old flavour still dominates cocktail menus](https://www.thedrinksbusiness.com/2026/03/why-a-decades-old-flavour-still-dominates-cocktail-menus/)**
+  Passion fruit has survived years of innovative cocktail trends — and remains one of the most reliable flavours behind th...
+  *关键词: trend*
+
+### 📰 Decanter
+
+![Wine investment: Eyes turn to Bordeaux 2016 once more](https://cdn.mos.cms.futurecdn.net/CUeNxjqNfGQZRzHv5WsMSN-1280-80.jpg)
+
+- **[Wine investment: Eyes turn to Bordeaux 2016 once more](https://www.decanter.com/wine-collecting/wine-investment-eyes-turn-to-bordeaux-2016-once-more)**
+  A famed Bordeaux vintage hoves back into view......
+  *关键词: investment*
+
+![Colli di Luni: A wine lover's guide](https://cdn.mos.cms.futurecdn.net/wHHvHf5Q7rbtQXcd55uveM-1280-80.jpg)
+
+- **[Colli di Luni: A wine lover's guide](https://www.decanter.com/wine-travel/colli-di-luni-a-wine-lovers-guide)**
+  ‘For fans of authentic Italian white wines, stunning scenery and ancient history, Colli di Luni is like nowhere else.’...
 
 ### 📰 Wine-Searcher
 
@@ -42,72 +90,15 @@
 - **[Chianti Classico Riserva – the Crowd Pleaser](https://www.wine-searcher.com/m/2026/03/chianti-classico-riserva-the-crowd-pleaser?rss=Y)**
   Although Chianti Classico Riservas have been slightly overshadowed by the Gran Selezione classification, they still offe...
 
-### 📰 The Drinks Business
-
-![Italy about to start making domestically dealcoholised wine](https://www.thedrinksbusiness.com/content/uploads/2026/03/Italian-gavel2-scaled.jpg)
-
-- **[Italy about to start making domestically dealcoholised wine](https://www.thedrinksbusiness.com/2026/03/italy-to-lift-ban-on-making-dealcoholised-wines/)**
-  Following a decree passed in late 2025 to reverse the clamp-down on dealcoholisation, Italian producers are expecting to...
-
-![Master Winemaker 100: Álvaro Martínez](https://www.thedrinksbusiness.com/content/uploads/2026/03/RETRATOS-MLC-23-scaled.jpg)
-
-- **[Master Winemaker 100: Álvaro Martínez](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-alvaro-martinez/)**
-  The winemaker at Rioja's Bodegas Martínez Lacuesta tells db about learning from other winemakers, tasting century-old bo...
-
-![Syria’s Damascus bans alcohol sales](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1147022856-scaled.jpg)
-
-- **[Syria’s Damascus bans alcohol sales](https://www.thedrinksbusiness.com/2026/03/syrias-damascus-bans-alcohol-sales/)**
-  Syrian authorities have banned alcohol in Damascus restaurants and bars, except in several Christian neighbourhoods. Off...
-
-![The bone broth cocktail trend continues to climb](https://www.thedrinksbusiness.com/content/uploads/2026/03/Bone-broth-cocktail-scaled.jpg)
-
-- **[The bone broth cocktail trend continues to climb](https://www.thedrinksbusiness.com/2026/03/the-bone-broth-cocktail-trend-takes-off/)**
-  The craze leading to mixologists adding umami-rich bone broth to drinks has not just been riding wellness and savoury co...
-  *关键词: trend*
-
-![Concha y Toro lifts sales on premium focus as Provence deal adds new dimension](https://www.thedrinksbusiness.com/content/uploads/2026/03/CP-CyT-1200_Plaza-Concha-y-Toro-Bodega-Concha-y-Toro-scaled.jpg)
-
-- **[Concha y Toro lifts sales on premium focus as Provence deal adds new dimension](https://www.thedrinksbusiness.com/2026/03/concha-y-toro-lifts-sales-on-premium-focus-as-provence-deal-adds-new-dimension/)**
-  Chilean wine group Concha y Toro has reported modest revenue growth in 2025 while accelerating its move upmarket. Meanwh...
-  *关键词: acquisition, market, acquisition*
-
-### 📰 Decanter
-
-![Colli di Luni: A wine lover's guide](https://cdn.mos.cms.futurecdn.net/wHHvHf5Q7rbtQXcd55uveM-1280-80.jpg)
-
-- **[Colli di Luni: A wine lover's guide](https://www.decanter.com/wine-travel/colli-di-luni-a-wine-lovers-guide)**
-  ‘For fans of authentic Italian white wines, stunning scenery and ancient history, Colli di Luni is like nowhere else.’...
-
-![What wines to pair with Malaysian food](https://cdn.mos.cms.futurecdn.net/ao2SZeXu6t3WxSWz4aGiPF-1280-80.jpg)
-
-- **[What wines to pair with Malaysian food](https://www.decanter.com/learn/what-wines-to-pair-with-malaysian-food)**
-  An unlikely relationship......
-
-![Discover Canberra’s cool-climate wine scene](https://cdn.mos.cms.futurecdn.net/5HQ9nyEVxVsumHoCPsZtkb-1280-80.jpg)
-
-- **[Discover Canberra’s cool-climate wine scene](https://www.decanter.com/wine/wine-regions/discover-canberras-cool-climate-wine-scene)**
-  A new cool-climate frontier......
-
 
 ## 🌍 美洲
 
-### 📰 Brewbound
-
-- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender (UPDATED)](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
-  The founder of Uncle Nearest has filed for Chapter 11 bankruptcy protection after the troubled bourbon company defaulted...
-
-- **[Blueprint for Scale: How Mission Craft Cocktails Went From 2K to 80K Cases](https://www.brewbound.com/news/blueprint-for-scale-how-mission-craft-cocktails-went-from-2k-to-80k-cases)**
-  The founders of Mission Craft Cocktails, the Southern California brand built on bar-strength bottled cocktails made with...
-
-- **[Tilray’s BrewDog Plans: ‘Stabilize the Brand,’ Focus on 4 Midwest Markets; Total Price Estimated at £41 Million](https://www.brewbound.com/news/tilrays-brewdog-plans-stabilize-the-brand-focus-on-4-midwest-markets-total-price-estimated-at-41-million)**
-  After a three-week sprint to finalize deals to acquire BrewDog’s business on three continents, Tilray Brands’ first orde...
-  *关键词: market*
-
-- **[Breakthru Beverage Launches Intoxicating Hemp Drink Distribution in Minnesota](https://www.brewbound.com/news/breakthru-beverage-launches-intoxicating-hemp-drink-distribution-in-minnesota)**
-  Breakthru Beverage Group, one of the largest beverage distributors in the U.S., is jumping into the intoxicating hemp dr...
-  *关键词: launch, distribution*
-
 ### 📰 The Spirits Business
+
+![Diistil develops two spirits for Brooklands Bar](https://www.thespiritsbusiness.com/content/uploads/2026/03/Diistil-Brooklands-Bar-Dill-Vodka.jpg)
+
+- **[Diistil develops two spirits for Brooklands Bar](https://www.thespiritsbusiness.com/2026/03/diistil-develops-two-spirits-for-brooklands-bar/)**
+  On-demand spirits platform Diistil has created two products for Brooklands Bar as part of its collaboration with The Pen...
 
 ![CVH Spirits relocates office to Glasgow city centre](https://www.thespiritsbusiness.com/content/uploads/2026/03/Ronan-ORahilly-CVH-Spirits-CEO.jpg)
 
@@ -132,12 +123,21 @@ The p...
 - **[Cantineros Game takes flair bartending to Miami](https://www.thespiritsbusiness.com/2026/03/cantineros-game-takes-flair-bartending-to-miami/)**
   Chelo Tiki and the Miami Rum Congress organised the third edition of the Cantineros Game last month, spotlighting flair ...
 
-![Glenmorangie adds 30YO whisky to core range](https://www.thespiritsbusiness.com/content/uploads/2026/03/Glenmorangie-The-Thirty.jpg)
+### 📰 Brewbound
 
-- **[Glenmorangie adds 30YO whisky to core range](https://www.thespiritsbusiness.com/2026/03/glenmorangie-adds-30yo-whisky-to-core-range/)**
-  Scotch whisky distillery Glenmorangie has launched a 30-year-old single malt as part of its permanent range
-The post Gle...
-  *关键词: launch*
+- **[Uncle Nearest Files for Bankruptcy to Block Sale of Assets, Sues Lender (UPDATED)](https://www.brewbound.com/news/uncle-nearest-files-for-bankruptcy-to-block-sale-of-assets-sues-lender)**
+  The founder of Uncle Nearest has filed for Chapter 11 bankruptcy protection after the troubled bourbon company defaulted...
+
+- **[Blueprint for Scale: How Mission Craft Cocktails Went From 2K to 80K Cases](https://www.brewbound.com/news/blueprint-for-scale-how-mission-craft-cocktails-went-from-2k-to-80k-cases)**
+  The founders of Mission Craft Cocktails, the Southern California brand built on bar-strength bottled cocktails made with...
+
+- **[Tilray’s BrewDog Plans: ‘Stabilize the Brand,’ Focus on 4 Midwest Markets; Total Price Estimated at £41 Million](https://www.brewbound.com/news/tilrays-brewdog-plans-stabilize-the-brand-focus-on-4-midwest-markets-total-price-estimated-at-41-million)**
+  After a three-week sprint to finalize deals to acquire BrewDog’s business on three continents, Tilray Brands’ first orde...
+  *关键词: market*
+
+- **[Breakthru Beverage Launches Intoxicating Hemp Drink Distribution in Minnesota](https://www.brewbound.com/news/breakthru-beverage-launches-intoxicating-hemp-drink-distribution-in-minnesota)**
+  Breakthru Beverage Group, one of the largest beverage distributors in the U.S., is jumping into the intoxicating hemp dr...
+  *关键词: launch, distribution*
 
 ### 📰 Wine Enthusiast
 
@@ -160,5 +160,5 @@ The post Gle...
 
 ---
 
-*报告生成时间: 2026-03-18 16:00*  
+*报告生成时间: 2026-03-19 03:00*  
 *Antonelli Intelligence System*
