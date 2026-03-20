@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-19  
+**日期**: 2026-03-20  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 36 条
+- **新增资讯**: 37 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -15,41 +15,57 @@
 
 ## 🌍 亚洲
 
+### 📰 The Shout
+
+![Australia a key market in new DISCUS campaign](https://theshout.com.au/wp-content/uploads/2026/03/Pics.png?w=780)
+
+- **[Australia a key market in new DISCUS campaign](https://theshout.com.au/australia-a-key-market-in-new-discus-campaign/)**
+  The Distilled Spirits Council of the United States will deepen connections between US producers and the Australian drink...
+  *关键词: market*
+
+![Yalumba reveals latest signatory of The Signature](https://theshout.com.au/wp-content/uploads/2026/03/YalumbaSignaturePeterSawrey.jpg?w=780)
+
+- **[Yalumba reveals latest signatory of The Signature](https://theshout.com.au/yalumba-reveals-latest-signatory-of-the-signature/)**
+  The 52nd vintage of The Signature Cabernet Sauvignon & Shiraz will be released in May, and the signatory is a man linked...
+
+![Yarra Valley launches ‘The Place for Pinot’ wine trail](https://theshout.com.au/wp-content/uploads/2026/02/iStock-2181997926-yarra-valley-vineyards.jpg?w=780)
+
+- **[Yarra Valley launches ‘The Place for Pinot’ wine trail](https://theshout.com.au/yarra-valley-launches-the-place-for-pinot-wine-trail/)**
+  The six-week regional campaign features 16 wineries and aims to drive cellar door engagement across the region....
+  *关键词: launch*
+
+![Dr Anne Brock to leave Bombay Sapphire](https://theshout.com.au/wp-content/uploads/2022/05/2022_02_10_Bombay_Sapphire_Anne_Shot_1_4337v1.jpg?w=780)
+
+- **[Dr Anne Brock to leave Bombay Sapphire](https://theshout.com.au/dr-anne-brock-to-leave-bombay-sapphire/)**
+  After eight-and-a-half years as Master Distiller of Bombay Sapphire, Dr Anne Brock has announced she is leaving her role...
+
 ### 📰 Nomunication
 
 - **[Japanese Whisky law: The National Tax Agency is working on it](https://www.nomunication.jp/2026/03/19/japanese-whisky-law-the-national-tax-agency-is-working-on-it/)**
   Just minutes ago, on the floor of the National Diet&#8217;s House of the Councillors Budget Committee meeting, Councillo...
-
-### 📰 The Shout
-
-![Maltstock Down Under to debut in May](https://theshout.com.au/wp-content/uploads/2026/03/MaltstockDownUnderdebut.jpg?w=780)
-
-- **[Maltstock Down Under to debut in May](https://theshout.com.au/maltstock-down-under-to-debut-in-may/)**
-  The celebrated whisky gathering will make its Australian debut in Tasmania, the first time the gathering will happen out...
-
-![The 2026-28 NSW liquor accords strategy now available](https://theshout.com.au/wp-content/uploads/2026/03/iStock-1367899893-brainstorm-meeting-discussion.jpg?w=780)
-
-- **[The 2026-28 NSW liquor accords strategy now available](https://theshout.com.au/the-2026-28-nsw-liquor-accords-strategy-now-available/)**
-  The NSW Liquor Accords Strategy outlines the priorities and objectives for the liquor accords program over the next thre...
-
-![Global finalists revealed in 2026 World Whiskies Awards](https://theshout.com.au/wp-content/uploads/2026/03/iStock-2188351321-whisky-tasting.jpg?w=780)
-
-- **[Global finalists revealed in 2026 World Whiskies Awards](https://theshout.com.au/global-finalists-revealed-in-2026-world-whiskies-awards/)**
-  A number of Australian whiskies have once again been recognised as being among the best in the world....
 
 *📚 以上为近期内容*
 
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Travelling on the Wine Time Machine](https://www.wine-searcher.com/images/news-rss/99/05/9905714210969bb4bd2_wintimes.jpg)
-
-- **[Travelling on the Wine Time Machine](https://www.wine-searcher.com/m/2026/03/travelling-on-the-wine-time-machine?rss=Y)**
-  How better to revisit the past than with a glass of something exquisite? We've got eight top-notch suggestions....
-
 ### 📰 The Drinks Business
+
+![How a single packaging change can remove tonnes of plastic](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2206816481.jpg)
+
+- **[How a single packaging change can remove tonnes of plastic](https://www.thedrinksbusiness.com/2026/03/how-a-single-packaging-change-can-remove-tonnes-of-plastic/)**
+  New data shows how small packaging changes at SKU level could remove thousands of tonnes of plastic from the wine supply...
+  *关键词: market*
+
+![ProWein 2026: quieter halls confirm plans for ‘strategic reorientation’](https://www.thedrinksbusiness.com/content/uploads/2026/03/ProWein26_MT59600-scaled.jpg)
+
+- **[ProWein 2026: quieter halls confirm plans for ‘strategic reorientation’](https://www.thedrinksbusiness.com/2026/03/prowein-2026-quieter-halls-confirm-plans-for-strategic-reorientation/)**
+  With softer footfall on the ground, this year’s ProWein signals to a more targeted approach as organisers push ahead wit...
+
+![Long-lost Japanese £25k whisky on menu at Gordon Ramsay restaurant](https://www.thedrinksbusiness.com/content/uploads/2026/03/Lucky-Cat-Bishopsgate-Restaurant-featuring-Shirakawa-1958-in-centre-of-back-bar.jpg)
+
+- **[Long-lost Japanese £25k whisky on menu at Gordon Ramsay restaurant](https://www.thedrinksbusiness.com/2026/03/long-lost-japanese-25k-whisky-on-menu-at-gordon-ramsay-restaurant/)**
+  If you head to Gordan Ramsay’s Lucky Cat in Soho, you’ll be in with a chance to sample a long-lost Japanese single malt ...
 
 ![We’re on a mission to discover the best wines under £15](https://www.thedrinksbusiness.com/content/uploads/2025/01/iStock-1973413475.jpg)
 
@@ -62,23 +78,12 @@
   A UK Government-backed scheme will soon launch in hundreds of hospitality venues. Trial data suggests meaningful reducti...
   *关键词: launch*
 
-![WineGB names new comms and marketing head](https://www.thedrinksbusiness.com/content/uploads/2026/03/Kirsty-Rushby_WineGB.jpg.jpeg)
-
-- **[WineGB names new comms and marketing head](https://www.thedrinksbusiness.com/2026/03/winesgb-names-new-comms-and-marketing-head/)**
-  WineGB has appointed Kirsty Rushby from the Co-op, as it new head of communications and marketing at an important time f...
-  *关键词: market*
-
-![Marlborough winegrowers brace for challenging years ahead](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1128996629.jpg)
-
-- **[Marlborough winegrowers brace for challenging years ahead](https://www.thedrinksbusiness.com/2026/03/marlborough-winegrowers-brace-for-challenging-years-ahead/)**
-  New Zealand’s largest wine region is bracing for a prolonged downturn, with growers cutting production and facing mounti...
-
-![Beer Hour: Andy Slee](https://www.thedrinksbusiness.com/content/uploads/2026/03/Andy-Slee-Headshot-New-SIBA-logo-version-scaled.jpg)
-
-- **[Beer Hour: Andy Slee](https://www.thedrinksbusiness.com/2026/03/beer-hour-andy-slee/)**
-  Andy Slee, chief executive of Society of Independent Brewers and Associates (SIBA) speaks to Jessica Mason about the cha...
-
 ### 📰 Decanter
+
+![North Adriatic: Wine without borders](https://cdn.mos.cms.futurecdn.net/4MmXoZogk8D25U9ZKGcJDT-1280-80.jpg)
+
+- **[North Adriatic: Wine without borders](https://www.decanter.com/wine/wine-regions/north-adriatic-wine-without-borders)**
+  At the meeting point of nations, nature directs which vines grow where......
 
 ![100-points for latest Château Latour in whirlwind of spring releases](https://cdn.mos.cms.futurecdn.net/YGatvhi3YBBLA2x4YefmJF-1280-80.gif)
 
@@ -90,31 +95,23 @@
 - **[Wine and music quiz: From UB40 to Debussy](https://www.decanter.com/learn/winequiz/wine-and-music-quiz-from-ub40-to-debussy)**
   Can you get a pitch-perfect score?......
 
-![Wine investment: Eyes turn to Bordeaux 2016 once more](https://cdn.mos.cms.futurecdn.net/CUeNxjqNfGQZRzHv5WsMSN-1280-80.jpg)
+### 📰 Wine-Searcher
 
-- **[Wine investment: Eyes turn to Bordeaux 2016 once more](https://www.decanter.com/wine-collecting/wine-investment-eyes-turn-to-bordeaux-2016-once-more)**
-  A famed Bordeaux vintage hoves back into view......
-  *关键词: investment*
+![Travelling on the Wine Time Machine](https://www.wine-searcher.com/images/news-rss/99/05/9905714210969bb4bd2_wintimes.jpg)
+
+- **[Travelling on the Wine Time Machine](https://www.wine-searcher.com/m/2026/03/travelling-on-the-wine-time-machine?rss=Y)**
+  How better to revisit the past than with a glass of something exquisite? We've got eight top-notch suggestions....
 
 
 ## 🌍 美洲
 
-### 📰 Brewbound
-
-- **[A Pint of Gold: St. Patrick’s Day Draft Volume +35.5% YoY, per BeerBoard](https://www.brewbound.com/news/a-pint-of-gold-st-patricks-day-draft-volume-35-5-yoy-per-beerboard)**
-  St. Patrick’s Day may have fallen on a Tuesday this year, but the weekday timing didn’t stop consumers from celebrating ...
-
-- **[A-B Strikes Deal for Advance Beverage in California; Southern Glazer’s to Add Clare Rose on Long Island](https://www.brewbound.com/news/a-b-strikes-deal-for-advance-beverage-in-california-southern-glazers-to-add-clare-rose-on-long-island)**
-  A pair of big red network distribution deals were announced in the last 24 hours. Anheuser-Busch InBev has agreed to pur...
-  *关键词: distribution*
-
-- **[From Blueberries to Boom Season: Baxter and Orono’s Maine Strategy](https://www.brewbound.com/news/brewbound-podcast-from-blueberries-to-boom-season-baxter-and-oronos-maine-strategy)**
-  The latest edition of the Brewbound Podcast features Baxter Brewing president Jenn Lever and Orono Brewing co-owner Abe ...
-
-- **[Court Dismisses Uncle Nearest Bankruptcy Case, Leaving Receivership Intact](https://www.brewbound.com/news/court-dismisses-uncle-nearest-bankruptcy-case-leaving-receivership-intact)**
-  The legal battle over Uncle Nearest has taken another dramatic turn: Founder Fawn Weaver's attempt to use bankruptcy cou...
-
 ### 📰 The Spirits Business
+
+![Elijah Craig debuts 15YO single barrel Bourbon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Elijah-Craig-15-Year-Old-Bourbon.jpg)
+
+- **[Elijah Craig debuts 15YO single barrel Bourbon](https://www.thespiritsbusiness.com/2026/03/elijah-craig-debuts-15yo-single-barrel-bourbon/)**
+  Heaven Hill-owned Elijah Craig has introduced a 15-year-old Bourbon to its higher-ABV single barrel lineup
+The post Elij...
 
 ![Guillermo del Toro helms new Patrón campaign](https://www.thespiritsbusiness.com/content/uploads/2026/03/Patron-1.jpg)
 
@@ -138,10 +135,20 @@
 - **[Worthy Park: single estate, many possibilities](https://www.thespiritsbusiness.com/2026/03/worthy-park-single-estate-many-possibilities/)**
   The only single estate rum brand in Jamaica, Worthy Park, offers a rare, fully integrated approach, with total control f...
 
-![St Patrick’s Day gives 16% boost to Irish on-trade](https://www.thespiritsbusiness.com/content/uploads/2026/03/St-Patricks-Day-bar.jpg)
+### 📰 Brewbound
 
-- **[St Patrick’s Day gives 16% boost to Irish on-trade](https://www.thespiritsbusiness.com/2026/03/st-patricks-day-gives-16-boost-to-irish-on-trade/)**
-  Irish pubs and restaurants recorded a 16% boost in trading figures on St Patrick’s Day as patrons celebrated the nationa...
+- **[A Pint of Gold: St. Patrick’s Day Draft Volume +35.5% YoY, per BeerBoard](https://www.brewbound.com/news/a-pint-of-gold-st-patricks-day-draft-volume-35-5-yoy-per-beerboard)**
+  St. Patrick’s Day may have fallen on a Tuesday this year, but the weekday timing didn’t stop consumers from celebrating ...
+
+- **[A-B Strikes Deal for Advance Beverage in California; Southern Glazer’s to Add Clare Rose on Long Island](https://www.brewbound.com/news/a-b-strikes-deal-for-advance-beverage-in-california-southern-glazers-to-add-clare-rose-on-long-island)**
+  A pair of big red network distribution deals were announced in the last 24 hours. Anheuser-Busch InBev has agreed to pur...
+  *关键词: distribution*
+
+- **[From Blueberries to Boom Season: Baxter and Orono’s Maine Strategy](https://www.brewbound.com/news/brewbound-podcast-from-blueberries-to-boom-season-baxter-and-oronos-maine-strategy)**
+  The latest edition of the Brewbound Podcast features Baxter Brewing president Jenn Lever and Orono Brewing co-owner Abe ...
+
+- **[Court Dismisses Uncle Nearest Bankruptcy Case, Leaving Receivership Intact](https://www.brewbound.com/news/court-dismisses-uncle-nearest-bankruptcy-case-leaving-receivership-intact)**
+  The legal battle over Uncle Nearest has taken another dramatic turn: Founder Fawn Weaver's attempt to use bankruptcy cou...
 
 ### 📰 Wine Enthusiast
 
@@ -153,5 +160,5 @@
 
 ---
 
-*报告生成时间: 2026-03-19 16:00*  
+*报告生成时间: 2026-03-20 03:00*  
 *Antonelli Intelligence System*
