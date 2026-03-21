@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-20  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-03-21  
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 49 条
+- **新增资讯**: 32 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -34,10 +34,7 @@
   The six-week regional campaign features 16 wineries and aims to drive cellar door engagement across the region....
   *关键词: launch*
 
-![Dr Anne Brock to leave Bombay Sapphire](https://theshout.com.au/wp-content/uploads/2022/05/2022_02_10_Bombay_Sapphire_Anne_Shot_1_4337v1.jpg?w=780)
-
-- **[Dr Anne Brock to leave Bombay Sapphire](https://theshout.com.au/dr-anne-brock-to-leave-bombay-sapphire/)**
-  After eight-and-a-half years as Master Distiller of Bombay Sapphire, Dr Anne Brock has announced she is leaving her role...
+*📚 以上为近期内容*
 
 ### 📰 Nomunication
 
@@ -49,19 +46,12 @@
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![The Most Wanted Irish Whiskeys of 2026](https://www.wine-searcher.com/images/news-rss/99/05/9905814211269bc60be_Irishmain.jpg)
-
-- **[The Most Wanted Irish Whiskeys of 2026](https://www.wine-searcher.com/m/2026/03/the-most-wanted-irish-whiskeys-of-2026?rss=Y)**
-  Let's round out Saint Patrick's week with a look at Ireland's greatest non-stout export – whiskey....
-
-![Travelling on the Wine Time Machine](https://www.wine-searcher.com/images/news-rss/99/05/9905714210969bb4bd2_wintimes.jpg)
-
-- **[Travelling on the Wine Time Machine](https://www.wine-searcher.com/m/2026/03/travelling-on-the-wine-time-machine?rss=Y)**
-  How better to revisit the past than with a glass of something exquisite? We've got eight top-notch suggestions....
-
 ### 📰 The Drinks Business
+
+![Vinexpo Asia: ‘trust and long-term presence make all the difference’](https://www.thedrinksbusiness.com/content/uploads/2026/03/VinexpoAsia24_HongKong_PON_58-scaled.jpg)
+
+- **[Vinexpo Asia: ‘trust and long-term presence make all the difference’](https://www.thedrinksbusiness.com/2026/03/vinexpo-asia-trust-and-long-term-presence-make-all-the-difference/)**
+  With almost three decades of experience in the region, Vinexpo Asia 2026 will help guide buyers and producers through a ...
 
 ![Côte Brasserie launches French-only online wine shop](https://www.thedrinksbusiness.com/content/uploads/2026/03/unnamed-2.jpg)
 
@@ -85,33 +75,24 @@
 - **[#WeekInPictures: ProWein numbers, Hong Kong ties and cake at The Lanesborough](https://www.thedrinksbusiness.com/2026/03/weekinpictures-prowein-numbers-hong-kong-ties-and-cake-at-the-lanesborough/)**
   From Düsseldorf’s trade halls to a Mayfair dining room and a London anniversary gathering, the week mixed business, hosp...
 
-![Pata Negra rosé blends innovation with tradition](https://www.thedrinksbusiness.com/content/uploads/2026/02/Vina-Arnaiz.jpg)
-
-- **[Pata Negra rosé blends innovation with tradition](https://www.thedrinksbusiness.com/2026/03/pata-negra-rose-blends-innovation-with-tradition/)**
-  García Carrión-backed label Pata Negra's Ribera del Duero Rosado is a modern example of Castilla's rosé revival
-The post...
-
 ### 📰 Decanter
+
+![Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://cdn.mos.cms.futurecdn.net/rE8tJFVBWUGsTUP2DQjoLa-1280-80.jpg)
+
+- **[Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://www.decanter.com/learn/galician-mencia-moroccan-syrah-and-corsican-muscat-14-wines-for-a-cracking-easter-feast)**
+  Wines for lamb, wines for cake, wines for hot cross buns......
 
 ![Decanter Masterclass report: Meet a legend, Bo Barrett, Chateau Montelena](https://cdn.mos.cms.futurecdn.net/A26XXXTSfCdLmqnEawVt9R-1280-80.jpg)
 
 - **[Decanter Masterclass report: Meet a legend, Bo Barrett, Chateau Montelena](https://www.decanter.com/wine/usa/masterclass-report-meet-a-legend-bo-barrett-chateau-montelena)**
   In the company of Napa greatness......
 
-![North Adriatic: Wine without borders](https://cdn.mos.cms.futurecdn.net/4MmXoZogk8D25U9ZKGcJDT-1280-80.jpg)
+### 📰 Wine-Searcher
 
-- **[North Adriatic: Wine without borders](https://www.decanter.com/wine/wine-regions/north-adriatic-wine-without-borders)**
-  At the meeting point of nations, nature directs which vines grow where......
+![The Most Wanted Irish Whiskeys of 2026](https://www.wine-searcher.com/images/news-rss/99/05/9905814211269bc60be_Irishmain.jpg)
 
-![100-points for latest Château Latour in whirlwind of spring releases](https://cdn.mos.cms.futurecdn.net/YGatvhi3YBBLA2x4YefmJF-1280-80.gif)
-
-- **[100-points for latest Château Latour in whirlwind of spring releases](https://www.decanter.com/wine/wine-regions/la-place-de-bordeaux-march-releases-2026)**
-  Over 50 new international fine wine releases......
-
-![Wine and music quiz: From UB40 to Debussy](https://cdn.mos.cms.futurecdn.net/iJKmqWo7RdD8sDzCzrv3ic-1280-80.jpg)
-
-- **[Wine and music quiz: From UB40 to Debussy](https://www.decanter.com/learn/winequiz/wine-and-music-quiz-from-ub40-to-debussy)**
-  Can you get a pitch-perfect score?......
+- **[The Most Wanted Irish Whiskeys of 2026](https://www.wine-searcher.com/m/2026/03/the-most-wanted-irish-whiskeys-of-2026?rss=Y)**
+  Let's round out Saint Patrick's week with a look at Ireland's greatest non-stout export – whiskey....
 
 
 ## 🌍 美洲
@@ -176,5 +157,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-03-20 16:00*  
+*报告生成时间: 2026-03-21 03:00*  
 *Antonelli Intelligence System*
