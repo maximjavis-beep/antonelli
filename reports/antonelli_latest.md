@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-21  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 32 条
+- **新增资讯**: 6 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -46,6 +46,31 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/images/news-rss/99/06/9906114212069bc75b9_tosca1.jpg)
+
+- **[Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/m/2026/03/tuscany-toasts-a-bubbly-future?rss=Y)**
+  A busy week in wine culminates in the launch of a new category for Tuscan producers to play with....
+  *关键词: launch*
+
+### 📰 Decanter
+
+![Obituary Michel Rolland: 1947-2026](https://cdn.mos.cms.futurecdn.net/KBwtdJ9t3ePDVMRbUiVDfk-1280-80.jpg)
+
+- **[Obituary Michel Rolland: 1947-2026](https://www.decanter.com/obituaries/obituary-michel-rolland-1947-2026)**
+  Michel Rolland, the pioneering Bordeaux-based oenologist and consultant widely regarded as the world's first and most in...
+
+![Rise of the Dirty Martini: Why it's popular and how to make one](https://cdn.mos.cms.futurecdn.net/6DmvqdYEeyvi55skvyZVYQ-1280-80.jpg)
+
+- **[Rise of the Dirty Martini: Why it's popular and how to make one](https://www.decanter.com/spirits/rise-of-the-dirty-martini-why-its-popular-and-how-to-make-one)**
+  Cocktail lovers are increasingly dirty-minded......
+
+![Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://cdn.mos.cms.futurecdn.net/rE8tJFVBWUGsTUP2DQjoLa-1280-80.jpg)
+
+- **[Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://www.decanter.com/learn/galician-mencia-moroccan-syrah-and-corsican-muscat-14-wines-for-a-cracking-easter-feast)**
+  Wines for lamb, wines for cake, wines for hot cross buns......
+
 ### 📰 The Drinks Business
 
 ![Vinexpo Asia: ‘trust and long-term presence make all the difference’](https://www.thedrinksbusiness.com/content/uploads/2026/03/VinexpoAsia24_HongKong_PON_58-scaled.jpg)
@@ -53,67 +78,13 @@
 - **[Vinexpo Asia: ‘trust and long-term presence make all the difference’](https://www.thedrinksbusiness.com/2026/03/vinexpo-asia-trust-and-long-term-presence-make-all-the-difference/)**
   With almost three decades of experience in the region, Vinexpo Asia 2026 will help guide buyers and producers through a ...
 
-![Côte Brasserie launches French-only online wine shop](https://www.thedrinksbusiness.com/content/uploads/2026/03/unnamed-2.jpg)
-
-- **[Côte Brasserie launches French-only online wine shop](https://www.thedrinksbusiness.com/2026/03/cote-brasserie-launches-french-only-online-wine-shop/)**
-  Côte Brasserie has unveiled its first online wine shop focused solely on French wine, offering a selection of more than ...
-  *关键词: launch*
-
-![Master Winemaker 100: José Manuel Rodríguez](https://www.thedrinksbusiness.com/content/uploads/2026/03/Arinzano-–-Jose-Manuel-Rodriguez-2-scaled.jpg)
-
-- **[Master Winemaker 100: José Manuel Rodríguez](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-jose-manuel-rodriguez-2/)**
-  The technical director at Spain's Arínzano features in this year's Master Winemaker 100 guide. He tells db about embraci...
-
-![The big trends in cider driving sales](https://www.thedrinksbusiness.com/content/uploads/2026/03/Cider.jpg)
-
-- **[The big trends in cider driving sales](https://www.thedrinksbusiness.com/2026/03/the-big-trends-in-cider-driving-sales/)**
-  Apple and premium draught cider have been identified as the main trends shaping the UK hospitality sector. But what else...
-  *关键词: trend*
-
-![#WeekInPictures: ProWein numbers, Hong Kong ties and cake at The Lanesborough](https://www.thedrinksbusiness.com/content/uploads/2026/03/Untitled-design-28.png)
-
-- **[#WeekInPictures: ProWein numbers, Hong Kong ties and cake at The Lanesborough](https://www.thedrinksbusiness.com/2026/03/weekinpictures-prowein-numbers-hong-kong-ties-and-cake-at-the-lanesborough/)**
-  From Düsseldorf’s trade halls to a Mayfair dining room and a London anniversary gathering, the week mixed business, hosp...
-
-### 📰 Decanter
-
-![Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://cdn.mos.cms.futurecdn.net/rE8tJFVBWUGsTUP2DQjoLa-1280-80.jpg)
-
-- **[Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://www.decanter.com/learn/galician-mencia-moroccan-syrah-and-corsican-muscat-14-wines-for-a-cracking-easter-feast)**
-  Wines for lamb, wines for cake, wines for hot cross buns......
-
-![Decanter Masterclass report: Meet a legend, Bo Barrett, Chateau Montelena](https://cdn.mos.cms.futurecdn.net/A26XXXTSfCdLmqnEawVt9R-1280-80.jpg)
-
-- **[Decanter Masterclass report: Meet a legend, Bo Barrett, Chateau Montelena](https://www.decanter.com/wine/usa/masterclass-report-meet-a-legend-bo-barrett-chateau-montelena)**
-  In the company of Napa greatness......
-
-### 📰 Wine-Searcher
-
-![The Most Wanted Irish Whiskeys of 2026](https://www.wine-searcher.com/images/news-rss/99/05/9905814211269bc60be_Irishmain.jpg)
-
-- **[The Most Wanted Irish Whiskeys of 2026](https://www.wine-searcher.com/m/2026/03/the-most-wanted-irish-whiskeys-of-2026?rss=Y)**
-  Let's round out Saint Patrick's week with a look at Ireland's greatest non-stout export – whiskey....
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
-- **[Carbliss Targets C-Store with New Malt Tallboy Format](https://www.brewbound.com/news/carbliss-targets-c-store-with-new-malt-tallboy-format)**
-  Carbliss, the ready-to-drink (RTD) vodka-based cocktail that has become one of the breakout independents in its category...
-
-- **[Beer Girl’s Shark Tank Pitch Ends With Investment From Uncle Nearest’s Fawn Weaver](https://www.brewbound.com/news/beer-girls-shark-tank-pitch-ends-with-investment-from-uncle-nearests-fawn-weaver)**
-  Another low ABV beer with an explicit target audience made an appearance on ABC’s Shark Tank and came out with an invest...
-  *关键词: investment*
-
-- **[Sazerac Expands RTD Portfolio With Dirty Shirley](https://www.brewbound.com/news/sazerac-expands-rtd-portfolio-with-dirty-shirley)**
-  Sazerac has acquired Dirty Shirley, the ready-to-drink (RTD) vodka-spiked take on the classic Shirley Temple, the compan...
-
-- **[Blake’s Beverage Finds Synergy Among House of Brands, ‘Actively Looking’ for Strategic M&A](https://www.brewbound.com/news/blakes-beverage-finds-synergy-among-house-of-brands-actively-looking-for-strategic-ma)**
-  More than two years after Blake’s Hard Cider, Austin Eastciders and Avid Cider Co. merged under the Blake’s Beverage Co....
-
-- **[Press Clips: BA Highlights Aluminum Price Hikes; Pernod Ricard Continues RNDC Exit; The Lost Abbey to Add 4th Location](https://www.brewbound.com/news/press-clips-ba-highlights-aluminum-price-hikes-pernod-ricard-continues-rndc-exit-the-lost-abbey-to-add-4th-location)**
-  Check out news items initially reported in the Brewbound Insider Newsletter March 18-20, including headlines from the Br...
+- **[Insider’s Week in Beer: 🙏 Beer Ads Need One Shining Moment](https://newsletter.bevnet.com/subscriber/d03d56c5d5a147d2a5a519760db90674)**
+  As we sit in the middle of the best 5-day stretch on the college sports calendar, I hope your attempt to redeem yourself...
 
 ### 📰 The Spirits Business
 
@@ -134,17 +105,7 @@
 The po...
   *关键词: market*
 
-![Sazerac acquires RTD brand Dirty Shirley](https://www.thespiritsbusiness.com/content/uploads/2026/03/Dirty-Shirley.jpg)
-
-- **[Sazerac acquires RTD brand Dirty Shirley](https://www.thespiritsbusiness.com/2026/03/sazerac-acquires-rtd-brand-dirty-shirley/)**
-  BuzzBallz owner Sazerac has taken on another ready-to-drink (RTD) brand with the acquisition of Dirty Shirley
-The post S...
-  *关键词: acquisition, acquisition*
-
-![Southern Glazer’s to acquire Clare Rose](https://www.thespiritsbusiness.com/content/uploads/2026/03/Southern-Glazers-1.jpg)
-
-- **[Southern Glazer’s to acquire Clare Rose](https://www.thespiritsbusiness.com/2026/03/southern-glazers-to-acquire-clare-rose/)**
-  US distributor Southern Glazer’s Wine & Spirits has agreed a deal to acquire Long Island-based Clare Rose Inc for an und...
+*📚 以上为近期内容*
 
 ### 📰 Wine Enthusiast
 
@@ -154,8 +115,20 @@ The post S...
   Near the Swiss border, Annecy has evolved into a world-class culinary destination powered by electric mountain wines.
 Th...
 
+![Pakistan’s Covert Home Winemakers Are Embracing the ChatGPT Era](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_With_Heavy_Restrictions_on_Alcohol_Pakistanis_are_Learning_to_Make_their_Own_INSET_Vartika_Sharma_1920x1280-1024x683.jpg)
+
+- **[Pakistan’s Covert Home Winemakers Are Embracing the ChatGPT Era](https://www.wineenthusiast.com/culture/pakistan-home-winemaking-chatgpt-youtube/)**
+  Even as prohibition remains in effect for Pakistan’s Muslim population, some young winemakers are using AI to produce DI...
+
+![The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Disney_Pairings_Pretzels_1920x1280-1024x683.jpg)
+
+- **[The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/basics/how-to-pair/disney-snacks-wine-pairings/)**
+  From Dole Whips and Tokaji to Mickey Pretzels and Pinot Noir, these pairings are sure to impress the Disney adult sommel...
+
+*📚 以上为近期内容*
+
 
 ---
 
-*报告生成时间: 2026-03-21 03:00*  
+*报告生成时间: 2026-03-21 16:00*  
 *Antonelli Intelligence System*
