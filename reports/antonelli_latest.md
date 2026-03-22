@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-21  
-**来源**: 全球 2 个地区 · 4 个信源
+**日期**: 2026-03-22  
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 6 条
+- **新增资讯**: 5 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -46,15 +46,12 @@
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/images/news-rss/99/06/9906114212069bc75b9_tosca1.jpg)
-
-- **[Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/m/2026/03/tuscany-toasts-a-bubbly-future?rss=Y)**
-  A busy week in wine culminates in the launch of a new category for Tuscan producers to play with....
-  *关键词: launch*
-
 ### 📰 Decanter
+
+![House of Arras: Building a Tasmanian icon](https://cdn.mos.cms.futurecdn.net/rjq3GrPq7deizunpHmovGd-1280-80.jpg)
+
+- **[House of Arras: Building a Tasmanian icon](https://www.decanter.com/wine/producer-profiles/house-of-arras-building-a-tasmanian-icon)**
+  A bubblesome journey......
 
 ![Obituary Michel Rolland: 1947-2026](https://cdn.mos.cms.futurecdn.net/KBwtdJ9t3ePDVMRbUiVDfk-1280-80.jpg)
 
@@ -66,10 +63,13 @@
 - **[Rise of the Dirty Martini: Why it's popular and how to make one](https://www.decanter.com/spirits/rise-of-the-dirty-martini-why-its-popular-and-how-to-make-one)**
   Cocktail lovers are increasingly dirty-minded......
 
-![Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://cdn.mos.cms.futurecdn.net/rE8tJFVBWUGsTUP2DQjoLa-1280-80.jpg)
+### 📰 Wine-Searcher
 
-- **[Galician Mencía, Moroccan Syrah and Corsican Muscat – 14 wines for a cracking Easter feast](https://www.decanter.com/learn/galician-mencia-moroccan-syrah-and-corsican-muscat-14-wines-for-a-cracking-easter-feast)**
-  Wines for lamb, wines for cake, wines for hot cross buns......
+![Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/images/news-rss/99/06/9906114212069bc75b9_tosca1.jpg)
+
+- **[Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/m/2026/03/tuscany-toasts-a-bubbly-future?rss=Y)**
+  A busy week in wine culminates in the launch of a new category for Tuscan producers to play with....
+  *关键词: launch*
 
 ### 📰 The Drinks Business
 
@@ -77,6 +77,19 @@
 
 - **[Vinexpo Asia: ‘trust and long-term presence make all the difference’](https://www.thedrinksbusiness.com/2026/03/vinexpo-asia-trust-and-long-term-presence-make-all-the-difference/)**
   With almost three decades of experience in the region, Vinexpo Asia 2026 will help guide buyers and producers through a ...
+
+![Côte Brasserie launches French-only online wine shop](https://www.thedrinksbusiness.com/content/uploads/2026/03/unnamed-2.jpg)
+
+- **[Côte Brasserie launches French-only online wine shop](https://www.thedrinksbusiness.com/2026/03/cote-brasserie-launches-french-only-online-wine-shop/)**
+  Côte Brasserie has unveiled its first online wine shop focused solely on French wine, offering a selection of more than ...
+  *关键词: launch*
+
+![Master Winemaker 100: José Manuel Rodríguez](https://www.thedrinksbusiness.com/content/uploads/2026/03/Arinzano-–-Jose-Manuel-Rodriguez-2-scaled.jpg)
+
+- **[Master Winemaker 100: José Manuel Rodríguez](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-jose-manuel-rodriguez-2/)**
+  The technical director at Spain's Arínzano features in this year's Master Winemaker 100 guide. He tells db about embraci...
+
+*📚 以上为近期内容*
 
 
 ## 🌍 美洲
@@ -130,5 +143,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-03-21 16:00*  
+*报告生成时间: 2026-03-22 03:00*  
 *Antonelli Intelligence System*
