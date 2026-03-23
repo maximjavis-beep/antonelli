@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-23  
-**来源**: 全球 3 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 13 条
+- **新增资讯**: 46 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,11 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
+
+![Payday Super: What business owners need to know before 1 July 2026](https://theshout.com.au/wp-content/uploads/2026/03/BrownBrothersPinotNoir.jpg?w=780)
+
+- **[Payday Super: What business owners need to know before 1 July 2026](https://theshout.com.au/payday-super-what-business-owners-need-to-know-before-1-july-2026/)**
+  Payday Super is bringing major reform to Australia's superannuation system in July this year, here's what business owner...
 
 ![Wirra Wirra acquires SA vineyard](https://theshout.com.au/wp-content/uploads/2026/03/WirraWirraTrottVineyard.jpg?w=780)
 
@@ -38,11 +43,6 @@
 - **[Entries open for the 2026 NSW Sommelier’s Wine List Awards](https://theshout.com.au/entries-open-for-the-2026-nsw-sommeliers-wine-list-awards/)**
   The 2026 NSW Sommelier’s Wine List Awards, invites venues across the state to showcase their commitment to local wine th...
 
-![The Star announces executive appointments](https://theshout.com.au/wp-content/uploads/2026/03/iStock-157729455-The-Star-Casino-Sydney.jpg?w=780)
-
-- **[The Star announces executive appointments](https://theshout.com.au/the-star-announces-executive-appointments/)**
-  The Star Entertainment Group has announced several executive appointments, including a new Chief Financial Officer (CFO)...
-
 ### 📰 Nomunication
 
 - **[Japanese Whisky law: The National Tax Agency is working on it](https://www.nomunication.jp/2026/03/19/japanese-whisky-law-the-national-tax-agency-is-working-on-it/)**
@@ -53,47 +53,61 @@
 
 ## 🌍 欧洲
 
-### 📰 The Drinks Business
-
-![How water hyacinths are fuelling gin production in Cambodia](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-187713595-scaled.jpg)
-
-- **[How water hyacinths are fuelling gin production in Cambodia](https://www.thedrinksbusiness.com/2026/03/how-water-hyacinths-are-fuelling-gin-production-in-cambodia/)**
-  Spirits producer Mawsim derives the ethanol for its gin from an unusual source, local water hyacinths, which could prove...
-
-![Adjustment of fine wine market sentiment ‘well underway’](https://www.thedrinksbusiness.com/content/uploads/2025/01/Fine-wine-powerhouse_iStock-2148938396-1024x683.jpg)
-
-- **[Adjustment of fine wine market sentiment ‘well underway’](https://www.thedrinksbusiness.com/2026/03/adjustment-of-fine-wine-market-sentiment-well-underway/)**
-  There are indications of “an interesting change of sentiment” in the views and expectations of the fine wine market, amo...
-  *关键词: market*
-
-![Guinness personalisation goes viral](https://www.thedrinksbusiness.com/content/uploads/2026/03/Stoutie-Experience.jpg)
-
-- **[Guinness personalisation goes viral](https://www.thedrinksbusiness.com/2026/03/guinness-personalisation-goes-viral/)**
-  Guinness fans have started sharing videos and images of their personalised selfies that can now be printed onto the head...
-
 ### 📰 Wine-Searcher
 
-![Farewell to the Flying Winemaker](https://www.wine-searcher.com/images/news-rss/99/09/9909514215969c03544_rolla1.jpg)
+![Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/images/news-rss/99/09/9909814216369c196ec_chavez1.jpg)
 
-- **[Farewell to the Flying Winemaker](https://www.wine-searcher.com/m/2026/03/farewell-to-the-flying-winemaker?rss=Y)**
-  Beloved – and only slightly controversial – consultant winemaker Michel Rolland has gone to his final reward....
+- **[Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/m/2026/03/wine-world-grapples-with-chavez-legacy?rss=Y)**
+  Cesar Chavez was a hero to many farmworkers, but the dark side of his legend cannot be ignored....
+
+### 📰 The Drinks Business
+
+![How the Estrella Damm fridge packs are riding the no and low trend](https://www.thedrinksbusiness.com/content/uploads/2026/03/Damm-Lemon-scaled.jpg)
+
+- **[How the Estrella Damm fridge packs are riding the no and low trend](https://www.thedrinksbusiness.com/2026/03/how-the-estrella-damm-fridge-packs-are-riding-the-no-and-low-trend/)**
+  Damm is launching fridge pack formats of Estrella Damm 0.0% and Damm Lemon in response to growing consumer demand in the...
+  *关键词: launch, trend*
+
+![Wetherspoon sales hold firm as costs weigh on profits](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-536174049-1.jpg)
+
+- **[Wetherspoon sales hold firm as costs weigh on profits](https://www.thedrinksbusiness.com/2026/03/wetherspoon-sales-hold-firm-as-costs-weigh-on-profits/)**
+  JD Wetherspoon delivered steady sales growth in the first half of its financial year, even as rising costs cut into prof...
+
+![Call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/04/iStock-1472923381.jpg)
+
+- **[Call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/2026/03/call-for-entries-the-global-sparkling-masters-2026/)**
+  the drinks business is now taking entries for The Global Sparkling Masters 2026, one of the industry’s most prestigious ...
+
+![What it takes to make in-house distillation work in a bar](https://www.thedrinksbusiness.com/content/uploads/2026/03/Peanuts-Please-credit-Lars-Pettersen-scaled.jpg)
+
+- **[What it takes to make in-house distillation work in a bar](https://www.thedrinksbusiness.com/2026/03/what-it-takes-to-make-in-house-distillation-work-in-a-bar/)**
+  The concept of in-house distillation is gaining traction among leading cocktail bars, but it comes with significant chal...
+
+![Spanish showcase: Barcelona Wine Week 2026 in review](https://www.thedrinksbusiness.com/content/uploads/2026/03/img_78-1-1.jpg)
+
+- **[Spanish showcase: Barcelona Wine Week 2026 in review](https://www.thedrinksbusiness.com/2026/03/spanish-showcase-barcelona-wine-week-2026-in-review/)**
+  The sixth edition of Barcelona Wine Week was a joyous celebration of Spain's hugely diverse wine scene - with rising num...
 
 ### 📰 Decanter
 
-![Languedoc’s Montpeyroux gains cru status](https://cdn.mos.cms.futurecdn.net/T3CF6LzVmAgyq8xaNALiG5-1280-80.png)
+![A white wine future? Benjamin Lewin MW explores a bold claim](https://cdn.mos.cms.futurecdn.net/DT4YMagS4ADCpUvSYMMsgH-1280-80.jpg)
 
-- **[Languedoc’s Montpeyroux gains cru status](https://www.decanter.com/wine-news/languedocs-montpeyroux-gains-cru-status)**
-  Languedoc is on the move again......
-
-![House of Arras: Building a Tasmanian icon](https://cdn.mos.cms.futurecdn.net/rjq3GrPq7deizunpHmovGd-1280-80.jpg)
-
-- **[House of Arras: Building a Tasmanian icon](https://www.decanter.com/wine/producer-profiles/house-of-arras-building-a-tasmanian-icon)**
-  A bubblesome journey......
+- **[A white wine future? Benjamin Lewin MW explores a bold claim](https://www.decanter.com/wine-news/guest-blog/a-white-wine-future-benjamin-lewin-mw-explores-a-bold-claim)**
+  Is white wine set to dominate?......
 
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
+
+- **[Molson Coors to Acquire Monaco Maker Atomic Brands](https://www.brewbound.com/news/molson-coors-to-acquire-monaco-maker-atomic-brands)**
+  Molson Coors has struck a deal to acquire spirits-based, ready-to-drink (RTD) cocktail pioneer Atomic Brands, whose Mona...
+
+- **[Southern Glazer’s Strikes Another A-B Distributor Deal, Adding Eagle Rock in Colorado](https://www.brewbound.com/news/southern-glazers-strikes-another-a-b-distributor-deal-adding-eagle-rock-in-colorado)**
+  Southern Glazer’s Wine &#038; Spirits’ ambitions for Anheuser-Busch InBev’s portfolio aren’t limited to New York. The wi...
+
+- **[Brewbound to Kick Off CBC Week with Networking Happy Hour at Love City Brewing](https://www.brewbound.com/news/brewbound-to-kick-off-cbc-week-with-networking-happy-hour-at-love-city-brewing)**
+  Start your CBC week with the Brewbound team and industry peers at Love City Brewing! We are excited to host a networking...
 
 - **[Reyes and RNDC Make It Official: Purchase Agreements Signed for 11 Markets](https://www.brewbound.com/news/reyes-and-rndc-make-it-official-purchase-agreements-signed-for-11-markets)**
   The big distribution deals keep coming this week. The multi-market deal between Reyes Beverage Group and Republic Nation...
@@ -101,34 +115,64 @@
 
 ### 📰 The Spirits Business
 
-![Ex-Campari CEO launches Liquid Ventures for low-and-no](https://www.thespiritsbusiness.com/content/uploads/2026/03/Liquid-Ventures-founders-.jpg)
+![Four Roses ushers in first campaign under Gallo](https://www.thespiritsbusiness.com/content/uploads/2026/03/Meet-Me-With-Four-Roses-campaign-.jpg)
 
-- **[Ex-Campari CEO launches Liquid Ventures for low-and-no](https://www.thespiritsbusiness.com/2026/03/ex-campari-ceo-launches-liquid-ventures-for-low-and-no/)**
-  Three industry experts have launched Liquid Ventures, a venture builder and investment platform focused on low- and no-a...
-  *关键词: launch, investment*
+- **[Four Roses ushers in first campaign under Gallo](https://www.thespiritsbusiness.com/2026/03/four-roses-ushers-in-first-campaign-under-gallo/)**
+  Kentucky Bourbon Four Roses has launched a new Meet Me With Four Roses campaign, marking its first initiative under Gall...
+  *关键词: launch*
+
+![Rémy Cointreau appoints GTR MD](https://www.thespiritsbusiness.com/content/uploads/2026/03/Annabelle-Chung-Remy-Cointreau.jpg)
+
+- **[Rémy Cointreau appoints GTR MD](https://www.thespiritsbusiness.com/2026/03/remy-cointreau-appoints-gtr-md/)**
+  Annabelle Chung has taken up the role of global travel retail managing director for Asia Pacific at Rémy Cointreau
+The p...
+
+![TOTCF names Diageo World Class US finalists](https://www.thespiritsbusiness.com/content/uploads/2026/03/World-Class-US-2025-finalists.jpg)
+
+- **[TOTCF names Diageo World Class US finalists](https://www.thespiritsbusiness.com/2026/03/totcf-names-diageo-world-class-us-finalists/)**
+  As part of its new partnership with Diageo, Tales of the Cocktail Foundation has revealed the top 15 World Class US fina...
+  *关键词: partnership*
+
+![Whitebox revenue up 100% YOY as new serves debut](https://www.thespiritsbusiness.com/content/uploads/2026/03/Whitebox-Mai-Tai-Clover-Club.jpg)
+
+- **[Whitebox revenue up 100% YOY as new serves debut](https://www.thespiritsbusiness.com/2026/03/whitebox-revenue-up-100-yoy-as-new-serves-debut/)**
+  Ready-to-drink cocktail maker Whitebox has added two full-strength serves to its range: a tiki-inspired Mai Tai and a pr...
+
+![Cazcabel Tequila turns to solar power](https://www.thespiritsbusiness.com/content/uploads/2026/03/Hacienda-Cazcabel.jpg)
+
+- **[Cazcabel Tequila turns to solar power](https://www.thespiritsbusiness.com/2026/03/cazcabel-tequila-turns-to-solar-power/)**
+  Tequila brand Cazcabel has converted its operations to 95% solar power as part of its commitment to sustainable producti...
 
 ### 📰 Wine Enthusiast
 
-![The ‘Venice of the Alps’ Is One of France’s Coolest Wine Towns](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Annecy_Imperial_Palace_INSET_studiodgc.com_1920x1280-1024x683.jpg)
+![Spring Refresh](https://res.cloudinary.com/htt8g4cd/image/upload/w_1920,c_scale,f_auto,q_auto/wp/1920x660_spring-refresh-promo_v2_position2)
 
-- **[The ‘Venice of the Alps’ Is One of France’s Coolest Wine Towns](https://www.wineenthusiast.com/culture/travel/annecy-france/)**
-  Near the Swiss border, Annecy has evolved into a world-class culinary destination powered by electric mountain wines.
-Th...
+- **[Spring Refresh](https://www.wineenthusiast.com/shop/spring-refresh/)**
+  Just Uncorked: New Arrivals Spring has sprung in our collection, with a fresh crop of finds for wine lovers who have a t...
+  *关键词: new product*
 
-![Pakistan’s Covert Home Winemakers Are Embracing the ChatGPT Era](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_With_Heavy_Restrictions_on_Alcohol_Pakistanis_are_Learning_to_Make_their_Own_INSET_Vartika_Sharma_1920x1280-1024x683.jpg)
+![Furniture](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh19)
 
-- **[Pakistan’s Covert Home Winemakers Are Embracing the ChatGPT Era](https://www.wineenthusiast.com/culture/pakistan-home-winemaking-chatgpt-youtube/)**
-  Even as prohibition remains in effect for Pakistan’s Muslim population, some young winemakers are using AI to produce DI...
+- **[Furniture](https://www.wineenthusiast.com/shop/spring-refresh/wine-furniture/)**
+  The post Furniture appeared first on Wine Enthusiast....
 
-![The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Disney_Pairings_Pretzels_1920x1280-1024x683.jpg)
+![Glassware](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh_12)
 
-- **[The Best Wine Pairings for Disney’s Most Iconic Snacks](https://www.wineenthusiast.com/basics/how-to-pair/disney-snacks-wine-pairings/)**
-  From Dole Whips and Tokaji to Mickey Pretzels and Pinot Noir, these pairings are sure to impress the Disney adult sommel...
+- **[Glassware](https://www.wineenthusiast.com/shop/spring-refresh/glassware/)**
+  The post Glassware appeared first on Wine Enthusiast....
 
-*📚 以上为近期内容*
+![Staff Picks](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh_03-1)
+
+- **[Staff Picks](https://www.wineenthusiast.com/shop/spring-refresh/staff-picks/)**
+  The post Staff Picks appeared first on Wine Enthusiast....
+
+![Outdoor Entertaining](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh_16-1)
+
+- **[Outdoor Entertaining](https://www.wineenthusiast.com/shop/spring-refresh/outdoor-entertaining/)**
+  The post Outdoor Entertaining appeared first on Wine Enthusiast....
 
 
 ---
 
-*报告生成时间: 2026-03-23 03:00*  
+*报告生成时间: 2026-03-23 16:00*  
 *Antonelli Intelligence System*
