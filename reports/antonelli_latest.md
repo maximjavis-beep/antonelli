@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-22  
-**来源**: 全球 1 个地区 · 2 个信源
+**日期**: 2026-03-23  
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 4 条
+- **新增资讯**: 13 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,24 +17,31 @@
 
 ### 📰 The Shout
 
-![Australia a key market in new DISCUS campaign](https://theshout.com.au/wp-content/uploads/2026/03/Pics.png?w=780)
+![Wirra Wirra acquires SA vineyard](https://theshout.com.au/wp-content/uploads/2026/03/WirraWirraTrottVineyard.jpg?w=780)
 
-- **[Australia a key market in new DISCUS campaign](https://theshout.com.au/australia-a-key-market-in-new-discus-campaign/)**
-  The Distilled Spirits Council of the United States will deepen connections between US producers and the Australian drink...
-  *关键词: market*
+- **[Wirra Wirra acquires SA vineyard](https://theshout.com.au/wirra-wirra-acquires-sa-vineyard/)**
+  The Trott Vineyard is an acclaimed Grenache site and Wirra Wirra will work with Thistledown Wines to strengthen its glob...
 
-![Yalumba reveals latest signatory of The Signature](https://theshout.com.au/wp-content/uploads/2026/03/YalumbaSignaturePeterSawrey.jpg?w=780)
+![Brown Brothers adds new wine to Classic range](https://theshout.com.au/wp-content/uploads/2022/09/BrownSisters.jpg?w=780)
 
-- **[Yalumba reveals latest signatory of The Signature](https://theshout.com.au/yalumba-reveals-latest-signatory-of-the-signature/)**
-  The 52nd vintage of The Signature Cabernet Sauvignon & Shiraz will be released in May, and the signatory is a man linked...
+- **[Brown Brothers adds new wine to Classic range](https://theshout.com.au/brown-family-wines-adds-new-wine-to-classic-range/)**
+  The new wine targets one of Australia's fastest-growing red wine segments and meets the consumer demand for lighter, fre...
 
-![Yarra Valley launches ‘The Place for Pinot’ wine trail](https://theshout.com.au/wp-content/uploads/2026/02/iStock-2181997926-yarra-valley-vineyards.jpg?w=780)
+![Wine Tasmania launches Vaughn Dell Scholarship](https://theshout.com.au/wp-content/uploads/2026/03/VaughnDellScholarshipTasmania.jpg?w=780)
 
-- **[Yarra Valley launches ‘The Place for Pinot’ wine trail](https://theshout.com.au/yarra-valley-launches-the-place-for-pinot-wine-trail/)**
-  The six-week regional campaign features 16 wineries and aims to drive cellar door engagement across the region....
+- **[Wine Tasmania launches Vaughn Dell Scholarship](https://theshout.com.au/wine-tasmania-launches-vaughn-dell-scholarship/)**
+  The scholarship honours the legacy of Vaughn Dell, co-founder of Sinapius, who passed away in May 2020 at the age of 39....
   *关键词: launch*
 
-*📚 以上为近期内容*
+![Entries open for the 2026 NSW Sommelier’s Wine List Awards](https://theshout.com.au/wp-content/uploads/2026/03/NSWSommelierWineAwards.jpg?w=780)
+
+- **[Entries open for the 2026 NSW Sommelier’s Wine List Awards](https://theshout.com.au/entries-open-for-the-2026-nsw-sommeliers-wine-list-awards/)**
+  The 2026 NSW Sommelier’s Wine List Awards, invites venues across the state to showcase their commitment to local wine th...
+
+![The Star announces executive appointments](https://theshout.com.au/wp-content/uploads/2026/03/iStock-157729455-The-Star-Casino-Sydney.jpg?w=780)
+
+- **[The Star announces executive appointments](https://theshout.com.au/the-star-announces-executive-appointments/)**
+  The Star Entertainment Group has announced several executive appointments, including a new Chief Financial Officer (CFO)...
 
 ### 📰 Nomunication
 
@@ -46,18 +53,30 @@
 
 ## 🌍 欧洲
 
+### 📰 The Drinks Business
+
+![How water hyacinths are fuelling gin production in Cambodia](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-187713595-scaled.jpg)
+
+- **[How water hyacinths are fuelling gin production in Cambodia](https://www.thedrinksbusiness.com/2026/03/how-water-hyacinths-are-fuelling-gin-production-in-cambodia/)**
+  Spirits producer Mawsim derives the ethanol for its gin from an unusual source, local water hyacinths, which could prove...
+
+![Adjustment of fine wine market sentiment ‘well underway’](https://www.thedrinksbusiness.com/content/uploads/2025/01/Fine-wine-powerhouse_iStock-2148938396-1024x683.jpg)
+
+- **[Adjustment of fine wine market sentiment ‘well underway’](https://www.thedrinksbusiness.com/2026/03/adjustment-of-fine-wine-market-sentiment-well-underway/)**
+  There are indications of “an interesting change of sentiment” in the views and expectations of the fine wine market, amo...
+  *关键词: market*
+
+![Guinness personalisation goes viral](https://www.thedrinksbusiness.com/content/uploads/2026/03/Stoutie-Experience.jpg)
+
+- **[Guinness personalisation goes viral](https://www.thedrinksbusiness.com/2026/03/guinness-personalisation-goes-viral/)**
+  Guinness fans have started sharing videos and images of their personalised selfies that can now be printed onto the head...
+
 ### 📰 Wine-Searcher
 
 ![Farewell to the Flying Winemaker](https://www.wine-searcher.com/images/news-rss/99/09/9909514215969c03544_rolla1.jpg)
 
 - **[Farewell to the Flying Winemaker](https://www.wine-searcher.com/m/2026/03/farewell-to-the-flying-winemaker?rss=Y)**
   Beloved – and only slightly controversial – consultant winemaker Michel Rolland has gone to his final reward....
-
-![Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/images/news-rss/99/06/9906114212069bc75b9_tosca1.jpg)
-
-- **[Tuscany Toasts a Bubbly Future](https://www.wine-searcher.com/m/2026/03/tuscany-toasts-a-bubbly-future?rss=Y)**
-  A busy week in wine culminates in the launch of a new category for Tuscan producers to play with....
-  *关键词: launch*
 
 ### 📰 Decanter
 
@@ -71,63 +90,22 @@
 - **[House of Arras: Building a Tasmanian icon](https://www.decanter.com/wine/producer-profiles/house-of-arras-building-a-tasmanian-icon)**
   A bubblesome journey......
 
-### 📰 The Drinks Business
-
-![Vinexpo Asia: ‘trust and long-term presence make all the difference’](https://www.thedrinksbusiness.com/content/uploads/2026/03/VinexpoAsia24_HongKong_PON_58-scaled.jpg)
-
-- **[Vinexpo Asia: ‘trust and long-term presence make all the difference’](https://www.thedrinksbusiness.com/2026/03/vinexpo-asia-trust-and-long-term-presence-make-all-the-difference/)**
-  With almost three decades of experience in the region, Vinexpo Asia 2026 will help guide buyers and producers through a ...
-
-![Côte Brasserie launches French-only online wine shop](https://www.thedrinksbusiness.com/content/uploads/2026/03/unnamed-2.jpg)
-
-- **[Côte Brasserie launches French-only online wine shop](https://www.thedrinksbusiness.com/2026/03/cote-brasserie-launches-french-only-online-wine-shop/)**
-  Côte Brasserie has unveiled its first online wine shop focused solely on French wine, offering a selection of more than ...
-  *关键词: launch*
-
-![Master Winemaker 100: José Manuel Rodríguez](https://www.thedrinksbusiness.com/content/uploads/2026/03/Arinzano-–-Jose-Manuel-Rodriguez-2-scaled.jpg)
-
-- **[Master Winemaker 100: José Manuel Rodríguez](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-jose-manuel-rodriguez-2/)**
-  The technical director at Spain's Arínzano features in this year's Master Winemaker 100 guide. He tells db about embraci...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
-- **[Insider’s Week in Beer: 🙏 Beer Ads Need One Shining Moment](https://newsletter.bevnet.com/subscriber/d03d56c5d5a147d2a5a519760db90674)**
-  As we sit in the middle of the best 5-day stretch on the college sports calendar, I hope your attempt to redeem yourself...
-
-- **[Carbliss Targets C-Store with New Malt Tallboy Format](https://www.brewbound.com/news/carbliss-targets-c-store-with-new-malt-tallboy-format)**
-  Carbliss, the ready-to-drink (RTD) vodka-based cocktail that has become one of the breakout independents in its category...
-
-- **[Beer Girl’s Shark Tank Pitch Ends With Investment From Uncle Nearest’s Fawn Weaver](https://www.brewbound.com/news/beer-girls-shark-tank-pitch-ends-with-investment-from-uncle-nearests-fawn-weaver)**
-  Another low ABV beer with an explicit target audience made an appearance on ABC’s Shark Tank and came out with an invest...
-  *关键词: investment*
-
-*📚 以上为近期内容*
+- **[Reyes and RNDC Make It Official: Purchase Agreements Signed for 11 Markets](https://www.brewbound.com/news/reyes-and-rndc-make-it-official-purchase-agreements-signed-for-11-markets)**
+  The big distribution deals keep coming this week. The multi-market deal between Reyes Beverage Group and Republic Nation...
+  *关键词: distribution, market*
 
 ### 📰 The Spirits Business
 
-![Wage increases cost Wetherspoon £28m](https://www.thespiritsbusiness.com/content/uploads/2025/01/JD-Wetherspoons.png)
+![Ex-Campari CEO launches Liquid Ventures for low-and-no](https://www.thespiritsbusiness.com/content/uploads/2026/03/Liquid-Ventures-founders-.jpg)
 
-- **[Wage increases cost Wetherspoon £28m](https://www.thespiritsbusiness.com/2026/03/wage-increases-cost-wetherspoon-28m/)**
-  Despite a sales growth of 5.7%, UK pub chain Wetherspoon saw its profits sink due to rising wage costs and increased bus...
-
-![Nearly half of Brazilians ask AI for drink recommendations](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tech-selecting-alcohol-retail.jpg)
-
-- **[Nearly half of Brazilians ask AI for drink recommendations](https://www.thespiritsbusiness.com/2026/03/nearly-half-of-brazilians-ask-ai-for-drink-recommendations/)**
-  EY’s Consumer Beverage Survey has revealed the forces reshaping beverage choice and consumption behaviour in the US and ...
-
-![Tipple to manage B2B growth for Au Vodka in Europe](https://www.thespiritsbusiness.com/content/uploads/2026/03/Au-Vodka.jpg)
-
-- **[Tipple to manage B2B growth for Au Vodka in Europe](https://www.thespiritsbusiness.com/2026/03/tipple-to-manage-b2b-growth-for-au-vodka-in-europe/)**
-  Au Vodka has appointed Tipple to manage its European D2C operations and build its B2B network in European markets
-The po...
-  *关键词: market*
-
-*📚 以上为近期内容*
+- **[Ex-Campari CEO launches Liquid Ventures for low-and-no](https://www.thespiritsbusiness.com/2026/03/ex-campari-ceo-launches-liquid-ventures-for-low-and-no/)**
+  Three industry experts have launched Liquid Ventures, a venture builder and investment platform focused on low- and no-a...
+  *关键词: launch, investment*
 
 ### 📰 Wine Enthusiast
 
@@ -152,5 +130,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-03-22 16:00*  
+*报告生成时间: 2026-03-23 03:00*  
 *Antonelli Intelligence System*
