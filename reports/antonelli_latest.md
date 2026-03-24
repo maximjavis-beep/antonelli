@@ -1,6 +1,6 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-23  
+**日期**: 2026-03-24  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
@@ -17,31 +17,20 @@
 
 ### 📰 The Shout
 
+![Bourgogne Wine Board takes trade campaign to Melbourne](https://theshout.com.au/wp-content/uploads/2026/03/iStock-2230461123.jpg?w=780)
+
+- **[Bourgogne Wine Board takes trade campaign to Melbourne](https://theshout.com.au/bourgogne-wine-board-takes-trade-campaign-to-melbourne/)**
+  The Take a Closer Look campaign continues, with sessions highlighting the diversity, accessibility and relevance of the ...
+
+![World-leading bars to join the Maybe Cocktail Festival](https://theshout.com.au/wp-content/uploads/2026/03/MaybeCocktailFestivalBars.jpg?w=780)
+
+- **[World-leading bars to join the Maybe Cocktail Festival](https://theshout.com.au/world-leading-bars-to-join-the-maybe-cocktail-festival/)**
+  Leading bars from around the world will once again descend on Sydney for the fourth annual Maybe Cocktail Festival, retu...
+
 ![Payday Super: What business owners need to know before 1 July 2026](https://theshout.com.au/wp-content/uploads/2026/03/BrownBrothersPinotNoir.jpg?w=780)
 
 - **[Payday Super: What business owners need to know before 1 July 2026](https://theshout.com.au/payday-super-what-business-owners-need-to-know-before-1-july-2026/)**
   Payday Super is bringing major reform to Australia's superannuation system in July this year, here's what business owner...
-
-![Wirra Wirra acquires SA vineyard](https://theshout.com.au/wp-content/uploads/2026/03/WirraWirraTrottVineyard.jpg?w=780)
-
-- **[Wirra Wirra acquires SA vineyard](https://theshout.com.au/wirra-wirra-acquires-sa-vineyard/)**
-  The Trott Vineyard is an acclaimed Grenache site and Wirra Wirra will work with Thistledown Wines to strengthen its glob...
-
-![Brown Brothers adds new wine to Classic range](https://theshout.com.au/wp-content/uploads/2022/09/BrownSisters.jpg?w=780)
-
-- **[Brown Brothers adds new wine to Classic range](https://theshout.com.au/brown-family-wines-adds-new-wine-to-classic-range/)**
-  The new wine targets one of Australia's fastest-growing red wine segments and meets the consumer demand for lighter, fre...
-
-![Wine Tasmania launches Vaughn Dell Scholarship](https://theshout.com.au/wp-content/uploads/2026/03/VaughnDellScholarshipTasmania.jpg?w=780)
-
-- **[Wine Tasmania launches Vaughn Dell Scholarship](https://theshout.com.au/wine-tasmania-launches-vaughn-dell-scholarship/)**
-  The scholarship honours the legacy of Vaughn Dell, co-founder of Sinapius, who passed away in May 2020 at the age of 39....
-  *关键词: launch*
-
-![Entries open for the 2026 NSW Sommelier’s Wine List Awards](https://theshout.com.au/wp-content/uploads/2026/03/NSWSommelierWineAwards.jpg?w=780)
-
-- **[Entries open for the 2026 NSW Sommelier’s Wine List Awards](https://theshout.com.au/entries-open-for-the-2026-nsw-sommeliers-wine-list-awards/)**
-  The 2026 NSW Sommelier’s Wine List Awards, invites venues across the state to showcase their commitment to local wine th...
 
 ### 📰 Nomunication
 
@@ -53,14 +42,17 @@
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/images/news-rss/99/09/9909814216369c196ec_chavez1.jpg)
-
-- **[Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/m/2026/03/wine-world-grapples-with-chavez-legacy?rss=Y)**
-  Cesar Chavez was a hero to many farmworkers, but the dark side of his legend cannot be ignored....
-
 ### 📰 The Drinks Business
+
+![MPs call for clearer drink price displays in pubs](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-955563192.jpg)
+
+- **[MPs call for clearer drink price displays in pubs](https://www.thedrinksbusiness.com/2026/03/mps-call-for-clearer-drink-price-displays-in-pubs/)**
+  A parliamentary motion has urged the UK Government to require pubs and bars to display drinks prices clearly at the poin...
+
+![UK pubs may make just 3p profit from every £1 spent on a pint](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-182356655.jpg)
+
+- **[UK pubs may make just 3p profit from every £1 spent on a pint](https://www.thedrinksbusiness.com/2026/03/uk-pubs-may-make-just-3p-profit-from-every-1-spent-on-a-pint/)**
+  New analysis suggests the economics of a pint are becoming increasingly strained for British pubs. Rising operating cost...
 
 ![How the Estrella Damm fridge packs are riding the no and low trend](https://www.thedrinksbusiness.com/content/uploads/2026/03/Damm-Lemon-scaled.jpg)
 
@@ -78,15 +70,12 @@
 - **[Call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/2026/03/call-for-entries-the-global-sparkling-masters-2026/)**
   the drinks business is now taking entries for The Global Sparkling Masters 2026, one of the industry’s most prestigious ...
 
-![What it takes to make in-house distillation work in a bar](https://www.thedrinksbusiness.com/content/uploads/2026/03/Peanuts-Please-credit-Lars-Pettersen-scaled.jpg)
+### 📰 Wine-Searcher
 
-- **[What it takes to make in-house distillation work in a bar](https://www.thedrinksbusiness.com/2026/03/what-it-takes-to-make-in-house-distillation-work-in-a-bar/)**
-  The concept of in-house distillation is gaining traction among leading cocktail bars, but it comes with significant chal...
+![Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/images/news-rss/99/09/9909814216369c196ec_chavez1.jpg)
 
-![Spanish showcase: Barcelona Wine Week 2026 in review](https://www.thedrinksbusiness.com/content/uploads/2026/03/img_78-1-1.jpg)
-
-- **[Spanish showcase: Barcelona Wine Week 2026 in review](https://www.thedrinksbusiness.com/2026/03/spanish-showcase-barcelona-wine-week-2026-in-review/)**
-  The sixth edition of Barcelona Wine Week was a joyous celebration of Spain's hugely diverse wine scene - with rising num...
+- **[Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/m/2026/03/wine-world-grapples-with-chavez-legacy?rss=Y)**
+  Cesar Chavez was a hero to many farmworkers, but the dark side of his legend cannot be ignored....
 
 ### 📰 Decanter
 
@@ -98,22 +87,22 @@
 
 ## 🌍 美洲
 
-### 📰 Brewbound
-
-- **[Molson Coors to Acquire Monaco Maker Atomic Brands](https://www.brewbound.com/news/molson-coors-to-acquire-monaco-maker-atomic-brands)**
-  Molson Coors has struck a deal to acquire spirits-based, ready-to-drink (RTD) cocktail pioneer Atomic Brands, whose Mona...
-
-- **[Southern Glazer’s Strikes Another A-B Distributor Deal, Adding Eagle Rock in Colorado](https://www.brewbound.com/news/southern-glazers-strikes-another-a-b-distributor-deal-adding-eagle-rock-in-colorado)**
-  Southern Glazer’s Wine &#038; Spirits’ ambitions for Anheuser-Busch InBev’s portfolio aren’t limited to New York. The wi...
-
-- **[Brewbound to Kick Off CBC Week with Networking Happy Hour at Love City Brewing](https://www.brewbound.com/news/brewbound-to-kick-off-cbc-week-with-networking-happy-hour-at-love-city-brewing)**
-  Start your CBC week with the Brewbound team and industry peers at Love City Brewing! We are excited to host a networking...
-
-- **[Reyes and RNDC Make It Official: Purchase Agreements Signed for 11 Markets](https://www.brewbound.com/news/reyes-and-rndc-make-it-official-purchase-agreements-signed-for-11-markets)**
-  The big distribution deals keep coming this week. The multi-market deal between Reyes Beverage Group and Republic Nation...
-  *关键词: distribution, market*
-
 ### 📰 The Spirits Business
+
+![Glendronach marks bicentennial with £35k whisky](https://www.thespiritsbusiness.com/content/uploads/2026/03/Glendronach-56-year-old.jpg)
+
+- **[Glendronach marks bicentennial with £35k whisky](https://www.thespiritsbusiness.com/2026/03/glendronach-marks-bicentennial-with-35k-whisky/)**
+  Brown-Forman's Glendronach Distillery has unveiled its oldest release to date: a 56-year-old single malt, celebrating it...
+
+![New Grove hosts partners at Rum Odyssey](https://www.thespiritsbusiness.com/content/uploads/2026/03/New-Grove-Rum-Odyssey.jpg)
+
+- **[New Grove hosts partners at Rum Odyssey](https://www.thespiritsbusiness.com/2026/03/new-grove-hosts-partners-at-rum-odyssey/)**
+  Grays-owned New Grove Distillery invited its international partners to an immersive rum experience at its home in Maurit...
+
+![Jameson bottle makers to strike over job cuts](https://www.thespiritsbusiness.com/content/uploads/2026/03/bottle-manufacturing.jpg)
+
+- **[Jameson bottle makers to strike over job cuts](https://www.thespiritsbusiness.com/2026/03/jameson-bottle-makers-to-strike-over-job-cuts/)**
+  Workers at glass manufacturing firm Encirc will go on strike this month over proposed job cuts that they claim will 'cre...
 
 ![Four Roses ushers in first campaign under Gallo](https://www.thespiritsbusiness.com/content/uploads/2026/03/Meet-Me-With-Four-Roses-campaign-.jpg)
 
@@ -127,21 +116,16 @@
   Annabelle Chung has taken up the role of global travel retail managing director for Asia Pacific at Rémy Cointreau
 The p...
 
-![TOTCF names Diageo World Class US finalists](https://www.thespiritsbusiness.com/content/uploads/2026/03/World-Class-US-2025-finalists.jpg)
+### 📰 Brewbound
 
-- **[TOTCF names Diageo World Class US finalists](https://www.thespiritsbusiness.com/2026/03/totcf-names-diageo-world-class-us-finalists/)**
-  As part of its new partnership with Diageo, Tales of the Cocktail Foundation has revealed the top 15 World Class US fina...
-  *关键词: partnership*
+- **[Molson Coors to Acquire Monaco Maker Atomic Brands](https://www.brewbound.com/news/molson-coors-to-acquire-monaco-maker-atomic-brands)**
+  Molson Coors has struck a deal to acquire spirits-based, ready-to-drink (RTD) cocktail pioneer Atomic Brands, whose Mona...
 
-![Whitebox revenue up 100% YOY as new serves debut](https://www.thespiritsbusiness.com/content/uploads/2026/03/Whitebox-Mai-Tai-Clover-Club.jpg)
+- **[Southern Glazer’s Strikes Another A-B Distributor Deal, Adding Eagle Rock in Colorado](https://www.brewbound.com/news/southern-glazers-strikes-another-a-b-distributor-deal-adding-eagle-rock-in-colorado)**
+  Southern Glazer’s Wine &#038; Spirits’ ambitions for Anheuser-Busch InBev’s portfolio aren’t limited to New York. The wi...
 
-- **[Whitebox revenue up 100% YOY as new serves debut](https://www.thespiritsbusiness.com/2026/03/whitebox-revenue-up-100-yoy-as-new-serves-debut/)**
-  Ready-to-drink cocktail maker Whitebox has added two full-strength serves to its range: a tiki-inspired Mai Tai and a pr...
-
-![Cazcabel Tequila turns to solar power](https://www.thespiritsbusiness.com/content/uploads/2026/03/Hacienda-Cazcabel.jpg)
-
-- **[Cazcabel Tequila turns to solar power](https://www.thespiritsbusiness.com/2026/03/cazcabel-tequila-turns-to-solar-power/)**
-  Tequila brand Cazcabel has converted its operations to 95% solar power as part of its commitment to sustainable producti...
+- **[Brewbound to Kick Off CBC Week with Networking Happy Hour at Love City Brewing](https://www.brewbound.com/news/brewbound-to-kick-off-cbc-week-with-networking-happy-hour-at-love-city-brewing)**
+  Start your CBC week with the Brewbound team and industry peers at Love City Brewing! We are excited to host a networking...
 
 ### 📰 Wine Enthusiast
 
@@ -174,5 +158,5 @@ The p...
 
 ---
 
-*报告生成时间: 2026-03-23 16:00*  
+*报告生成时间: 2026-03-24 03:00*  
 *Antonelli Intelligence System*
