@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 46 条
+- **新增资讯**: 37 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -27,11 +27,6 @@
 - **[World-leading bars to join the Maybe Cocktail Festival](https://theshout.com.au/world-leading-bars-to-join-the-maybe-cocktail-festival/)**
   Leading bars from around the world will once again descend on Sydney for the fourth annual Maybe Cocktail Festival, retu...
 
-![Payday Super: What business owners need to know before 1 July 2026](https://theshout.com.au/wp-content/uploads/2026/03/BrownBrothersPinotNoir.jpg?w=780)
-
-- **[Payday Super: What business owners need to know before 1 July 2026](https://theshout.com.au/payday-super-what-business-owners-need-to-know-before-1-july-2026/)**
-  Payday Super is bringing major reform to Australia's superannuation system in July this year, here's what business owner...
-
 ### 📰 Nomunication
 
 - **[Japanese Whisky law: The National Tax Agency is working on it](https://www.nomunication.jp/2026/03/19/japanese-whisky-law-the-national-tax-agency-is-working-on-it/)**
@@ -42,121 +37,121 @@
 
 ## 🌍 欧洲
 
-### 📰 The Drinks Business
-
-![MPs call for clearer drink price displays in pubs](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-955563192.jpg)
-
-- **[MPs call for clearer drink price displays in pubs](https://www.thedrinksbusiness.com/2026/03/mps-call-for-clearer-drink-price-displays-in-pubs/)**
-  A parliamentary motion has urged the UK Government to require pubs and bars to display drinks prices clearly at the poin...
-
-![UK pubs may make just 3p profit from every £1 spent on a pint](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-182356655.jpg)
-
-- **[UK pubs may make just 3p profit from every £1 spent on a pint](https://www.thedrinksbusiness.com/2026/03/uk-pubs-may-make-just-3p-profit-from-every-1-spent-on-a-pint/)**
-  New analysis suggests the economics of a pint are becoming increasingly strained for British pubs. Rising operating cost...
-
-![How the Estrella Damm fridge packs are riding the no and low trend](https://www.thedrinksbusiness.com/content/uploads/2026/03/Damm-Lemon-scaled.jpg)
-
-- **[How the Estrella Damm fridge packs are riding the no and low trend](https://www.thedrinksbusiness.com/2026/03/how-the-estrella-damm-fridge-packs-are-riding-the-no-and-low-trend/)**
-  Damm is launching fridge pack formats of Estrella Damm 0.0% and Damm Lemon in response to growing consumer demand in the...
-  *关键词: launch, trend*
-
-![Wetherspoon sales hold firm as costs weigh on profits](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-536174049-1.jpg)
-
-- **[Wetherspoon sales hold firm as costs weigh on profits](https://www.thedrinksbusiness.com/2026/03/wetherspoon-sales-hold-firm-as-costs-weigh-on-profits/)**
-  JD Wetherspoon delivered steady sales growth in the first half of its financial year, even as rising costs cut into prof...
-
-![Call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/04/iStock-1472923381.jpg)
-
-- **[Call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/2026/03/call-for-entries-the-global-sparkling-masters-2026/)**
-  the drinks business is now taking entries for The Global Sparkling Masters 2026, one of the industry’s most prestigious ...
-
 ### 📰 Wine-Searcher
 
-![Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/images/news-rss/99/09/9909814216369c196ec_chavez1.jpg)
+![Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/images/news-rss/99/10/9910414219269c2f486_WineVoices_The-Wine-Podcast-23_YouTube-thumbnail_2_optimized_2000.jpg)
 
-- **[Wine World Grapples with Chavez Legacy](https://www.wine-searcher.com/m/2026/03/wine-world-grapples-with-chavez-legacy?rss=Y)**
-  Cesar Chavez was a hero to many farmworkers, but the dark side of his legend cannot be ignored....
+- **[Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/m/2026/03/ao-yun-an-epic-wine-adventure?rss=Y)**
+  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
+
+### 📰 The Drinks Business
+
+![What’s happening to Chicago’s beer scene?](https://www.thedrinksbusiness.com/content/uploads/2025/09/iStock-1475142781-1-scaled.jpg)
+
+- **[What’s happening to Chicago’s beer scene?](https://www.thedrinksbusiness.com/2026/03/whats-happening-to-chicagos-beer-scene/)**
+  Chicago breweries have been facing closures and mergers this year in a situation that is signalling the disappearance of...
+  *关键词: merger*
+
+![New data reveals bumper 2025 harvest for UK vineyards](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-481864048-1024x683-1.jpg)
+
+- **[New data reveals bumper 2025 harvest for UK vineyards](https://www.thedrinksbusiness.com/2026/03/new-data-reveals-bumper-2025-harvest-for-uk-vineyards/)**
+  WineGB has published its 2025 harvest report alongside the latest edition of its viticultural Green Book as the new grow...
+
+![Moscato d’Asti fizz soars 55% in China, bucking global slump](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1161131124-scaled.jpg)
+
+- **[Moscato d’Asti fizz soars 55% in China, bucking global slump](https://www.thedrinksbusiness.com/2026/03/moscato-dasti-fizz-soars-55-in-china-bucking-global-slump/)**
+  Sales of Moscato d’Asti have surged across Asia, fuelled by a 55% boom in China which has become the denomination's thir...
+  *关键词: market*
+
+![Henkell Freixenet taps into global sparkling trends](https://www.thedrinksbusiness.com/content/uploads/2026/03/Lead-image-Henkell-Freixenet-scaled.jpg)
+
+- **[Henkell Freixenet taps into global sparkling trends](https://www.thedrinksbusiness.com/2026/03/henkell-freixenet-taps-into-global-sparkling-trends/)**
+  The world's largest producer of sparkling wines used a Wine Paris masterclass to survey the trends driving the category,...
+  *关键词: trend*
+
+![Friuli Venezia Giulia opens registrations for Vinitaly 2026](https://www.thedrinksbusiness.com/content/uploads/2026/03/Senza-titolo-720-x-405-mm-scaled.png)
+
+- **[Friuli Venezia Giulia opens registrations for Vinitaly 2026](https://www.thedrinksbusiness.com/2026/03/friuli-venezia-giulia-opens-registrations-for-vinitaly-2026/)**
+  Visitors to the Friuli Venezia Giulia area at Vinitaly can expect scores of producers and dedicated tasting zones, plus ...
 
 ### 📰 Decanter
 
-![A white wine future? Benjamin Lewin MW explores a bold claim](https://cdn.mos.cms.futurecdn.net/DT4YMagS4ADCpUvSYMMsgH-1280-80.jpg)
+![Gen Z Wine Challenge: Amelia, 21](https://cdn.mos.cms.futurecdn.net/MLXBV9Cf69WLNReGAQu7R4-1280-80.jpg)
 
-- **[A white wine future? Benjamin Lewin MW explores a bold claim](https://www.decanter.com/wine-news/guest-blog/a-white-wine-future-benjamin-lewin-mw-explores-a-bold-claim)**
-  Is white wine set to dominate?......
+- **[Gen Z Wine Challenge: Amelia, 21](https://www.decanter.com/wine-news/guest-blog/gen-z-wine-challenge-amelia-21)**
+  In a new Decanter series, 18- to 29-year olds around the world give their honest opinion about a wine they've splashed o...
+
+![Meet the new technical manager of Château-Grillet on its 90th anniversary](https://cdn.mos.cms.futurecdn.net/5gTjwLUwvFDewyaLxkYNKF-1280-80.png)
+
+- **[Meet the new technical manager of Château-Grillet on its 90th anniversary](https://www.decanter.com/wine/northern-rhone/meet-the-new-technical-manager-of-chateau-grillet-on-its-90th-anniversary)**
+  One appellation, one estate, one grape variety, 3.5ha. Matt Walls checks in on this legendary Rhône white, 90 years afte...
 
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Glendronach marks bicentennial with £35k whisky](https://www.thespiritsbusiness.com/content/uploads/2026/03/Glendronach-56-year-old.jpg)
-
-- **[Glendronach marks bicentennial with £35k whisky](https://www.thespiritsbusiness.com/2026/03/glendronach-marks-bicentennial-with-35k-whisky/)**
-  Brown-Forman's Glendronach Distillery has unveiled its oldest release to date: a 56-year-old single malt, celebrating it...
-
-![New Grove hosts partners at Rum Odyssey](https://www.thespiritsbusiness.com/content/uploads/2026/03/New-Grove-Rum-Odyssey.jpg)
-
-- **[New Grove hosts partners at Rum Odyssey](https://www.thespiritsbusiness.com/2026/03/new-grove-hosts-partners-at-rum-odyssey/)**
-  Grays-owned New Grove Distillery invited its international partners to an immersive rum experience at its home in Maurit...
-
-![Jameson bottle makers to strike over job cuts](https://www.thespiritsbusiness.com/content/uploads/2026/03/bottle-manufacturing.jpg)
-
-- **[Jameson bottle makers to strike over job cuts](https://www.thespiritsbusiness.com/2026/03/jameson-bottle-makers-to-strike-over-job-cuts/)**
-  Workers at glass manufacturing firm Encirc will go on strike this month over proposed job cuts that they claim will 'cre...
-
-![Four Roses ushers in first campaign under Gallo](https://www.thespiritsbusiness.com/content/uploads/2026/03/Meet-Me-With-Four-Roses-campaign-.jpg)
-
-- **[Four Roses ushers in first campaign under Gallo](https://www.thespiritsbusiness.com/2026/03/four-roses-ushers-in-first-campaign-under-gallo/)**
-  Kentucky Bourbon Four Roses has launched a new Meet Me With Four Roses campaign, marking its first initiative under Gall...
-  *关键词: launch*
-
-![Rémy Cointreau appoints GTR MD](https://www.thespiritsbusiness.com/content/uploads/2026/03/Annabelle-Chung-Remy-Cointreau.jpg)
-
-- **[Rémy Cointreau appoints GTR MD](https://www.thespiritsbusiness.com/2026/03/remy-cointreau-appoints-gtr-md/)**
-  Annabelle Chung has taken up the role of global travel retail managing director for Asia Pacific at Rémy Cointreau
-The p...
-
 ### 📰 Brewbound
 
-- **[Molson Coors to Acquire Monaco Maker Atomic Brands](https://www.brewbound.com/news/molson-coors-to-acquire-monaco-maker-atomic-brands)**
-  Molson Coors has struck a deal to acquire spirits-based, ready-to-drink (RTD) cocktail pioneer Atomic Brands, whose Mona...
+- **[Circana Weekly Scans: Bev-Alc Sales Flat Ahead of St. Patrick’s Day as Spirits, RTDs Drive Growth](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-sales-flat-ahead-of-st-patricks-day-as-spirits-rtds-drive-growth)**
+  Total beverage-alcohol dollar sales were roughly flat year-over-year (YoY) in the week leading up to St. Patrick’s Day, ...
+  *关键词: market*
 
-- **[Southern Glazer’s Strikes Another A-B Distributor Deal, Adding Eagle Rock in Colorado](https://www.brewbound.com/news/southern-glazers-strikes-another-a-b-distributor-deal-adding-eagle-rock-in-colorado)**
-  Southern Glazer’s Wine &#038; Spirits’ ambitions for Anheuser-Busch InBev’s portfolio aren’t limited to New York. The wi...
+- **[States Take Various Approaches To Hemp Regulation Within Alcohol Oversight](https://www.brewbound.com/news/states-take-various-approaches-to-hemp-regulation-within-alcohol-oversight)**
+  As Congress’s November deadline ticks closer for intoxicating hemp beverage makers, states are not waiting to pass their...
 
-- **[Brewbound to Kick Off CBC Week with Networking Happy Hour at Love City Brewing](https://www.brewbound.com/news/brewbound-to-kick-off-cbc-week-with-networking-happy-hour-at-love-city-brewing)**
-  Start your CBC week with the Brewbound team and industry peers at Love City Brewing! We are excited to host a networking...
+- **[Why Perceived Value Matters More Than Pricing in the On-Premise](https://www.brewbound.com/news/why-perceived-value-matters-more-than-pricing-in-the-on-premise)**
+  Perceived value is reality when it comes to beverage-alcohol sales in HMSHost’s more than 1,000 dining venues located in...
+  *关键词: partnership*
+
+- **[Casamigos Adds Pre-Mixed Margaritas](https://www.brewbound.com/news/casamigos-adds-pre-mixed-margaritas)**
+  Diageo’s Casamigos, the O.G. celebrity tequila brand co-founded by George Clooney, is entering ready-to-serve cocktails ...
+
+- **[Bai Founder Ben Weiss Joins Hard Soda Trend with Crooked Pop](https://www.brewbound.com/news/bai-founder-ben-weiss-joins-hard-soda-trend-with-crooked-pop)**
+  Ben Weiss, best known as the creator of Bai, is taking his disruptive bev-alc concept into a new space with the launch o...
+  *关键词: launch, trend*
+
+### 📰 The Spirits Business
+
+![Southern Glazer’s makes yet another acquisition](https://www.thespiritsbusiness.com/content/uploads/2026/03/colorado-iStock-537215344.jpg)
+
+- **[Southern Glazer’s makes yet another acquisition](https://www.thespiritsbusiness.com/2026/03/southern-glazers-makes-yet-another-acquisition/)**
+  Less than a week after purchasing Clare Rose, Southern Glazer’s Wine & Spirits has agreed to buy Eagle Rock’s Colorado o...
+  *关键词: acquisition, acquisition*
+
+![Giffard offers bartenders trip to South America](https://www.thespiritsbusiness.com/content/uploads/2026/03/Giffard-West-Cup-cocktail-competition.jpg)
+
+- **[Giffard offers bartenders trip to South America](https://www.thespiritsbusiness.com/2026/03/giffard-offers-bartenders-trip-to-south-america/)**
+  The West Cup cocktail competition, created by liqueur producer Giffard, has returned for 2026 with a trip to South Ameri...
+
+![Loch Lomond debuts The Original Series with single malt trio](https://www.thespiritsbusiness.com/content/uploads/2026/03/Loch-Lomond-Original-Series.jpg)
+
+- **[Loch Lomond debuts The Original Series with single malt trio](https://www.thespiritsbusiness.com/2026/03/loch-lomond-debuts-the-original-series-with-single-malt-trio/)**
+  Highland distillery Loch Lomond has unveiled a trio of single malt whiskies that seek to demonstrate ‘flavour innovation...
+
+![Ukiyo Gin ups GTR presence](https://www.thespiritsbusiness.com/content/uploads/2026/03/Ukiyo-Japanese-Gin.jpg)
+
+- **[Ukiyo Gin ups GTR presence](https://www.thespiritsbusiness.com/2026/03/ukiyo-gin-ups-gtr-presence/)**
+  Kirker Greer Spirits’ Ukiyo Japanese Gin has partnered with Gebr Heinemann to increase its presence in global travel ret...
+
+![US whiskey maker takes over Waterford Distillery](https://www.thespiritsbusiness.com/content/uploads/2024/09/Waterford-Biodynaic-Luna.jpg)
+
+- **[US whiskey maker takes over Waterford Distillery](https://www.thespiritsbusiness.com/2026/03/us-whiskey-maker-takes-over-waterford-distillery/)**
+  Tennessee Distilling Group has agreed to buy Waterford Distillery after the Irish whiskey maker entered receivership in ...
 
 ### 📰 Wine Enthusiast
 
-![Spring Refresh](https://res.cloudinary.com/htt8g4cd/image/upload/w_1920,c_scale,f_auto,q_auto/wp/1920x660_spring-refresh-promo_v2_position2)
+![Move Over, Manischewitz: Elevate Your Passover with These Kosher Wines](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/03_26_wines_for_passover_herzog_variations_2023_be-leaf_variations_cabernet_sauvignon_700x466)
 
-- **[Spring Refresh](https://www.wineenthusiast.com/shop/spring-refresh/)**
-  Just Uncorked: New Arrivals Spring has sprung in our collection, with a fresh crop of finds for wine lovers who have a t...
-  *关键词: new product*
+- **[Move Over, Manischewitz: Elevate Your Passover with These Kosher Wines](https://www.wineenthusiast.com/culture/wine/kosher-wines-we-love/)**
+  Nervous about bringing the right wine to Passover seder? Look no further than these highly-rated kosher bottles.
+The pos...
 
-![Furniture](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh19)
+![The Master Blender Who Turned Bordeaux into a Global Sensation Leaves the Wine World Forever Changed](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_RedWine_SubSubCategory_580x720.jpg)
 
-- **[Furniture](https://www.wineenthusiast.com/shop/spring-refresh/wine-furniture/)**
-  The post Furniture appeared first on Wine Enthusiast....
-
-![Glassware](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh_12)
-
-- **[Glassware](https://www.wineenthusiast.com/shop/spring-refresh/glassware/)**
-  The post Glassware appeared first on Wine Enthusiast....
-
-![Staff Picks](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh_03-1)
-
-- **[Staff Picks](https://www.wineenthusiast.com/shop/spring-refresh/staff-picks/)**
-  The post Staff Picks appeared first on Wine Enthusiast....
-
-![Outdoor Entertaining](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh_16-1)
-
-- **[Outdoor Entertaining](https://www.wineenthusiast.com/shop/spring-refresh/outdoor-entertaining/)**
-  The post Outdoor Entertaining appeared first on Wine Enthusiast....
+- **[The Master Blender Who Turned Bordeaux into a Global Sensation Leaves the Wine World Forever Changed](https://www.wineenthusiast.com/culture/industry-news/michel-rolland/)**
+  The celebrated Bordeaux-based oenologist Michel Rolland pioneered a style of red blend that defined the 1990s and 2000s ...
 
 
 ---
 
-*报告生成时间: 2026-03-24 03:00*  
+*报告生成时间: 2026-03-24 16:00*  
 *Antonelli Intelligence System*
