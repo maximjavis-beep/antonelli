@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 36 条
+- **新增资讯**: 51 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -42,35 +42,45 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Prohibitionists Still Going after Wine](https://www.wine-searcher.com/images/news-rss/99/10/9910914220769c436f7_codex1.jpg)
+
+- **[Prohibitionists Still Going after Wine](https://www.wine-searcher.com/m/2026/03/prohibitionists-still-going-after-wine?rss=Y)**
+  A shadowy international organization is trying to put warning labels on your favorite Cabernet and Chardonnay....
+
+![Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/images/news-rss/99/10/9910414219269c2f486_WineVoices_The-Wine-Podcast-23_YouTube-thumbnail_2_optimized_2000.jpg)
+
+- **[Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/m/2026/03/ao-yun-an-epic-wine-adventure?rss=Y)**
+  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
+
 ### 📰 The Drinks Business
 
-![All the medallists from The Global Merlot Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2026/03/img_90-1-1-scaled.jpg)
+![Top DC bars team up at Silver Lyan to tap cherry blossom footfall](https://www.thedrinksbusiness.com/content/uploads/2026/03/barmini-credit-Kevin-Parisi-Photo-scaled.jpg)
 
-- **[All the medallists from The Global Merlot Masters 2026](https://www.thedrinksbusiness.com/2026/03/all-the-medallists-from-the-global-merlot-masters-2026/)**
-  This year's Merlot Masters brought plenty of medals, but it was only at the upper end of the price ladder that wines rea...
+- **[Top DC bars team up at Silver Lyan to tap cherry blossom footfall](https://www.thedrinksbusiness.com/2026/03/top-dc-bars-team-up-at-silver-lyan-to-tap-cherry-blossom-footfall/)**
+  Washington DC’s peak tourism moment becomes the backdrop for a multi-venue drinks and food series running from today unt...
 
-![What’s happening to Chicago’s beer scene?](https://www.thedrinksbusiness.com/content/uploads/2025/09/iStock-1475142781-1-scaled.jpg)
+![Medieval grape seed reveals 600-year lineage of Pinot Noir](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1346316025.jpg)
 
-- **[What’s happening to Chicago’s beer scene?](https://www.thedrinksbusiness.com/2026/03/whats-happening-to-chicagos-beer-scene/)**
-  Chicago breweries have been facing closures and mergers this year in a situation that is signalling the disappearance of...
-  *关键词: merger*
+- **[Medieval grape seed reveals 600-year lineage of Pinot Noir](https://www.thedrinksbusiness.com/2026/03/medieval-grape-seed-reveals-600-year-lineage-of-pinot-noir/)**
+  From a medieval hospital latrine to modern vineyards, a single grape seed is offering an extraordinary genetic link to 6...
 
-![New data reveals bumper 2025 harvest for UK vineyards](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-481864048-1024x683-1.jpg)
+![Master Winemaker 100: Sandrine Logette-Jardin](https://www.thedrinksbusiness.com/content/uploads/2026/03/2023-PORTRAIT-SANDRINELOGETTE-SALLEDEDEGUSTATION-VERTUS.jpg)
 
-- **[New data reveals bumper 2025 harvest for UK vineyards](https://www.thedrinksbusiness.com/2026/03/new-data-reveals-bumper-2025-harvest-for-uk-vineyards/)**
-  WineGB has published its 2025 harvest report alongside the latest edition of its viticultural Green Book as the new grow...
+- **[Master Winemaker 100: Sandrine Logette-Jardin](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-sandrine-logette-jardin/)**
+  The cellar master at Champagne Duval-Leroy features in this year's Master Winemaker 100 guide. She tells db about pushin...
 
-![Moscato d’Asti fizz soars 55% in China, bucking global slump](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1161131124-scaled.jpg)
+![EU tariff removal ‘levels the competitive landscape’ for Australian wine](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-959189702.jpg)
 
-- **[Moscato d’Asti fizz soars 55% in China, bucking global slump](https://www.thedrinksbusiness.com/2026/03/moscato-dasti-fizz-soars-55-in-china-bucking-global-slump/)**
-  Sales of Moscato d’Asti have surged across Asia, fuelled by a 55% boom in China which has become the denomination's thir...
+- **[EU tariff removal ‘levels the competitive landscape’ for Australian wine](https://www.thedrinksbusiness.com/2026/03/eu-tariff-removal-levels-the-competitive-landscape-for-australian-wine/)**
+  The long-negotiated trade agreement between Australia and the European Union is set to reshape the commercial landscape ...
   *关键词: market*
 
-![Henkell Freixenet taps into global sparkling trends](https://www.thedrinksbusiness.com/content/uploads/2026/03/Lead-image-Henkell-Freixenet-scaled.jpg)
+![Indian brewers warn of beer shortages as US-Iran war hits supply](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-841033108-scaled.jpg)
 
-- **[Henkell Freixenet taps into global sparkling trends](https://www.thedrinksbusiness.com/2026/03/henkell-freixenet-taps-into-global-sparkling-trends/)**
-  The world's largest producer of sparkling wines used a Wine Paris masterclass to survey the trends driving the category,...
-  *关键词: trend*
+- **[Indian brewers warn of beer shortages as US-Iran war hits supply](https://www.thedrinksbusiness.com/2026/03/indian-brewers-warn-of-beer-shortages-as-us-iran-war-hits-supply/)**
+  Global brewers in India are warning of price hikes and potential supply chain disruptions, due to a gas shortage trigger...
 
 ### 📰 Decanter
 
@@ -89,79 +99,74 @@
 - **[Meet the new technical manager of Château-Grillet on its 90th anniversary](https://www.decanter.com/wine/northern-rhone/meet-the-new-technical-manager-of-chateau-grillet-on-its-90th-anniversary)**
   One appellation, one estate, one grape variety, 3.5ha. Matt Walls checks in on this legendary Rhône white, 90 years afte...
 
-### 📰 Wine-Searcher
-
-![Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/images/news-rss/99/10/9910414219269c2f486_WineVoices_The-Wine-Podcast-23_YouTube-thumbnail_2_optimized_2000.jpg)
-
-- **[Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/m/2026/03/ao-yun-an-epic-wine-adventure?rss=Y)**
-  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![GlenAllachie unveils 35YO cask strength whisky](https://www.thespiritsbusiness.com/content/uploads/2026/03/The-GlenAllachie-1990-35-year-old-Cask-Strength.jpg)
-
-- **[GlenAllachie unveils 35YO cask strength whisky](https://www.thespiritsbusiness.com/2026/03/glenallachie-unveils-35yo-cask-strength-whisky/)**
-  The GlenAllachie Distillery has released a 35-year-old single malt aged in four different cask types, including virgin m...
-
-![Southern Glazer’s makes yet another acquisition](https://www.thespiritsbusiness.com/content/uploads/2026/03/colorado-iStock-537215344.jpg)
-
-- **[Southern Glazer’s makes yet another acquisition](https://www.thespiritsbusiness.com/2026/03/southern-glazers-makes-yet-another-acquisition/)**
-  Less than a week after purchasing Clare Rose, Southern Glazer’s Wine & Spirits has agreed to buy Eagle Rock’s Colorado o...
-  *关键词: acquisition, acquisition*
-
-![Giffard offers bartenders trip to South America](https://www.thespiritsbusiness.com/content/uploads/2026/03/Giffard-West-Cup-cocktail-competition.jpg)
-
-- **[Giffard offers bartenders trip to South America](https://www.thespiritsbusiness.com/2026/03/giffard-offers-bartenders-trip-to-south-america/)**
-  The West Cup cocktail competition, created by liqueur producer Giffard, has returned for 2026 with a trip to South Ameri...
-
-![Loch Lomond debuts The Original Series with single malt trio](https://www.thespiritsbusiness.com/content/uploads/2026/03/Loch-Lomond-Original-Series.jpg)
-
-- **[Loch Lomond debuts The Original Series with single malt trio](https://www.thespiritsbusiness.com/2026/03/loch-lomond-debuts-the-original-series-with-single-malt-trio/)**
-  Highland distillery Loch Lomond has unveiled a trio of single malt whiskies that seek to demonstrate ‘flavour innovation...
-
-![Ukiyo Gin ups GTR presence](https://www.thespiritsbusiness.com/content/uploads/2026/03/Ukiyo-Japanese-Gin.jpg)
-
-- **[Ukiyo Gin ups GTR presence](https://www.thespiritsbusiness.com/2026/03/ukiyo-gin-ups-gtr-presence/)**
-  Kirker Greer Spirits’ Ukiyo Japanese Gin has partnered with Gebr Heinemann to increase its presence in global travel ret...
-
 ### 📰 Brewbound
 
-- **[Circana Weekly Scans: Bev-Alc Sales Flat Ahead of St. Patrick’s Day as Spirits, RTDs Drive Growth](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-sales-flat-ahead-of-st-patricks-day-as-spirits-rtds-drive-growth)**
-  Total beverage-alcohol dollar sales were roughly flat year-over-year (YoY) in the week leading up to St. Patrick’s Day, ...
+- **[KEG 1 to Take ‘Controlling Equity’ Stake in Pine State Trading in Maine, New Hampshire](https://www.brewbound.com/news/keg-1-to-take-controlling-equity-stake-in-pine-state-trading-in-maine-new-hampshire)**
+  Multi-state distribution platform/consolidator KEG 1 has inked a deal to acquire a "controlling equity” stake in Pine St...
+  *关键词: distribution*
+
+- **[NIQ Weekly Scans: YoY Bev-Alc Declines Accelerate Ahead of St. Patrick’s Day](https://www.brewbound.com/news/niq-weekly-scans-yoy-bev-alc-declines-accelerate-ahead-of-st-patricks-day)**
+  Bev-alc’s year-over-year (YoY) off-premise losses accelerated slightly in the week leading up to St. Patrick’s Day, desp...
   *关键词: market*
 
-- **[States Take Various Approaches To Hemp Regulation Within Alcohol Oversight](https://www.brewbound.com/news/states-take-various-approaches-to-hemp-regulation-within-alcohol-oversight)**
-  As Congress’s November deadline ticks closer for intoxicating hemp beverage makers, states are not waiting to pass their...
+- **[Constellation-Backed Hiyo Goes Nationwide at Target](https://www.brewbound.com/news/constellation-backed-hiyo-goes-nationwide-at-target)**
+  Hiyo, the non-alcoholic (NA) social tonic brand with investment from Constellation Brands, will hit nearly 2,000 Target ...
+  *关键词: investment*
 
-- **[Why Perceived Value Matters More Than Pricing in the On-Premise](https://www.brewbound.com/news/why-perceived-value-matters-more-than-pricing-in-the-on-premise)**
-  Perceived value is reality when it comes to beverage-alcohol sales in HMSHost’s more than 1,000 dining venues located in...
-  *关键词: partnership*
+- **[Press Clips: Stone Steps Up to the Plate at Petco Park; Plus, Monaco’s Value Positioning; JP Morgan’s Beverage Team on State of M&A](https://www.brewbound.com/news/press-clips-stone-steps-up-to-the-plate-at-petco-park-plus-monacos-value-positioning-jp-morgans-beverage-team-on-state-of-ma)**
+  In time for Opening Day and to mark the brewery’s 30th anniversary, Stone Brewing (Escondido, California) has unveiled a...
 
-- **[Casamigos Adds Pre-Mixed Margaritas](https://www.brewbound.com/news/casamigos-adds-pre-mixed-margaritas)**
-  Diageo’s Casamigos, the O.G. celebrity tequila brand co-founded by George Clooney, is entering ready-to-serve cocktails ...
+- **[BPI: Total Beer at Benchmark for First Time in 20 Months](https://www.brewbound.com/news/bpi-total-beer-at-benchmark-for-first-time-in-20-months)**
+  The latest Beer Purchasers’ Index (BPI) from the National Beer Wholesalers Association (NBWA) revealed that for the firs...
 
-- **[Bai Founder Ben Weiss Joins Hard Soda Trend with Crooked Pop](https://www.brewbound.com/news/bai-founder-ben-weiss-joins-hard-soda-trend-with-crooked-pop)**
-  Ben Weiss, best known as the creator of Bai, is taking his disruptive bev-alc concept into a new space with the launch o...
-  *关键词: launch, trend*
+### 📰 The Spirits Business
+
+![Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/content/uploads/2026/03/DARK_FOREST2.jpg)
+
+- **[Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/2026/03/isle-of-barra-debuts-black-forest-rum/)**
+  Spirits producer Isle of Barra Distillers has infused its Dark Scottish Rum with wild cherry and blackcurrant
+The post I...
+
+![Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Elijah-Craig-1.jpg)
+
+- **[Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/2026/03/scottish-golfer-tempts-fans-to-switch-from-scotch-to-bourbon/)**
+  Professional golfer Bob MacIntyre is encouraging drinkers to swap Scotch for Bourbon in his latest campaign for Elijah C...
+
+![Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/content/uploads/2026/03/Kavalan-Distillery-Select-No.1.jpg)
+
+- **[Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/2026/03/kavalan-whisky-lands-in-bahrain/)**
+  Taiwanese single malt Kavalan has appointed Gulf Brands International as its distributor in the Kingdom of Bahrain
+The p...
+
+![Inception Group embraces competitive socialising](https://www.thespiritsbusiness.com/content/uploads/2026/03/Mr-Foggs-Games-Parlour-credit-Jonny-Stephens.jpg)
+
+- **[Inception Group embraces competitive socialising](https://www.thespiritsbusiness.com/2026/03/inception-group-embraces-competitive-socialising/)**
+  Mr Fogg’s Games Parlour at the brand’s City Tavern in London will be Inception Group’s first foray into competitive soci...
+
+![Diageo sells RCB cricket teams for $1.77bn](https://www.thespiritsbusiness.com/content/uploads/2024/07/Royal_Challenge_Shot-F5FC08.jpg)
+
+- **[Diageo sells RCB cricket teams for $1.77bn](https://www.thespiritsbusiness.com/2026/03/diageo-sells-rcb-cricket-teams-for-1-77bn/)**
+  The Indian arm of Diageo has agreed to sell its Premier League cricket business to a consortium for INR 166.6 billion (U...
 
 ### 📰 Wine Enthusiast
 
-![Move Over, Manischewitz: Elevate Your Passover with These Kosher Wines](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/03_26_wines_for_passover_herzog_variations_2023_be-leaf_variations_cabernet_sauvignon_700x466)
+![After 10 Grammy Wins, Norah Jones’ Pivot to Wine Is Hitting the Right Notes](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
 
-- **[Move Over, Manischewitz: Elevate Your Passover with These Kosher Wines](https://www.wineenthusiast.com/culture/wine/kosher-wines-we-love/)**
-  Nervous about bringing the right wine to Passover seder? Look no further than these highly-rated kosher bottles.
-The pos...
+- **[After 10 Grammy Wins, Norah Jones’ Pivot to Wine Is Hitting the Right Notes](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/norah-jones-wine/)**
+  As part-owner of French winery Maison Wessman, the singer-songwriter has launched her own line of wines called "This Lif...
+  *关键词: launch*
 
-![The Master Blender Who Turned Bordeaux into a Global Sensation Leaves the Wine World Forever Changed](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_RedWine_SubSubCategory_580x720.jpg)
+![What Happens When Cocktails No Longer Pay the Bills?](https://www.wineenthusiast.com/wp-content/uploads/2025/04/bar-culture-martini-glasses.jpg)
 
-- **[The Master Blender Who Turned Bordeaux into a Global Sensation Leaves the Wine World Forever Changed](https://www.wineenthusiast.com/culture/industry-news/michel-rolland/)**
-  The celebrated Bordeaux-based oenologist Michel Rolland pioneered a style of red blend that defined the 1990s and 2000s ...
+- **[What Happens When Cocktails No Longer Pay the Bills?](https://www.wineenthusiast.com/culture/industry-news/na-trend-restaurants/)**
+  As alcohol consumption declines, operators are feeling the strain—and getting creative to keep guests happy enough to or...
+  *关键词: trend*
 
 
 ---
 
-*报告生成时间: 2026-03-25 03:00*  
+*报告生成时间: 2026-03-25 16:00*  
 *Antonelli Intelligence System*
