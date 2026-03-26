@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-26  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 32 条
+- **新增资讯**: 29 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -37,81 +37,104 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Resilience the Key for US Wine Market](https://www.wine-searcher.com/images/news-rss/99/11/9911214222969c59655_nawr1.jpg)
+
+- **[Resilience the Key for US Wine Market](https://www.wine-searcher.com/m/2026/03/resilience-the-key-for-us-wine-market?rss=Y)**
+  In advance of May's National Association of Wine Retailers annual summit, executive director Tom Wark has some thoughts ...
+  *关键词: market*
+
 ### 📰 The Drinks Business
 
-![All the medal-winning wines from The Spring Tasting 2026](https://www.thedrinksbusiness.com/content/uploads/2026/03/img_98-1-1-scaled.jpg)
+![Call for entries: The Global Organic & Vegan Wine Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/05/iStock-1691920834.jpg)
 
-- **[All the medal-winning wines from The Spring Tasting 2026](https://www.thedrinksbusiness.com/2026/03/all-the-medal-winning-wines-from-the-spring-tasting-2026/)**
-  The Spring Tasting is an eclectic affair, with wines of every imaginable style, but the quality of this year's entries w...
-
-![Top DC bars team up at Silver Lyan to tap cherry blossom footfall](https://www.thedrinksbusiness.com/content/uploads/2026/03/barmini-credit-Kevin-Parisi-Photo-scaled.jpg)
-
-- **[Top DC bars team up at Silver Lyan to tap cherry blossom footfall](https://www.thedrinksbusiness.com/2026/03/top-dc-bars-team-up-at-silver-lyan-to-tap-cherry-blossom-footfall/)**
-  Washington DC’s peak tourism moment becomes the backdrop for a multi-venue drinks and food series running from today unt...
-
-![Medieval grape seed reveals 600-year lineage of Pinot Noir](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1346316025.jpg)
-
-- **[Medieval grape seed reveals 600-year lineage of Pinot Noir](https://www.thedrinksbusiness.com/2026/03/medieval-grape-seed-reveals-600-year-lineage-of-pinot-noir/)**
-  From a medieval hospital latrine to modern vineyards, a single grape seed is offering an extraordinary genetic link to 6...
-
-![Master Winemaker 100: Sandrine Logette-Jardin](https://www.thedrinksbusiness.com/content/uploads/2026/03/2023-PORTRAIT-SANDRINELOGETTE-SALLEDEDEGUSTATION-VERTUS.jpg)
-
-- **[Master Winemaker 100: Sandrine Logette-Jardin](https://www.thedrinksbusiness.com/2026/03/master-winemaker-100-sandrine-logette-jardin/)**
-  The cellar master at Champagne Duval-Leroy features in this year's Master Winemaker 100 guide. She tells db about pushin...
-
-![EU tariff removal ‘levels the competitive landscape’ for Australian wine](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-959189702.jpg)
-
-- **[EU tariff removal ‘levels the competitive landscape’ for Australian wine](https://www.thedrinksbusiness.com/2026/03/eu-tariff-removal-levels-the-competitive-landscape-for-australian-wine/)**
-  The long-negotiated trade agreement between Australia and the European Union is set to reshape the commercial landscape ...
+- **[Call for entries: The Global Organic & Vegan Wine Masters 2026](https://www.thedrinksbusiness.com/2026/03/final-call-for-entries-the-global-organic-vegan-wine-masters-2026/)**
+  the drinks business is now taking entries for The Global Organic & Vegan Wine Masters 2026, a competition that celebrate...
   *关键词: market*
+
+![‘We’ve spent £700,000 developing the app’: Virgin Wines bets on mobile retail](https://www.thedrinksbusiness.com/content/uploads/2026/03/Untitled-design-29.png)
+
+- **[‘We’ve spent £700,000 developing the app’: Virgin Wines bets on mobile retail](https://www.thedrinksbusiness.com/2026/03/weve-spent-700000-developing-the-app-virgin-wines-bets-on-mobile-retail/)**
+  Virgin Wines has launched its first mobile app, marking a significant development in the company’s digital strategy, bac...
+  *关键词: launch, investment*
+
+![Kentucky retailer Cox’s Spirit Shoppe & Evergreen Liquors opens 26th store](https://www.thedrinksbusiness.com/content/uploads/2026/03/image-1.png)
+
+- **[Kentucky retailer Cox’s Spirit Shoppe & Evergreen Liquors opens 26th store](https://www.thedrinksbusiness.com/2026/03/kentucky-retailer-coxs-spirit-shoppe-evergreen-liquors-opens-26th-store/)**
+  Louisville-based drinks retailer Cox’s Spirit Shoppe & Evergreen Liquors has opened its 26th location in Kentucky. The n...
+
+![New laws for Georgian vineyards spark corruption fears](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-502395440-scaled.jpg)
+
+- **[New laws for Georgian vineyards spark corruption fears](https://www.thedrinksbusiness.com/2026/03/new-laws-for-georgian-vineyards-spark-corruption-fears/)**
+  Under new laws, Georgian winemakers will have to seek state approval before setting up commercial vineyards from May. Th...
+
+![Champagne Laurent-Perrier unveils blend for latest Grand Siècle](https://www.thedrinksbusiness.com/content/uploads/2026/03/grand-siecle-no-27.png)
+
+- **[Champagne Laurent-Perrier unveils blend for latest Grand Siècle](https://www.thedrinksbusiness.com/2026/03/champagne-laurent-perrier-unveils-blend-for-latest-grand-siecle/)**
+  Something of an outlier in a world where most high-end Champagnes are from a single harvest, Laurent-Perrier’s prestige ...
 
 ### 📰 Decanter
 
-![Mission DRC? The Yquem affair? A look at the most exciting wine heists of the last five years](https://cdn.mos.cms.futurecdn.net/D7tKaVmBeYugZAfEgH3iPH-1280-80.png)
+![Chateau-Grillet: The legendary Rhône white steps into a new era](https://cdn.mos.cms.futurecdn.net/5gTjwLUwvFDewyaLxkYNKF-1280-80.png)
 
-- **[Mission DRC? The Yquem affair? A look at the most exciting wine heists of the last five years](https://www.decanter.com/wine-news/mission-drc-the-yquem-affair-a-look-at-the-most-exciting-wine-heists-of-the-last-five-years)**
+- **[Chateau-Grillet: The legendary Rhône white steps into a new era](https://www.decanter.com/wine/northern-rhone/meet-the-new-technical-manager-of-chateau-grillet-on-its-90th-anniversary)**
+  New faces at an old estate......
+
+![Mission DRC? The Yquem affair? A look at some of the most exciting wine heists](https://cdn.mos.cms.futurecdn.net/D7tKaVmBeYugZAfEgH3iPH-1280-80.png)
+
+- **[Mission DRC? The Yquem affair? A look at some of the most exciting wine heists](https://www.decanter.com/wine-news/mission-drc-the-yquem-affair-a-look-at-the-most-exciting-wine-heists-of-the-last-five-years)**
   Not Hollywood scripts but rather very real cases of brash robbery and deceit. Some of which remain unresolved....
 
-### 📰 Wine-Searcher
+![Why California's Mediterranean varieties are about to have their moment in the sun](https://cdn.mos.cms.futurecdn.net/eJwzUDYWoWkL4JKuzejUpF-1280-80.jpg)
 
-![Prohibitionists Still Going after Wine](https://www.wine-searcher.com/images/news-rss/99/10/9910914220769c436f7_codex1.jpg)
-
-- **[Prohibitionists Still Going after Wine](https://www.wine-searcher.com/m/2026/03/prohibitionists-still-going-after-wine?rss=Y)**
-  A shadowy international organization is trying to put warning labels on your favorite Cabernet and Chardonnay....
+- **[Why California's Mediterranean varieties are about to have their moment in the sun](https://www.decanter.com/wine/wine-regions/why-californias-mediterranean-varieties-are-about-to-have-their-moment-in-the-sun)**
+  There's much more to California than Cabernet and Chardonnay......
 
 
 ## 🌍 美洲
 
 ### 📰 The Spirits Business
 
-![Buffalo Trace creates second Daniel Weller whiskey](https://www.thespiritsbusiness.com/content/uploads/2026/03/Daniel-Weller-Spelt-Wheat.jpg)
+![Slingsby Gin owner saved from administration](https://www.thespiritsbusiness.com/content/uploads/2021/09/Slingsby-Blackberry-Gin.jpg)
 
-- **[Buffalo Trace creates second Daniel Weller whiskey](https://www.thespiritsbusiness.com/2026/03/buffalo-trace-creates-second-daniel-weller-whiskey/)**
-  Sazerac-owned Buffalo Trace Distillery has released the second edition of its experimental Daniel Weller series, crafted...
+- **[Slingsby Gin owner saved from administration](https://www.thespiritsbusiness.com/2026/03/slingsby-gin-owner-saved-from-administration/)**
+  The company behind Slingsby Gin, Spirit of Harrogate, has been purchased by Brightside Spirits after entering administra...
 
-![Duppy Share rum joins Charter Brands](https://www.thespiritsbusiness.com/content/uploads/2026/03/Duppy-Share-Rum.jpg)
+![Barcelona Cocktail Fest reveals programme](https://www.thespiritsbusiness.com/content/uploads/2026/03/Barcelona-Cocktail-Festival.jpg)
 
-- **[Duppy Share rum joins Charter Brands](https://www.thespiritsbusiness.com/2026/03/duppy-share-rum-joins-charter-brands/)**
-  Caribbean rum brand Duppy Share has partnered with distributor Charter Brands to accelerate its international expansion
-...
+- **[Barcelona Cocktail Fest reveals programme](https://www.thespiritsbusiness.com/2026/03/barcelona-cocktail-fest-reveals-programme/)**
+  The 2026 edition of the Barcelona Cocktail Fest will focus on the theme: ‘FutureProof – reimagining the industry for wha...
+
+![Archers lands in South Africa](https://www.thespiritsbusiness.com/content/uploads/2026/03/Archers.jpg)
+
+- **[Archers lands in South Africa](https://www.thespiritsbusiness.com/2026/03/archers-lands-in-south-africa/)**
+  De Kuyper Royal Distillers has introduced peach-flavoured liqueur Archers to South Africa as part of the brand's global ...
   *关键词: expansion*
 
-![Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/content/uploads/2026/03/DARK_FOREST2.jpg)
+![Cocktail bar opens below London’s Flour & Grape](https://www.thespiritsbusiness.com/content/uploads/2026/03/The-Cellar-Club-below-Flour-Grape-London.jpg)
 
-- **[Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/2026/03/isle-of-barra-debuts-black-forest-rum/)**
-  Spirits producer Isle of Barra Distillers has infused its Dark Scottish Rum with wild cherry and blackcurrant
-The post I...
+- **[Cocktail bar opens below London’s Flour & Grape](https://www.thespiritsbusiness.com/2026/03/cocktail-bar-opens-below-londons-flour-grape/)**
+  The Cellar Club has launched beneath Italian restaurant Flour & Grape in London’s Bermondsey, offering a late-night expe...
+  *关键词: launch*
 
-![Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Elijah-Craig-1.jpg)
+![ACSA CEO steps down after a decade](https://www.thespiritsbusiness.com/content/uploads/2026/03/ACSA-CEO.jpg)
 
-- **[Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/2026/03/scottish-golfer-tempts-fans-to-switch-from-scotch-to-bourbon/)**
-  Professional golfer Bob MacIntyre is encouraging drinkers to swap Scotch for Bourbon in his latest campaign for Elijah C...
+- **[ACSA CEO steps down after a decade](https://www.thespiritsbusiness.com/2026/03/acsa-ceo-steps-down-after-a-decade/)**
+  Margie AS Lehrman will retire from her role as the first CEO of trade body the American Craft Spirits Association in May...
 
-![Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/content/uploads/2026/03/Kavalan-Distillery-Select-No.1.jpg)
+### 📰 Wine Enthusiast
 
-- **[Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/2026/03/kavalan-whisky-lands-in-bahrain/)**
-  Taiwanese single malt Kavalan has appointed Gulf Brands International as its distributor in the Kingdom of Bahrain
-The p...
+![Moderate Wine Drinkers May Live Longer, According to New Study](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_RedWine_SubSubCategory_580x720.jpg)
+
+- **[Moderate Wine Drinkers May Live Longer, According to New Study](https://www.wineenthusiast.com/culture/industry-news/moderate-wine-drinkers-may-live-longer/)**
+  New research suggests that moderate wine drinkers may have a lower risk of death compared to beer, cider, or spirits dri...
+
+![Your ChatGPT Orders Are Making Bartenders Sad](https://www.wineenthusiast.com/wp-content/uploads/2025/04/bar-culture-martini-glasses.jpg)
+
+- **[Your ChatGPT Orders Are Making Bartenders Sad](https://www.wineenthusiast.com/culture/chatgpt-orders-bartenders/)**
+  Guests are increasingly asking ChatGPT and other AI tools what to order—bypassing menus, as well as bartenders.
+The post...
 
 ### 📰 Brewbound
 
@@ -127,28 +150,10 @@ The p...
   Hiyo, the non-alcoholic (NA) social tonic brand with investment from Constellation Brands, will hit nearly 2,000 Target ...
   *关键词: investment*
 
-- **[Press Clips: Stone Steps Up to the Plate at Petco Park; Plus, Monaco’s Value Positioning; JP Morgan’s Beverage Team on State of M&A](https://www.brewbound.com/news/press-clips-stone-steps-up-to-the-plate-at-petco-park-plus-monacos-value-positioning-jp-morgans-beverage-team-on-state-of-ma)**
-  In time for Opening Day and to mark the brewery’s 30th anniversary, Stone Brewing (Escondido, California) has unveiled a...
-
-- **[BPI: Total Beer at Benchmark for First Time in 20 Months](https://www.brewbound.com/news/bpi-total-beer-at-benchmark-for-first-time-in-20-months)**
-  The latest Beer Purchasers’ Index (BPI) from the National Beer Wholesalers Association (NBWA) revealed that for the firs...
-
-### 📰 Wine Enthusiast
-
-![After 10 Grammy Wins, Norah Jones’ Pivot to Wine Is Hitting the Right Notes](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
-
-- **[After 10 Grammy Wins, Norah Jones’ Pivot to Wine Is Hitting the Right Notes](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/norah-jones-wine/)**
-  As part-owner of French winery Maison Wessman, the singer-songwriter has launched her own line of wines called "This Lif...
-  *关键词: launch*
-
-![What Happens When Cocktails No Longer Pay the Bills?](https://www.wineenthusiast.com/wp-content/uploads/2025/04/bar-culture-martini-glasses.jpg)
-
-- **[What Happens When Cocktails No Longer Pay the Bills?](https://www.wineenthusiast.com/culture/industry-news/na-trend-restaurants/)**
-  As alcohol consumption declines, operators are feeling the strain—and getting creative to keep guests happy enough to or...
-  *关键词: trend*
+*📚 以上为近期内容*
 
 
 ---
 
-*报告生成时间: 2026-03-26 03:00*  
+*报告生成时间: 2026-03-26 16:00*  
 *Antonelli Intelligence System*
