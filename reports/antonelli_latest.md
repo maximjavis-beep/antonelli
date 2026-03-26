@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-25  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-03-26  
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 51 条
+- **新增资讯**: 32 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -32,29 +32,17 @@
 - **[Brown Brothers Prosecco NV drives growth as category secures major win](https://theshout.com.au/brown-brothers-prosecco-nv-drives-growth-as-category-secures-major-win/)**
   Brown Brothers is celebrating a major milestone for Australian wine, [&hellip;]...
 
-### 📰 Nomunication
-
-- **[Japanese Whisky law: The National Tax Agency is working on it](https://www.nomunication.jp/2026/03/19/japanese-whisky-law-the-national-tax-agency-is-working-on-it/)**
-  Just minutes ago, on the floor of the National Diet&#8217;s House of the Councillors Budget Committee meeting, Councillo...
-
 *📚 以上为近期内容*
 
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Prohibitionists Still Going after Wine](https://www.wine-searcher.com/images/news-rss/99/10/9910914220769c436f7_codex1.jpg)
-
-- **[Prohibitionists Still Going after Wine](https://www.wine-searcher.com/m/2026/03/prohibitionists-still-going-after-wine?rss=Y)**
-  A shadowy international organization is trying to put warning labels on your favorite Cabernet and Chardonnay....
-
-![Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/images/news-rss/99/10/9910414219269c2f486_WineVoices_The-Wine-Podcast-23_YouTube-thumbnail_2_optimized_2000.jpg)
-
-- **[Ao Yun: An Epic Wine Adventure](https://www.wine-searcher.com/m/2026/03/ao-yun-an-epic-wine-adventure?rss=Y)**
-  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
-
 ### 📰 The Drinks Business
+
+![All the medal-winning wines from The Spring Tasting 2026](https://www.thedrinksbusiness.com/content/uploads/2026/03/img_98-1-1-scaled.jpg)
+
+- **[All the medal-winning wines from The Spring Tasting 2026](https://www.thedrinksbusiness.com/2026/03/all-the-medal-winning-wines-from-the-spring-tasting-2026/)**
+  The Spring Tasting is an eclectic affair, with wines of every imaginable style, but the quality of this year's entries w...
 
 ![Top DC bars team up at Silver Lyan to tap cherry blossom footfall](https://www.thedrinksbusiness.com/content/uploads/2026/03/barmini-credit-Kevin-Parisi-Photo-scaled.jpg)
 
@@ -77,30 +65,53 @@
   The long-negotiated trade agreement between Australia and the European Union is set to reshape the commercial landscape ...
   *关键词: market*
 
-![Indian brewers warn of beer shortages as US-Iran war hits supply](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-841033108-scaled.jpg)
-
-- **[Indian brewers warn of beer shortages as US-Iran war hits supply](https://www.thedrinksbusiness.com/2026/03/indian-brewers-warn-of-beer-shortages-as-us-iran-war-hits-supply/)**
-  Global brewers in India are warning of price hikes and potential supply chain disruptions, due to a gas shortage trigger...
-
 ### 📰 Decanter
 
-![Why Eastern Slovenia is one of Central Europe's great unsung wine regions](https://cdn.mos.cms.futurecdn.net/gHgcRN5vNE5aCuRLEphmWc-1280-80.jpg)
+![Mission DRC? The Yquem affair? A look at the most exciting wine heists of the last five years](https://cdn.mos.cms.futurecdn.net/D7tKaVmBeYugZAfEgH3iPH-1280-80.png)
 
-- **[Why Eastern Slovenia is one of Central Europe's great unsung wine regions](https://www.decanter.com/wine/wine-regions/why-eastern-slovenia-is-one-of-central-europes-great-unsung-wine-regions)**
-  Crisp whites and sensational sparkling from the heart of Central Europe......
+- **[Mission DRC? The Yquem affair? A look at the most exciting wine heists of the last five years](https://www.decanter.com/wine-news/mission-drc-the-yquem-affair-a-look-at-the-most-exciting-wine-heists-of-the-last-five-years)**
+  Not Hollywood scripts but rather very real cases of brash robbery and deceit. Some of which remain unresolved....
 
-![Gen Z Wine Challenge: Amelia, 21](https://cdn.mos.cms.futurecdn.net/MLXBV9Cf69WLNReGAQu7R4-1280-80.jpg)
+### 📰 Wine-Searcher
 
-- **[Gen Z Wine Challenge: Amelia, 21](https://www.decanter.com/wine-news/guest-blog/gen-z-wine-challenge-amelia-21)**
-  In a new Decanter series, 18- to 29-year olds around the world give their honest opinion about a wine they've splashed o...
+![Prohibitionists Still Going after Wine](https://www.wine-searcher.com/images/news-rss/99/10/9910914220769c436f7_codex1.jpg)
 
-![Meet the new technical manager of Château-Grillet on its 90th anniversary](https://cdn.mos.cms.futurecdn.net/5gTjwLUwvFDewyaLxkYNKF-1280-80.png)
-
-- **[Meet the new technical manager of Château-Grillet on its 90th anniversary](https://www.decanter.com/wine/northern-rhone/meet-the-new-technical-manager-of-chateau-grillet-on-its-90th-anniversary)**
-  One appellation, one estate, one grape variety, 3.5ha. Matt Walls checks in on this legendary Rhône white, 90 years afte...
+- **[Prohibitionists Still Going after Wine](https://www.wine-searcher.com/m/2026/03/prohibitionists-still-going-after-wine?rss=Y)**
+  A shadowy international organization is trying to put warning labels on your favorite Cabernet and Chardonnay....
 
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Buffalo Trace creates second Daniel Weller whiskey](https://www.thespiritsbusiness.com/content/uploads/2026/03/Daniel-Weller-Spelt-Wheat.jpg)
+
+- **[Buffalo Trace creates second Daniel Weller whiskey](https://www.thespiritsbusiness.com/2026/03/buffalo-trace-creates-second-daniel-weller-whiskey/)**
+  Sazerac-owned Buffalo Trace Distillery has released the second edition of its experimental Daniel Weller series, crafted...
+
+![Duppy Share rum joins Charter Brands](https://www.thespiritsbusiness.com/content/uploads/2026/03/Duppy-Share-Rum.jpg)
+
+- **[Duppy Share rum joins Charter Brands](https://www.thespiritsbusiness.com/2026/03/duppy-share-rum-joins-charter-brands/)**
+  Caribbean rum brand Duppy Share has partnered with distributor Charter Brands to accelerate its international expansion
+...
+  *关键词: expansion*
+
+![Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/content/uploads/2026/03/DARK_FOREST2.jpg)
+
+- **[Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/2026/03/isle-of-barra-debuts-black-forest-rum/)**
+  Spirits producer Isle of Barra Distillers has infused its Dark Scottish Rum with wild cherry and blackcurrant
+The post I...
+
+![Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Elijah-Craig-1.jpg)
+
+- **[Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/2026/03/scottish-golfer-tempts-fans-to-switch-from-scotch-to-bourbon/)**
+  Professional golfer Bob MacIntyre is encouraging drinkers to swap Scotch for Bourbon in his latest campaign for Elijah C...
+
+![Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/content/uploads/2026/03/Kavalan-Distillery-Select-No.1.jpg)
+
+- **[Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/2026/03/kavalan-whisky-lands-in-bahrain/)**
+  Taiwanese single malt Kavalan has appointed Gulf Brands International as its distributor in the Kingdom of Bahrain
+The p...
 
 ### 📰 Brewbound
 
@@ -122,35 +133,6 @@
 - **[BPI: Total Beer at Benchmark for First Time in 20 Months](https://www.brewbound.com/news/bpi-total-beer-at-benchmark-for-first-time-in-20-months)**
   The latest Beer Purchasers’ Index (BPI) from the National Beer Wholesalers Association (NBWA) revealed that for the firs...
 
-### 📰 The Spirits Business
-
-![Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/content/uploads/2026/03/DARK_FOREST2.jpg)
-
-- **[Isle of Barra debuts Black Forest rum](https://www.thespiritsbusiness.com/2026/03/isle-of-barra-debuts-black-forest-rum/)**
-  Spirits producer Isle of Barra Distillers has infused its Dark Scottish Rum with wild cherry and blackcurrant
-The post I...
-
-![Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/content/uploads/2026/03/Elijah-Craig-1.jpg)
-
-- **[Scottish golfer tempts fans to switch from Scotch to Bourbon](https://www.thespiritsbusiness.com/2026/03/scottish-golfer-tempts-fans-to-switch-from-scotch-to-bourbon/)**
-  Professional golfer Bob MacIntyre is encouraging drinkers to swap Scotch for Bourbon in his latest campaign for Elijah C...
-
-![Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/content/uploads/2026/03/Kavalan-Distillery-Select-No.1.jpg)
-
-- **[Kavalan whisky lands in Bahrain](https://www.thespiritsbusiness.com/2026/03/kavalan-whisky-lands-in-bahrain/)**
-  Taiwanese single malt Kavalan has appointed Gulf Brands International as its distributor in the Kingdom of Bahrain
-The p...
-
-![Inception Group embraces competitive socialising](https://www.thespiritsbusiness.com/content/uploads/2026/03/Mr-Foggs-Games-Parlour-credit-Jonny-Stephens.jpg)
-
-- **[Inception Group embraces competitive socialising](https://www.thespiritsbusiness.com/2026/03/inception-group-embraces-competitive-socialising/)**
-  Mr Fogg’s Games Parlour at the brand’s City Tavern in London will be Inception Group’s first foray into competitive soci...
-
-![Diageo sells RCB cricket teams for $1.77bn](https://www.thespiritsbusiness.com/content/uploads/2024/07/Royal_Challenge_Shot-F5FC08.jpg)
-
-- **[Diageo sells RCB cricket teams for $1.77bn](https://www.thespiritsbusiness.com/2026/03/diageo-sells-rcb-cricket-teams-for-1-77bn/)**
-  The Indian arm of Diageo has agreed to sell its Premier League cricket business to a consortium for INR 166.6 billion (U...
-
 ### 📰 Wine Enthusiast
 
 ![After 10 Grammy Wins, Norah Jones’ Pivot to Wine Is Hitting the Right Notes](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
@@ -168,5 +150,5 @@ The p...
 
 ---
 
-*报告生成时间: 2026-03-25 16:00*  
+*报告生成时间: 2026-03-26 03:00*  
 *Antonelli Intelligence System*
