@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-03-27  
-**来源**: 全球 2 个地区 · 5 个信源
+**来源**: 全球 1 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 25 条
+- **新增资讯**: 13 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -112,16 +112,7 @@
   De Kuyper Royal Distillers has introduced peach-flavoured liqueur Archers to South Africa as part of the brand's global ...
   *关键词: expansion*
 
-![Cocktail bar opens below London’s Flour & Grape](https://www.thespiritsbusiness.com/content/uploads/2026/03/The-Cellar-Club-below-Flour-Grape-London.jpg)
-
-- **[Cocktail bar opens below London’s Flour & Grape](https://www.thespiritsbusiness.com/2026/03/cocktail-bar-opens-below-londons-flour-grape/)**
-  The Cellar Club has launched beneath Italian restaurant Flour & Grape in London’s Bermondsey, offering a late-night expe...
-  *关键词: launch*
-
-![ACSA CEO steps down after a decade](https://www.thespiritsbusiness.com/content/uploads/2026/03/ACSA-CEO.jpg)
-
-- **[ACSA CEO steps down after a decade](https://www.thespiritsbusiness.com/2026/03/acsa-ceo-steps-down-after-a-decade/)**
-  Margie AS Lehrman will retire from her role as the first CEO of trade body the American Craft Spirits Association in May...
+*📚 以上为近期内容*
 
 ### 📰 Wine Enthusiast
 
@@ -135,6 +126,14 @@
 - **[Your ChatGPT Orders Are Making Bartenders Sad](https://www.wineenthusiast.com/culture/chatgpt-orders-bartenders/)**
   Guests are increasingly asking ChatGPT and other AI tools what to order—bypassing menus, as well as bartenders.
 The post...
+
+![After 10 Grammy Wins, Norah Jones’ Pivot to Wine Is Hitting the Right Notes](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
+
+- **[After 10 Grammy Wins, Norah Jones’ Pivot to Wine Is Hitting the Right Notes](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/norah-jones-wine/)**
+  As part-owner of French winery Maison Wessman, the singer-songwriter has launched her own line of wines called "This Lif...
+  *关键词: launch*
+
+*📚 以上为近期内容*
 
 ### 📰 Brewbound
 
@@ -155,5 +154,5 @@ The post...
 
 ---
 
-*报告生成时间: 2026-03-27 03:00*  
+*报告生成时间: 2026-03-27 16:00*  
 *Antonelli Intelligence System*
