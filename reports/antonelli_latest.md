@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 46 条
+- **新增资讯**: 48 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,11 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
+
+![Wednesday Women: Claire Lauber on leading liquor retail at scale](https://theshout.com.au/wp-content/uploads/2026/03/Claire-Lauber_Coles-Liquor-Chief-Executive-2.jpg?w=780)
+
+- **[Wednesday Women: Claire Lauber on leading liquor retail at scale](https://theshout.com.au/wednesday-women-claire-lauber-on-leading-liquor-retail-at-scale/)**
+  After her appointment as CEO, Claire Lauber shares how she’s steering the next phase of growth for Coles Liquor....
 
 ![Lark launches new look and new range](https://theshout.com.au/wp-content/uploads/2026/03/Larknewlookrange.jpg?w=780)
 
@@ -38,16 +43,15 @@
 - **[Fever-Tree brings premium approach to adult soft drinks](https://theshout.com.au/fever-tree-brings-premium-approach-to-adult-soft-drinks/)**
   Developed specifically for Australia, the new Fever-Tree Lemon, Lime and Bitters reimagines the local classic....
 
-![Foxtel Business agrees beIN Sports deal](https://theshout.com.au/wp-content/uploads/2026/03/Foxtel-Business-and-beIN-SPORTS.jpg?w=780)
-
-- **[Foxtel Business agrees beIN Sports deal](https://theshout.com.au/foxtel-business-agrees-bein-sports-deal/)**
-  The new partnership will bring major European football and international tennis back to venues across Australia....
-  *关键词: partnership*
-
 
 ## 🌍 欧洲
 
 ### 📰 Wine-Searcher
+
+![Consumers Reject Expensive Restaurant Wines](https://www.wine-searcher.com/images/news-rss/99/11/9911614223969c97495_listy1.jpg)
+
+- **[Consumers Reject Expensive Restaurant Wines](https://www.wine-searcher.com/m/2026/03/consumers-reject-expensive-restaurant-wines?rss=Y)**
+  High wine prices in US restaurants are turning off diners, and so are the types of wine on offer....
 
 ![The World's Most Wanted Gins of 2026](https://www.wine-searcher.com/images/news-rss/99/11/9911114222869c5b83e_GinMain.jpg)
 
@@ -181,5 +185,5 @@ T...
 
 ---
 
-*报告生成时间: 2026-03-29 03:00*  
+*报告生成时间: 2026-03-29 16:00*  
 *Antonelli Intelligence System*
