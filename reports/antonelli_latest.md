@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-30  
+**日期**: 2026-03-31  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 41 条
+- **新增资讯**: 56 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -47,42 +47,49 @@
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![South Africa and the Quiet Power of Chenin Blanc](https://www.wine-searcher.com/images/news-rss/99/09/9909914216569c1b66b_safric1_1_.jpg)
-
-- **[South Africa and the Quiet Power of Chenin Blanc](https://www.wine-searcher.com/m/2026/03/south-africa-and-the-quiet-power-of-chenin-blanc?rss=Y)**
-  In the first of a four-part series exploring the structural evolution of South African wine through data, regional insig...
-
 ### 📰 The Drinks Business
 
-![Bullsh!t Bingo: calling out greenwashing in drinks communication](https://www.thedrinksbusiness.com/content/uploads/2026/03/audience-shot-of-sustainability-panel-2025.jpg)
+![Hospitality pay rises, but pressure mounts](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-2233753251.jpg)
 
-- **[Bullsh!t Bingo: calling out greenwashing in drinks communication](https://www.thedrinksbusiness.com/2026/03/bullsht-bingo-calling-out-greenwashing-in-drinks-communication/)**
-  Bullsh!t Bingo calling out greenwashing in drinks communications will be one of several short talks delivered during the...
+- **[Hospitality pay rises, but pressure mounts](https://www.thedrinksbusiness.com/2026/03/hospitality-pay-rises-but-pressure-mounts/)**
+  A new survey shows rising salary satisfaction across UK hospitality, but "declining happiness" and work-life balance poi...
 
-![Ukiyo Japanese Gin expands global travel retail presence](https://www.thedrinksbusiness.com/content/uploads/2026/03/Ukiyo-Expands-GTR-Presence-with-Gebr.-Heinemann-scaled.jpg)
+![Belgian wine passes four million litres for first time](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-185125010.jpg)
 
-- **[Ukiyo Japanese Gin expands global travel retail presence](https://www.thedrinksbusiness.com/2026/03/ukiyo-japanese-gin-expands-global-travel-retail-presence/)**
-  Ukiyo Japanese Gin, a premium spirits company owned by Kirker Greer Spirits, is set to expand its Japanese gin brand int...
-  *关键词: market*
+- **[Belgian wine passes four million litres for first time](https://www.thedrinksbusiness.com/2026/03/belgian-wine-passes-four-million-litres-for-first-time/)**
+  Belgian wine production has rebounded strongly after a difficult 2024 as vineyard area and grower numbers continue to ex...
 
-![As craft cider grows, networking gathers pace](https://www.thedrinksbusiness.com/content/uploads/2022/11/iStock-1277430231-1-scaled.jpg)
+![Provence reinforces its leadership as global rosé category evolves](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-157588814.jpg)
 
-- **[As craft cider grows, networking gathers pace](https://www.thedrinksbusiness.com/2026/03/as-craft-cider-grows-networking-gathers-pace/)**
-  “Craft cider is continuing to grow in popularity,” according to the Three Counties Cider and Perry Association (TCCPA) w...
+- **[Provence reinforces its leadership as global rosé category evolves](https://www.thedrinksbusiness.com/2026/03/provence-reinforces-its-leadership-as-global-rose-category-evolves/)**
+  Earlier this month, db sat down with leaders from Vins de Provence to explore how the region is strengthening category u...
 
-![Can cocktail bars spark a global baijiu renaissance?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Moutai-Milk-Punch-茅台奶拳-scaled.jpg)
+![Bordeaux’s most secret wine: Enthusiasm for L’Enthousiaste](https://www.thedrinksbusiness.com/content/uploads/2026/03/AUGUSTIN-LEBLANC002_black-scaled.jpg)
 
-- **[Can cocktail bars spark a global baijiu renaissance?](https://www.thedrinksbusiness.com/2026/03/can-cocktail-bars-spark-a-global-baijiu-renaissance/)**
-  The future of baijiu lies with cocktail bars, but brands must prioritise branding, bottle design and training materials ...
+- **[Bordeaux’s most secret wine: Enthusiasm for L’Enthousiaste](https://www.thedrinksbusiness.com/2026/03/bordeauxs-most-secret-wine-enthusiasm-for-lenthousiaste/)**
+  db's Bordeaux correspondent Colin Hay reports on a new wine, a rare jewel born from an alliance between a winegrower and...
 
-![Wine List of the Week: Mazarine](https://www.thedrinksbusiness.com/content/uploads/2026/03/02584CE4-313C-4797-ADBF-8158B8B159C5.jpeg)
+![You can now enter a London portal to Paris to drink like it’s 1896](https://www.thedrinksbusiness.com/content/uploads/2026/03/CHATNOIR_2025_DWYNDE_ABSINTHE_0003-edited-scaled.jpg)
 
-- **[Wine List of the Week: Mazarine](https://www.thedrinksbusiness.com/2026/03/wine-list-of-the-week-mazarine/)**
-  Set just off London's Hanover Square, Mazarine brings Riviera-inflected seafood and classical French technique into a po...
+- **[You can now enter a London portal to Paris to drink like it’s 1896](https://www.thedrinksbusiness.com/2026/03/you-can-now-enter-a-london-portal-to-drink-in-paris-like-its-1896/)**
+  Immersive experience cabaret company The Lost Estate is inviting audiences to an unmarked door in London to travel back ...
 
 ### 📰 Decanter
+
+![Barolo 2022: Our guide to the ‘against-all odds’ vintage](https://cdn.mos.cms.futurecdn.net/4mKcrCwJ6iaGBm5KtX7Pn5-1280-80.jpg)
+
+- **[Barolo 2022: Our guide to the ‘against-all odds’ vintage](https://www.decanter.com/wine/piedmont-wine-region/barolo-2022-our-guide-to-the-against-all-odds-vintage)**
+  Getting to grips with a tricky vintage......
+
+![Archive dive in five: Decanter March 1985](https://cdn.mos.cms.futurecdn.net/paSbejWMYcWeszzRi7yFge-1280-80.png)
+
+- **[Archive dive in five: Decanter March 1985](https://www.decanter.com/magazine/archive-dive-in-five-decanter-march-1985)**
+  What we said then about Champagnes under £7 and spectacular sweet wines…...
+
+![Offbeat wines to pair with lamb](https://cdn.mos.cms.futurecdn.net/QvBGZpCGEUWrjF2bGGwqjH-1280-80.jpg)
+
+- **[Offbeat wines to pair with lamb](https://www.decanter.com/learn/what-wines-to-pair-with-lamb)**
+  A different take for the season......
 
 ![Cru Bourgeois 2023: Value stars to seek out in the Médoc](https://cdn.mos.cms.futurecdn.net/Ub9bwgDCZY5ytBEgCHVQhQ-1280-80.jpg)
 
@@ -94,18 +101,44 @@
 - **[Stars of Bordeaux 2023 in-bottle tastings: 600 wine reviews](https://www.decanter.com/wine-reviews-tastings/stars-of-bordeaux-2023-in-bottle-tastings-600-wine-reviews)**
   Georgie Hindle assesses the first growths, up-scorers from En Primeur and value stars from over 600 new tasting notes fr...
 
-![An afternoon at The Pig South Downs with award-winning wines](https://cdn.mos.cms.futurecdn.net/bJLmHm3BebJLaxn7y4s67b-1280-80.png)
+### 📰 Wine-Searcher
 
-- **[An afternoon at The Pig South Downs with award-winning wines](https://www.decanter.com/decanter-world-wine-awards/the-pig-south-downs)**
-  At The Pig South Downs, Decanter brought together top-scoring wines from Decanter World Wine Awards 2025, with a focus o...
+![South Africa and the Quiet Power of Chenin Blanc](https://www.wine-searcher.com/images/news-rss/99/09/9909914216569c1b66b_safric1_1_.jpg)
 
-![Serving wine quiz: 10 questions to test your knowledge](https://cdn.mos.cms.futurecdn.net/7Yn76XPoidDRbmY6VDb4X9-1280-80.jpg)
-
-- **[Serving wine quiz: 10 questions to test your knowledge](https://www.decanter.com/learn/winequiz/serving-wine-quiz-10-questions-to-test-your-knowledge)**
-  From key skills to fun facts......
+- **[South Africa and the Quiet Power of Chenin Blanc](https://www.wine-searcher.com/m/2026/03/south-africa-and-the-quiet-power-of-chenin-blanc?rss=Y)**
+  In the first of a four-part series exploring the structural evolution of South African wine through data, regional insig...
 
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Torres names Zero Challenge 2026 finalists](https://www.thespiritsbusiness.com/content/uploads/2026/03/Torres-Brandy-Zero-Challenge-2026-finalists.jpg)
+
+- **[Torres names Zero Challenge 2026 finalists](https://www.thespiritsbusiness.com/2026/03/torres-names-zero-challenge-2026-finalists/)**
+  Spanish brandy Torres has revealed the 12 finalists of the Zero Challenge 2026, who will present their sustainability pr...
+
+![Renais Gin joins Charter Brands](https://www.thespiritsbusiness.com/content/uploads/2026/03/Renais-Gin-Charter-Brands.jpg)
+
+- **[Renais Gin joins Charter Brands](https://www.thespiritsbusiness.com/2026/03/renais-gin-joins-charter-brands/)**
+  Export partner Charter Brands has welcomed Renais Gin, co-founded by Emma and Alex Watson, to its spirits portfolio
+The ...
+
+![Three Cents lands in China](https://www.thespiritsbusiness.com/content/uploads/2026/03/Three-Cents.jpg)
+
+- **[Three Cents lands in China](https://www.thespiritsbusiness.com/2026/03/three-cents-lands-in-china/)**
+  Athens-based Three Cents has teamed up with Telford Wine & Spirits Shanghai to introduce its premium mixers in mainland ...
+
+![Jameson joins forces with J Balvin](https://www.thespiritsbusiness.com/content/uploads/2026/03/Jameson-Irish-Whiskey-x-J-Balvin.jpg)
+
+- **[Jameson joins forces with J Balvin](https://www.thespiritsbusiness.com/2026/03/jameson-joins-forces-with-j-balvin/)**
+  Pernod Ricard-owned Jameson has expanded its collaboration with musicians by partnering with Colombian artist J Balvin
+T...
+
+![US hinders SMWS owner’s FY sales](https://www.thespiritsbusiness.com/content/uploads/2024/12/SMWS.png)
+
+- **[US hinders SMWS owner’s FY sales](https://www.thespiritsbusiness.com/2026/03/us-hinders-smws-owners-fy-sales/)**
+  The company behind the Scotch Malt Whisky Society saw its revenue drop by double digits in 2025 after major disruption i...
 
 ### 📰 Brewbound
 
@@ -124,36 +157,6 @@
   Wisconsin’s Eagle Park Brewing &#038; Distilling has acquired SoulBoxer Cocktail Co., setting the stage for Eagle Park’s...
   *关键词: expansion*
 
-### 📰 The Spirits Business
-
-![US hinders SMWS owner’s FY sales](https://www.thespiritsbusiness.com/content/uploads/2024/12/SMWS.png)
-
-- **[US hinders SMWS owner’s FY sales](https://www.thespiritsbusiness.com/2026/03/us-hinders-smws-owners-fy-sales/)**
-  The company behind the Scotch Malt Whisky Society saw its revenue drop by double digits in 2025 after major disruption i...
-
-![Be At One refreshes drinks offering after 30% sales uplift](https://www.thespiritsbusiness.com/content/uploads/2026/03/Be-At-One-Bellini-Bumps.jpg)
-
-- **[Be At One refreshes drinks offering after 30% sales uplift](https://www.thespiritsbusiness.com/2026/03/be-at-one-refreshes-drinks-offering-after-30-sales-uplift/)**
-  UK hospitality chain Be At One is rolling out a refreshed drinks menu and evolved guest experience across its 32-site es...
-
-![World Class names India champion](https://www.thespiritsbusiness.com/content/uploads/2026/03/Karan-Dhanelia-Atelier-V-Indore-Win.4.jpg)
-
-- **[World Class names India champion](https://www.thespiritsbusiness.com/2026/03/world-class-names-india-champion/)**
-  Diageo has selected Karan Dhanelia to represent India, Sri Lanka and Nepal at this year's World Class global final
-The p...
-
-![Tarsier ups the appeal with foil-led labels](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tarsier-Southeast-Asian-Spirit.jpg)
-
-- **[Tarsier ups the appeal with foil-led labels](https://www.thespiritsbusiness.com/2026/03/tarsier-ups-the-appeal-with-foil-led-labels/)**
-  Manchester's Tarsier Southeast Asian Spirit has launched a colour-coded foil-led label design across its portfolio
-The p...
-  *关键词: launch*
-
-![Whisky Hammer establishes Hong Kong base](https://www.thespiritsbusiness.com/content/uploads/2026/03/Whisky-Hammer.jpg)
-
-- **[Whisky Hammer establishes Hong Kong base](https://www.thespiritsbusiness.com/2026/03/whisky-hammer-establishes-hong-kong-base/)**
-  Online auctioneer Whisky Hammer has opened a new operations site in Hong Kong, which will allow it to better support its...
-
 ### 📰 Wine Enthusiast
 
 ![There Are Plenty of Bright Sides in the Wine Industry Right Now](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_RedWine_SubSubCategory_580x720.jpg)
@@ -171,5 +174,5 @@ The po...
 
 ---
 
-*报告生成时间: 2026-03-30 16:00*  
+*报告生成时间: 2026-03-31 03:00*  
 *Antonelli Intelligence System*
