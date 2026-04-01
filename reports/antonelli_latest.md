@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-03-31  
-**来源**: 全球 3 个地区 · 6 个信源
+**日期**: 2026-04-01  
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 41 条
+- **新增资讯**: 48 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,13 +17,89 @@
 
 ### 📰 The Shout
 
-![Wednesday Women: Forging a path in distillation with Jonti Murray](https://theshout.com.au/wp-content/uploads/2026/03/Jonti-Image-11.jpg?w=780)
+![New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/wp-content/uploads/2026/04/Anishka-Jelicich.jpg?w=780)
 
-- **[Wednesday Women: Forging a path in distillation with Jonti Murray](https://theshout.com.au/wednesday-women-forging-a-path-in-distillation-with-jonti-murray/)**
-  Jonti Murray has always found the outback to be home, and it was here that she also mastered distillation, with a focus ...
+- **[New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/new-zealand-winegrowers-welcomes-new-ceo/)**
+  The appointment follows departing CEO Philip Gregan’s decision to retire at the end of June, after 43 years with the org...
+
+![Wine Australia cancels export licence](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1458066787-wine-exports.jpg?w=780)
+
+- **[Wine Australia cancels export licence](https://theshout.com.au/wine-australia-cancels-export-licence/)**
+  The licence, which is only the eighth in the last 10 years that Wine Australia has cancelled, was terminated to protect ...
+
+![Joval Wines partners with Collabor8Women for 2026](https://theshout.com.au/wp-content/uploads/2026/04/2-Image-NARELLE-KING-TAR-ROSES.jpg?w=780)
+
+- **[Joval Wines partners with Collabor8Women for 2026](https://theshout.com.au/joval-wines-partners-with-collabor8women-for-2026/)**
+  The year-long collaboration will see female wine leaders showcased through Collabor8Women’s Gold Access membership....
+
+![DrinkWise partners with Olympic champion for new campaign](https://theshout.com.au/wp-content/uploads/2026/04/DrinkWiseShaynaJackCampaign.jpg?w=780)
+
+- **[DrinkWise partners with Olympic champion for new campaign](https://theshout.com.au/drinkwise-partners-with-olympic-champion-for-new-campaign/)**
+  The new 'Never Have I Ever' campaign encourages young Australians, particularly young women, to have more conversations ...
+
+![Industry disappointment at RBA card surcharging reforms](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1209476300-Credit-card-payment.jpg?w=780)
+
+- **[Industry disappointment at RBA card surcharging reforms](https://theshout.com.au/industry-disappointment-at-rba-card-surcharging-reforms/)**
+  Both the Australian Hotels Association and Retail Drinks Australia have criticised the Reserve Bank of Australia’s card ...
 
 
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![Where are they now? Peter Stafford-Bow: the wine buyer who survived](https://www.thedrinksbusiness.com/content/uploads/2026/03/Untitled-design-30.png)
+
+- **[Where are they now? Peter Stafford-Bow: the wine buyer who survived](https://www.thedrinksbusiness.com/2026/04/where-are-they-now-peter-stafford-bow-the-wine-buyer-who-survived/)**
+  From high-stakes supermarket negotiations to murky international dealings, Peter Stafford-Bow’s career has been anything...
+  *关键词: market*
+
+![Ruinart opens entries for 2026 UK Sommelier Challenge](https://www.thedrinksbusiness.com/content/uploads/2026/03/RUINART_ROSE_DRR2009_RachelleSimoneau-scaled.jpg)
+
+- **[Ruinart opens entries for 2026 UK Sommelier Challenge](https://www.thedrinksbusiness.com/2026/04/ruinart-opens-entries-for-2026-uk-sommelier-challenge/)**
+  Now in its 9th UK edition, the competition returns to London this June, with 30 places up for grabs and a Champagne stud...
+
+![Coravin launches global ‘Curiosity By-the-Glass’ campaign](https://www.thedrinksbusiness.com/content/uploads/2026/03/image-10.png)
+
+- **[Coravin launches global ‘Curiosity By-the-Glass’ campaign](https://www.thedrinksbusiness.com/2026/04/coravin-launches-global-curiosity-by-the-glass-campaign/)**
+  Coravin is rolling out its ‘Curiosity By-the-Glass’ campaign this April, bringing together more than 40 venues worldwide...
+  *关键词: launch*
+
+![Bottle of 1945 DRC sells for US$812,500, setting new world record](https://www.thedrinksbusiness.com/content/uploads/2026/03/1945-DRC-Acker-wines-scaled.jpg)
+
+- **[Bottle of 1945 DRC sells for US$812,500, setting new world record](https://www.thedrinksbusiness.com/2026/04/bottle-of-1945-drc-sells-for-us812500-setting-new-world-record/)**
+  A bottle of 1945 Domaine de la Romanée-Conti has made history for US auction house Acker after it sold for US$812,500, s...
+
+![Ways the Iran war is continuing to impact India’s beer supply](https://www.thedrinksbusiness.com/content/uploads/2026/04/pexels-pavel-danilyuk-5858172-scaled.jpg)
+
+- **[Ways the Iran war is continuing to impact India’s beer supply](https://www.thedrinksbusiness.com/2026/04/ways-the-iran-war-is-continuing-to-impact-indias-beer-supply/)**
+  India is facing continued supply disruptions and higher beer prices due to a surge in costs for producers following the ...
+
+### 📰 Decanter
+
+![Decanter magazine April 2026 issue: See what's inside](https://cdn.mos.cms.futurecdn.net/edQwSkehQiGL6LBUQWAg6A-1280-80.jpg)
+
+- **[Decanter magazine April 2026 issue: See what's inside](https://www.decanter.com/magazine/decanter-magazine-april-2026-issue-see-whats-inside)**
+  Featuring a celebration of Italy......
+
+![DWWA winners' showcase at ProWein 2026](https://cdn.mos.cms.futurecdn.net/krQnsCXjTb3cpkpH4n8SV3-1280-80.jpg)
+
+- **[DWWA winners' showcase at ProWein 2026](https://www.decanter.com/decanter-world-wine-awards/dwwa-winners-showcase-at-prowein-2026)**
+  Decanter's activity at ProWein 2026......
+
+![At the table with Dr Laura Catena, star of Argentina's wine scene](https://cdn.mos.cms.futurecdn.net/34izLh6z3UjZHGxiUvrWee-1280-80.jpg)
+
+- **[At the table with Dr Laura Catena, star of Argentina's wine scene](https://www.decanter.com/wine-news/at-the-table-with-dr-laura-catena-star-of-argentinas-wine-scene)**
+  On wine, travel and great food pairings for Malbec......
+
+![Barolo 2022: Our top value finds](https://cdn.mos.cms.futurecdn.net/pjWQJUQRkjZacctEFVzph4-1280-80.jpg)
+
+- **[Barolo 2022: Our top value finds](https://www.decanter.com/wine/barolo/barolo-2022-our-top-value-finds)**
+  Going back to the classics......
+
+![The ethical drinker: Inside the debate on wine and water use](https://cdn.mos.cms.futurecdn.net/jiFnLJeqeDuTnXMoPRCxLX-1280-80.jpg)
+
+- **[The ethical drinker: Inside the debate on wine and water use](https://www.decanter.com/wine-news/opinion/the-ethical-drinker-inside-the-debate-on-wine-and-water-use)**
+  A missing link in our relationship with water......
 
 ### 📰 Wine-Searcher
 
@@ -37,84 +113,50 @@
 - **[The Most Wanted Tuscan Wines of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-tuscan-wines-of-2026?rss=Y)**
   When it comes to the most wanted wines of Tuscany, it's rich, big and strictly red....
 
-### 📰 The Drinks Business
-
-![Whisky Hammer expands into Asia with Hong Kong hub](https://www.thedrinksbusiness.com/content/uploads/2026/03/auction.jpg)
-
-- **[Whisky Hammer expands into Asia with Hong Kong hub](https://www.thedrinksbusiness.com/2026/03/whisky-hammer-expands-into-asia-with-hong-kong-hub/)**
-  Aberdeenshire-based online whisky auctioneer, Whisky Hammer, has launched an operational hub in Hong Kong – marking its ...
-  *关键词: launch*
-
-![India Dry Days April 2026: When are they?](https://www.thedrinksbusiness.com/content/uploads/2026/03/iStock-1202531985-1-scaled.jpg)
-
-- **[India Dry Days April 2026: When are they?](https://www.thedrinksbusiness.com/2026/03/india-dry-days-april-2026-when-are-they/)**
-  In April, three key dates are set to trigger official Dry Days in many states across India – meaning alcohol sales will ...
-
-![‘Pyrrhic’ victory for liquidators of failed fine wine investment scheme](https://www.thedrinksbusiness.com/content/uploads/2026/03/gavel-iStock-1017569212-scaled.jpg)
-
-- **[‘Pyrrhic’ victory for liquidators of failed fine wine investment scheme](https://www.thedrinksbusiness.com/2026/03/pyrrhic-victory-for-liquidators-of-failed-fine-wine-investment-scheme/)**
-  Liquidators for The Wine Enterprise Investment Scheme (TWEISL) have failed to recover losses of up to £8 million in a Hi...
-  *关键词: investment*
-
-![‘A handshake and a shared vision’: Prince Robert of Luxembourg on ASC partnership](https://www.thedrinksbusiness.com/content/uploads/2026/03/Prince-Robert-of-Luxembourg-scaled.jpg)
-
-- **[‘A handshake and a shared vision’: Prince Robert of Luxembourg on ASC partnership](https://www.thedrinksbusiness.com/2026/03/a-handshake-and-a-shared-vision-prince-robert-of-luxembourg-on-clarence-dillon-and-asc-partnership/)**
-  Prince Robert of Luxembourg, who is the CEO and chairman of Domaine Clarence Dillon, celebrates 20 years in the Chinese ...
-  *关键词: partnership, market*
-
-![Dom Pérignon cellar master: ‘blends have a sense of place too’](https://www.thedrinksbusiness.com/content/uploads/2026/03/dom-perignon-vincent-chaperon-london-12-march-2026-scaled.jpeg)
-
-- **[Dom Pérignon cellar master: ‘blends have a sense of place too’](https://www.thedrinksbusiness.com/2026/03/dom-perignon-cellar-master-blends-have-a-sense-of-place-too/)**
-  Dom Pérignon cellar master Vincent Chaperon argued for the value of blending across different vineyard sites in Champagn...
-
-### 📰 Decanter
-
-![Barolo 2022: Our guide to the ‘against-all odds’ vintage](https://cdn.mos.cms.futurecdn.net/4mKcrCwJ6iaGBm5KtX7Pn5-1280-80.jpg)
-
-- **[Barolo 2022: Our guide to the ‘against-all odds’ vintage](https://www.decanter.com/wine/piedmont-wine-region/barolo-2022-our-guide-to-the-against-all-odds-vintage)**
-  Getting to grips with a tricky vintage......
-
-![Archive dive in five: Decanter March 1985](https://cdn.mos.cms.futurecdn.net/paSbejWMYcWeszzRi7yFge-1280-80.png)
-
-- **[Archive dive in five: Decanter March 1985](https://www.decanter.com/magazine/archive-dive-in-five-decanter-march-1985)**
-  What we said then about Champagnes under £7 and spectacular sweet wines…...
-
-![Offbeat wines to pair with lamb](https://cdn.mos.cms.futurecdn.net/QvBGZpCGEUWrjF2bGGwqjH-1280-80.jpg)
-
-- **[Offbeat wines to pair with lamb](https://www.decanter.com/learn/what-wines-to-pair-with-lamb)**
-  A different take for the season......
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
+### 📰 Brewbound
 
-![Beesou challenges bartenders to ‘bee the change’](https://www.thespiritsbusiness.com/content/uploads/2026/03/Beesou.jpg)
+- **[YTD 2026 Beverage  Performance and Trends – 3 Tier Beverages](https://www.nombase.com/datahub/ytd-2026-beverage--performance-and-trends---3-tier-beverages-1)**
+  The YTD 2026 Beverage Performance report from 3 Tier Beverages highlights a market undergoing a meaningful recalibration...
+  *关键词: market, trend*
 
-- **[Beesou challenges bartenders to ‘bee the change’](https://www.thespiritsbusiness.com/2026/03/beesou-challenges-bartenders-to-bee-the-change/)**
-  Apéritif Beesou's Hive Challenge has returned with a focus on low alcohol innovation, seasonality, and a commitment to s...
-
-![Constellation Brands gets new master distiller](https://www.thespiritsbusiness.com/content/uploads/2026/03/High-West-1.jpg)
-
-- **[Constellation Brands gets new master distiller](https://www.thespiritsbusiness.com/2026/03/constellation-brands-gets-new-master-distiller/)**
-  Isaac Winter has been promoted to senior director, master distiller at Constellation Brands where he will oversee produc...
-
-![Scarfes Bar menu explores ‘duality of mixology’](https://www.thespiritsbusiness.com/content/uploads/2026/03/Scarfes-Bar-Diva.jpg)
-
-- **[Scarfes Bar menu explores ‘duality of mixology’](https://www.thespiritsbusiness.com/2026/03/scarfes-bar-menu-explores-duality-of-mixology/)**
-  The new cocktail menu from Scarfes Bar at Rosewood London playfully reimagines the light and dark sides of 10 iconic pub...
-
-![Breakthru Beverage exec joins Reyes](https://www.thespiritsbusiness.com/content/uploads/2026/03/RNDC.jpg)
-
-- **[Breakthru Beverage exec joins Reyes](https://www.thespiritsbusiness.com/2026/03/breakthru-beverage-exec-joins-reyes/)**
-  US distributor Reyes Beverage Group has hired Brian Albenze to manage the markets it is set to acquire from RNDC in May
-...
+- **[Circana Weekly Scans: St. Patrick’s Day Boost Part 2 Leads Firm to Claim ‘Beer is Back’](https://www.brewbound.com/news/circana-weekly-scans-st-patricks-day-boost-part-2-leads-firm-to-claim-beer-is-back)**
+  Bev-alc returned to growth in Circana-tracked off-premise channels in Week 2 of St. Patrick’s Day celebrations, accordin...
   *关键词: market*
 
-![Judge orders sale of LF Heritage distillery](https://www.thespiritsbusiness.com/content/uploads/2026/03/LF-Heritage.jpg)
+### 📰 The Spirits Business
 
-- **[Judge orders sale of LF Heritage distillery](https://www.thespiritsbusiness.com/2026/03/judge-orders-sale-of-lf-heritage-distillery/)**
-  A Kentucky judge has ordered the foreclosure of a property owned by LF Heritage Distilling Co after a supplier demanded ...
+![The Whisky Exchange debuts loyalty programme](https://www.thespiritsbusiness.com/content/uploads/2026/03/Friends-of-the-Whisky-Exchange.jpg)
+
+- **[The Whisky Exchange debuts loyalty programme](https://www.thespiritsbusiness.com/2026/04/the-whisky-exchange-debuts-loyalty-programme/)**
+  London-based spirits retailer The Whisky Exchange has launched a loyalty programme called Friends of the Whisky Exchange...
+  *关键词: launch*
+
+![Malibu Pink taps Sabrina Brier for first campaign](https://www.thespiritsbusiness.com/content/uploads/2026/03/Malibu-Pink-campaign.jpg)
+
+- **[Malibu Pink taps Sabrina Brier for first campaign](https://www.thespiritsbusiness.com/2026/04/malibu-pink-taps-sabrina-brier-for-first-campaign/)**
+  Pernod Ricard has launched the first campaign for Malibu's guava-flavoured liqueur, titled 'Get Ready with Malibu Pink'
+...
+  *关键词: launch*
+
+![Business rates hike: 64% of UK hospitality to cut jobs](https://www.thespiritsbusiness.com/content/uploads/2026/03/iStock-2164034397.jpg)
+
+- **[Business rates hike: 64% of UK hospitality to cut jobs](https://www.thespiritsbusiness.com/2026/04/business-rates-hike-64-of-uk-hospitality-to-cut-jobs/)**
+  Minimum wage and business rates in the UK increase today and a new survey has investigated how venues plan to respond
+Th...
+
+![Tanglin Gin extends Westin Singapore residency](https://www.thespiritsbusiness.com/content/uploads/2026/04/Tanglin-Gin-x-The-Westin-Singapore.jpg)
+
+- **[Tanglin Gin extends Westin Singapore residency](https://www.thespiritsbusiness.com/2026/04/tanglin-gin-extends-westin-singapore-residency/)**
+  Craft distiller Tanglin Spirits has extended its gin residency at the five-star Westin Singapore hotel in its home count...
+
+![Results time: The Tequila & Mezcal Masters 2026](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tequila-Massters-2026.jpg)
+
+- **[Results time: The Tequila & Mezcal Masters 2026](https://www.thespiritsbusiness.com/2026/04/results-time-the-tequila-mezcal-masters-2026/)**
+  While the popularity of certain spirits may be waning, Tequila and mezcal are going strong – with good reason
+The post R...
 
 ### 📰 Wine Enthusiast
 
@@ -124,23 +166,8 @@
   From light to rich and bone dry to slightly sweet, consider giving these top-rated Proseccos a try.
 The post These Bottl...
 
-### 📰 Brewbound
-
-- **[Abita Plans to Double Production to 170k Barrels in 2026, Launches Beverage Platform](https://www.brewbound.com/news/abita-plans-to-double-production-to-170k-barrels-in-2026-launches-beverage-platform)**
-  Abita Brewing Company’s 40th year could be its biggest since the mid-2010s craft beer boom. The Louisiana craft brewery’...
-  *关键词: launch*
-
-- **[Hemp Industry Braces for Last Minute Action, Worst Case Scenarios, on Looming Ban](https://www.brewbound.com/news/hemp-industry-braces-for-last-minute-action-worst-case-scenarios-on-looming-ban)**
-  If there’s a stay of execution, it’ll probably be at the last minute. That’s what hemp lobbyists and industry groups are...
-
-- **[Former Casamigos Colleagues Launch RTD](https://www.brewbound.com/news/former-casamigos-colleauges-launch-rtd)**
-  The former executive team behind Casamigos (minus its celebrity owners) is making another move in the bev-alc industry w...
-  *关键词: launch*
-
-*📚 以上为近期内容*
-
 
 ---
 
-*报告生成时间: 2026-03-31 16:00*  
+*报告生成时间: 2026-04-01 03:00*  
 *Antonelli Intelligence System*
