@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 48 条
+- **新增资讯**: 49 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -45,34 +45,46 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/images/news-rss/99/12/9912314228069cc2cdb_ao-yun-part2rs.jpg)
+
+- **[Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/m/2026/04/ao-yun-an-epic-wine-adventure-part-2?rss=Y)**
+  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
+
+![Defining South Africa's Regional Identity](https://www.wine-searcher.com/images/news-rss/99/12/9912514228869cc4a57_wosa1.jpg)
+
+- **[Defining South Africa's Regional Identity](https://www.wine-searcher.com/m/2026/04/defining-south-africas-regional-identity?rss=Y)**
+  In the second part of four, Maria Laura Ortiz shares impressions from her travels in the wine regions of South Africa....
+
 ### 📰 The Drinks Business
 
-![Where are they now? Peter Stafford-Bow: the wine buyer who survived](https://www.thedrinksbusiness.com/content/uploads/2026/03/Untitled-design-30.png)
+![Ways Estrella Damm is scoring major marketing points in the UK](https://www.thedrinksbusiness.com/content/uploads/2026/04/DAMM-150-aniversario-Pack5X2-Llauna-44cl-1-scaled.jpg)
 
-- **[Where are they now? Peter Stafford-Bow: the wine buyer who survived](https://www.thedrinksbusiness.com/2026/04/where-are-they-now-peter-stafford-bow-the-wine-buyer-who-survived/)**
-  From high-stakes supermarket negotiations to murky international dealings, Peter Stafford-Bow’s career has been anything...
+- **[Ways Estrella Damm is scoring major marketing points in the UK](https://www.thedrinksbusiness.com/2026/04/ways-estrella-damm-is-scoring-major-marketing-points-in-the-uk/)**
+  Estrella Damm is going from strength-to-strength in terms of its image in Britain right now, but how is it cementing its...
   *关键词: market*
 
-![Ruinart opens entries for 2026 UK Sommelier Challenge](https://www.thedrinksbusiness.com/content/uploads/2026/03/RUINART_ROSE_DRR2009_RachelleSimoneau-scaled.jpg)
+![Man arrested after using camels to smuggle illicit liquor into Delhi](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-182030486-scaled.jpg)
 
-- **[Ruinart opens entries for 2026 UK Sommelier Challenge](https://www.thedrinksbusiness.com/2026/04/ruinart-opens-entries-for-2026-uk-sommelier-challenge/)**
-  Now in its 9th UK edition, the competition returns to London this June, with 30 places up for grabs and a Champagne stud...
+- **[Man arrested after using camels to smuggle illicit liquor into Delhi](https://www.thedrinksbusiness.com/2026/04/man-arrested-after-using-camels-to-smuggle-illicit-liquor-into-delhi/)**
+  One man seeking to smuggle thousands of liquor bottles into Delhi using camels met a hump in the road when he was arrest...
 
-![Coravin launches global ‘Curiosity By-the-Glass’ campaign](https://www.thedrinksbusiness.com/content/uploads/2026/03/image-10.png)
+![The Fat Duck Group alumni to launch Berkshire gastropub](https://www.thedrinksbusiness.com/content/uploads/2026/04/Nigel-Dom-scaled.jpg)
 
-- **[Coravin launches global ‘Curiosity By-the-Glass’ campaign](https://www.thedrinksbusiness.com/2026/04/coravin-launches-global-curiosity-by-the-glass-campaign/)**
-  Coravin is rolling out its ‘Curiosity By-the-Glass’ campaign this April, bringing together more than 40 venues worldwide...
+- **[The Fat Duck Group alumni to launch Berkshire gastropub](https://www.thedrinksbusiness.com/2026/04/the-fat-duck-group-alumni-to-launch-berkshire-gastropub/)**
+  The Jack O’Newbury, masterminded by The Fat Duck Group alumni chef Dom Chapman and restaurateur Nigel Sutcliffe, is set ...
   *关键词: launch*
 
-![Bottle of 1945 DRC sells for US$812,500, setting new world record](https://www.thedrinksbusiness.com/content/uploads/2026/03/1945-DRC-Acker-wines-scaled.jpg)
+![‘Definitely not doom and gloom’ for Champagne sales in UK](https://www.thedrinksbusiness.com/content/uploads/2024/03/iStock-1340657875.jpg)
 
-- **[Bottle of 1945 DRC sells for US$812,500, setting new world record](https://www.thedrinksbusiness.com/2026/04/bottle-of-1945-drc-sells-for-us812500-setting-new-world-record/)**
-  A bottle of 1945 Domaine de la Romanée-Conti has made history for US auction house Acker after it sold for US$812,500, s...
+- **[‘Definitely not doom and gloom’ for Champagne sales in UK](https://www.thedrinksbusiness.com/2026/04/definitely-not-doom-and-gloom-for-champagne-sales-in-uk/)**
+  Despite ongoing challenges in the drinks sector, Champagne sales in the UK are showing resilience, with several producer...
 
-![Ways the Iran war is continuing to impact India’s beer supply](https://www.thedrinksbusiness.com/content/uploads/2026/04/pexels-pavel-danilyuk-5858172-scaled.jpg)
+![Treasury Wine Estates rejects bankruptcy speculation](https://www.thedrinksbusiness.com/content/uploads/2026/04/PPenfolds-hi-res-bottles-1280x959-1-1.jpg)
 
-- **[Ways the Iran war is continuing to impact India’s beer supply](https://www.thedrinksbusiness.com/2026/04/ways-the-iran-war-is-continuing-to-impact-indias-beer-supply/)**
-  India is facing continued supply disruptions and higher beer prices due to a surge in costs for producers following the ...
+- **[Treasury Wine Estates rejects bankruptcy speculation](https://www.thedrinksbusiness.com/2026/04/treasury-wine-estates-rejects-bankruptcy-speculation/)**
+  Australia’s largest wine producer has dismissed claims that rising debt could push the company towards bankruptcy. Treas...
 
 ### 📰 Decanter
 
@@ -101,73 +113,73 @@
 - **[The ethical drinker: Inside the debate on wine and water use](https://www.decanter.com/wine-news/opinion/the-ethical-drinker-inside-the-debate-on-wine-and-water-use)**
   A missing link in our relationship with water......
 
-### 📰 Wine-Searcher
-
-![The Great Judgement of Paris Makeover](https://www.wine-searcher.com/images/news-rss/99/12/9912014226469caeb99_Tastingmain.jpg)
-
-- **[The Great Judgement of Paris Makeover](https://www.wine-searcher.com/m/2026/03/the-great-judgement-of-paris-makeover?rss=Y)**
-  Once again, the United States triumphs at a recreation of the 1976 Judgement of Paris tasting....
-
-![The Most Wanted Tuscan Wines of 2026](https://www.wine-searcher.com/images/news-rss/99/11/9911514223269c5e443_TuscanyMain.jpg)
-
-- **[The Most Wanted Tuscan Wines of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-tuscan-wines-of-2026?rss=Y)**
-  When it comes to the most wanted wines of Tuscany, it's rich, big and strictly red....
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
-- **[YTD 2026 Beverage  Performance and Trends – 3 Tier Beverages](https://www.nombase.com/datahub/ytd-2026-beverage--performance-and-trends---3-tier-beverages-1)**
-  The YTD 2026 Beverage Performance report from 3 Tier Beverages highlights a market undergoing a meaningful recalibration...
-  *关键词: market, trend*
-
-- **[Circana Weekly Scans: St. Patrick’s Day Boost Part 2 Leads Firm to Claim ‘Beer is Back’](https://www.brewbound.com/news/circana-weekly-scans-st-patricks-day-boost-part-2-leads-firm-to-claim-beer-is-back)**
-  Bev-alc returned to growth in Circana-tracked off-premise channels in Week 2 of St. Patrick’s Day celebrations, accordin...
+- **[Allagash’s Rob Tod Reflects on ‘Grind Years’ as Craft Brewers Face Growing Headwinds](https://www.brewbound.com/news/allagashs-rob-tod-reflects-on-grind-years-as-craft-brewers-face-growing-headwinds)**
+  Allagash Brewing founder Rob Tod brought something of a family heirloom – and a piece of American beer marketing history...
   *关键词: market*
+
+- **[10 Vendors Now Account for 81% of Flavored Bev-Alc Dollars Following 2026 Deals](https://www.brewbound.com/news/10-vendors-now-account-for-81-of-flavored-bev-alc-dollars-following-2026-deals)**
+  “Flavored alcohol” continues to be a prominent growth driver in the beverage-alcohol landscape, but the field of notable...
+
+- **[Pete Marino to Exit Bardstown Bourbon](https://www.brewbound.com/news/pete-marino-exits-bardstown-bourbon)**
+  Bardstown Bourbon’s president Pete Marino is leaving his post in June after three years with the company....
+
+- **[Press Clips: Tilray’s Q3 Results; People Moves at Recess and Diageo; Shock Top High Voltage & More](https://www.brewbound.com/news/press-clips-tilrays-q3-results-people-moves-at-recess-and-diageo-shock-top-high-voltage-more)**
+  Check out news items initially reported in the Brewbound Insider Newsletter, including headlines from Tilray, Diageo, An...
+
+- **[Tilray Q3 Earnings: New Supply Chain Advantages & ‘Focused, Higher Performing Portfolio’ Ambitions with BrewDog, Carlsberg Additions](https://www.brewbound.com/news/tilray-q3-earnings-new-supply-chain-advantages-focused-higher-performing-portfolio-ambitions-with-brewdog-carlsberg-additions)**
+  Tilray Brands’ hit a company revenue record in Q3, generating $207 million in the quarter, but there was little help fro...
 
 ### 📰 The Spirits Business
 
-![The Whisky Exchange debuts loyalty programme](https://www.thespiritsbusiness.com/content/uploads/2026/03/Friends-of-the-Whisky-Exchange.jpg)
+![Green River cuts head distiller role](https://www.thespiritsbusiness.com/content/uploads/2026/04/Green-River.jpg)
 
-- **[The Whisky Exchange debuts loyalty programme](https://www.thespiritsbusiness.com/2026/04/the-whisky-exchange-debuts-loyalty-programme/)**
-  London-based spirits retailer The Whisky Exchange has launched a loyalty programme called Friends of the Whisky Exchange...
-  *关键词: launch*
-
-![Malibu Pink taps Sabrina Brier for first campaign](https://www.thespiritsbusiness.com/content/uploads/2026/03/Malibu-Pink-campaign.jpg)
-
-- **[Malibu Pink taps Sabrina Brier for first campaign](https://www.thespiritsbusiness.com/2026/04/malibu-pink-taps-sabrina-brier-for-first-campaign/)**
-  Pernod Ricard has launched the first campaign for Malibu's guava-flavoured liqueur, titled 'Get Ready with Malibu Pink'
-...
-  *关键词: launch*
-
-![Business rates hike: 64% of UK hospitality to cut jobs](https://www.thespiritsbusiness.com/content/uploads/2026/03/iStock-2164034397.jpg)
-
-- **[Business rates hike: 64% of UK hospitality to cut jobs](https://www.thespiritsbusiness.com/2026/04/business-rates-hike-64-of-uk-hospitality-to-cut-jobs/)**
-  Minimum wage and business rates in the UK increase today and a new survey has investigated how venues plan to respond
+- **[Green River cuts head distiller role](https://www.thespiritsbusiness.com/2026/04/green-river-cuts-head-distiller-role/)**
+  Aaron Harris, who was head distiller at Owensboro-based Green River Distilling, has left the American whiskey company
 Th...
 
-![Tanglin Gin extends Westin Singapore residency](https://www.thespiritsbusiness.com/content/uploads/2026/04/Tanglin-Gin-x-The-Westin-Singapore.jpg)
+![Be At One co-founder snaps up ex-BrewDog sites](https://www.thespiritsbusiness.com/content/uploads/2026/04/Northcote-Saviour-guests-enjoying-spring-time-sun-4.jpg)
 
-- **[Tanglin Gin extends Westin Singapore residency](https://www.thespiritsbusiness.com/2026/04/tanglin-gin-extends-westin-singapore-residency/)**
-  Craft distiller Tanglin Spirits has extended its gin residency at the five-star Westin Singapore hotel in its home count...
+- **[Be At One co-founder snaps up ex-BrewDog sites](https://www.thespiritsbusiness.com/2026/04/be-at-one-co-founder-snaps-up-ex-brewdog-sites/)**
+  Rhys Oldfield, the co-founder of Be At One, has taken on three former BrewDog sites in the UK for his independent group ...
 
-![Results time: The Tequila & Mezcal Masters 2026](https://www.thespiritsbusiness.com/content/uploads/2026/03/Tequila-Massters-2026.jpg)
+![Cocktail Omakase opens in NYC](https://www.thespiritsbusiness.com/content/uploads/2026/03/Cocktail-Omakaze-.jpg)
 
-- **[Results time: The Tequila & Mezcal Masters 2026](https://www.thespiritsbusiness.com/2026/04/results-time-the-tequila-mezcal-masters-2026/)**
-  While the popularity of certain spirits may be waning, Tequila and mezcal are going strong – with good reason
-The post R...
+- **[Cocktail Omakase opens in NYC](https://www.thespiritsbusiness.com/2026/04/cocktail-omakase-opens-in-nyc/)**
+  Japan-inspired Cocktail Omakase has opened in New York with a concept developed in partnership with Tokyo's Bar Libre
+Th...
+  *关键词: partnership*
+
+![Ex-Casamigos CEO creates Por Qué No RTDs](https://www.thespiritsbusiness.com/content/uploads/2026/04/Por-Que-No-RTDs.jpg)
+
+- **[Ex-Casamigos CEO creates Por Qué No RTDs](https://www.thespiritsbusiness.com/2026/04/ex-casamigos-ceo-creates-por-que-no-rtds/)**
+  Beverage Management Group, led by former Casamigos Tequila CEO Lee Einsidler, has launched a ready-to-drink brand called...
+  *关键词: launch*
+
+![US whiskey exports to EU plunge 35% in 2025](https://www.thespiritsbusiness.com/content/uploads/2026/02/american-whiskey-iStock-1007971016.jpg)
+
+- **[US whiskey exports to EU plunge 35% in 2025](https://www.thespiritsbusiness.com/2026/04/us-whiskey-exports-to-eu-plunge-35-in-2025/)**
+  Exports of US spirits declined by 3.8% last year, driven by a double-digit drop for American whiskey in Europe, Canada a...
 
 ### 📰 Wine Enthusiast
 
-![These Bottles Prove Not All Prosecco Is Created Equal (and That’s a Good Thing)](https://res.cloudinary.com/htt8g4cd/image/upload/wp/12_25_domini_del_leone_prosecco_brut_nv_inset_biondivino_700x466)
+![An Italian Winemaker Is Taking Over France’s Most Prestigious Hermitage Estate](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Chiara_Pepe_La_Chapelle_INSET_AlbertoBlasetti_1920x1280-1024x683.jpg)
 
-- **[These Bottles Prove Not All Prosecco Is Created Equal (and That’s a Good Thing)](https://www.wineenthusiast.com/ratings/wine-ratings/best-prosecco-wine-italy/)**
-  From light to rich and bone dry to slightly sweet, consider giving these top-rated Proseccos a try.
-The post These Bottl...
+- **[An Italian Winemaker Is Taking Over France’s Most Prestigious Hermitage Estate](https://www.wineenthusiast.com/culture/industry-news/chiara-pepe-domaine-de-la-chapelle/)**
+  32-year-old Chiara Pepe of Emidio Pepe in Abruzzo is ushering Hermitage's Domaine de La Chapelle into a new era.
+The pos...
+
+![The Surprisingly Heavy History of Easter Beer—Plus, 7 Styles to Try](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Brewers_Tap_Ancient_Easter_Beer_Traditions_INSET_GettyImages-463987157_1500x2000-768x1024.jpg)
+
+- **[The Surprisingly Heavy History of Easter Beer—Plus, 7 Styles to Try](https://www.wineenthusiast.com/culture/beer/easter-beer-traditions/)**
+  Born from religious tradition and practical necessity, these historic beer styles still shape how brewers approach the s...
 
 
 ---
 
-*报告生成时间: 2026-04-01 03:00*  
+*报告生成时间: 2026-04-01 16:00*  
 *Antonelli Intelligence System*
