@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-01  
+**日期**: 2026-04-02  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 49 条
+- **新增资讯**: 50 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,76 +17,49 @@
 
 ### 📰 The Shout
 
-![New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/wp-content/uploads/2026/04/Anishka-Jelicich.jpg?w=780)
+![Orion Breweries targets Australia with The Draft](https://theshout.com.au/wp-content/uploads/2026/04/LEAD-FIXED.jpg?w=780)
 
-- **[New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/new-zealand-winegrowers-welcomes-new-ceo/)**
-  The appointment follows departing CEO Philip Gregan’s decision to retire at the end of June, after 43 years with the org...
-
-![Wine Australia cancels export licence](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1458066787-wine-exports.jpg?w=780)
-
-- **[Wine Australia cancels export licence](https://theshout.com.au/wine-australia-cancels-export-licence/)**
-  The licence, which is only the eighth in the last 10 years that Wine Australia has cancelled, was terminated to protect ...
-
-![Joval Wines partners with Collabor8Women for 2026](https://theshout.com.au/wp-content/uploads/2026/04/2-Image-NARELLE-KING-TAR-ROSES.jpg?w=780)
-
-- **[Joval Wines partners with Collabor8Women for 2026](https://theshout.com.au/joval-wines-partners-with-collabor8women-for-2026/)**
-  The year-long collaboration will see female wine leaders showcased through Collabor8Women’s Gold Access membership....
-
-![DrinkWise partners with Olympic champion for new campaign](https://theshout.com.au/wp-content/uploads/2026/04/DrinkWiseShaynaJackCampaign.jpg?w=780)
-
-- **[DrinkWise partners with Olympic champion for new campaign](https://theshout.com.au/drinkwise-partners-with-olympic-champion-for-new-campaign/)**
-  The new 'Never Have I Ever' campaign encourages young Australians, particularly young women, to have more conversations ...
-
-![Industry disappointment at RBA card surcharging reforms](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1209476300-Credit-card-payment.jpg?w=780)
-
-- **[Industry disappointment at RBA card surcharging reforms](https://theshout.com.au/industry-disappointment-at-rba-card-surcharging-reforms/)**
-  Both the Australian Hotels Association and Retail Drinks Australia have criticised the Reserve Bank of Australia’s card ...
+- **[Orion Breweries targets Australia with The Draft](https://theshout.com.au/orion-breweries-targets-australia-with-the-draft/)**
+  Orion Breweries has announced its formal Australian expansion for 2026, [&hellip;]...
+  *关键词: expansion*
 
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/images/news-rss/99/12/9912314228069cc2cdb_ao-yun-part2rs.jpg)
-
-- **[Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/m/2026/04/ao-yun-an-epic-wine-adventure-part-2?rss=Y)**
-  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
-
-![Defining South Africa's Regional Identity](https://www.wine-searcher.com/images/news-rss/99/12/9912514228869cc4a57_wosa1.jpg)
-
-- **[Defining South Africa's Regional Identity](https://www.wine-searcher.com/m/2026/04/defining-south-africas-regional-identity?rss=Y)**
-  In the second part of four, Maria Laura Ortiz shares impressions from her travels in the wine regions of South Africa....
-
 ### 📰 The Drinks Business
 
-![Ways Estrella Damm is scoring major marketing points in the UK](https://www.thedrinksbusiness.com/content/uploads/2026/04/DAMM-150-aniversario-Pack5X2-Llauna-44cl-1-scaled.jpg)
+![Could there be a UK bottle crisis looming?](https://www.thedrinksbusiness.com/content/uploads/2022/11/Bottling-scaled.jpg)
 
-- **[Ways Estrella Damm is scoring major marketing points in the UK](https://www.thedrinksbusiness.com/2026/04/ways-estrella-damm-is-scoring-major-marketing-points-in-the-uk/)**
-  Estrella Damm is going from strength-to-strength in terms of its image in Britain right now, but how is it cementing its...
+- **[Could there be a UK bottle crisis looming?](https://www.thedrinksbusiness.com/2026/04/why-a-uk-bottle-crisis-is-looming/)**
+  Workers from the glass firm Encirc Elton, which makes bottles for Jameson, Baileys, Budweiser and Coors as well as a ran...
   *关键词: market*
 
-![Man arrested after using camels to smuggle illicit liquor into Delhi](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-182030486-scaled.jpg)
+![US wine drinkers turn to value bottles as consumption softens](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1398693885.jpg)
 
-- **[Man arrested after using camels to smuggle illicit liquor into Delhi](https://www.thedrinksbusiness.com/2026/04/man-arrested-after-using-camels-to-smuggle-illicit-liquor-into-delhi/)**
-  One man seeking to smuggle thousands of liquor bottles into Delhi using camels met a hump in the road when he was arrest...
+- **[US wine drinkers turn to value bottles as consumption softens](https://www.thedrinksbusiness.com/2026/04/us-wine-drinkers-turn-to-value-bottles-as-consumption-softens/)**
+  A new survey of 1,351 American wine drinkers suggests affordability and moderation are reshaping purchasing habits. The ...
 
-![The Fat Duck Group alumni to launch Berkshire gastropub](https://www.thedrinksbusiness.com/content/uploads/2026/04/Nigel-Dom-scaled.jpg)
+![Calling all winemakers: entries open for The Global Rosé Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/04/iStock-1774921265.jpg)
 
-- **[The Fat Duck Group alumni to launch Berkshire gastropub](https://www.thedrinksbusiness.com/2026/04/the-fat-duck-group-alumni-to-launch-berkshire-gastropub/)**
-  The Jack O’Newbury, masterminded by The Fat Duck Group alumni chef Dom Chapman and restaurateur Nigel Sutcliffe, is set ...
-  *关键词: launch*
+- **[Calling all winemakers: entries open for The Global Rosé Masters 2026](https://www.thedrinksbusiness.com/2026/04/calling-all-winemakers-entries-open-for-the-global-rose-masters-2026/)**
+  From the palest blush to rich ruby hues, the world of rosé is as diverse as it is delicious, and now’s your chance to sh...
 
-![‘Definitely not doom and gloom’ for Champagne sales in UK](https://www.thedrinksbusiness.com/content/uploads/2024/03/iStock-1340657875.jpg)
+![Juvé & Camps joins Corpinnat](https://www.thedrinksbusiness.com/content/uploads/2026/04/image004.jpg)
 
-- **[‘Definitely not doom and gloom’ for Champagne sales in UK](https://www.thedrinksbusiness.com/2026/04/definitely-not-doom-and-gloom-for-champagne-sales-in-uk/)**
-  Despite ongoing challenges in the drinks sector, Champagne sales in the UK are showing resilience, with several producer...
+- **[Juvé & Camps joins Corpinnat](https://www.thedrinksbusiness.com/2026/04/juve-camps-joins-corpinnat/)**
+  The Spanish sparkling wine producer moves into the Corpinnat collective as it reports €27m revenue and secures a top 30 ...
 
-![Treasury Wine Estates rejects bankruptcy speculation](https://www.thedrinksbusiness.com/content/uploads/2026/04/PPenfolds-hi-res-bottles-1280x959-1-1.jpg)
+![Collectors rally at Hospices de Nuits](https://www.thedrinksbusiness.com/content/uploads/2026/03/26-03-08_PRE009-scaled.jpg)
 
-- **[Treasury Wine Estates rejects bankruptcy speculation](https://www.thedrinksbusiness.com/2026/04/treasury-wine-estates-rejects-bankruptcy-speculation/)**
-  Australia’s largest wine producer has dismissed claims that rising debt could push the company towards bankruptcy. Treas...
+- **[Collectors rally at Hospices de Nuits](https://www.thedrinksbusiness.com/2026/04/collectors-rally-at-hospices-de-nuits/)**
+  The final vintage overseen by Jean-Marc Moron drew a host of bidders as scarcity, vintage confidence and steady pricing ...
 
 ### 📰 Decanter
+
+![Our Barolo Riserva 2020 recommendations: ‘Immediate harmony and instant enjoyment’](https://cdn.mos.cms.futurecdn.net/uu3d6QTapcorVg8ZYUFCb3-1280-80.jpg)
+
+- **[Our Barolo Riserva 2020 recommendations: ‘Immediate harmony and instant enjoyment’](https://www.decanter.com/wine/piedmont-wine-region/our-barolo-riserva-2020-recommendations-immediate-harmony-and-instant-enjoyment)**
+  With some stellar late releases......
 
 ![Decanter magazine April 2026 issue: See what's inside](https://cdn.mos.cms.futurecdn.net/edQwSkehQiGL6LBUQWAg6A-1280-80.jpg)
 
@@ -108,13 +81,51 @@
 - **[Barolo 2022: Our top value finds](https://www.decanter.com/wine/barolo/barolo-2022-our-top-value-finds)**
   Going back to the classics......
 
-![The ethical drinker: Inside the debate on wine and water use](https://cdn.mos.cms.futurecdn.net/jiFnLJeqeDuTnXMoPRCxLX-1280-80.jpg)
+### 📰 Wine-Searcher
 
-- **[The ethical drinker: Inside the debate on wine and water use](https://www.decanter.com/wine-news/opinion/the-ethical-drinker-inside-the-debate-on-wine-and-water-use)**
-  A missing link in our relationship with water......
+![Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/images/news-rss/99/12/9912314228069cc2cdb_ao-yun-part2rs.jpg)
+
+- **[Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/m/2026/04/ao-yun-an-epic-wine-adventure-part-2?rss=Y)**
+  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
+
+![Defining South Africa's Regional Identity](https://www.wine-searcher.com/images/news-rss/99/12/9912514228869cc4a57_wosa1.jpg)
+
+- **[Defining South Africa's Regional Identity](https://www.wine-searcher.com/m/2026/04/defining-south-africas-regional-identity?rss=Y)**
+  In the second part of four, Maria Laura Ortiz shares impressions from her travels in the wine regions of South Africa....
 
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Tarquin’s Gin seeks £1m funding](https://www.thespiritsbusiness.com/content/uploads/2026/04/Tarquins-Gin.jpg)
+
+- **[Tarquin’s Gin seeks £1m funding](https://www.thespiritsbusiness.com/2026/04/tarquins-gin-seeks-1m-funding/)**
+  Cornish distiller Tarquin's Gin has launched its first funding round in 12 years to accelerate its US expansion and the ...
+  *关键词: launch, expansion*
+
+![Charlie Mitchell leaves CGA for Wilde Toast](https://www.thespiritsbusiness.com/content/uploads/2026/04/Wilde-Toast.jpg)
+
+- **[Charlie Mitchell leaves CGA for Wilde Toast](https://www.thespiritsbusiness.com/2026/04/charlie-mitchell-leaves-cga-for-wilde-toast/)**
+  UK-based brand activation agency Wilde Toast has appointed Charlie Mitchell as its new data and insights director
+The po...
+
+![Season’s best: The SB Spring Blind Tasting 2026 results](https://www.thespiritsbusiness.com/content/uploads/2026/03/Spring-Tasting-2026.jpg)
+
+- **[Season’s best: The SB Spring Blind Tasting 2026 results](https://www.thespiritsbusiness.com/2026/04/seasons-best-the-sb-spring-blind-tasting-2026-results/)**
+  As the weather warms up in the Northern Hemisphere, we look at the best spirits with which to greet the sunshine
+The pos...
+
+![‘Stop killing hospitality jobs’, says Scottish trade body](https://www.thespiritsbusiness.com/content/uploads/2026/04/Scottish-Hospitality-Group-billboard.jpg)
+
+- **[‘Stop killing hospitality jobs’, says Scottish trade body](https://www.thespiritsbusiness.com/2026/04/stop-killing-hospitality-jobs-says-scottish-trade-body/)**
+  The Scottish Hospitality Group has asked the UK government to “stop killing hospitality jobs” in a new billboard campaig...
+
+![Green River cuts head distiller role](https://www.thespiritsbusiness.com/content/uploads/2026/04/Green-River.jpg)
+
+- **[Green River cuts head distiller role](https://www.thespiritsbusiness.com/2026/04/green-river-cuts-head-distiller-role/)**
+  Aaron Harris, who was head distiller at Owensboro-based Green River Distilling, has left the American whiskey company
+Th...
 
 ### 📰 Brewbound
 
@@ -134,37 +145,6 @@
 - **[Tilray Q3 Earnings: New Supply Chain Advantages & ‘Focused, Higher Performing Portfolio’ Ambitions with BrewDog, Carlsberg Additions](https://www.brewbound.com/news/tilray-q3-earnings-new-supply-chain-advantages-focused-higher-performing-portfolio-ambitions-with-brewdog-carlsberg-additions)**
   Tilray Brands’ hit a company revenue record in Q3, generating $207 million in the quarter, but there was little help fro...
 
-### 📰 The Spirits Business
-
-![Green River cuts head distiller role](https://www.thespiritsbusiness.com/content/uploads/2026/04/Green-River.jpg)
-
-- **[Green River cuts head distiller role](https://www.thespiritsbusiness.com/2026/04/green-river-cuts-head-distiller-role/)**
-  Aaron Harris, who was head distiller at Owensboro-based Green River Distilling, has left the American whiskey company
-Th...
-
-![Be At One co-founder snaps up ex-BrewDog sites](https://www.thespiritsbusiness.com/content/uploads/2026/04/Northcote-Saviour-guests-enjoying-spring-time-sun-4.jpg)
-
-- **[Be At One co-founder snaps up ex-BrewDog sites](https://www.thespiritsbusiness.com/2026/04/be-at-one-co-founder-snaps-up-ex-brewdog-sites/)**
-  Rhys Oldfield, the co-founder of Be At One, has taken on three former BrewDog sites in the UK for his independent group ...
-
-![Cocktail Omakase opens in NYC](https://www.thespiritsbusiness.com/content/uploads/2026/03/Cocktail-Omakaze-.jpg)
-
-- **[Cocktail Omakase opens in NYC](https://www.thespiritsbusiness.com/2026/04/cocktail-omakase-opens-in-nyc/)**
-  Japan-inspired Cocktail Omakase has opened in New York with a concept developed in partnership with Tokyo's Bar Libre
-Th...
-  *关键词: partnership*
-
-![Ex-Casamigos CEO creates Por Qué No RTDs](https://www.thespiritsbusiness.com/content/uploads/2026/04/Por-Que-No-RTDs.jpg)
-
-- **[Ex-Casamigos CEO creates Por Qué No RTDs](https://www.thespiritsbusiness.com/2026/04/ex-casamigos-ceo-creates-por-que-no-rtds/)**
-  Beverage Management Group, led by former Casamigos Tequila CEO Lee Einsidler, has launched a ready-to-drink brand called...
-  *关键词: launch*
-
-![US whiskey exports to EU plunge 35% in 2025](https://www.thespiritsbusiness.com/content/uploads/2026/02/american-whiskey-iStock-1007971016.jpg)
-
-- **[US whiskey exports to EU plunge 35% in 2025](https://www.thespiritsbusiness.com/2026/04/us-whiskey-exports-to-eu-plunge-35-in-2025/)**
-  Exports of US spirits declined by 3.8% last year, driven by a double-digit drop for American whiskey in Europe, Canada a...
-
 ### 📰 Wine Enthusiast
 
 ![An Italian Winemaker Is Taking Over France’s Most Prestigious Hermitage Estate](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Chiara_Pepe_La_Chapelle_INSET_AlbertoBlasetti_1920x1280-1024x683.jpg)
@@ -181,5 +161,5 @@ The pos...
 
 ---
 
-*报告生成时间: 2026-04-01 16:00*  
+*报告生成时间: 2026-04-02 03:00*  
 *Antonelli Intelligence System*
