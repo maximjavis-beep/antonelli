@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-02  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-04-03  
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 50 条
+- **新增资讯**: 24 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -23,6 +23,18 @@
   Orion Breweries has announced its formal Australian expansion for 2026, [&hellip;]...
   *关键词: expansion*
 
+![New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/wp-content/uploads/2026/04/Anishka-Jelicich.jpg?w=780)
+
+- **[New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/new-zealand-winegrowers-welcomes-new-ceo/)**
+  The appointment follows departing CEO Philip Gregan’s decision to retire at the end of June, after 43 years with the org...
+
+![Wine Australia cancels export licence](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1458066787-wine-exports.jpg?w=780)
+
+- **[Wine Australia cancels export licence](https://theshout.com.au/wine-australia-cancels-export-licence/)**
+  The licence, which is only the eighth in the last 10 years that Wine Australia has cancelled, was terminated to protect ...
+
+*📚 以上为近期内容*
+
 
 ## 🌍 欧洲
 
@@ -32,16 +44,6 @@
 
 - **[Diving into Bordeaux En Primeur 2026](https://www.wine-searcher.com/m/2026/04/diving-into-bordeaux-en-primeur-2026?rss=Y)**
   As Bordeaux's big week approaches, we look forward to this year's En Primeur campaign....
-
-![Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/images/news-rss/99/12/9912314228069cc2cdb_ao-yun-part2rs.jpg)
-
-- **[Ao Yun: An Epic Wine Adventure – Part 2](https://www.wine-searcher.com/m/2026/04/ao-yun-an-epic-wine-adventure-part-2?rss=Y)**
-  In this episode of The Wine Podcast, host Suzanne Mustacich speaks with Ao Yun Estate Director Maxence Dulou about one o...
-
-![Defining South Africa's Regional Identity](https://www.wine-searcher.com/images/news-rss/99/12/9912514228869cc4a57_wosa1.jpg)
-
-- **[Defining South Africa's Regional Identity](https://www.wine-searcher.com/m/2026/04/defining-south-africas-regional-identity?rss=Y)**
-  In the second part of four, Maria Laura Ortiz shares impressions from her travels in the wine regions of South Africa....
 
 ### 📰 The Drinks Business
 
@@ -88,11 +90,6 @@
 - **[So you think you know Champagne Bollinger? Here are five facts that might surprise you](https://www.decanter.com/wine/wine-regions/so-you-think-you-know-champagne-bollinger-here-are-five-facts-that-might-surprise-you)**
   Shivani Tomar shares what she learned on a very special trip to Champagne Bollinger for the launch of its new La Grande ...
   *关键词: launch*
-
-![Our Barolo Riserva 2020 recommendations: ‘Immediate harmony and instant enjoyment’](https://cdn.mos.cms.futurecdn.net/uu3d6QTapcorVg8ZYUFCb3-1280-80.jpg)
-
-- **[Our Barolo Riserva 2020 recommendations: ‘Immediate harmony and instant enjoyment’](https://www.decanter.com/wine/piedmont-wine-region/our-barolo-riserva-2020-recommendations-immediate-harmony-and-instant-enjoyment)**
-  With some stellar late releases......
 
 
 ## 🌍 美洲
@@ -152,5 +149,5 @@
 
 ---
 
-*报告生成时间: 2026-04-02 16:00*  
+*报告生成时间: 2026-04-03 03:00*  
 *Antonelli Intelligence System*
