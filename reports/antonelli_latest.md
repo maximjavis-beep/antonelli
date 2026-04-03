@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-03  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 24 条
+- **新增资讯**: 13 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,33 +17,32 @@
 
 ### 📰 The Shout
 
-![Orion Breweries targets Australia with The Draft](https://theshout.com.au/wp-content/uploads/2026/04/LEAD-FIXED.jpg?w=780)
+![Vale Theo Karedis](https://theshout.com.au/wp-content/uploads/2026/04/ValeTheoKaredis.jpg?w=780)
 
-- **[Orion Breweries targets Australia with The Draft](https://theshout.com.au/orion-breweries-targets-australia-with-the-draft/)**
-  Orion Breweries has announced its formal Australian expansion for 2026, [&hellip;]...
-  *关键词: expansion*
-
-![New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/wp-content/uploads/2026/04/Anishka-Jelicich.jpg?w=780)
-
-- **[New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/new-zealand-winegrowers-welcomes-new-ceo/)**
-  The appointment follows departing CEO Philip Gregan’s decision to retire at the end of June, after 43 years with the org...
-
-![Wine Australia cancels export licence](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1458066787-wine-exports.jpg?w=780)
-
-- **[Wine Australia cancels export licence](https://theshout.com.au/wine-australia-cancels-export-licence/)**
-  The licence, which is only the eighth in the last 10 years that Wine Australia has cancelled, was terminated to protect ...
-
-*📚 以上为近期内容*
+- **[Vale Theo Karedis](https://theshout.com.au/vale-theo-karedis/)**
+  Much loved and widely respected retail and liquor industry entrepreneur, Theo Karedis, has passed away at the age of 90....
 
 
 ## 🌍 欧洲
 
 ### 📰 Wine-Searcher
 
+![The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/images/news-rss/99/12/9912614229369cd8d54_Vodkamain.jpg)
+
+- **[The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/m/2026/04/the-worlds-most-wanted-vodkas-of-2026?rss=Y)**
+  Boom! It's time to check out the big beasts of the world's most popular spirit – vodka....
+
 ![Diving into Bordeaux En Primeur 2026](https://www.wine-searcher.com/images/news-rss/99/11/9911414223169cc712e_EnPrimMain.jpg)
 
 - **[Diving into Bordeaux En Primeur 2026](https://www.wine-searcher.com/m/2026/04/diving-into-bordeaux-en-primeur-2026?rss=Y)**
   As Bordeaux's big week approaches, we look forward to this year's En Primeur campaign....
+
+### 📰 Decanter
+
+![Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://cdn.mos.cms.futurecdn.net/tvPoLojruDWqn69DP8s9nP-1280-80.jpg)
+
+- **[Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://www.decanter.com/wine/bordeaux-wines/decanters-first-taste-of-the-bordeaux-2025-en-primeur-samples-plus-a-reminder-of-the-growing-season-and-its-impact-on-quality-and-quantity)**
+  A taste of things to come......
 
 ### 📰 The Drinks Business
 
@@ -73,44 +72,29 @@
 - **[Rosé is ‘one of the clearest areas of growth and resilience’](https://www.thedrinksbusiness.com/2026/04/rose-is-one-of-the-clearest-areas-of-growth-and-resilience/)**
   Despite category headwinds, Félix Solís Avantis believes there is much to be positive about, especially when it comes to...
 
-### 📰 Decanter
-
-![Decanter's Dream Destination: Villa d'Este, Cernobbio, Italy](https://cdn.mos.cms.futurecdn.net/SVa9XazoJioTazBfwC6F3-1280-80.jpg)
-
-- **[Decanter's Dream Destination: Villa d'Este, Cernobbio, Italy](https://www.decanter.com/dream-destination/decanters-dream-destination-villa-deste-cernobbio-italy)**
-  On the shores of Lake Como......
-
-![A drink with...Manfred Ing](https://cdn.mos.cms.futurecdn.net/oZc4ig7jwAg5uHrWv37YSj-1280-80.jpg)
-
-- **[A drink with...Manfred Ing](https://www.decanter.com/magazine/a-drink-with-manfred-ing)**
-  Manfred Ing, the South-African born head winemaker at Tuscan estate Querciabella, talks to Decanter about his Italian ro...
-
-![So you think you know Champagne Bollinger? Here are five facts that might surprise you](https://cdn.mos.cms.futurecdn.net/cE8LsmmCjNV6Qn6NFafjgW-1280-80.png)
-
-- **[So you think you know Champagne Bollinger? Here are five facts that might surprise you](https://www.decanter.com/wine/wine-regions/so-you-think-you-know-champagne-bollinger-here-are-five-facts-that-might-surprise-you)**
-  Shivani Tomar shares what she learned on a very special trip to Champagne Bollinger for the launch of its new La Grande ...
-  *关键词: launch*
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
-- **[NIQ Weekly Scans: Beer Receives Post-St. Patrick’s Day Boost; Prepared Cocktails Top $254M](https://www.brewbound.com/news/niq-weekly-scans-beer-receives-post-st-patricks-day-boost-prepared-cocktails-top-254m)**
-  The luck of the Irish carried on for the beer category in the week after St. Patrick’s Day. Off-premise dollar sales of ...
+- **[BeerBoard March Madness Week 2: Craft Struggles Across Regions; Packaged Imports Lose Share](https://www.brewbound.com/news/beerboard-march-madness-week-2-craft-struggles-across-regions-packaged-imports-lose-share)**
+  As the NCAA men’s and women’s basketball tournaments marched into Final Four weekend, craft was the only segment to lose...
 
-- **[Mocktail Club Cracks The Control State Retail Channel](https://www.brewbound.com/news/mocktail-club-cracks-the-control-state-retail-channel)**
-  Mocktail Club, the NA sparkling beverage brand founded by Pauline Idogho in 2019, has accomplished an unlikely feat: lan...
-
-- **[Mega M&A Madness with Fingers’ Dave Infante](https://www.brewbound.com/news/brewbound-podcast-mega-ma-madness-with-fingers-dave-infante)**
-  In the wake of major shakeups in the middle-tier that will see the largest distributors getting even bigger and major ma...
-
-- **[Beer Institute: Soft February Comps Help Shipments Return to YoY Growth](https://www.brewbound.com/news/beer-institute-soft-february-comps-help-shipments-return-to-yoy-growth)**
-  U.S. beer shipments did a 180 in February, increasing 0.2% year-over-year (YoY) after a 1 million barrel loss in January...
-
-- **[Coop Ale Works and Four Corners Merge, Form Frontier Beverage Collective](https://www.brewbound.com/news/coop-ale-works-and-four-corners-merge-form-frontier-beverage-collective)**
-  Dallas-based Four Corners Brewing Company and Oklahoma City-based Coop Ale Works “have combined operations” in a “strate...
+- **[Brown-Forman, Pernod Ricard Merger Could Lead to Fewer Buyers and Distributors for Independent Brands](https://www.brewbound.com/news/brown-forman-pernod-ricard-merger-could-lead-to-fewer-buyers-and-distributors-for-independent-brands)**
+  When two spirits giants merge, what does that mean for smaller, independent suppliers?...
   *关键词: merger*
+
+- **[Press Clips: Aluminum Tariffs Updates, Spirits Acquisitions, Wormtown’s Taproom Reopening & More](https://www.brewbound.com/news/press-clips-aluminum-tariffs-updates-spirits-acquisitions-wormtowns-taproom-reopening-more)**
+  Check out news items initially reported in the Brewbound Insider Newsletter April 2-3, including headlines from the Brew...
+  *关键词: acquisition, acquisition*
+
+### 📰 Wine Enthusiast
+
+![The Off-Dry Riesling Reboot No One Saw Coming](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/04_26_brigadoon_2024_riesling_off_dry_inset_brigadoon_wine_co_700x466)
+
+- **[The Off-Dry Riesling Reboot No One Saw Coming](https://www.wineenthusiast.com/basics/grapes-101/off-dry-rieslings/)**
+  Once maligned as saccharine or sophomoric, off-dry Rieslings are finding new audiences and meeting the moment.
+The post ...
 
 ### 📰 The Spirits Business
 
@@ -129,25 +113,10 @@
 - **[Sustainable Scotch distillery project gains £1.57m](https://www.thespiritsbusiness.com/2026/04/sustainable-scotch-distillery-project-gains-1-57m/)**
   Highlands-based Struie Distillery has secured up to £1.57 million (US$2.1m) in funding for the development of its carbon...
 
-![IWSR: spirits ‘worst performing’ category in 2025](https://www.thespiritsbusiness.com/content/uploads/2026/04/IWSR.jpg)
-
-- **[IWSR: spirits ‘worst performing’ category in 2025](https://www.thespiritsbusiness.com/2026/04/iwsr-spirits-worst-performing-category-in-2025/)**
-  Total beverage alcohol volumes fell by 2% in 2025, with spirits suffering the biggest value drop, according to IWSR data...
-
-![On-trade experts give free sustainability advice](https://www.thespiritsbusiness.com/content/uploads/2026/04/Elysian-Budapest.jpg)
-
-- **[On-trade experts give free sustainability advice](https://www.thespiritsbusiness.com/2026/04/on-trade-experts-give-free-sustainability-advice/)**
-  Máté Szabó, the founder of Elysian Budapest, has created The Sustainable Documents in collaboration with Angelos Bafas a...
-
-### 📰 Wine Enthusiast
-
-![10 of the Most Iconic Wine Shops Around the World](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Acker_Wines_NYC_INSET_Mira_Vojinovic_1920x1280-1024x683.jpg)
-
-- **[10 of the Most Iconic Wine Shops Around the World](https://www.wineenthusiast.com/culture/travel/iconic-wine-shops/)**
-  Wine shops are often overlooked when it comes to wine culture, but many of them have greatly influenced our tastes. Here...
+*📚 以上为近期内容*
 
 
 ---
 
-*报告生成时间: 2026-04-03 03:00*  
+*报告生成时间: 2026-04-03 16:00*  
 *Antonelli Intelligence System*
