@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-04  
-**来源**: 全球 3 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 9 条
+- **新增资讯**: 5 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -27,8 +27,33 @@
 - **[Vale Theo Karedis](https://theshout.com.au/vale-theo-karedis/)**
   Much loved and widely respected retail and liquor industry entrepreneur, Theo Karedis, has passed away at the age of 90....
 
+![Orion Breweries targets Australia with The Draft](https://theshout.com.au/wp-content/uploads/2026/04/LEAD-FIXED.jpg?w=780)
+
+- **[Orion Breweries targets Australia with The Draft](https://theshout.com.au/orion-breweries-targets-australia-with-the-draft/)**
+  Orion Breweries has announced its formal Australian expansion for 2026, [&hellip;]...
+  *关键词: expansion*
+
+![New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/wp-content/uploads/2026/04/Anishka-Jelicich.jpg?w=780)
+
+- **[New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/new-zealand-winegrowers-welcomes-new-ceo/)**
+  The appointment follows departing CEO Philip Gregan’s decision to retire at the end of June, after 43 years with the org...
+
+*📚 以上为近期内容*
+
 
 ## 🌍 欧洲
+
+### 📰 Wine-Searcher
+
+![Tuscan Wine's Russian Love Affair](https://www.wine-searcher.com/images/news-rss/99/12/9912414228769cdae4b_tusca1.jpg)
+
+- **[Tuscan Wine's Russian Love Affair](https://www.wine-searcher.com/m/2026/04/tuscan-wines-russian-love-affair?rss=Y)**
+  Despite EU sanctions, allies and henchmen of Vladimir Putin have no problems acquiring Italian wine estates....
+
+![The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/images/news-rss/99/12/9912614229369cd8d54_Vodkamain.jpg)
+
+- **[The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/m/2026/04/the-worlds-most-wanted-vodkas-of-2026?rss=Y)**
+  Boom! It's time to check out the big beasts of the world's most popular spirit – vodka....
 
 ### 📰 Decanter
 
@@ -36,18 +61,6 @@
 
 - **[Superb Alsace grand cru Rieslings from two unique vintages](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/superb-alsace-grand-cru-rieslings-from-two-unique-vintages)**
   A brace of thrilling vintages......
-
-![Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://cdn.mos.cms.futurecdn.net/tvPoLojruDWqn69DP8s9nP-1280-80.jpg)
-
-- **[Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://www.decanter.com/wine/bordeaux-wines/decanters-first-taste-of-the-bordeaux-2025-en-primeur-samples-plus-a-reminder-of-the-growing-season-and-its-impact-on-quality-and-quantity)**
-  A taste of things to come......
-
-### 📰 Wine-Searcher
-
-![The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/images/news-rss/99/12/9912614229369cd8d54_Vodkamain.jpg)
-
-- **[The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/m/2026/04/the-worlds-most-wanted-vodkas-of-2026?rss=Y)**
-  Boom! It's time to check out the big beasts of the world's most popular spirit – vodka....
 
 ### 📰 The Drinks Business
 
@@ -74,16 +87,8 @@
 
 ### 📰 Brewbound
 
-- **[BeerBoard March Madness Week 2: Craft Struggles Across Regions; Packaged Imports Lose Share](https://www.brewbound.com/news/beerboard-march-madness-week-2-craft-struggles-across-regions-packaged-imports-lose-share)**
-  As the NCAA men’s and women’s basketball tournaments marched into Final Four weekend, craft was the only segment to lose...
-
-- **[Brown-Forman, Pernod Ricard Merger Could Lead to Fewer Buyers and Distributors for Independent Brands](https://www.brewbound.com/news/brown-forman-pernod-ricard-merger-could-lead-to-fewer-buyers-and-distributors-for-independent-brands)**
-  When two spirits giants merge, what does that mean for smaller, independent suppliers?...
-  *关键词: merger*
-
-- **[Press Clips: Aluminum Tariffs Updates, Spirits Acquisitions, Wormtown’s Taproom Reopening & More](https://www.brewbound.com/news/press-clips-aluminum-tariffs-updates-spirits-acquisitions-wormtowns-taproom-reopening-more)**
-  Check out news items initially reported in the Brewbound Insider Newsletter April 2-3, including headlines from the Brew...
-  *关键词: acquisition, acquisition*
+- **[Insider’s Week in Beer: Heineken Wants You To Talk To Strangers](https://newsletter.bevnet.com/subscriber/f39b3afeae3e4baab2c1d3b00a6068ee)**
+  If, for some reason, you have a hard time meeting people at a music festival who are um … also into music – HEINEKEN tha...
 
 ### 📰 Wine Enthusiast
 
@@ -92,6 +97,19 @@
 - **[The Off-Dry Riesling Reboot No One Saw Coming](https://www.wineenthusiast.com/basics/grapes-101/off-dry-rieslings/)**
   Once maligned as saccharine or sophomoric, off-dry Rieslings are finding new audiences and meeting the moment.
 The post ...
+
+![10 of the Most Iconic Wine Shops Around the World](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Acker_Wines_NYC_INSET_Mira_Vojinovic_1920x1280-1024x683.jpg)
+
+- **[10 of the Most Iconic Wine Shops Around the World](https://www.wineenthusiast.com/culture/travel/iconic-wine-shops/)**
+  Wine shops are often overlooked when it comes to wine culture, but many of them have greatly influenced our tastes. Here...
+
+![An Italian Winemaker Is Taking Over France’s Most Prestigious Hermitage Estate](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Chiara_Pepe_La_Chapelle_INSET_AlbertoBlasetti_1920x1280-1024x683.jpg)
+
+- **[An Italian Winemaker Is Taking Over France’s Most Prestigious Hermitage Estate](https://www.wineenthusiast.com/culture/industry-news/chiara-pepe-domaine-de-la-chapelle/)**
+  32-year-old Chiara Pepe of Emidio Pepe in Abruzzo is ushering Hermitage's Domaine de La Chapelle into a new era.
+The pos...
+
+*📚 以上为近期内容*
 
 ### 📰 The Spirits Business
 
@@ -115,5 +133,5 @@ The post ...
 
 ---
 
-*报告生成时间: 2026-04-04 03:00*  
+*报告生成时间: 2026-04-04 16:00*  
 *Antonelli Intelligence System*
