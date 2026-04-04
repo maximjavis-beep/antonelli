@@ -1,19 +1,24 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-03  
+**日期**: 2026-04-04  
 **来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 13 条
+- **新增资讯**: 9 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
 ## 🌍 亚洲
+
+### 📰 Nomunication
+
+- **[Win a free ticket to Tokyo International BarShow 2026, May 9-10](https://www.nomunication.jp/2026/04/04/win-a-free-ticket-to-tokyo-international-barshow-2026-may-9-10/)**
+  It&#8217;s that time of year again &#8212; the Tokyo International BarShow is on May 9-10 at Tokyo Dome&#8217;s Prism Ha...
 
 ### 📰 The Shout
 
@@ -25,24 +30,24 @@
 
 ## 🌍 欧洲
 
+### 📰 Decanter
+
+![Superb Alsace grand cru Rieslings from two unique vintages](https://cdn.mos.cms.futurecdn.net/ckNxPjUehcZS7aBAuAHyb8-1280-80.jpg)
+
+- **[Superb Alsace grand cru Rieslings from two unique vintages](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/superb-alsace-grand-cru-rieslings-from-two-unique-vintages)**
+  A brace of thrilling vintages......
+
+![Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://cdn.mos.cms.futurecdn.net/tvPoLojruDWqn69DP8s9nP-1280-80.jpg)
+
+- **[Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://www.decanter.com/wine/bordeaux-wines/decanters-first-taste-of-the-bordeaux-2025-en-primeur-samples-plus-a-reminder-of-the-growing-season-and-its-impact-on-quality-and-quantity)**
+  A taste of things to come......
+
 ### 📰 Wine-Searcher
 
 ![The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/images/news-rss/99/12/9912614229369cd8d54_Vodkamain.jpg)
 
 - **[The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/m/2026/04/the-worlds-most-wanted-vodkas-of-2026?rss=Y)**
   Boom! It's time to check out the big beasts of the world's most popular spirit – vodka....
-
-![Diving into Bordeaux En Primeur 2026](https://www.wine-searcher.com/images/news-rss/99/11/9911414223169cc712e_EnPrimMain.jpg)
-
-- **[Diving into Bordeaux En Primeur 2026](https://www.wine-searcher.com/m/2026/04/diving-into-bordeaux-en-primeur-2026?rss=Y)**
-  As Bordeaux's big week approaches, we look forward to this year's En Primeur campaign....
-
-### 📰 Decanter
-
-![Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://cdn.mos.cms.futurecdn.net/tvPoLojruDWqn69DP8s9nP-1280-80.jpg)
-
-- **[Decanter's first taste of the Bordeaux 2025 En Primeur samples, plus a reminder of the growing season and its impact on quality and quantity](https://www.decanter.com/wine/bordeaux-wines/decanters-first-taste-of-the-bordeaux-2025-en-primeur-samples-plus-a-reminder-of-the-growing-season-and-its-impact-on-quality-and-quantity)**
-  A taste of things to come......
 
 ### 📰 The Drinks Business
 
@@ -62,15 +67,7 @@
   Thwarted by a mix of political instability, soaring costs and drop in consumer confidence, it’s no secret that the alcoh...
   *关键词: market*
 
-![‘Langhe-Yoichi’ wine pact looks to boost viticulture, tourism and trade](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1092860160-scaled.jpg)
-
-- **[‘Langhe-Yoichi’ wine pact looks to boost viticulture, tourism and trade](https://www.thedrinksbusiness.com/2026/04/langhe-yoichi-wine-pact-looks-to-boost-viticulture-tourism-and-trade/)**
-  The Langhe, Piedmont, and Hokkaido’s Yoichi district have come together to sign a ‘wine pact’, with the aim of facilitat...
-
-![Rosé is ‘one of the clearest areas of growth and resilience’](https://www.thedrinksbusiness.com/content/uploads/2026/04/Felix-solis-main-scaled.jpg)
-
-- **[Rosé is ‘one of the clearest areas of growth and resilience’](https://www.thedrinksbusiness.com/2026/04/rose-is-one-of-the-clearest-areas-of-growth-and-resilience/)**
-  Despite category headwinds, Félix Solís Avantis believes there is much to be positive about, especially when it comes to...
+*📚 以上为近期内容*
 
 
 ## 🌍 美洲
@@ -118,5 +115,5 @@ The post ...
 
 ---
 
-*报告生成时间: 2026-04-03 16:00*  
+*报告生成时间: 2026-04-04 03:00*  
 *Antonelli Intelligence System*
