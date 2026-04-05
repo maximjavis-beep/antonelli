@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-04  
-**来源**: 全球 3 个地区 · 4 个信源
+**日期**: 2026-04-05  
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 5 条
+- **新增资讯**: 3 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -19,6 +19,8 @@
 
 - **[Win a free ticket to Tokyo International BarShow 2026, May 9-10](https://www.nomunication.jp/2026/04/04/win-a-free-ticket-to-tokyo-international-barshow-2026-may-9-10/)**
   It&#8217;s that time of year again &#8212; the Tokyo International BarShow is on May 9-10 at Tokyo Dome&#8217;s Prism Ha...
+
+*📚 以上为近期内容*
 
 ### 📰 The Shout
 
@@ -43,24 +45,19 @@
 
 ## 🌍 欧洲
 
+### 📰 Decanter
+
+![Riserva wine, what does the term mean? We explore...](https://cdn.mos.cms.futurecdn.net/5CE8qWZFwYVAFe3EowRDiP-1280-80.jpg)
+
+- **[Riserva wine, what does the term mean? We explore...](https://www.decanter.com/learn/riserva-on-a-wine-label-what-does-it-mean-we-explore)**
+  The realities of Riserva......
+
 ### 📰 Wine-Searcher
 
 ![Tuscan Wine's Russian Love Affair](https://www.wine-searcher.com/images/news-rss/99/12/9912414228769cdae4b_tusca1.jpg)
 
 - **[Tuscan Wine's Russian Love Affair](https://www.wine-searcher.com/m/2026/04/tuscan-wines-russian-love-affair?rss=Y)**
   Despite EU sanctions, allies and henchmen of Vladimir Putin have no problems acquiring Italian wine estates....
-
-![The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/images/news-rss/99/12/9912614229369cd8d54_Vodkamain.jpg)
-
-- **[The World's Most Wanted Vodkas of 2026](https://www.wine-searcher.com/m/2026/04/the-worlds-most-wanted-vodkas-of-2026?rss=Y)**
-  Boom! It's time to check out the big beasts of the world's most popular spirit – vodka....
-
-### 📰 Decanter
-
-![Superb Alsace grand cru Rieslings from two unique vintages](https://cdn.mos.cms.futurecdn.net/ckNxPjUehcZS7aBAuAHyb8-1280-80.jpg)
-
-- **[Superb Alsace grand cru Rieslings from two unique vintages](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/superb-alsace-grand-cru-rieslings-from-two-unique-vintages)**
-  A brace of thrilling vintages......
 
 ### 📰 The Drinks Business
 
@@ -133,5 +130,5 @@ The pos...
 
 ---
 
-*报告生成时间: 2026-04-04 16:00*  
+*报告生成时间: 2026-04-05 03:00*  
 *Antonelli Intelligence System*
