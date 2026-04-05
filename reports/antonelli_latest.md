@@ -1,7 +1,7 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-05  
-**来源**: 全球 2 个地区 · 3 个信源
+**来源**: 全球 1 个地区 · 2 个信源
 
 ---
 
@@ -45,19 +45,24 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/images/news-rss/99/12/9912114226669cb1dcb_Happypig.jpg)
+
+- **[Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/m/2026/04/vineyards-benefit-from-furry-friends?rss=Y)**
+  Hailed for their ability to restore soils, animals like horses, sheep and pigs are making a return to the vineyard....
+
 ### 📰 Decanter
+
+![Spring whites at £20 and under: 20 of the best-value wines](https://cdn.mos.cms.futurecdn.net/BdwpQnuFwuvj8wRpxDekAX-1280-80.jpg)
+
+- **[Spring whites at £20 and under: 20 of the best-value wines](https://www.decanter.com/decanter-best/spring-whites-at-gbp20-under-20-of-the-best-value-whites)**
+  Here's to the new season......
 
 ![Riserva wine, what does the term mean? We explore...](https://cdn.mos.cms.futurecdn.net/5CE8qWZFwYVAFe3EowRDiP-1280-80.jpg)
 
 - **[Riserva wine, what does the term mean? We explore...](https://www.decanter.com/learn/riserva-on-a-wine-label-what-does-it-mean-we-explore)**
   The realities of Riserva......
-
-### 📰 Wine-Searcher
-
-![Tuscan Wine's Russian Love Affair](https://www.wine-searcher.com/images/news-rss/99/12/9912414228769cdae4b_tusca1.jpg)
-
-- **[Tuscan Wine's Russian Love Affair](https://www.wine-searcher.com/m/2026/04/tuscan-wines-russian-love-affair?rss=Y)**
-  Despite EU sanctions, allies and henchmen of Vladimir Putin have no problems acquiring Italian wine estates....
 
 ### 📰 The Drinks Business
 
@@ -86,6 +91,15 @@
 
 - **[Insider’s Week in Beer: Heineken Wants You To Talk To Strangers](https://newsletter.bevnet.com/subscriber/f39b3afeae3e4baab2c1d3b00a6068ee)**
   If, for some reason, you have a hard time meeting people at a music festival who are um … also into music – HEINEKEN tha...
+
+- **[BeerBoard March Madness Week 2: Craft Struggles Across Regions; Packaged Imports Lose Share](https://www.brewbound.com/news/beerboard-march-madness-week-2-craft-struggles-across-regions-packaged-imports-lose-share)**
+  As the NCAA men’s and women’s basketball tournaments marched into Final Four weekend, craft was the only segment to lose...
+
+- **[Brown-Forman, Pernod Ricard Merger Could Lead to Fewer Buyers and Distributors for Independent Brands](https://www.brewbound.com/news/brown-forman-pernod-ricard-merger-could-lead-to-fewer-buyers-and-distributors-for-independent-brands)**
+  When two spirits giants merge, what does that mean for smaller, independent suppliers?...
+  *关键词: merger*
+
+*📚 以上为近期内容*
 
 ### 📰 Wine Enthusiast
 
@@ -130,5 +144,5 @@ The pos...
 
 ---
 
-*报告生成时间: 2026-04-05 03:00*  
+*报告生成时间: 2026-04-05 16:00*  
 *Antonelli Intelligence System*
