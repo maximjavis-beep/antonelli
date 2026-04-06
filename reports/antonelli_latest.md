@@ -1,6 +1,6 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-05  
+**日期**: 2026-04-06  
 **来源**: 全球 1 个地区 · 2 个信源
 
 ---
@@ -45,24 +45,24 @@
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/images/news-rss/99/12/9912114226669cb1dcb_Happypig.jpg)
-
-- **[Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/m/2026/04/vineyards-benefit-from-furry-friends?rss=Y)**
-  Hailed for their ability to restore soils, animals like horses, sheep and pigs are making a return to the vineyard....
-
 ### 📰 Decanter
+
+![Decoding the Mâconnais: Burgundy lovers should keep their eyes on this southern star](https://cdn.mos.cms.futurecdn.net/apuvnhhq7GSCZo4mz6y7KL-1280-80.png)
+
+- **[Decoding the Mâconnais: Burgundy lovers should keep their eyes on this southern star](https://www.decanter.com/wine/burgundy-wine/decoding-the-maconnais-burgundy-lovers-should-keep-their-eyes-on-this-southern-star)**
+  The twin stars of quality and value burn brightly in Burgundy's southern climes. Charles Curtis MW takes a look at the s...
 
 ![Spring whites at £20 and under: 20 of the best-value wines](https://cdn.mos.cms.futurecdn.net/BdwpQnuFwuvj8wRpxDekAX-1280-80.jpg)
 
 - **[Spring whites at £20 and under: 20 of the best-value wines](https://www.decanter.com/decanter-best/spring-whites-at-gbp20-under-20-of-the-best-value-whites)**
   Here's to the new season......
 
-![Riserva wine, what does the term mean? We explore...](https://cdn.mos.cms.futurecdn.net/5CE8qWZFwYVAFe3EowRDiP-1280-80.jpg)
+### 📰 Wine-Searcher
 
-- **[Riserva wine, what does the term mean? We explore...](https://www.decanter.com/learn/riserva-on-a-wine-label-what-does-it-mean-we-explore)**
-  The realities of Riserva......
+![Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/images/news-rss/99/12/9912114226669cb1dcb_Happypig.jpg)
+
+- **[Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/m/2026/04/vineyards-benefit-from-furry-friends?rss=Y)**
+  Hailed for their ability to restore soils, animals like horses, sheep and pigs are making a return to the vineyard....
 
 ### 📰 The Drinks Business
 
@@ -144,5 +144,5 @@ The pos...
 
 ---
 
-*报告生成时间: 2026-04-05 16:00*  
+*报告生成时间: 2026-04-06 03:00*  
 *Antonelli Intelligence System*
