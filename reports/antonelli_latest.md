@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-06  
-**来源**: 全球 1 个地区 · 2 个信源
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 3 条
+- **新增资讯**: 8 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -89,38 +89,28 @@
 
 ### 📰 Brewbound
 
-- **[Insider’s Week in Beer: Heineken Wants You To Talk To Strangers](https://newsletter.bevnet.com/subscriber/f39b3afeae3e4baab2c1d3b00a6068ee)**
-  If, for some reason, you have a hard time meeting people at a music festival who are um … also into music – HEINEKEN tha...
+- **[On-Premise Update: Key Shifts to Watch – NielsenIQ Quarterly Report](https://www.nombase.com/datahub/on-premise-update-key-shifts-to-watch---nielseniq-quarterly-report)**
+  The latest NIQ on premise update highlights a beer category under pressure, with both value and volume declining over th...
 
-- **[BeerBoard March Madness Week 2: Craft Struggles Across Regions; Packaged Imports Lose Share](https://www.brewbound.com/news/beerboard-march-madness-week-2-craft-struggles-across-regions-packaged-imports-lose-share)**
-  As the NCAA men’s and women’s basketball tournaments marched into Final Four weekend, craft was the only segment to lose...
+- **[Dogfish Head Seeks a 2nd Hit with Grateful Dead Citrus Daydream Lager](https://www.brewbound.com/news/dogfish-head-seeks-a-2nd-hit-with-grateful-dead-citrus-daydream-lager)**
+  Dogfish Head is looking to extend its long, strange trip back to growth in 2026. Following the launch of Grateful Dead J...
+  *关键词: launch, partnership*
 
-- **[Brown-Forman, Pernod Ricard Merger Could Lead to Fewer Buyers and Distributors for Independent Brands](https://www.brewbound.com/news/brown-forman-pernod-ricard-merger-could-lead-to-fewer-buyers-and-distributors-for-independent-brands)**
-  When two spirits giants merge, what does that mean for smaller, independent suppliers?...
-  *关键词: merger*
-
-*📚 以上为近期内容*
+- **[Beer on the Chopping Block as Distributors Make Way for Spirts & RTDs, per BWC Survey](https://www.brewbound.com/news/beer-on-the-chopping-block-as-distributors-make-way-for-spirts-rtds-per-bwc-survey)**
+  Non-alcoholic (NA) and better-for-you brands across both bev-alc and greater CPG have become some of the greatest revenu...
 
 ### 📰 Wine Enthusiast
 
-![The Off-Dry Riesling Reboot No One Saw Coming](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/04_26_brigadoon_2024_riesling_off_dry_inset_brigadoon_wine_co_700x466)
+![Maximalist Bars Are Offering Guests a Much-Needed Escape from Reality](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Capulet_Cocktail_Club_INSET_Mark_Terry_1920x1280-1024x683.jpg)
 
-- **[The Off-Dry Riesling Reboot No One Saw Coming](https://www.wineenthusiast.com/basics/grapes-101/off-dry-rieslings/)**
-  Once maligned as saccharine or sophomoric, off-dry Rieslings are finding new audiences and meeting the moment.
-The post ...
+- **[Maximalist Bars Are Offering Guests a Much-Needed Escape from Reality](https://www.wineenthusiast.com/culture/maximalist-bar-interiors/)**
+  Increasingly, bars around the country (and beyond) are embracing daring, maximalist design schemes, eliciting a sense of...
 
-![10 of the Most Iconic Wine Shops Around the World](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Acker_Wines_NYC_INSET_Mira_Vojinovic_1920x1280-1024x683.jpg)
+![The Best Napa Valley Wineries to Visit Right Now, According to Industry Insiders](https://www.wineenthusiast.com/wp-content/uploads/2023/05/05_23_Mayacamas_INSET_Mayacamas_1920x1280-1024x682.jpg)
 
-- **[10 of the Most Iconic Wine Shops Around the World](https://www.wineenthusiast.com/culture/travel/iconic-wine-shops/)**
-  Wine shops are often overlooked when it comes to wine culture, but many of them have greatly influenced our tastes. Here...
-
-![An Italian Winemaker Is Taking Over France’s Most Prestigious Hermitage Estate](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Chiara_Pepe_La_Chapelle_INSET_AlbertoBlasetti_1920x1280-1024x683.jpg)
-
-- **[An Italian Winemaker Is Taking Over France’s Most Prestigious Hermitage Estate](https://www.wineenthusiast.com/culture/industry-news/chiara-pepe-domaine-de-la-chapelle/)**
-  32-year-old Chiara Pepe of Emidio Pepe in Abruzzo is ushering Hermitage's Domaine de La Chapelle into a new era.
-The pos...
-
-*📚 以上为近期内容*
+- **[The Best Napa Valley Wineries to Visit Right Now, According to Industry Insiders](https://www.wineenthusiast.com/culture/travel/best-napa-valley-wineries-to-visit/)**
+  These expert-approved spots are worth a stop when you visit the Valley. Plus, where to stay and eat between tastings.
+Th...
 
 ### 📰 The Spirits Business
 
@@ -144,5 +134,5 @@ The pos...
 
 ---
 
-*报告生成时间: 2026-04-06 03:00*  
+*报告生成时间: 2026-04-06 16:00*  
 *Antonelli Intelligence System*
