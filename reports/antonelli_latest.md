@@ -1,19 +1,26 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-06  
-**来源**: 全球 2 个地区 · 4 个信源
+**日期**: 2026-04-07  
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 8 条
+- **新增资讯**: 23 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
 ## 🌍 亚洲
+
+### 📰 The Shout
+
+![Hawke’s Bay wine to be showcased in Melbourne](https://theshout.com.au/wp-content/uploads/2026/04/Image2CarlG2.jpg?w=780)
+
+- **[Hawke’s Bay wine to be showcased in Melbourne](https://theshout.com.au/hawkes-bay-wine-to-be-showcased-in-melbourne/)**
+  On Tuesday 19 May, a dedicated trade and sommelier event will explore the depth and diversity of New Zealand's oldest wi...
 
 ### 📰 Nomunication
 
@@ -22,70 +29,90 @@
 
 *📚 以上为近期内容*
 
-### 📰 The Shout
-
-![Vale Theo Karedis](https://theshout.com.au/wp-content/uploads/2026/04/ValeTheoKaredis.jpg?w=780)
-
-- **[Vale Theo Karedis](https://theshout.com.au/vale-theo-karedis/)**
-  Much loved and widely respected retail and liquor industry entrepreneur, Theo Karedis, has passed away at the age of 90....
-
-![Orion Breweries targets Australia with The Draft](https://theshout.com.au/wp-content/uploads/2026/04/LEAD-FIXED.jpg?w=780)
-
-- **[Orion Breweries targets Australia with The Draft](https://theshout.com.au/orion-breweries-targets-australia-with-the-draft/)**
-  Orion Breweries has announced its formal Australian expansion for 2026, [&hellip;]...
-  *关键词: expansion*
-
-![New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/wp-content/uploads/2026/04/Anishka-Jelicich.jpg?w=780)
-
-- **[New Zealand Winegrowers welcomes new CEO](https://theshout.com.au/new-zealand-winegrowers-welcomes-new-ceo/)**
-  The appointment follows departing CEO Philip Gregan’s decision to retire at the end of June, after 43 years with the org...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 欧洲
 
-### 📰 Decanter
-
-![Decoding the Mâconnais: Burgundy lovers should keep their eyes on this southern star](https://cdn.mos.cms.futurecdn.net/apuvnhhq7GSCZo4mz6y7KL-1280-80.png)
-
-- **[Decoding the Mâconnais: Burgundy lovers should keep their eyes on this southern star](https://www.decanter.com/wine/burgundy-wine/decoding-the-maconnais-burgundy-lovers-should-keep-their-eyes-on-this-southern-star)**
-  The twin stars of quality and value burn brightly in Burgundy's southern climes. Charles Curtis MW takes a look at the s...
-
-![Spring whites at £20 and under: 20 of the best-value wines](https://cdn.mos.cms.futurecdn.net/BdwpQnuFwuvj8wRpxDekAX-1280-80.jpg)
-
-- **[Spring whites at £20 and under: 20 of the best-value wines](https://www.decanter.com/decanter-best/spring-whites-at-gbp20-under-20-of-the-best-value-whites)**
-  Here's to the new season......
-
 ### 📰 Wine-Searcher
 
-![Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/images/news-rss/99/12/9912114226669cb1dcb_Happypig.jpg)
+![Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/images/news-rss/99/13/9913614230569d42bc4_saffa1.jpg)
 
-- **[Vineyards Benefit from Furry Friends](https://www.wine-searcher.com/m/2026/04/vineyards-benefit-from-furry-friends?rss=Y)**
-  Hailed for their ability to restore soils, animals like horses, sheep and pigs are making a return to the vineyard....
+- **[Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/m/2026/04/elgin-south-africas-cool-climate-authority?rss=Y)**
+  In part three of her exploration of South African wine, Maria Laura Ortiz focuses on the Chardonnay and Pinot producers ...
 
 ### 📰 The Drinks Business
 
-![Industry unites for London to Brighton memorial ride honouring John Osborne](https://www.thedrinksbusiness.com/content/uploads/2026/04/John-Osborne.jpg)
+![What makes a great site for Trentino Pinot Grigio?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Mezzacorona_1-scaled.jpg)
 
-- **[Industry unites for London to Brighton memorial ride honouring John Osborne](https://www.thedrinksbusiness.com/2026/04/industry-unites-for-london-to-brighton-memorial-ride-honouring-john-osborne/)**
-  Members of the UK wine and hospitality trade are to take part in a 60-mile charity cycle this October to celebrate the l...
+- **[What makes a great site for Trentino Pinot Grigio?](https://www.thedrinksbusiness.com/2026/04/what-makes-a-great-site-for-trentino-pinot-grigio/)**
+  Even in Italy, Pinot Grigio is far from homogenous. In the best sites of Trentino, producers like Mezzacorona are showin...
 
-![Beer Hour: Lauren Soderberg](https://www.thedrinksbusiness.com/content/uploads/2026/04/Lauren-Soderberg-scaled.jpg)
+![Deep dive: La Mission Haut-Brion](https://www.thedrinksbusiness.com/content/uploads/2024/05/La-Mission-Haut-Brion-1-scaled.jpg)
 
-- **[Beer Hour: Lauren Soderberg](https://www.thedrinksbusiness.com/2026/04/beer-hour-lauren-soderberg/)**
-  A love of beer has led Lauren Soderberg to a career that has spanned more than 20 years talking about its merits while d...
+- **[Deep dive: La Mission Haut-Brion](https://www.thedrinksbusiness.com/2026/04/deep-dive-la-mission-haut-brion/)**
+  Critic scores for this Pessac-Léognan property may be high, but pricing trends suggest that it is not always an attracti...
+  *关键词: trend*
 
-![Beverage alcohol suffers global downturn in 2025](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1495400812-scaled.jpg)
+![Drappier unveils Éclose 2012: The oak egg reshaping Champagne in the Côte des Bar](https://www.thedrinksbusiness.com/content/uploads/2026/04/Elose-2012-the-wine-the-glass-and-the-oak-egg-barrel-Credit-Champagne-Drappier-1-scaled.jpg)
 
-- **[Beverage alcohol suffers global downturn in 2025](https://www.thedrinksbusiness.com/2026/04/beverage-alcohol-suffers-global-downturn-in-2025/)**
-  Thwarted by a mix of political instability, soaring costs and drop in consumer confidence, it’s no secret that the alcoh...
-  *关键词: market*
+- **[Drappier unveils Éclose 2012: The oak egg reshaping Champagne in the Côte des Bar](https://www.thedrinksbusiness.com/2026/04/drappier-unveils-eclose-2012-the-oak-egg-reshaping-champagne-in-the-cote-des-bar/)**
+  Leona De Pasquale attends the monumental hatch of Champagne Drappier's Éclose 2012 - an egg-shaped oak barrel containing...
 
-*📚 以上为近期内容*
+![American whiskey sales fall 19% year-on-year](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2230640092-scaled.jpg)
+
+- **[American whiskey sales fall 19% year-on-year](https://www.thedrinksbusiness.com/2026/04/american-whiskey-sales-fall-19-year-on-year/)**
+  In a year when Beam Suntory mothballed distilling, the depth of the depression affecting America’s whiskey and Bourbon p...
+
+![Highlights of the new releases from Brunello di Montalcino](https://www.thedrinksbusiness.com/content/uploads/2025/06/1000061135-scaled.jpg)
+
+- **[Highlights of the new releases from Brunello di Montalcino](https://www.thedrinksbusiness.com/2026/04/highlights-of-the-new-releases-from-brunello-di-montalcino/)**
+  db's Bordeaux correspondent Colin Hay shares his thoughts on, and tasting notes for, some of the many stars amongst Brun...
+
+### 📰 Decanter
+
+![South Africa: Gold-winning white wines](https://cdn.mos.cms.futurecdn.net/MxK5JzFJavrNriLH74KJ9C-1280-80.jpg)
+
+- **[South Africa: Gold-winning white wines](https://www.decanter.com/decanter-world-wine-awards/dwwa-results-highlights/south-africa-gold-winning-white-wines)**
+  South Africa’s white wines reach new heights showcasing 45 Gold medals at DWWA 2025...
+
+![Marchesi di Barolo: A new take on Sauvignon Blanc and a celebration of a Marchesa’s legacy in the Langhe](https://cdn.mos.cms.futurecdn.net/gT39DZAV3iaJ9oHsFmvk48-1280-80.jpg)
+
+- **[Marchesi di Barolo: A new take on Sauvignon Blanc and a celebration of a Marchesa’s legacy in the Langhe](https://www.decanter.com/sponsored/marchesi-di-barolo-a-new-take-on-sauvignon-blanc-and-a-celebration-of-a-marchesas-legacy-in-the-langhe)**
+  As the Abbona family’s sixth generation Valentina and Davide take the lead, tradition is shown to walk hand in hand with...
+
+![The craft of casks: From wine to whisky](https://cdn.mos.cms.futurecdn.net/xo2NsJsyPVyLbhQ8TNPctU-1280-80.gif)
+
+- **[The craft of casks: From wine to whisky](https://www.decanter.com/spirits/the-craft-of-casks-from-wine-to-whisky)**
+  Meet the distillers working with local wineries...
 
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![New Grove rum experience opens in Mauritius](https://www.thespiritsbusiness.com/content/uploads/2026/04/LAventure-du-Sucre-New-Grove-Distillery-museum.jpg)
+
+- **[New Grove rum experience opens in Mauritius](https://www.thespiritsbusiness.com/2026/04/new-grove-rum-experience-opens-in-mauritius/)**
+  The newly redesigned L’Aventure du Sucre exhibition in Mauritius features an experience space dedicated to New Grove Dis...
+
+![Talisker unveils 47YO volcanic rock-toasted Magma](https://www.thespiritsbusiness.com/content/uploads/2026/04/Talisker-Magma-47-year-old.jpg)
+
+- **[Talisker unveils 47YO volcanic rock-toasted Magma](https://www.thespiritsbusiness.com/2026/04/talisker-unveils-47yo-volcanic-rock-toasted-magma/)**
+  Diageo-owned Talisker has released a 47-year-old single malt inspired by the historic volcanic formations of the Isle of...
+
+![The SB Podcast: IWD 2026 – the power of mentorships](https://www.thespiritsbusiness.com/content/uploads/2026/04/SB-Podcast-1350-x-1080-px-1920-x-1080-px.jpg)
+
+- **[The SB Podcast: IWD 2026 – the power of mentorships](https://www.thespiritsbusiness.com/2026/04/the-sb-podcast-iwd-2026-the-power-of-mentorships/)**
+  To mark International Women’s Day SB editor-in-chief Melita Kiely chaired a panel discussion in London about the power o...
+
+![Mucho Group opens Bar Bridge in Sydney](https://www.thespiritsbusiness.com/content/uploads/2026/04/Bar-Bridge-3.jpg)
+
+- **[Mucho Group opens Bar Bridge in Sydney](https://www.thespiritsbusiness.com/2026/04/mucho-group-opens-bar-bridge-in-sydney/)**
+  Sydney's newest venue from Mucho Group, Bar Bridge, offers extra-dry Martinis and is inspired by classic European cockta...
+
+![Eagle Park snaps up RTD brand](https://www.thespiritsbusiness.com/content/uploads/2026/04/SoulBoxer-RTDs.jpg)
+
+- **[Eagle Park snaps up RTD brand](https://www.thespiritsbusiness.com/2026/04/eagle-park-snaps-up-rtd-brand/)**
+  Wisconsin’s Eagle Park Brewing & Distilling has acquired ready-to-drink brand SoulBoxer Cocktail Co, which is based in M...
 
 ### 📰 Brewbound
 
@@ -112,27 +139,8 @@
   These expert-approved spots are worth a stop when you visit the Valley. Plus, where to stay and eat between tastings.
 Th...
 
-### 📰 The Spirits Business
-
-![Nicholson supplies cocktails for Kia Oval](https://www.thespiritsbusiness.com/content/uploads/2026/04/Nicholson-Kia-Oval.jpg)
-
-- **[Nicholson supplies cocktails for Kia Oval](https://www.thespiritsbusiness.com/2026/04/nicholson-supplies-cocktails-for-kia-oval/)**
-  Pre-mixed cocktail supplier Nicholson has been appointed an official supplier of The Kia Oval in London for the 2026 sea...
-
-![High fidelity blend: Traveller Whiskey](https://www.thespiritsbusiness.com/content/uploads/2026/04/Buffalo-Trace-traveller-whiskey.jpg)
-
-- **[High fidelity blend: Traveller Whiskey](https://www.thespiritsbusiness.com/2026/04/high-fidelity-blend-traveller-whiskey/)**
-  Chris Stapleton has teamed up again with Harlen Wheatley, the master distiller of Buffalo Trace Distillery, to amp up th...
-
-![Sustainable Scotch distillery project gains £1.57m](https://www.thespiritsbusiness.com/content/uploads/2025/03/Struie-Distillery.png)
-
-- **[Sustainable Scotch distillery project gains £1.57m](https://www.thespiritsbusiness.com/2026/04/sustainable-scotch-distillery-project-gains-1-57m/)**
-  Highlands-based Struie Distillery has secured up to £1.57 million (US$2.1m) in funding for the development of its carbon...
-
-*📚 以上为近期内容*
-
 
 ---
 
-*报告生成时间: 2026-04-06 16:00*  
+*报告生成时间: 2026-04-07 03:00*  
 *Antonelli Intelligence System*
