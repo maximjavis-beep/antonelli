@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 23 条
+- **新增资讯**: 46 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,11 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
+
+![Wednesday Women: Lisa Macrae talks production, perspective and people](https://theshout.com.au/wp-content/uploads/2026/03/Lisa-Macrae.jpg?w=780)
+
+- **[Wednesday Women: Lisa Macrae talks production, perspective and people](https://theshout.com.au/wednesday-women-lisa-macrae-talks-production-perspective-and-people/)**
+  With a colourful career across craft distilleries and global organisations, Lisa Macrae shares the lessons she never wan...
 
 ![Hawke’s Bay wine to be showcased in Melbourne](https://theshout.com.au/wp-content/uploads/2026/04/Image2CarlG2.jpg?w=780)
 
@@ -34,6 +39,11 @@
 
 ### 📰 Wine-Searcher
 
+![The Most Wanted Merlots of 2026](https://www.wine-searcher.com/images/news-rss/99/13/9913114229969cdd898_Merlotmain_1_.jpg)
+
+- **[The Most Wanted Merlots of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-merlots-of-2026?rss=Y)**
+  There are only three places to look when it comes to the world's most wanted Merlot....
+
 ![Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/images/news-rss/99/13/9913614230569d42bc4_saffa1.jpg)
 
 - **[Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/m/2026/04/elgin-south-africas-cool-climate-authority?rss=Y)**
@@ -41,33 +51,40 @@
 
 ### 📰 The Drinks Business
 
-![What makes a great site for Trentino Pinot Grigio?](https://www.thedrinksbusiness.com/content/uploads/2026/03/Mezzacorona_1-scaled.jpg)
+![It’s official: UK Champagne market returns to growth](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-champagne-illustration-1280x1280-1.jpg)
 
-- **[What makes a great site for Trentino Pinot Grigio?](https://www.thedrinksbusiness.com/2026/04/what-makes-a-great-site-for-trentino-pinot-grigio/)**
-  Even in Italy, Pinot Grigio is far from homogenous. In the best sites of Trentino, producers like Mezzacorona are showin...
+- **[It’s official: UK Champagne market returns to growth](https://www.thedrinksbusiness.com/2026/04/its-official-uk-champagne-market-returns-to-growth/)**
+  The latest shipment figures from the Comité Champagne confirm that, for the first time since 2021, the UK market is back...
+  *关键词: market*
 
-![Deep dive: La Mission Haut-Brion](https://www.thedrinksbusiness.com/content/uploads/2024/05/La-Mission-Haut-Brion-1-scaled.jpg)
+![Inside Koan’s £2,000 wine pairing with rare Krug by the glass](https://www.thedrinksbusiness.com/content/uploads/2026/04/image00001.jpeg)
 
-- **[Deep dive: La Mission Haut-Brion](https://www.thedrinksbusiness.com/2026/04/deep-dive-la-mission-haut-brion/)**
-  Critic scores for this Pessac-Léognan property may be high, but pricing trends suggest that it is not always an attracti...
-  *关键词: trend*
+- **[Inside Koan’s £2,000 wine pairing with rare Krug by the glass](https://www.thedrinksbusiness.com/2026/04/inside-koans-2000-wine-pairing-with-rare-krug-by-the-glass/)**
+  Copenhagen’s two Michelin-starred Koan has recently launched a £2,000 prestige wine pairing, featuring rare vintages, be...
+  *关键词: launch*
 
-![Drappier unveils Éclose 2012: The oak egg reshaping Champagne in the Côte des Bar](https://www.thedrinksbusiness.com/content/uploads/2026/04/Elose-2012-the-wine-the-glass-and-the-oak-egg-barrel-Credit-Champagne-Drappier-1-scaled.jpg)
+![‘It’s time to step back’: Philip Gregan on leaving New Zealand Winegrowers](https://www.thedrinksbusiness.com/content/uploads/2026/04/Screenshot-2026-04-07-at-11.31.35.png)
 
-- **[Drappier unveils Éclose 2012: The oak egg reshaping Champagne in the Côte des Bar](https://www.thedrinksbusiness.com/2026/04/drappier-unveils-eclose-2012-the-oak-egg-reshaping-champagne-in-the-cote-des-bar/)**
-  Leona De Pasquale attends the monumental hatch of Champagne Drappier's Éclose 2012 - an egg-shaped oak barrel containing...
+- **[‘It’s time to step back’: Philip Gregan on leaving New Zealand Winegrowers](https://www.thedrinksbusiness.com/2026/04/its-time-to-step-back-philip-gregan-on-leaving-new-zealand-winegrowers/)**
+  Following last week's news that Anishka Jelicich will replace Philip Gregan as CEO of New Zealand Winegrowers, db speaks...
 
-![American whiskey sales fall 19% year-on-year](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2230640092-scaled.jpg)
+![Modelo Especial UK launch set to shake up the sector](https://www.thedrinksbusiness.com/content/uploads/2026/04/Modelo-On-Trade_Horizontal_Draught.png)
 
-- **[American whiskey sales fall 19% year-on-year](https://www.thedrinksbusiness.com/2026/04/american-whiskey-sales-fall-19-year-on-year/)**
-  In a year when Beam Suntory mothballed distilling, the depth of the depression affecting America’s whiskey and Bourbon p...
+- **[Modelo Especial UK launch set to shake up the sector](https://www.thedrinksbusiness.com/2026/04/modelo-especial-uk-launch-set-to-shake-up-the-sector/)**
+  The Mexican lager brand Modelo Especial has just been introduced into the UK by its owner AB InBev via its UK distributi...
+  *关键词: launch, distribution*
 
-![Highlights of the new releases from Brunello di Montalcino](https://www.thedrinksbusiness.com/content/uploads/2025/06/1000061135-scaled.jpg)
+![Sotheby’s New York to auction bottle of ‘revered’ Château Lafite Rothschild 1865](https://www.thedrinksbusiness.com/content/uploads/2026/04/Chateau-Lafite-Rothschild-1865-est.-15000-20000-and-two-magnums-of-the-renowned-Glamis-Castle-Chateau-Lafite-Rothschild-1870-est.-30000-50000-scaled.jpg)
 
-- **[Highlights of the new releases from Brunello di Montalcino](https://www.thedrinksbusiness.com/2026/04/highlights-of-the-new-releases-from-brunello-di-montalcino/)**
-  db's Bordeaux correspondent Colin Hay shares his thoughts on, and tasting notes for, some of the many stars amongst Brun...
+- **[Sotheby’s New York to auction bottle of ‘revered’ Château Lafite Rothschild 1865](https://www.thedrinksbusiness.com/2026/04/sothebys-new-york-to-auction-bottle-of-revered-chateau-lafite-rothschild-1865/)**
+  Sotheby's is offering one of the oldest bottles of wine it has ever auctioned - a bottle of  Château Lafite Rothschild 1...
 
 ### 📰 Decanter
+
+![Barbaresco 2023 & Riserva 2021: Our expert recommendations](https://cdn.mos.cms.futurecdn.net/mv62r6Kwi2CH4yz48cw6TL-1280-80.jpg)
+
+- **[Barbaresco 2023 & Riserva 2021: Our expert recommendations](https://www.decanter.com/wine/piedmont-wine-region/barbaresco-2023-and-riserva-2021-our-expert-recommendations)**
+  Discover how this rollercoaster vintage yielded deliciously drinkable Barbarescos....
 
 ![South Africa: Gold-winning white wines](https://cdn.mos.cms.futurecdn.net/MxK5JzFJavrNriLH74KJ9C-1280-80.jpg)
 
@@ -87,60 +104,63 @@
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![New Grove rum experience opens in Mauritius](https://www.thespiritsbusiness.com/content/uploads/2026/04/LAventure-du-Sucre-New-Grove-Distillery-museum.jpg)
-
-- **[New Grove rum experience opens in Mauritius](https://www.thespiritsbusiness.com/2026/04/new-grove-rum-experience-opens-in-mauritius/)**
-  The newly redesigned L’Aventure du Sucre exhibition in Mauritius features an experience space dedicated to New Grove Dis...
-
-![Talisker unveils 47YO volcanic rock-toasted Magma](https://www.thespiritsbusiness.com/content/uploads/2026/04/Talisker-Magma-47-year-old.jpg)
-
-- **[Talisker unveils 47YO volcanic rock-toasted Magma](https://www.thespiritsbusiness.com/2026/04/talisker-unveils-47yo-volcanic-rock-toasted-magma/)**
-  Diageo-owned Talisker has released a 47-year-old single malt inspired by the historic volcanic formations of the Isle of...
-
-![The SB Podcast: IWD 2026 – the power of mentorships](https://www.thespiritsbusiness.com/content/uploads/2026/04/SB-Podcast-1350-x-1080-px-1920-x-1080-px.jpg)
-
-- **[The SB Podcast: IWD 2026 – the power of mentorships](https://www.thespiritsbusiness.com/2026/04/the-sb-podcast-iwd-2026-the-power-of-mentorships/)**
-  To mark International Women’s Day SB editor-in-chief Melita Kiely chaired a panel discussion in London about the power o...
-
-![Mucho Group opens Bar Bridge in Sydney](https://www.thespiritsbusiness.com/content/uploads/2026/04/Bar-Bridge-3.jpg)
-
-- **[Mucho Group opens Bar Bridge in Sydney](https://www.thespiritsbusiness.com/2026/04/mucho-group-opens-bar-bridge-in-sydney/)**
-  Sydney's newest venue from Mucho Group, Bar Bridge, offers extra-dry Martinis and is inspired by classic European cockta...
-
-![Eagle Park snaps up RTD brand](https://www.thespiritsbusiness.com/content/uploads/2026/04/SoulBoxer-RTDs.jpg)
-
-- **[Eagle Park snaps up RTD brand](https://www.thespiritsbusiness.com/2026/04/eagle-park-snaps-up-rtd-brand/)**
-  Wisconsin’s Eagle Park Brewing & Distilling has acquired ready-to-drink brand SoulBoxer Cocktail Co, which is based in M...
-
 ### 📰 Brewbound
 
-- **[On-Premise Update: Key Shifts to Watch – NielsenIQ Quarterly Report](https://www.nombase.com/datahub/on-premise-update-key-shifts-to-watch---nielseniq-quarterly-report)**
-  The latest NIQ on premise update highlights a beer category under pressure, with both value and volume declining over th...
+- **[Circana Weekly Scans: Beer Ends Q1 with Dollar Sales Growth & Nearly Flat Volume](https://www.brewbound.com/news/circana-weekly-scans-beer-ends-q1-with-dollar-sales-growth-nearly-flat-volume)**
+  Beverage-alcohol recorded another week of growth to close out Q1, ending the quarter with positive momentum going into t...
+  *关键词: market*
 
-- **[Dogfish Head Seeks a 2nd Hit with Grateful Dead Citrus Daydream Lager](https://www.brewbound.com/news/dogfish-head-seeks-a-2nd-hit-with-grateful-dead-citrus-daydream-lager)**
-  Dogfish Head is looking to extend its long, strange trip back to growth in 2026. Following the launch of Grateful Dead J...
-  *关键词: launch, partnership*
+- **[Circana: Craft Slips into Decline in March After 2 Months of Growth; Grocery Losses Offset C-Store Gains](https://www.brewbound.com/news/circana-craft-slips-into-decline-in-march-after-2-months-of-growth-grocery-losses-offset-c-store-gains)**
+  Craft’s off-premise trends turned negative in March after two months of positive dollar sales, according to the latest m...
+  *关键词: market, trend*
 
-- **[Beer on the Chopping Block as Distributors Make Way for Spirts & RTDs, per BWC Survey](https://www.brewbound.com/news/beer-on-the-chopping-block-as-distributors-make-way-for-spirts-rtds-per-bwc-survey)**
-  Non-alcoholic (NA) and better-for-you brands across both bev-alc and greater CPG have become some of the greatest revenu...
+- **[Mitch Steele Joins Abita as Director of Brewing Operations](https://www.brewbound.com/news/mitch-steele-joins-abita-brewing)**
+  The brewmaster who helped shape Stone Brewing’s portfolio during the mid-2000s craft ascension and established New Realm...
+
+- **[Why Fernet-Branca’s Parent Company Bet On Alcohol-Removal Tech](https://www.brewbound.com/news/why-fernet-brancas-parent-company-bet-on-alcohol-removal-tech)**
+  The Milan-based parent company of Fernet-Branca has invested in alcohol-removal technology, but don’t expect a zero-proo...
+
+- **[Brewers Association Announces 2026 Industry Award Winners](https://www.brewbound.com/news/brewers-association-announces-2026-industry-award-winners)**
+  The Brewers Association (BA) will honor a trio of industry members with nearly a century of experience among them during...
+
+### 📰 The Spirits Business
+
+![Rosebank extends Celtic Renewables partnership](https://www.thespiritsbusiness.com/content/uploads/2026/04/Rosebank-Distillery.jpg)
+
+- **[Rosebank extends Celtic Renewables partnership](https://www.thespiritsbusiness.com/2026/04/rosebank-extends-celtic-renewables-partnership/)**
+  Lowland distillery Rosebank has renewed its partnership with Scottish green chemical manufacturer Celtic Renewables for ...
+  *关键词: partnership*
+
+![Hacha’s original site to close](https://www.thespiritsbusiness.com/content/uploads/2026/04/08-Hacha.jpg)
+
+- **[Hacha’s original site to close](https://www.thespiritsbusiness.com/2026/04/hachas-original-site-to-close/)**
+  Deano Moncrieffe and Emma Murphy will close the original Hacha bar in London’s Dalston on 25 April, exactly seven years ...
+
+![Lofted Spirits president steps down](https://www.thespiritsbusiness.com/content/uploads/2026/04/Lofted-Spirits-logo.jpg)
+
+- **[Lofted Spirits president steps down](https://www.thespiritsbusiness.com/2026/04/lofted-spirits-president-steps-down/)**
+  Pete Marino, the president of Lofted Spirits, will leave his role at the end of June after three years at the Kentucky w...
+
+![Drinks firms pull Wireless Festival sponsorship over Kanye West booking](https://www.thespiritsbusiness.com/content/uploads/2025/02/Music-festival-canned-RTD.png)
+
+- **[Drinks firms pull Wireless Festival sponsorship over Kanye West booking](https://www.thespiritsbusiness.com/2026/04/drinks-firms-pull-wireless-festival-sponsorship-over-kanye-west-booking/)**
+  Diageo and AB InBev have withdrawn their sponsorship of Wireless Festival 2026 following the booking of Kanye West as he...
+
+![Hood River Distillers buys Crater Lake Spirits](https://www.thespiritsbusiness.com/content/uploads/2026/04/Hood-River-Distillers.jpg)
+
+- **[Hood River Distillers buys Crater Lake Spirits](https://www.thespiritsbusiness.com/2026/04/hood-river-distillers-buys-crater-lake-spirits/)**
+  Oregon-based Hood River Distillers has acquired the Crater Lake Spirits portfolio from local producer Bendistillery
+The ...
 
 ### 📰 Wine Enthusiast
 
-![Maximalist Bars Are Offering Guests a Much-Needed Escape from Reality](https://www.wineenthusiast.com/wp-content/uploads/2026/03/03_26_Capulet_Cocktail_Club_INSET_Mark_Terry_1920x1280-1024x683.jpg)
+![Highway 1 Is Back in Business, and Big Sur Is Ready for You](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Aengus-Wagner_INSET_Big_Sur_Food_and_Wine_Fetival_1500x2000-768x1024.jpg)
 
-- **[Maximalist Bars Are Offering Guests a Much-Needed Escape from Reality](https://www.wineenthusiast.com/culture/maximalist-bar-interiors/)**
-  Increasingly, bars around the country (and beyond) are embracing daring, maximalist design schemes, eliciting a sense of...
-
-![The Best Napa Valley Wineries to Visit Right Now, According to Industry Insiders](https://www.wineenthusiast.com/wp-content/uploads/2023/05/05_23_Mayacamas_INSET_Mayacamas_1920x1280-1024x682.jpg)
-
-- **[The Best Napa Valley Wineries to Visit Right Now, According to Industry Insiders](https://www.wineenthusiast.com/culture/travel/best-napa-valley-wineries-to-visit/)**
-  These expert-approved spots are worth a stop when you visit the Valley. Plus, where to stay and eat between tastings.
-Th...
+- **[Highway 1 Is Back in Business, and Big Sur Is Ready for You](https://www.wineenthusiast.com/culture/travel/big-sur-guide/)**
+  When Big Sur's southern stretch of Highway 1 reopened last month, we knew exactly who to turn to for an updated guide to...
 
 
 ---
 
-*报告生成时间: 2026-04-07 03:00*  
+*报告生成时间: 2026-04-07 16:00*  
 *Antonelli Intelligence System*
