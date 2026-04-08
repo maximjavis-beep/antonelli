@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 60 条
+- **新增资讯**: 59 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -53,135 +53,132 @@
 
 ## 🌍 欧洲
 
-### 📰 The Drinks Business
-
-![Brakspear snaps up three more pubs to boost its estate](https://www.thedrinksbusiness.com/content/uploads/2026/04/Tom-Davies.jpg)
-
-- **[Brakspear snaps up three more pubs to boost its estate](https://www.thedrinksbusiness.com/2026/04/brakspear-snaps-up-three-more-pubs-to-boost-its-estate/)**
-  Brakspear has expanded its leased and tenanted estate with the acquisition of three pubs in Surrey which it has acquired...
-  *关键词: acquisition, acquisition*
-
-![‘Everyone has their opinion’ says Robert Pattinson while promoting 1664](https://www.thedrinksbusiness.com/content/uploads/2026/04/1664-Robert-Pattinson.jpg)
-
-- **[‘Everyone has their opinion’ says Robert Pattinson while promoting 1664](https://www.thedrinksbusiness.com/2026/04/everyone-has-their-opinion-says-robert-pattinson-while-promoting-1664/)**
-  Hollywood actor Robert Pattinson, who was named as the face of 1664 beer last year, has spoken openly about how discussi...
-
-![Graham’s Blend Series Cocktail Competition crowns UK winner](https://www.thedrinksbusiness.com/content/uploads/2026/04/Damian-Murgatroyd-of-The-Blind-Pig-Speakeasy-with-Douglas-Blyde-Sandrae-Lawrence-and-Tyler-Zielinski.jpg)
-
-- **[Graham’s Blend Series Cocktail Competition crowns UK winner](https://www.thedrinksbusiness.com/2026/04/grahams-blend-series-cocktail-competition-crowns-uk-winner/)**
-  Damian Murgatroyd, bar manager at the Blind Pig Speakeasy in Jersey, will compete in the global finals of Graham’s Blend...
-
-![Balfour champions English still rosé with Nannette’s 2024 vintage](https://www.thedrinksbusiness.com/content/uploads/2026/03/Balfour-Nanettes-Rose-2024.png)
-
-- **[Balfour champions English still rosé with Nannette’s 2024 vintage](https://www.thedrinksbusiness.com/2026/04/balfour-champions-english-still-rose-with-nannettes-2024-vintage/)**
-  Nannette's Rosé from Balfour Winery showcases a small-batch winemaking philosophy, utilising traditional Champagne varie...
-
-![Livermore Valley winemakers vote for two-grape strategy](https://www.thedrinksbusiness.com/content/uploads/2026/04/Livermore-Valley-Fenestra-Winery-vineyard-scaled.jpg)
-
-- **[Livermore Valley winemakers vote for two-grape strategy](https://www.thedrinksbusiness.com/2026/04/livermore-valley-winemakers-vote-for-two-grape-strategy/)**
-  Winegrowers in California’s Livermore Valley region have officially decided that their future lies in two signature grap...
-
-### 📰 Decanter
-
-![‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://cdn.mos.cms.futurecdn.net/SKQ7NAt7Syp7swNiG4WtzM-1280-80.jpg)
-
-- **[‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://www.decanter.com/wine/bordeaux-wines/if-the-bordeaux-2025-campaign-isnt-successful-then-en-primeur-is-dead-edouard-moueix)**
-  We are used to Bordeaux’s movers and shakers dressing up each new vintage with a positive spin. But as the region gears ...
-
-![Barbaresco 2023 & Riserva 2021: Our expert recommendations](https://cdn.mos.cms.futurecdn.net/mv62r6Kwi2CH4yz48cw6TL-1280-80.jpg)
-
-- **[Barbaresco 2023 & Riserva 2021: Our expert recommendations](https://www.decanter.com/wine/piedmont-wine-region/barbaresco-2023-and-riserva-2021-our-expert-recommendations)**
-  Discover how this rollercoaster vintage yielded deliciously drinkable Barbarescos....
-
-![South Africa: Gold-winning white wines](https://cdn.mos.cms.futurecdn.net/MxK5JzFJavrNriLH74KJ9C-1280-80.jpg)
-
-- **[South Africa: Gold-winning white wines](https://www.decanter.com/decanter-world-wine-awards/dwwa-results-highlights/south-africa-gold-winning-white-wines)**
-  South Africa’s white wines reach new heights showcasing 45 Gold medals at DWWA 2025...
-
-![Marchesi di Barolo: A new take on Sauvignon Blanc and a celebration of a Marchesa’s legacy in the Langhe](https://cdn.mos.cms.futurecdn.net/gT39DZAV3iaJ9oHsFmvk48-1280-80.jpg)
-
-- **[Marchesi di Barolo: A new take on Sauvignon Blanc and a celebration of a Marchesa’s legacy in the Langhe](https://www.decanter.com/sponsored/marchesi-di-barolo-a-new-take-on-sauvignon-blanc-and-a-celebration-of-a-marchesas-legacy-in-the-langhe)**
-  As the Abbona family’s sixth generation Valentina and Davide take the lead, tradition is shown to walk hand in hand with...
-
-![The craft of casks: From wine to whisky](https://cdn.mos.cms.futurecdn.net/xo2NsJsyPVyLbhQ8TNPctU-1280-80.gif)
-
-- **[The craft of casks: From wine to whisky](https://www.decanter.com/spirits/the-craft-of-casks-from-wine-to-whisky)**
-  Meet the distillers working with local wineries...
-
 ### 📰 Wine-Searcher
+
+![Diving into Bordeaux En Primeur](https://www.wine-searcher.com/images/news-rss/99/11/9911414223169cc712e_EnPrimMain.jpg)
+
+- **[Diving into Bordeaux En Primeur](https://www.wine-searcher.com/m/2026/04/diving-into-bordeaux-en-primeur?rss=Y)**
+  As Bordeaux's big week approaches, we look forward to this year's En Primeur campaign....
+
+![Insider Calls for Radical Napa Change](https://www.wine-searcher.com/images/news-rss/99/14/9914514233069d6b288_ted1.jpg)
+
+- **[Insider Calls for Radical Napa Change](https://www.wine-searcher.com/m/2026/04/insider-calls-for-radical-napa-change?rss=Y)**
+  As Napa Valley sits on a sea of unsold wine, one insider identified four types of rich people who buy wineries without a...
 
 ![The Most Wanted Merlots of 2026](https://www.wine-searcher.com/images/news-rss/99/13/9913114229969cdd898_Merlotmain_1_.jpg)
 
 - **[The Most Wanted Merlots of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-merlots-of-2026?rss=Y)**
   There are only three places to look when it comes to the world's most wanted Merlot....
 
-![Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/images/news-rss/99/13/9913614230569d42bc4_saffa1.jpg)
+### 📰 The Drinks Business
 
-- **[Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/m/2026/04/elgin-south-africas-cool-climate-authority?rss=Y)**
-  In part three of her exploration of South African wine, Maria Laura Ortiz focuses on the Chardonnay and Pinot producers ...
+![Final call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/04/iStock-1472923381.jpg)
+
+- **[Final call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/2026/04/call-for-entries-the-global-sparkling-masters-2026/)**
+  the drinks business is taking final entries for The Global Sparkling Masters 2026, one of the industry’s most prestigiou...
+
+![Alcohol E-commerce misses US$40bn opportunity](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2258311264.jpg)
+
+- **[Alcohol E-commerce misses US$40bn opportunity](https://www.thedrinksbusiness.com/2026/04/alcohol-e-commerce-misses-40bn-opportunity/)**
+  New research suggests the alcohol industry is failing to keep pace with how consumers discover and want to buy drinks, w...
+
+![Vagabond to open landmark Soho site](https://www.thedrinksbusiness.com/content/uploads/2026/04/External-Vagabond-Atelier-Ochre-scaled.png)
+
+- **[Vagabond to open landmark Soho site](https://www.thedrinksbusiness.com/2026/04/vagabond-to-open-landmark-soho-site/)**
+  Wine bar Vagabond Wines is set to open a 6,000 sq ft flagship in the heart of London, pouring more than 120 wines by the...
+
+![Wines of South Africa restructures UK office](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2078359006-1.jpg)
+
+- **[Wines of South Africa restructures UK office](https://www.thedrinksbusiness.com/2026/04/wines-of-south-africa-restructures-uk-office/)**
+  Wines of South Africa (WoSA) has announced a restructure of its UK operation, resulting in the redundancy of its two cur...
+
+![Joseph Phelps: ‘We’re always looking to the future’](https://www.thedrinksbusiness.com/content/uploads/2026/04/JPG-low-resolution-ph-brandasset-Joseph_Phelps_Winemaker_Ryan_Knoth.jpg)
+
+- **[Joseph Phelps: ‘We’re always looking to the future’](https://www.thedrinksbusiness.com/2026/04/joseph-phelps-were-always-looking-to-the-future/)**
+  Three years after pioneering Napa fine wine producer Joseph Phelps was bought by Moët Hennessy, winemaker Ryan Phelps is...
+
+### 📰 Decanter
+
+![Sommelier secrets: The invisible art of wine service](https://cdn.mos.cms.futurecdn.net/xDki67UaLaWAp46p2zty5G-1280-80.jpg)
+
+- **[Sommelier secrets: The invisible art of wine service](https://www.decanter.com/learn/food/sommelier-secrets-the-invisible-art-of-wine-service)**
+  Wine service behind the scenes......
+
+![£49k – what it would cost you to buy the wines served at Rory McIlroy’s Masters Champions Dinner](https://cdn.mos.cms.futurecdn.net/BYsp2LPQtDT4gTdRV8BmQM-1280-80.gif)
+
+- **[£49k – what it would cost you to buy the wines served at Rory McIlroy’s Masters Champions Dinner](https://www.decanter.com/learn/gbp49k-what-it-would-cost-you-to-buy-the-wines-served-at-rory-mcilroys-masters-champions-dinner)**
+  Fancy recreating the Northern Irish golfer’s record-breaking evening? Decanter costs up the retail price of the four win...
+
+![‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://cdn.mos.cms.futurecdn.net/SKQ7NAt7Syp7swNiG4WtzM-1280-80.jpg)
+
+- **[‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://www.decanter.com/wine/bordeaux-wines/if-the-bordeaux-2025-campaign-isnt-successful-then-en-primeur-is-dead-edouard-moueix)**
+  We are used to Bordeaux’s movers and shakers dressing up each new vintage with a positive spin. But as the region gears ...
 
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Stoli Group names Italian distributor](https://www.thespiritsbusiness.com/content/uploads/2026/04/Stoli-Group-Italy.jpg)
-
-- **[Stoli Group names Italian distributor](https://www.thespiritsbusiness.com/2026/04/stoli-group-names-italian-distributor/)**
-  Molinari Italia has partnered with Stoli Group in Italy and will distribute the firm's Stoli and Elit vodkas, as well as...
-
-![Tarsier targets North America](https://www.thespiritsbusiness.com/content/uploads/2026/04/Tarsier-spirits.jpg)
-
-- **[Tarsier targets North America](https://www.thespiritsbusiness.com/2026/04/tarsier-targets-north-america/)**
-  One of Tarsier Southeast Asian Spirit’s co-founders is heading to Massachusetts and Ontario to support the brand’s distr...
-  *关键词: distribution*
-
-![Redemption enters its ‘most fearless chapter yet’](https://www.thespiritsbusiness.com/content/uploads/2026/04/Redemption-whiskey-new-look.jpg)
-
-- **[Redemption enters its ‘most fearless chapter yet’](https://www.thespiritsbusiness.com/2026/04/redemption-enters-its-most-fearless-chapter-yet/)**
-  American whiskey producer Redemption has unveiled its ‘next act’: a new bottle designed to house its reformulated Bourbo...
-
-![Hello Soju scores LAFC partnership](https://www.thespiritsbusiness.com/content/uploads/2026/04/Hello-Soju.jpg)
-
-- **[Hello Soju scores LAFC partnership](https://www.thespiritsbusiness.com/2026/04/hello-soju-scores-lafc-partnership/)**
-  California-based Hello Soju is tapping into sport through its partnership with the Los Angeles Football Club
-The post He...
-  *关键词: partnership*
-
-![Cotswolds unveils Birmingham-exclusive whisky](https://www.thespiritsbusiness.com/content/uploads/2026/04/Cotswolds-2.jpg)
-
-- **[Cotswolds unveils Birmingham-exclusive whisky](https://www.thespiritsbusiness.com/2026/04/cotswolds-unveils-birmingham-exclusive-whisky/)**
-  English producer Cotswolds Distillery has launched a limited edition single cask whisky exclusively for Birmingham Airpo...
-  *关键词: launch*
-
 ### 📰 Brewbound
 
-- **[Circana Weekly Scans: Beer Ends Q1 with Dollar Sales Growth & Nearly Flat Volume](https://www.brewbound.com/news/circana-weekly-scans-beer-ends-q1-with-dollar-sales-growth-nearly-flat-volume)**
-  Beverage-alcohol recorded another week of growth to close out Q1, ending the quarter with positive momentum going into t...
-  *关键词: market*
+- **[Tetra Pak Breaks Ground on U.S. HQ Facility Expansion](https://www.brewbound.com/news/tetra-pak-breaks-ground-on-u-s-hq-facility-expansion)**
+  Carton packaging innovator Tetra Pak broke ground on a new facility at its U.S. and Canada headquarters in Denton, Texas...
+  *关键词: expansion*
 
-- **[Circana: Craft Slips into Decline in March After 2 Months of Growth; Grocery Losses Offset C-Store Gains](https://www.brewbound.com/news/circana-craft-slips-into-decline-in-march-after-2-months-of-growth-grocery-losses-offset-c-store-gains)**
-  Craft’s off-premise trends turned negative in March after two months of positive dollar sales, according to the latest m...
-  *关键词: market, trend*
+- **[DTC Shipping Demand Remains High with Beer Consumers, per Sovos & BA Report](https://www.brewbound.com/news/dtc-shipping-demand-remains-high-with-beer-consumers-per-sovos-ba-report)**
+  A majority of U.S. consumers still want expanded beer home delivery options, according to the sixth annual Direct-to-Con...
 
-- **[Mitch Steele Joins Abita as Director of Brewing Operations](https://www.brewbound.com/news/mitch-steele-joins-abita-brewing)**
-  The brewmaster who helped shape Stone Brewing’s portfolio during the mid-2000s craft ascension and established New Realm...
+- **[PepsiCo’s Blue Cloud Charts New Path in Bev-Alc, Adds Bubly Wine Refresher, Lipton Hard Zero Sugar](https://www.brewbound.com/news/pepsicos-blue-cloud-charts-new-course-in-bev-alc-adds-bubly-wine-refresher-lipton-hard-iced-tea-zero-sugar)**
+  PepsiCo's Blue Cloud is leaning into a new model: developing crossover alcohol brands and licensing them to producers su...
 
-- **[Why Fernet-Branca’s Parent Company Bet On Alcohol-Removal Tech](https://www.brewbound.com/news/why-fernet-brancas-parent-company-bet-on-alcohol-removal-tech)**
-  The Milan-based parent company of Fernet-Branca has invested in alcohol-removal technology, but don’t expect a zero-proo...
+- **[514 Eagle Rock Colorado Employees to Be Laid Off in Wake of Southern Glazer’s Sale, Per WARN Notice](https://www.brewbound.com/news/514-eagle-rock-colorado-employees-to-be-laid-off-in-wake-of-southern-glazers-sale-per-warn-notice)**
+  All 514 Eagle Rock Distributing employees in Colorado will be permanently laid off in June following the completion of t...
 
-- **[Brewers Association Announces 2026 Industry Award Winners](https://www.brewbound.com/news/brewers-association-announces-2026-industry-award-winners)**
-  The Brewers Association (BA) will honor a trio of industry members with nearly a century of experience among them during...
+- **[Press Clips: NYC’s Pricey Pints, Penn Brewery’s Chapter 11 Filing, Bow & Arrow’s James Beard Nomination & More](https://www.brewbound.com/news/press-clips-nycs-pricey-pints-penn-brewerys-chapter-11-filing-bow-arrows-james-beard-nomination-more)**
+  Unsurprisingly, the most expensive city to grab a beer is New York, according to a recent report from on-premise POS fir...
+
+### 📰 The Spirits Business
+
+![Rémy Cointreau reshapes leadership with transformation plan](https://www.thespiritsbusiness.com/content/uploads/2025/10/Cointreau.png)
+
+- **[Rémy Cointreau reshapes leadership with transformation plan](https://www.thespiritsbusiness.com/2026/04/remy-cointreau-reshapes-leadership-with-transformation-plan/)**
+  Following three years of difficulties, Rémy Cointreau has decided to take an ‘offensive’ approach through a new transfor...
+
+![Ukiyo partners with The Ivy Asia for sakura season](https://www.thespiritsbusiness.com/content/uploads/2026/04/Ukiyo-The-Ivy-Asia.jpg)
+
+- **[Ukiyo partners with The Ivy Asia for sakura season](https://www.thespiritsbusiness.com/2026/04/ukiyo-partners-with-the-ivy-asia-for-sakura-season/)**
+  Kirker Greer’s Ukiyo Japanese Spirits has partnered with The Ivy Asia to launch a sakura season activation across the UK...
+  *关键词: launch*
+
+![Abbey Lands Distillery planned for 2027](https://www.thespiritsbusiness.com/content/uploads/2026/04/Whitby.jpg)
+
+- **[Abbey Lands Distillery planned for 2027](https://www.thespiritsbusiness.com/2026/04/abbey-lands-distillery-planned-for-2027/)**
+  Whitby Distillery is readying to launch its second campaign to fund the build of its new ‘destination distillery’, slate...
+  *关键词: launch*
+
+![Deep Eddy Vodka to shut second distillery and tasting room](https://www.thespiritsbusiness.com/content/uploads/2026/04/Deep-Eddy-visitor-centre.jpg)
+
+- **[Deep Eddy Vodka to shut second distillery and tasting room](https://www.thespiritsbusiness.com/2026/04/deep-eddy-vodka-to-shut-second-distillery-and-tasting-room/)**
+  Heaven Hill Brands will close its Deep Eddy Vodka distillery and visitor centre in Dripping Springs, Texas, this summer
+...
+
+![Shared Spirit brings ‘different approach’ to whisky festivals](https://www.thespiritsbusiness.com/content/uploads/2026/04/Young-people-drinking-whisky-woman-1485-credit-OurWhisky-Foundation_Jo-Hanley-1.jpg)
+
+- **[Shared Spirit brings ‘different approach’ to whisky festivals](https://www.thespiritsbusiness.com/2026/04/shared-spirit-brings-different-approach-to-whisky-festivals/)**
+  A festival designed for exploration, inclusion and modern whisky drinkers is coming to London in June to ‘redefine what ...
 
 ### 📰 Wine Enthusiast
 
-![Highway 1 Is Back in Business, and Big Sur Is Ready for You](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Aengus-Wagner_INSET_Big_Sur_Food_and_Wine_Fetival_1500x2000-768x1024.jpg)
+![What’s Next for the Wine Importer Who Took Down the Trump Tariffs at the Supreme Court?](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
 
-- **[Highway 1 Is Back in Business, and Big Sur Is Ready for You](https://www.wineenthusiast.com/culture/travel/big-sur-guide/)**
-  When Big Sur's southern stretch of Highway 1 reopened last month, we knew exactly who to turn to for an updated guide to...
+- **[What’s Next for the Wine Importer Who Took Down the Trump Tariffs at the Supreme Court?](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/victor-schwartz-supreme-court/)**
+  Amazon or Walmart didn't defeat the tariffs—it was Victor Schwartz, the small New York-based wine importer who founded V...
+
+![5 Signs You’ve Outgrown Your Current Wine Storage](https://www.wineenthusiast.com/wp-content/uploads/2026/04/latitude-wine-fridge-1024x1024.webp)
+
+- **[5 Signs You’ve Outgrown Your Current Wine Storage](https://www.wineenthusiast.com/basics/buying-and-collecting/wine-storage-upgrade/)**
+  Your existing setup may no longer match the way you buy, keep, and enjoy wine. Here's how to tell, according to wine pro...
 
 
 ---
 
-*报告生成时间: 2026-04-08 03:00*  
+*报告生成时间: 2026-04-08 16:00*  
 *Antonelli Intelligence System*
