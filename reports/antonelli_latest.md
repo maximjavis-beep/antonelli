@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-07  
+**日期**: 2026-04-08  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 46 条
+- **新增资讯**: 60 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,15 +17,31 @@
 
 ### 📰 The Shout
 
-![Wednesday Women: Lisa Macrae talks production, perspective and people](https://theshout.com.au/wp-content/uploads/2026/03/Lisa-Macrae.jpg?w=780)
+![New flavour for Kirin Hyoketsu](https://theshout.com.au/wp-content/uploads/2026/04/Pics.png?w=780)
 
-- **[Wednesday Women: Lisa Macrae talks production, perspective and people](https://theshout.com.au/wednesday-women-lisa-macrae-talks-production-perspective-and-people/)**
-  With a colourful career across craft distilleries and global organisations, Lisa Macrae shares the lessons she never wan...
+- **[New flavour for Kirin Hyoketsu](https://theshout.com.au/new-flavour-for-kirin-hyoketsu/)**
+  While citrus RTDs have dominated the market, Kirin Hyoketsu Strawberry caters to the 55 per cent of Australian RTD consu...
+  *关键词: market*
 
-![Hawke’s Bay wine to be showcased in Melbourne](https://theshout.com.au/wp-content/uploads/2026/04/Image2CarlG2.jpg?w=780)
+![Anger as spirits excise debate is shutdown](https://theshout.com.au/wp-content/uploads/2025/02/iStock-839894108.jpg?w=780)
 
-- **[Hawke’s Bay wine to be showcased in Melbourne](https://theshout.com.au/hawkes-bay-wine-to-be-showcased-in-melbourne/)**
-  On Tuesday 19 May, a dedicated trade and sommelier event will explore the depth and diversity of New Zealand's oldest wi...
+- **[Anger as spirits excise debate is shutdown](https://theshout.com.au/anger-as-spirits-excise-debate-is-shutdown/)**
+  A push to extend alcohol tax relief beyond beer has been shut down in the Senate, with industry voices warning the decis...
+
+![Trade Buyer’s Guide: Scotch & Irish Whisk(e)y](https://theshout.com.au/wp-content/uploads/2026/04/NLN_ScotchIrishWhiskey_Buyers-Guide_Assets_WebImage_1200x800px.jpg?w=780)
+
+- **[Trade Buyer’s Guide: Scotch & Irish Whisk(e)y](https://theshout.com.au/trade-buyers-guide-scotch-irish-whiskey/)**
+  Premiumisation, provenance and flavour exploration are reshaping Scotch and Irish [&hellip;]...
+
+![DrinkWise joins forces with AFL legend for Gather Round](https://theshout.com.au/wp-content/uploads/2026/04/AFLGatherRoundDrinkWise.jpg?w=780)
+
+- **[DrinkWise joins forces with AFL legend for Gather Round](https://theshout.com.au/drinkwise-joins-forces-with-afl-legend-for-gather-round/)**
+  The AFL’s Gather Round takes place in South Australia this weekend and a new DrinkWise campaign promotes moderation and ...
+
+![Paramount Liquor to expand into Tasmania](https://theshout.com.au/wp-content/uploads/2026/04/ParamountLiquorExpandsTasmania.jpg?w=780)
+
+- **[Paramount Liquor to expand into Tasmania](https://theshout.com.au/paramount-liquor-to-expand-into-tasmania/)**
+  The wholesaler says its move into Tasmania comes with a clear focus on backing the state’s venues and championing local ...
 
 ### 📰 Nomunication
 
@@ -37,49 +53,40 @@
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![The Most Wanted Merlots of 2026](https://www.wine-searcher.com/images/news-rss/99/13/9913114229969cdd898_Merlotmain_1_.jpg)
-
-- **[The Most Wanted Merlots of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-merlots-of-2026?rss=Y)**
-  There are only three places to look when it comes to the world's most wanted Merlot....
-
-![Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/images/news-rss/99/13/9913614230569d42bc4_saffa1.jpg)
-
-- **[Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/m/2026/04/elgin-south-africas-cool-climate-authority?rss=Y)**
-  In part three of her exploration of South African wine, Maria Laura Ortiz focuses on the Chardonnay and Pinot producers ...
-
 ### 📰 The Drinks Business
 
-![It’s official: UK Champagne market returns to growth](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-champagne-illustration-1280x1280-1.jpg)
+![Brakspear snaps up three more pubs to boost its estate](https://www.thedrinksbusiness.com/content/uploads/2026/04/Tom-Davies.jpg)
 
-- **[It’s official: UK Champagne market returns to growth](https://www.thedrinksbusiness.com/2026/04/its-official-uk-champagne-market-returns-to-growth/)**
-  The latest shipment figures from the Comité Champagne confirm that, for the first time since 2021, the UK market is back...
-  *关键词: market*
+- **[Brakspear snaps up three more pubs to boost its estate](https://www.thedrinksbusiness.com/2026/04/brakspear-snaps-up-three-more-pubs-to-boost-its-estate/)**
+  Brakspear has expanded its leased and tenanted estate with the acquisition of three pubs in Surrey which it has acquired...
+  *关键词: acquisition, acquisition*
 
-![Inside Koan’s £2,000 wine pairing with rare Krug by the glass](https://www.thedrinksbusiness.com/content/uploads/2026/04/image00001.jpeg)
+![‘Everyone has their opinion’ says Robert Pattinson while promoting 1664](https://www.thedrinksbusiness.com/content/uploads/2026/04/1664-Robert-Pattinson.jpg)
 
-- **[Inside Koan’s £2,000 wine pairing with rare Krug by the glass](https://www.thedrinksbusiness.com/2026/04/inside-koans-2000-wine-pairing-with-rare-krug-by-the-glass/)**
-  Copenhagen’s two Michelin-starred Koan has recently launched a £2,000 prestige wine pairing, featuring rare vintages, be...
-  *关键词: launch*
+- **[‘Everyone has their opinion’ says Robert Pattinson while promoting 1664](https://www.thedrinksbusiness.com/2026/04/everyone-has-their-opinion-says-robert-pattinson-while-promoting-1664/)**
+  Hollywood actor Robert Pattinson, who was named as the face of 1664 beer last year, has spoken openly about how discussi...
 
-![‘It’s time to step back’: Philip Gregan on leaving New Zealand Winegrowers](https://www.thedrinksbusiness.com/content/uploads/2026/04/Screenshot-2026-04-07-at-11.31.35.png)
+![Graham’s Blend Series Cocktail Competition crowns UK winner](https://www.thedrinksbusiness.com/content/uploads/2026/04/Damian-Murgatroyd-of-The-Blind-Pig-Speakeasy-with-Douglas-Blyde-Sandrae-Lawrence-and-Tyler-Zielinski.jpg)
 
-- **[‘It’s time to step back’: Philip Gregan on leaving New Zealand Winegrowers](https://www.thedrinksbusiness.com/2026/04/its-time-to-step-back-philip-gregan-on-leaving-new-zealand-winegrowers/)**
-  Following last week's news that Anishka Jelicich will replace Philip Gregan as CEO of New Zealand Winegrowers, db speaks...
+- **[Graham’s Blend Series Cocktail Competition crowns UK winner](https://www.thedrinksbusiness.com/2026/04/grahams-blend-series-cocktail-competition-crowns-uk-winner/)**
+  Damian Murgatroyd, bar manager at the Blind Pig Speakeasy in Jersey, will compete in the global finals of Graham’s Blend...
 
-![Modelo Especial UK launch set to shake up the sector](https://www.thedrinksbusiness.com/content/uploads/2026/04/Modelo-On-Trade_Horizontal_Draught.png)
+![Balfour champions English still rosé with Nannette’s 2024 vintage](https://www.thedrinksbusiness.com/content/uploads/2026/03/Balfour-Nanettes-Rose-2024.png)
 
-- **[Modelo Especial UK launch set to shake up the sector](https://www.thedrinksbusiness.com/2026/04/modelo-especial-uk-launch-set-to-shake-up-the-sector/)**
-  The Mexican lager brand Modelo Especial has just been introduced into the UK by its owner AB InBev via its UK distributi...
-  *关键词: launch, distribution*
+- **[Balfour champions English still rosé with Nannette’s 2024 vintage](https://www.thedrinksbusiness.com/2026/04/balfour-champions-english-still-rose-with-nannettes-2024-vintage/)**
+  Nannette's Rosé from Balfour Winery showcases a small-batch winemaking philosophy, utilising traditional Champagne varie...
 
-![Sotheby’s New York to auction bottle of ‘revered’ Château Lafite Rothschild 1865](https://www.thedrinksbusiness.com/content/uploads/2026/04/Chateau-Lafite-Rothschild-1865-est.-15000-20000-and-two-magnums-of-the-renowned-Glamis-Castle-Chateau-Lafite-Rothschild-1870-est.-30000-50000-scaled.jpg)
+![Livermore Valley winemakers vote for two-grape strategy](https://www.thedrinksbusiness.com/content/uploads/2026/04/Livermore-Valley-Fenestra-Winery-vineyard-scaled.jpg)
 
-- **[Sotheby’s New York to auction bottle of ‘revered’ Château Lafite Rothschild 1865](https://www.thedrinksbusiness.com/2026/04/sothebys-new-york-to-auction-bottle-of-revered-chateau-lafite-rothschild-1865/)**
-  Sotheby's is offering one of the oldest bottles of wine it has ever auctioned - a bottle of  Château Lafite Rothschild 1...
+- **[Livermore Valley winemakers vote for two-grape strategy](https://www.thedrinksbusiness.com/2026/04/livermore-valley-winemakers-vote-for-two-grape-strategy/)**
+  Winegrowers in California’s Livermore Valley region have officially decided that their future lies in two signature grap...
 
 ### 📰 Decanter
+
+![‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://cdn.mos.cms.futurecdn.net/SKQ7NAt7Syp7swNiG4WtzM-1280-80.jpg)
+
+- **[‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://www.decanter.com/wine/bordeaux-wines/if-the-bordeaux-2025-campaign-isnt-successful-then-en-primeur-is-dead-edouard-moueix)**
+  We are used to Bordeaux’s movers and shakers dressing up each new vintage with a positive spin. But as the region gears ...
 
 ![Barbaresco 2023 & Riserva 2021: Our expert recommendations](https://cdn.mos.cms.futurecdn.net/mv62r6Kwi2CH4yz48cw6TL-1280-80.jpg)
 
@@ -101,8 +108,51 @@
 - **[The craft of casks: From wine to whisky](https://www.decanter.com/spirits/the-craft-of-casks-from-wine-to-whisky)**
   Meet the distillers working with local wineries...
 
+### 📰 Wine-Searcher
+
+![The Most Wanted Merlots of 2026](https://www.wine-searcher.com/images/news-rss/99/13/9913114229969cdd898_Merlotmain_1_.jpg)
+
+- **[The Most Wanted Merlots of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-merlots-of-2026?rss=Y)**
+  There are only three places to look when it comes to the world's most wanted Merlot....
+
+![Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/images/news-rss/99/13/9913614230569d42bc4_saffa1.jpg)
+
+- **[Elgin: South Africa's Cool Climate Authority](https://www.wine-searcher.com/m/2026/04/elgin-south-africas-cool-climate-authority?rss=Y)**
+  In part three of her exploration of South African wine, Maria Laura Ortiz focuses on the Chardonnay and Pinot producers ...
+
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Stoli Group names Italian distributor](https://www.thespiritsbusiness.com/content/uploads/2026/04/Stoli-Group-Italy.jpg)
+
+- **[Stoli Group names Italian distributor](https://www.thespiritsbusiness.com/2026/04/stoli-group-names-italian-distributor/)**
+  Molinari Italia has partnered with Stoli Group in Italy and will distribute the firm's Stoli and Elit vodkas, as well as...
+
+![Tarsier targets North America](https://www.thespiritsbusiness.com/content/uploads/2026/04/Tarsier-spirits.jpg)
+
+- **[Tarsier targets North America](https://www.thespiritsbusiness.com/2026/04/tarsier-targets-north-america/)**
+  One of Tarsier Southeast Asian Spirit’s co-founders is heading to Massachusetts and Ontario to support the brand’s distr...
+  *关键词: distribution*
+
+![Redemption enters its ‘most fearless chapter yet’](https://www.thespiritsbusiness.com/content/uploads/2026/04/Redemption-whiskey-new-look.jpg)
+
+- **[Redemption enters its ‘most fearless chapter yet’](https://www.thespiritsbusiness.com/2026/04/redemption-enters-its-most-fearless-chapter-yet/)**
+  American whiskey producer Redemption has unveiled its ‘next act’: a new bottle designed to house its reformulated Bourbo...
+
+![Hello Soju scores LAFC partnership](https://www.thespiritsbusiness.com/content/uploads/2026/04/Hello-Soju.jpg)
+
+- **[Hello Soju scores LAFC partnership](https://www.thespiritsbusiness.com/2026/04/hello-soju-scores-lafc-partnership/)**
+  California-based Hello Soju is tapping into sport through its partnership with the Los Angeles Football Club
+The post He...
+  *关键词: partnership*
+
+![Cotswolds unveils Birmingham-exclusive whisky](https://www.thespiritsbusiness.com/content/uploads/2026/04/Cotswolds-2.jpg)
+
+- **[Cotswolds unveils Birmingham-exclusive whisky](https://www.thespiritsbusiness.com/2026/04/cotswolds-unveils-birmingham-exclusive-whisky/)**
+  English producer Cotswolds Distillery has launched a limited edition single cask whisky exclusively for Birmingham Airpo...
+  *关键词: launch*
 
 ### 📰 Brewbound
 
@@ -123,35 +173,6 @@
 - **[Brewers Association Announces 2026 Industry Award Winners](https://www.brewbound.com/news/brewers-association-announces-2026-industry-award-winners)**
   The Brewers Association (BA) will honor a trio of industry members with nearly a century of experience among them during...
 
-### 📰 The Spirits Business
-
-![Rosebank extends Celtic Renewables partnership](https://www.thespiritsbusiness.com/content/uploads/2026/04/Rosebank-Distillery.jpg)
-
-- **[Rosebank extends Celtic Renewables partnership](https://www.thespiritsbusiness.com/2026/04/rosebank-extends-celtic-renewables-partnership/)**
-  Lowland distillery Rosebank has renewed its partnership with Scottish green chemical manufacturer Celtic Renewables for ...
-  *关键词: partnership*
-
-![Hacha’s original site to close](https://www.thespiritsbusiness.com/content/uploads/2026/04/08-Hacha.jpg)
-
-- **[Hacha’s original site to close](https://www.thespiritsbusiness.com/2026/04/hachas-original-site-to-close/)**
-  Deano Moncrieffe and Emma Murphy will close the original Hacha bar in London’s Dalston on 25 April, exactly seven years ...
-
-![Lofted Spirits president steps down](https://www.thespiritsbusiness.com/content/uploads/2026/04/Lofted-Spirits-logo.jpg)
-
-- **[Lofted Spirits president steps down](https://www.thespiritsbusiness.com/2026/04/lofted-spirits-president-steps-down/)**
-  Pete Marino, the president of Lofted Spirits, will leave his role at the end of June after three years at the Kentucky w...
-
-![Drinks firms pull Wireless Festival sponsorship over Kanye West booking](https://www.thespiritsbusiness.com/content/uploads/2025/02/Music-festival-canned-RTD.png)
-
-- **[Drinks firms pull Wireless Festival sponsorship over Kanye West booking](https://www.thespiritsbusiness.com/2026/04/drinks-firms-pull-wireless-festival-sponsorship-over-kanye-west-booking/)**
-  Diageo and AB InBev have withdrawn their sponsorship of Wireless Festival 2026 following the booking of Kanye West as he...
-
-![Hood River Distillers buys Crater Lake Spirits](https://www.thespiritsbusiness.com/content/uploads/2026/04/Hood-River-Distillers.jpg)
-
-- **[Hood River Distillers buys Crater Lake Spirits](https://www.thespiritsbusiness.com/2026/04/hood-river-distillers-buys-crater-lake-spirits/)**
-  Oregon-based Hood River Distillers has acquired the Crater Lake Spirits portfolio from local producer Bendistillery
-The ...
-
 ### 📰 Wine Enthusiast
 
 ![Highway 1 Is Back in Business, and Big Sur Is Ready for You](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Aengus-Wagner_INSET_Big_Sur_Food_and_Wine_Fetival_1500x2000-768x1024.jpg)
@@ -162,5 +183,5 @@ The ...
 
 ---
 
-*报告生成时间: 2026-04-07 16:00*  
+*报告生成时间: 2026-04-08 03:00*  
 *Antonelli Intelligence System*
