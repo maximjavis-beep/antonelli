@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-08  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-04-09  
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 59 条
+- **新增资讯**: 44 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -33,15 +33,7 @@
 - **[Trade Buyer’s Guide: Scotch & Irish Whisk(e)y](https://theshout.com.au/trade-buyers-guide-scotch-irish-whiskey/)**
   Premiumisation, provenance and flavour exploration are reshaping Scotch and Irish [&hellip;]...
 
-![DrinkWise joins forces with AFL legend for Gather Round](https://theshout.com.au/wp-content/uploads/2026/04/AFLGatherRoundDrinkWise.jpg?w=780)
-
-- **[DrinkWise joins forces with AFL legend for Gather Round](https://theshout.com.au/drinkwise-joins-forces-with-afl-legend-for-gather-round/)**
-  The AFL’s Gather Round takes place in South Australia this weekend and a new DrinkWise campaign promotes moderation and ...
-
-![Paramount Liquor to expand into Tasmania](https://theshout.com.au/wp-content/uploads/2026/04/ParamountLiquorExpandsTasmania.jpg?w=780)
-
-- **[Paramount Liquor to expand into Tasmania](https://theshout.com.au/paramount-liquor-to-expand-into-tasmania/)**
-  The wholesaler says its move into Tasmania comes with a clear focus on backing the state’s venues and championing local ...
+*📚 以上为近期内容*
 
 ### 📰 Nomunication
 
@@ -52,6 +44,50 @@
 
 
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![Young adults say pub boosts wellbeing more than the gym](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2233753253.jpg)
+
+- **[Young adults say pub boosts wellbeing more than the gym](https://www.thedrinksbusiness.com/2026/04/young-adults-say-pub-boosts-wellbeing-more-than-the-gym/)**
+  YouGov polling commissioned by the British Beer and Pub Association suggests young Britons see the pub as an important s...
+
+![How Baronesa P. pays tribute to an icon of the wine world](https://www.thedrinksbusiness.com/content/uploads/2026/04/Baron-Philippe-lead.png)
+
+- **[How Baronesa P. pays tribute to an icon of the wine world](https://www.thedrinksbusiness.com/2026/04/how-baronesa-p-pays-tribute-to-an-icon-of-the-wine-world/)**
+  Combining influences from Bordeaux and Chile in homage to Escudo Rojo’s founder, Baronesa P. is now an iconic wine known...
+
+![Budweiser kicks off World Cup advert season with film](https://www.thedrinksbusiness.com/content/uploads/2026/04/Budweiser-40-Year-Hero-2-PR-Visual-Alu-Bottle-scaled.jpg)
+
+- **[Budweiser kicks off World Cup advert season with film](https://www.thedrinksbusiness.com/2026/04/budweiser-kicks-off-world-cup-advert-season-with-film/)**
+  The post Budweiser kicks off World Cup advert season with film appeared first on The Drinks Business....
+
+![Chile’s Chardonnay moment](https://www.thedrinksbusiness.com/content/uploads/2026/04/img_52-2-1-scaled.jpg)
+
+- **[Chile’s Chardonnay moment](https://www.thedrinksbusiness.com/2026/04/chiles-chardonnay-moment/)**
+  Often overshadowed by the nations more available Sauvignon Blanc, Chilean Chardonnay is being transformed by cooler site...
+
+![Beer Hour: Bill Simmons](https://www.thedrinksbusiness.com/content/uploads/2026/04/Bill-Simmons.png)
+
+- **[Beer Hour: Bill Simmons](https://www.thedrinksbusiness.com/2026/04/beer-hour-bill-simmons/)**
+  The ever-dapper, beer, music, art and culture fiend Bill Simmons talks to Jessica Mason about his journey through the br...
+
+### 📰 Decanter
+
+![Why Paso Robles offers the best value in California](https://cdn.mos.cms.futurecdn.net/dJEn9wuwWm7fjzYD9cBLug-1280-80.jpg)
+
+- **[Why Paso Robles offers the best value in California](https://www.decanter.com/wine/california-wine-region/why-paso-robles-offers-the-best-value-in-california)**
+  A region full of personality and fair prices......
+
+![Sommelier secrets: The invisible art of wine service](https://cdn.mos.cms.futurecdn.net/xDki67UaLaWAp46p2zty5G-1280-80.jpg)
+
+- **[Sommelier secrets: The invisible art of wine service](https://www.decanter.com/learn/food/sommelier-secrets-the-invisible-art-of-wine-service)**
+  Wine service behind the scenes......
+
+![£49k – what it would cost you to buy the wines served at Rory McIlroy’s Masters Champions Dinner](https://cdn.mos.cms.futurecdn.net/BYsp2LPQtDT4gTdRV8BmQM-1280-80.gif)
+
+- **[£49k – what it would cost you to buy the wines served at Rory McIlroy’s Masters Champions Dinner](https://www.decanter.com/learn/gbp49k-what-it-would-cost-you-to-buy-the-wines-served-at-rory-mcilroys-masters-champions-dinner)**
+  Fancy recreating the Northern Irish golfer’s record-breaking evening? Decanter costs up the retail price of the four win...
 
 ### 📰 Wine-Searcher
 
@@ -65,57 +101,39 @@
 - **[Insider Calls for Radical Napa Change](https://www.wine-searcher.com/m/2026/04/insider-calls-for-radical-napa-change?rss=Y)**
   As Napa Valley sits on a sea of unsold wine, one insider identified four types of rich people who buy wineries without a...
 
-![The Most Wanted Merlots of 2026](https://www.wine-searcher.com/images/news-rss/99/13/9913114229969cdd898_Merlotmain_1_.jpg)
-
-- **[The Most Wanted Merlots of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-merlots-of-2026?rss=Y)**
-  There are only three places to look when it comes to the world's most wanted Merlot....
-
-### 📰 The Drinks Business
-
-![Final call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/04/iStock-1472923381.jpg)
-
-- **[Final call for entries: The Global Sparkling Masters 2026](https://www.thedrinksbusiness.com/2026/04/call-for-entries-the-global-sparkling-masters-2026/)**
-  the drinks business is taking final entries for The Global Sparkling Masters 2026, one of the industry’s most prestigiou...
-
-![Alcohol E-commerce misses US$40bn opportunity](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2258311264.jpg)
-
-- **[Alcohol E-commerce misses US$40bn opportunity](https://www.thedrinksbusiness.com/2026/04/alcohol-e-commerce-misses-40bn-opportunity/)**
-  New research suggests the alcohol industry is failing to keep pace with how consumers discover and want to buy drinks, w...
-
-![Vagabond to open landmark Soho site](https://www.thedrinksbusiness.com/content/uploads/2026/04/External-Vagabond-Atelier-Ochre-scaled.png)
-
-- **[Vagabond to open landmark Soho site](https://www.thedrinksbusiness.com/2026/04/vagabond-to-open-landmark-soho-site/)**
-  Wine bar Vagabond Wines is set to open a 6,000 sq ft flagship in the heart of London, pouring more than 120 wines by the...
-
-![Wines of South Africa restructures UK office](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2078359006-1.jpg)
-
-- **[Wines of South Africa restructures UK office](https://www.thedrinksbusiness.com/2026/04/wines-of-south-africa-restructures-uk-office/)**
-  Wines of South Africa (WoSA) has announced a restructure of its UK operation, resulting in the redundancy of its two cur...
-
-![Joseph Phelps: ‘We’re always looking to the future’](https://www.thedrinksbusiness.com/content/uploads/2026/04/JPG-low-resolution-ph-brandasset-Joseph_Phelps_Winemaker_Ryan_Knoth.jpg)
-
-- **[Joseph Phelps: ‘We’re always looking to the future’](https://www.thedrinksbusiness.com/2026/04/joseph-phelps-were-always-looking-to-the-future/)**
-  Three years after pioneering Napa fine wine producer Joseph Phelps was bought by Moët Hennessy, winemaker Ryan Phelps is...
-
-### 📰 Decanter
-
-![Sommelier secrets: The invisible art of wine service](https://cdn.mos.cms.futurecdn.net/xDki67UaLaWAp46p2zty5G-1280-80.jpg)
-
-- **[Sommelier secrets: The invisible art of wine service](https://www.decanter.com/learn/food/sommelier-secrets-the-invisible-art-of-wine-service)**
-  Wine service behind the scenes......
-
-![£49k – what it would cost you to buy the wines served at Rory McIlroy’s Masters Champions Dinner](https://cdn.mos.cms.futurecdn.net/BYsp2LPQtDT4gTdRV8BmQM-1280-80.gif)
-
-- **[£49k – what it would cost you to buy the wines served at Rory McIlroy’s Masters Champions Dinner](https://www.decanter.com/learn/gbp49k-what-it-would-cost-you-to-buy-the-wines-served-at-rory-mcilroys-masters-champions-dinner)**
-  Fancy recreating the Northern Irish golfer’s record-breaking evening? Decanter costs up the retail price of the four win...
-
-![‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://cdn.mos.cms.futurecdn.net/SKQ7NAt7Syp7swNiG4WtzM-1280-80.jpg)
-
-- **[‘If the Bordeaux 2025 campaign isn't successful, then En Primeur is dead’ – Edouard Moueix](https://www.decanter.com/wine/bordeaux-wines/if-the-bordeaux-2025-campaign-isnt-successful-then-en-primeur-is-dead-edouard-moueix)**
-  We are used to Bordeaux’s movers and shakers dressing up each new vintage with a positive spin. But as the region gears ...
-
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![The Rolling Stones relaunches Crossfire Hurricane Rum](https://www.thespiritsbusiness.com/content/uploads/2026/04/Crossfire-Hurricane-1.jpg)
+
+- **[The Rolling Stones relaunches Crossfire Hurricane Rum](https://www.thespiritsbusiness.com/2026/04/the-rolling-stones-relaunches-crossfire-hurricane-rum/)**
+  Jamaican rum brand Crossfire Hurricane, co-founded by The Rolling Stones, has relaunched with a fresh design, refined li...
+  *关键词: launch*
+
+![Ukrainian perspective: Mikolasch Vodka](https://www.thespiritsbusiness.com/content/uploads/2026/04/Mikolasch-Vodka.jpg)
+
+- **[Ukrainian perspective: Mikolasch Vodka](https://www.thespiritsbusiness.com/2026/04/ukrainian-perspective-mikolasch-vodka/)**
+  Mikolasch Vodka is expanding into new markets while promoting Ukraine’s historic role as one of the spirit’s original he...
+  *关键词: market*
+
+![Casa Redondo expands Dutch distribution partnership](https://www.thespiritsbusiness.com/content/uploads/2026/03/Sheridans.jpg)
+
+- **[Casa Redondo expands Dutch distribution partnership](https://www.thespiritsbusiness.com/2026/04/casa-redondo-expands-dutch-distribution-partnership/)**
+  Portuguese company Casa Redondo has appointed A Brand New Day as the exclusive distributor for Sheridan's in the Netherl...
+  *关键词: distribution, partnership*
+
+![Botany inspires Melbourne’s new Bar Ferdinand](https://www.thespiritsbusiness.com/content/uploads/2026/04/Blackberry-BAR_FERDINAND_2026040148389_CREDIT_KRISTOFFER_PAULSEN.jpg)
+
+- **[Botany inspires Melbourne’s new Bar Ferdinand](https://www.thespiritsbusiness.com/2026/04/botany-inspires-melbournes-new-bar-ferdinand/)**
+  Hunter St Hospitality will open Bar Ferdinand above its steak restaurant 7 Alfred in Melbourne’s CBD on 22 April
+The pos...
+
+![Deep Eddy Vodka finds new owner for second distillery](https://www.thespiritsbusiness.com/content/uploads/2026/04/Deep-Eddy.jpg)
+
+- **[Deep Eddy Vodka finds new owner for second distillery](https://www.thespiritsbusiness.com/2026/04/deep-eddy-vodka-finds-new-owner-for-second-distillery/)**
+  Goodnight Loving Vodka has emerged as the brand that will assume the Deep Eddy distillery and visitor centre in Dripping...
 
 ### 📰 Brewbound
 
@@ -135,36 +153,6 @@
 - **[Press Clips: NYC’s Pricey Pints, Penn Brewery’s Chapter 11 Filing, Bow & Arrow’s James Beard Nomination & More](https://www.brewbound.com/news/press-clips-nycs-pricey-pints-penn-brewerys-chapter-11-filing-bow-arrows-james-beard-nomination-more)**
   Unsurprisingly, the most expensive city to grab a beer is New York, according to a recent report from on-premise POS fir...
 
-### 📰 The Spirits Business
-
-![Rémy Cointreau reshapes leadership with transformation plan](https://www.thespiritsbusiness.com/content/uploads/2025/10/Cointreau.png)
-
-- **[Rémy Cointreau reshapes leadership with transformation plan](https://www.thespiritsbusiness.com/2026/04/remy-cointreau-reshapes-leadership-with-transformation-plan/)**
-  Following three years of difficulties, Rémy Cointreau has decided to take an ‘offensive’ approach through a new transfor...
-
-![Ukiyo partners with The Ivy Asia for sakura season](https://www.thespiritsbusiness.com/content/uploads/2026/04/Ukiyo-The-Ivy-Asia.jpg)
-
-- **[Ukiyo partners with The Ivy Asia for sakura season](https://www.thespiritsbusiness.com/2026/04/ukiyo-partners-with-the-ivy-asia-for-sakura-season/)**
-  Kirker Greer’s Ukiyo Japanese Spirits has partnered with The Ivy Asia to launch a sakura season activation across the UK...
-  *关键词: launch*
-
-![Abbey Lands Distillery planned for 2027](https://www.thespiritsbusiness.com/content/uploads/2026/04/Whitby.jpg)
-
-- **[Abbey Lands Distillery planned for 2027](https://www.thespiritsbusiness.com/2026/04/abbey-lands-distillery-planned-for-2027/)**
-  Whitby Distillery is readying to launch its second campaign to fund the build of its new ‘destination distillery’, slate...
-  *关键词: launch*
-
-![Deep Eddy Vodka to shut second distillery and tasting room](https://www.thespiritsbusiness.com/content/uploads/2026/04/Deep-Eddy-visitor-centre.jpg)
-
-- **[Deep Eddy Vodka to shut second distillery and tasting room](https://www.thespiritsbusiness.com/2026/04/deep-eddy-vodka-to-shut-second-distillery-and-tasting-room/)**
-  Heaven Hill Brands will close its Deep Eddy Vodka distillery and visitor centre in Dripping Springs, Texas, this summer
-...
-
-![Shared Spirit brings ‘different approach’ to whisky festivals](https://www.thespiritsbusiness.com/content/uploads/2026/04/Young-people-drinking-whisky-woman-1485-credit-OurWhisky-Foundation_Jo-Hanley-1.jpg)
-
-- **[Shared Spirit brings ‘different approach’ to whisky festivals](https://www.thespiritsbusiness.com/2026/04/shared-spirit-brings-different-approach-to-whisky-festivals/)**
-  A festival designed for exploration, inclusion and modern whisky drinkers is coming to London in June to ‘redefine what ...
-
 ### 📰 Wine Enthusiast
 
 ![What’s Next for the Wine Importer Who Took Down the Trump Tariffs at the Supreme Court?](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
@@ -180,5 +168,5 @@
 
 ---
 
-*报告生成时间: 2026-04-08 16:00*  
+*报告生成时间: 2026-04-09 03:00*  
 *Antonelli Intelligence System*
