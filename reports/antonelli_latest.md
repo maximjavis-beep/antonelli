@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 42 条
+- **新增资讯**: 43 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -54,36 +54,47 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![The Most Wanted Bordeaux of 2026](https://www.wine-searcher.com/images/news-rss/99/14/9914814233369d6e019_Bordeauxmain_3_.jpg)
+
+- **[The Most Wanted Bordeaux of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-bordeaux-of-2026?rss=Y)**
+  When it comes to this year's most wanted Bordeaux, it's little more than a reshuffle....
+
 ### 📰 The Drinks Business
 
-![Are fresher reds the future of Spanish wine?](https://www.thedrinksbusiness.com/content/uploads/2026/04/Spanish-wine-light-red-image-scaled.jpg)
+![Bangkok Songkran 2026 to be alcohol-free](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2204769922-scaled.jpg)
 
-- **[Are fresher reds the future of Spanish wine?](https://www.thedrinksbusiness.com/2026/04/are-fresher-reds-the-future-of-spanish-wine/)**
-  Spanish wine’s evolution towards the lighter side encompasses gentler reds, less oak and a refocus on terroir-driven win...
+- **[Bangkok Songkran 2026 to be alcohol-free](https://www.thedrinksbusiness.com/2026/04/bangkok-songkran-2026-to-be-alcohol-free/)**
+  Thailand is set to make a splash later this month for Songkran – the annual festival which sees huge water fights erupt ...
 
-![More than a quarter of beer sommeliers are women](https://www.thedrinksbusiness.com/content/uploads/2026/04/pexels-elevate-1267262-scaled.jpg)
+![#WeekInPictures: Pattinson pours 1664, Port cocktails and Bordeaux in London](https://www.thedrinksbusiness.com/content/uploads/2026/04/1664-Robert-Pattinson-1280x720-1.jpg)
 
-- **[More than a quarter of beer sommeliers are women](https://www.thedrinksbusiness.com/2026/04/more-than-a-quarter-of-beer-sommeliers-are-women/)**
-  The number of female beer sommeliers has grown, with more than 25% of accredited beer sommeliers now being women, could ...
-
-![Entries now open: The Global Sangiovese Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/04/iStock-490748174.jpg)
-
-- **[Entries now open: The Global Sangiovese Masters 2026](https://www.thedrinksbusiness.com/2026/04/entries-now-open-the-global-sangiovese-masters-2026/)**
-  From the rolling hills of Tuscany to sun-drenched vineyards in Australia, Sangiovese is a grape of extraordinary versati...
-
-![Moldova bets on indigenous grapes to carve out a global identity](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2201426637.jpg)
-
-- **[Moldova bets on indigenous grapes to carve out a global identity](https://www.thedrinksbusiness.com/2026/04/moldova-bets-on-indigenous-grapes-to-carve-out-a-global-identity/)**
-  Native varieties are taking centre stage as Moldova sharpens its positioning on the international wine market, combining...
+- **[#WeekInPictures: Pattinson pours 1664, Port cocktails and Bordeaux in London](https://www.thedrinksbusiness.com/2026/04/weekinpictures-pattinson-pours-1664-port-cocktails-and-bordeaux-in-london/)**
+  From Robert Pattinson fronting a beer campaign to a Port cocktail triumph and a gathering of Bordeaux estates beside St ...
   *关键词: market*
 
-![‘Sustainability must be grounded in real action’: Banfi CEO on portfolio strategy](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2197985409.jpg)
+![European drinks firms urge India to ease import duties amid supply fears](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2249785930-1-scaled.jpg)
 
-- **[‘Sustainability must be grounded in real action’: Banfi CEO on portfolio strategy](https://www.thedrinksbusiness.com/2026/04/sustainability-must-be-grounded-in-real-action-banfi-ceo-on-portfolio-strategy/)**
-  As scrutiny on sustainability grows, Italian wine group Banfi is tightening its approach to portfolio expansion, priorit...
-  *关键词: expansion*
+- **[European drinks firms urge India to ease import duties amid supply fears](https://www.thedrinksbusiness.com/2026/04/european-drinks-firms-urge-india-to-ease-import-duties-amid-supply-fears/)**
+  A European business lobby group has urged India to temporarily axe 10% of import duties on key packaging materials, warn...
+
+![Rory McIlroy racks up US$65,000 wine bill at Champions dinner](https://www.thedrinksbusiness.com/content/uploads/2026/04/Rory-cropped.jpg)
+
+- **[Rory McIlroy racks up US$65,000 wine bill at Champions dinner](https://www.thedrinksbusiness.com/2026/04/rory-mcilroy-racks-up-us65000-wine-bill-at-champions-dinner/)**
+  After winning The Masters golf tournament last year, Rory McIlroy this week staged his Champions Dinner in the US state ...
+
+![Bottega goes for gold](https://www.thedrinksbusiness.com/content/uploads/2026/04/Villa-Rosina_Bottega-headquarters.jpg)
+
+- **[Bottega goes for gold](https://www.thedrinksbusiness.com/2026/04/bottega-goes-for-gold/)**
+  Bottega’s instantly recognisable bottles have created an aura of glamour for the brand, but the gold-standard also appli...
 
 ### 📰 Decanter
+
+![Editors’ picks: A clutch of great wines to try – April 2026](https://cdn.mos.cms.futurecdn.net/gkVR2zdXrgF9vHexAbv9XF-1280-80.jpg)
+
+- **[Editors’ picks: A clutch of great wines to try – April 2026](https://www.decanter.com/wine/editors-picks-a-clutch-of-great-wines-to-try-april-2026)**
+  See what our team has been trying recently......
 
 ![Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://cdn.mos.cms.futurecdn.net/oeR9DrLDjwdrUwK6TeAM6C-1280-80.jpg)
 
@@ -102,81 +113,69 @@
   The latest edition of Spain’s largest wine fair set the stage for some exciting tastings and discussions, allowing our S...
   *关键词: trend*
 
-![Celebrities and wine quiz: Can you get a perfect score?](https://cdn.mos.cms.futurecdn.net/EdLqRxgmcKys8KWe5iFECi-1280-80.jpg)
-
-- **[Celebrities and wine quiz: Can you get a perfect score?](https://www.decanter.com/learn/winequiz/celebrities-and-wine-quiz-can-you-get-a-perfect-score)**
-  Test your knowledge of wine-loving A-listers......
-
-### 📰 Wine-Searcher
-
-![US Wine – Don't Look Now](https://www.wine-searcher.com/images/news-rss/99/13/9913014229769d80ab1_randall1.jpg)
-
-- **[US Wine – Don't Look Now](https://www.wine-searcher.com/m/2026/04/us-wine-dont-look-now?rss=Y)**
-  With the US wine trade being battered, California wine legend Randall Grahm shares some thoughts on the current state of...
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Attaboy: ‘You don’t unionise a bar you don’t love’](https://www.thespiritsbusiness.com/content/uploads/2026/04/attaboy-51.jpg)
-
-- **[Attaboy: ‘You don’t unionise a bar you don’t love’](https://www.thespiritsbusiness.com/2026/04/attaboy-you-dont-unionise-a-bar-you-dont-love/)**
-  Staff members at New York cocktail bar Attaboy are attempting to form a union to protect workers and improve the bar’s s...
-
-![Mount Gay Rum debuts Bajan Spiced](https://www.thespiritsbusiness.com/content/uploads/2026/04/Mount-Gay-Bajan-Spiced.jpg)
-
-- **[Mount Gay Rum debuts Bajan Spiced](https://www.thespiritsbusiness.com/2026/04/mount-gay-rum-debuts-bajan-spiced/)**
-  Rémy Cointreau-owned Mount Gay has launched a new spirit drink called Bajan Spiced, marking its entry into the spiced sp...
-  *关键词: launch*
-
-![Sazerac reportedly eyes Brown-Forman deal](https://www.thespiritsbusiness.com/content/uploads/2022/11/Buffalo-Trace.jpg)
-
-- **[Sazerac reportedly eyes Brown-Forman deal](https://www.thespiritsbusiness.com/2026/04/sazerac-reportedly-eyes-brown-forman-deal/)**
-  Brown-Forman and Sazerac have refused to comment on a report that claims the two US companies are exploring a potential ...
-
-![Deep Eddy Vodka finds new tenant for visitor centre](https://www.thespiritsbusiness.com/content/uploads/2026/04/Deep-Eddy-visitor-centre.jpg)
-
-- **[Deep Eddy Vodka finds new tenant for visitor centre](https://www.thespiritsbusiness.com/2026/04/deep-eddy-vodka-finds-new-owner-for-second-distillery/)**
-  Goodnight Loving Vodka has emerged as the brand that will assume the Deep Eddy visitor centre in Dripping Springs, Texas...
-
-![Domhayn takes spirits maturation to the abyss](https://www.thespiritsbusiness.com/content/uploads/2026/04/the-abyss.jpg)
-
-- **[Domhayn takes spirits maturation to the abyss](https://www.thespiritsbusiness.com/2026/04/domhayn-takes-spirits-maturation-to-the-abyss/)**
-  Spirits innovator Domhayn has launched a campaign to explore the effects of maturing a cask at ‘abyss-level’ pressures
-T...
-  *关键词: launch*
-
 ### 📰 Brewbound
 
-- **[Q1 Craft Scans, Platform Proliferation, BrewDog’s Identity Crisis – and What’s a Daycap?](https://www.brewbound.com/news/brewbound-podcast-q1-craft-scans-platform-proliferation-brewdogs-identity-crisis-and-whats-a-daycap)**
-  How did craft close out Q1 in scans? In this episode, the Brewbound team convenes to discuss the early read on trends in...
-  *关键词: trend*
+- **[NIQ On-Premise Update: Festivals, Baseball & Mini Cocktails](https://www.brewbound.com/news/niq-on-premise-update-festivals-baseball-mini-cocktails)**
+  Coachella kicks off this weekend, with up to 125,000 people set to flock to Indio, California, each day to see Sabrina C...
 
-- **[NIQ Weekly Scans: Beer Dollars -1.4% YTD Thru Q1, Volume -2.9%; Imports Leading Beer Share Gains](https://www.brewbound.com/news/niq-weekly-scans-beer-dollars-1-4-ytd-thru-q1-volume-2-9-imports-leading-beer-share-gains)**
-  After a two-week run, St. Patrick’s Day’s boost to bev-alc sales has come to an end. Total bev-alc dollar sales in NIQ-t...
-  *关键词: market*
-
-- **[Minnesota Grants Target 72 Licenses for Expanded THC Sales](https://www.brewbound.com/news/minnesota-grants-target-72-licenses-for-expanded-thc-sales)**
-  THC drinks will have an expanded potential retail set in Minnesota. Despite an existential timeline ticking on the categ...
-
-- **[Constellation Remains ‘Realistic’ About Future Headwinds Despite Q4 Growth, Withdraws FY28 Guidance](https://www.brewbound.com/news/constellation-remains-realistic-about-future-headwinds-despite-q4-growth-withdraws-fy28-guidance)**
-  Constellation Brands’ beer portfolio ended its fiscal year 2026 (FY26) with depletions growth in Q4 after three consecut...
-  *关键词: trend*
-
-- **[Report: Sazerac Explores Brown-Forman Deal](https://www.brewbound.com/news/report-sazerac-explores-brown-forman-deal)**
-  Weeks after Pernod Ricard and Brown-Forman confirmed that they are in merger talks, Sazerac is now reportedly eyeing a d...
+- **[Sazerac Bid for Brown-Forman May Face Antitrust and Strategic Hurdles](https://www.brewbound.com/news/sazerac-bid-for-brown-forman-may-face-antitrust-and-strategic-hurdles)**
+  Weeks after Brown-Forman and Pernod Ricard confirmed they are in merger talks, Sazerac has entered the chat – but analys...
   *关键词: merger*
+
+- **[Vermont’s Baker Distributing Acquires Calmont, Leaving 2 Beer Distributors in the State](https://www.brewbound.com/news/vermonts-baker-distributing-acquires-calmont-leaving-2-beer-distributors-in-the-state)**
+  Molson Coors-aligned Baker Distributing acquired fellow Vermont blue/silver network house Calmont Beverage last month, a...
+
+- **[CPI: Beer Led March Price Increases On- & Off-Premise; Gas +18.9% YoY](https://www.brewbound.com/news/cpi-beer-led-march-price-increases-on-gas-18-9-yoy)**
+  Beer recorded the largest year-over-year (YoY) price increases across all bev-alc categories in March, according to the ...
+
+- **[Press Clips: Reyes’ New VP of Wine, Corona No Longer as Growth Driver, PBR’s $12 30-Packs & More](https://www.brewbound.com/news/press-clips-reyes-new-vp-of-wine-corona-no-longer-as-growth-driver-pbrs-12-30-packs-more)**
+  Check out news items initially reported in the Brewbound Insider Newsletter April 9-10, including headlines from Reyes, ...
+
+### 📰 The Spirits Business
+
+![Aaron Paul and Bryan Cranston launch Dos Hombres Tequila](https://www.thespiritsbusiness.com/content/uploads/2026/04/Dos-Hombres-3.jpg)
+
+- **[Aaron Paul and Bryan Cranston launch Dos Hombres Tequila](https://www.thespiritsbusiness.com/2026/04/aaron-paul-and-bryan-cranston-launch-dos-hombres-tequila/)**
+  The Breaking Bad actors and founders of mezcal brand Dos Hombres have made their first move into Tequila
+The post Aaron ...
+  *关键词: launch*
+
+![Pronghorn expands Tequila portfolio with Humano investment](https://www.thespiritsbusiness.com/content/uploads/2026/04/Humano-Tequila.jpg)
+
+- **[Pronghorn expands Tequila portfolio with Humano investment](https://www.thespiritsbusiness.com/2026/04/pronghorn-expands-tequila-portfolio-with-humano-investment/)**
+  Diageo-backed drinks accelerator Pronghorn has invested in Humano Tequila, which is said to be one of the category’s fas...
+  *关键词: investment*
+
+![Spirited Awards names US nominees](https://www.thespiritsbusiness.com/content/uploads/2026/04/Sip-and-Guzzle-interior.jpg)
+
+- **[Spirited Awards names US nominees](https://www.thespiritsbusiness.com/2026/04/spirited-awards-names-us-nominees/)**
+  Tales of the Cocktail Foundation (TOTCF) has revealed its top 10 nominees across the US for this year’s Spirited Awards
+...
+
+![Angostura rum receives brand refresh](https://www.thespiritsbusiness.com/content/uploads/2026/04/House-of-Angostura-new-design-.jpg)
+
+- **[Angostura rum receives brand refresh](https://www.thespiritsbusiness.com/2026/04/angostura-rum-receives-brand-refresh/)**
+  House of Angostura has given its rum portfolio a redesign and incorporated more sustainable packaging across the range
+T...
+
+![Crealis reshapes operations](https://www.thespiritsbusiness.com/content/uploads/2026/04/Crealis-pedistrip-closure.jpg)
+
+- **[Crealis reshapes operations](https://www.thespiritsbusiness.com/2026/04/crealis-reshapes-operations/)**
+  Closures producer Crealis has simplified its business structure to ensure customers can order products across the portfo...
 
 ### 📰 Wine Enthusiast
 
-![3 Things We Learned About the Global Wine Industry at ProWein 2026](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_ProWein26_INSET_1_Messe_Dusseldorf_Tillmann_1920x1280.jpg)
+![An Industry in Crisis? Luxury Wine Can’t Relate](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_1945-Domaine-de-la-Romanee-Conti_INSET_Acker_1500x2000.jpg)
 
-- **[3 Things We Learned About the Global Wine Industry at ProWein 2026](https://www.wineenthusiast.com/culture/industry-news/prowein-trade-fair-germany-2026/)**
-  Many recent headlines about the wine industry haven’t been so rosy, but the energy in Düsseldorf told a different story—...
+- **[An Industry in Crisis? Luxury Wine Can’t Relate](https://www.wineenthusiast.com/culture/industry-news/luxury-wine-market-thrives/)**
+  Last week, at Acker’s annual La Paulée Auction, a world record was smashed. A single 750mL bottle of 1945 Domaine de la ...
+  *关键词: market*
 
 
 ---
 
-*报告生成时间: 2026-04-10 03:00*  
+*报告生成时间: 2026-04-10 16:00*  
 *Antonelli Intelligence System*
