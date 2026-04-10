@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-09  
-**来源**: 全球 2 个地区 · 6 个信源
+**日期**: 2026-04-10  
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 37 条
+- **新增资讯**: 42 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,23 +17,32 @@
 
 ### 📰 The Shout
 
-![New flavour for Kirin Hyoketsu](https://theshout.com.au/wp-content/uploads/2026/04/Pics.png?w=780)
+![Start your night with X](https://theshout.com.au/wp-content/uploads/2026/04/VC26-008-VC_Shout-Retail_Media_Booking-Studio_WhatsHot-Feature-1200x900_FA.jpg?w=780)
 
-- **[New flavour for Kirin Hyoketsu](https://theshout.com.au/new-flavour-for-kirin-hyoketsu/)**
-  While citrus RTDs have dominated the market, Kirin Hyoketsu Strawberry caters to the 55 per cent of Australian RTD consu...
+- **[Start your night with X](https://theshout.com.au/start-your-night-with-x/)**
+  Vodka Cruiser introduces Vodka Cruiser X &#8211; a bold new 10% RTD [&hellip;]...
+
+![ABAC Annual Report highlights effective year of self-regulation](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1434125666.jpg?w=780)
+
+- **[ABAC Annual Report highlights effective year of self-regulation](https://theshout.com.au/abac-annual-report-highlights-effective-year-of-self-regulation/)**
+  ABAC recorded a slight decrease in complaints, determinations and breaches last year, while responding to evolving chall...
   *关键词: market*
 
-![Anger as spirits excise debate is shutdown](https://theshout.com.au/wp-content/uploads/2025/02/iStock-839894108.jpg?w=780)
+![AUSTRALIA’S VIRAL PARTY POUCH](https://theshout.com.au/wp-content/uploads/2026/04/LeadImage.jpg?w=780)
 
-- **[Anger as spirits excise debate is shutdown](https://theshout.com.au/anger-as-spirits-excise-debate-is-shutdown/)**
-  A push to extend alcohol tax relief beyond beer has been shut down in the Senate, with industry voices warning the decis...
+- **[AUSTRALIA’S VIRAL PARTY POUCH](https://theshout.com.au/australias-viral-party-pouch/)**
+  Quips has burst onto the Australian RTD scene, redefining the [&hellip;]...
 
-![Trade Buyer’s Guide: Scotch & Irish Whisk(e)y](https://theshout.com.au/wp-content/uploads/2026/04/NLN_ScotchIrishWhiskey_Buyers-Guide_Assets_WebImage_1200x800px.jpg?w=780)
+![Redman strikes distribution deal with Calabria](https://theshout.com.au/wp-content/uploads/2026/04/Redman-Wines-FOR-WEB-132-1.jpg?w=780)
 
-- **[Trade Buyer’s Guide: Scotch & Irish Whisk(e)y](https://theshout.com.au/trade-buyers-guide-scotch-irish-whiskey/)**
-  Premiumisation, provenance and flavour exploration are reshaping Scotch and Irish [&hellip;]...
+- **[Redman strikes distribution deal with Calabria](https://theshout.com.au/redman-strikes-distribution-deal-with-calabria/)**
+  The new distribution agreement will see Redman wines return to Western Australia after a 15-year hiatus....
+  *关键词: distribution*
 
-*📚 以上为近期内容*
+![California Wines trade tour returns in May](https://theshout.com.au/wp-content/uploads/2025/02/CaliforniaWines.jpg?w=780)
+
+- **[California Wines trade tour returns in May](https://theshout.com.au/california-wines-trade-tour-returns-in-may/)**
+  California Wines is set to return to Australia in 2026 with its national trade roadshow, building on the strong debut of...
 
 ### 📰 Nomunication
 
@@ -45,6 +54,59 @@
 
 ## 🌍 欧洲
 
+### 📰 The Drinks Business
+
+![Are fresher reds the future of Spanish wine?](https://www.thedrinksbusiness.com/content/uploads/2026/04/Spanish-wine-light-red-image-scaled.jpg)
+
+- **[Are fresher reds the future of Spanish wine?](https://www.thedrinksbusiness.com/2026/04/are-fresher-reds-the-future-of-spanish-wine/)**
+  Spanish wine’s evolution towards the lighter side encompasses gentler reds, less oak and a refocus on terroir-driven win...
+
+![More than a quarter of beer sommeliers are women](https://www.thedrinksbusiness.com/content/uploads/2026/04/pexels-elevate-1267262-scaled.jpg)
+
+- **[More than a quarter of beer sommeliers are women](https://www.thedrinksbusiness.com/2026/04/more-than-a-quarter-of-beer-sommeliers-are-women/)**
+  The number of female beer sommeliers has grown, with more than 25% of accredited beer sommeliers now being women, could ...
+
+![Entries now open: The Global Sangiovese Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2025/04/iStock-490748174.jpg)
+
+- **[Entries now open: The Global Sangiovese Masters 2026](https://www.thedrinksbusiness.com/2026/04/entries-now-open-the-global-sangiovese-masters-2026/)**
+  From the rolling hills of Tuscany to sun-drenched vineyards in Australia, Sangiovese is a grape of extraordinary versati...
+
+![Moldova bets on indigenous grapes to carve out a global identity](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2201426637.jpg)
+
+- **[Moldova bets on indigenous grapes to carve out a global identity](https://www.thedrinksbusiness.com/2026/04/moldova-bets-on-indigenous-grapes-to-carve-out-a-global-identity/)**
+  Native varieties are taking centre stage as Moldova sharpens its positioning on the international wine market, combining...
+  *关键词: market*
+
+![‘Sustainability must be grounded in real action’: Banfi CEO on portfolio strategy](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2197985409.jpg)
+
+- **[‘Sustainability must be grounded in real action’: Banfi CEO on portfolio strategy](https://www.thedrinksbusiness.com/2026/04/sustainability-must-be-grounded-in-real-action-banfi-ceo-on-portfolio-strategy/)**
+  As scrutiny on sustainability grows, Italian wine group Banfi is tightening its approach to portfolio expansion, priorit...
+  *关键词: expansion*
+
+### 📰 Decanter
+
+![Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://cdn.mos.cms.futurecdn.net/oeR9DrLDjwdrUwK6TeAM6C-1280-80.jpg)
+
+- **[Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://www.decanter.com/spirits/distilled-another-hendricks-gin-and-how-to-make-a-garden-cocktail)**
+  There's another side to Hendrick's......
+
+![Wine investment: Top-end Tuscan wines buck the trend](https://cdn.mos.cms.futurecdn.net/JEQs2ZYpnDJRuh4b6x4jBV-1280-80.jpg)
+
+- **[Wine investment: Top-end Tuscan wines buck the trend](https://www.decanter.com/wine-collecting/wine-investment-top-end-tuscan-wines-buck-the-trend)**
+  The Super Tuscans prove their worth......
+  *关键词: investment, trend*
+
+![Barcelona Wine Week: Trends and perspectives](https://cdn.mos.cms.futurecdn.net/wA27zsArnUWfW9iKNimK48-1280-80.png)
+
+- **[Barcelona Wine Week: Trends and perspectives](https://www.decanter.com/wine/wine-regions/barcelona-wine-week-trends-and-perspectives)**
+  The latest edition of Spain’s largest wine fair set the stage for some exciting tastings and discussions, allowing our S...
+  *关键词: trend*
+
+![Celebrities and wine quiz: Can you get a perfect score?](https://cdn.mos.cms.futurecdn.net/EdLqRxgmcKys8KWe5iFECi-1280-80.jpg)
+
+- **[Celebrities and wine quiz: Can you get a perfect score?](https://www.decanter.com/learn/winequiz/celebrities-and-wine-quiz-can-you-get-a-perfect-score)**
+  Test your knowledge of wine-loving A-listers......
+
 ### 📰 Wine-Searcher
 
 ![US Wine – Don't Look Now](https://www.wine-searcher.com/images/news-rss/99/13/9913014229769d80ab1_randall1.jpg)
@@ -52,48 +114,38 @@
 - **[US Wine – Don't Look Now](https://www.wine-searcher.com/m/2026/04/us-wine-dont-look-now?rss=Y)**
   With the US wine trade being battered, California wine legend Randall Grahm shares some thoughts on the current state of...
 
-### 📰 The Drinks Business
-
-![LVMH sells Indian winery](https://www.thedrinksbusiness.com/content/uploads/2026/04/LVMH-1280x848-1-1-1024x678-1.jpg)
-
-- **[LVMH sells Indian winery](https://www.thedrinksbusiness.com/2026/04/lvmh-sells-indian-winery/)**
-  LVMH’s wine and spirits division is ending local production in India after more than a decade of making Chandon sparklin...
-  *关键词: expansion*
-
-![Stock Spirits extends Limoncè with Sicilian lemon RTD spritz](https://www.thedrinksbusiness.com/content/uploads/2026/04/Limonce-Spritz-RTD_KV-scaled.jpg)
-
-- **[Stock Spirits extends Limoncè with Sicilian lemon RTD spritz](https://www.thedrinksbusiness.com/2026/04/stock-spirits-extends-limonce-with-sicilian-lemon-rtd-spritz/)**
-  Stock Spirits Group moves deeper into the booming aperitivo and RTD space with a new Limoncè spritz, reflecting shifting...
-
-![How are Italian white wine appellations differentiating themselves?](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1452285452-scaled.jpg)
-
-- **[How are Italian white wine appellations differentiating themselves?](https://www.thedrinksbusiness.com/2026/04/how-are-italian-white-wine-appellations-differentiating-themselves/)**
-  With Vinitaly 2026 kicking off this weekend, Sarah Neish finds out what key Italian consorzi are prioritising for their ...
-
-![‘The narrative is changing’: Camikara on Indian rum’s spirited rise](https://www.thedrinksbusiness.com/content/uploads/2026/04/Madhu-Kanna-Head-of-International-Business.jpg)
-
-- **[‘The narrative is changing’: Camikara on Indian rum’s spirited rise](https://www.thedrinksbusiness.com/2026/04/the-narrative-is-changing-camikara-on-indian-rums-spirited-rise/)**
-  Once dismissed as a cheap, cheerful product, premium Indian rum is now stepping into the global spotlight. Madhu Kanna, ...
-
-![Young adults say pub boosts wellbeing more than the gym](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2233753253.jpg)
-
-- **[Young adults say pub boosts wellbeing more than the gym](https://www.thedrinksbusiness.com/2026/04/young-adults-say-pub-boosts-wellbeing-more-than-the-gym/)**
-  YouGov polling commissioned by the British Beer and Pub Association suggests young Britons see the pub as an important s...
-
-### 📰 Decanter
-
-![Celebrities and wine quiz: Can you get a perfect score?](https://cdn.mos.cms.futurecdn.net/EdLqRxgmcKys8KWe5iFECi-1280-80.jpg)
-
-- **[Celebrities and wine quiz: Can you get a perfect score?](https://www.decanter.com/learn/winequiz/celebrities-and-wine-quiz-can-you-get-a-perfect-score)**
-  Test your knowledge of wine-loving A-listers......
-
-![Why Paso Robles offers the best value in California](https://cdn.mos.cms.futurecdn.net/dJEn9wuwWm7fjzYD9cBLug-1280-80.jpg)
-
-- **[Why Paso Robles offers the best value in California](https://www.decanter.com/wine/california-wine-region/why-paso-robles-offers-the-best-value-in-california)**
-  A region full of personality and fair prices......
-
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Attaboy: ‘You don’t unionise a bar you don’t love’](https://www.thespiritsbusiness.com/content/uploads/2026/04/attaboy-51.jpg)
+
+- **[Attaboy: ‘You don’t unionise a bar you don’t love’](https://www.thespiritsbusiness.com/2026/04/attaboy-you-dont-unionise-a-bar-you-dont-love/)**
+  Staff members at New York cocktail bar Attaboy are attempting to form a union to protect workers and improve the bar’s s...
+
+![Mount Gay Rum debuts Bajan Spiced](https://www.thespiritsbusiness.com/content/uploads/2026/04/Mount-Gay-Bajan-Spiced.jpg)
+
+- **[Mount Gay Rum debuts Bajan Spiced](https://www.thespiritsbusiness.com/2026/04/mount-gay-rum-debuts-bajan-spiced/)**
+  Rémy Cointreau-owned Mount Gay has launched a new spirit drink called Bajan Spiced, marking its entry into the spiced sp...
+  *关键词: launch*
+
+![Sazerac reportedly eyes Brown-Forman deal](https://www.thespiritsbusiness.com/content/uploads/2022/11/Buffalo-Trace.jpg)
+
+- **[Sazerac reportedly eyes Brown-Forman deal](https://www.thespiritsbusiness.com/2026/04/sazerac-reportedly-eyes-brown-forman-deal/)**
+  Brown-Forman and Sazerac have refused to comment on a report that claims the two US companies are exploring a potential ...
+
+![Deep Eddy Vodka finds new tenant for visitor centre](https://www.thespiritsbusiness.com/content/uploads/2026/04/Deep-Eddy-visitor-centre.jpg)
+
+- **[Deep Eddy Vodka finds new tenant for visitor centre](https://www.thespiritsbusiness.com/2026/04/deep-eddy-vodka-finds-new-owner-for-second-distillery/)**
+  Goodnight Loving Vodka has emerged as the brand that will assume the Deep Eddy visitor centre in Dripping Springs, Texas...
+
+![Domhayn takes spirits maturation to the abyss](https://www.thespiritsbusiness.com/content/uploads/2026/04/the-abyss.jpg)
+
+- **[Domhayn takes spirits maturation to the abyss](https://www.thespiritsbusiness.com/2026/04/domhayn-takes-spirits-maturation-to-the-abyss/)**
+  Spirits innovator Domhayn has launched a campaign to explore the effects of maturing a cask at ‘abyss-level’ pressures
+T...
+  *关键词: launch*
 
 ### 📰 Brewbound
 
@@ -116,35 +168,6 @@
   Weeks after Pernod Ricard and Brown-Forman confirmed that they are in merger talks, Sazerac is now reportedly eyeing a d...
   *关键词: merger*
 
-### 📰 The Spirits Business
-
-![Deep Eddy Vodka finds new tenant for visitor centre](https://www.thespiritsbusiness.com/content/uploads/2026/04/Deep-Eddy-visitor-centre.jpg)
-
-- **[Deep Eddy Vodka finds new tenant for visitor centre](https://www.thespiritsbusiness.com/2026/04/deep-eddy-vodka-finds-new-owner-for-second-distillery/)**
-  Goodnight Loving Vodka has emerged as the brand that will assume the Deep Eddy visitor centre in Dripping Springs, Texas...
-
-![Domhayn takes spirits maturation to the abyss](https://www.thespiritsbusiness.com/content/uploads/2026/04/the-abyss.jpg)
-
-- **[Domhayn takes spirits maturation to the abyss](https://www.thespiritsbusiness.com/2026/04/domhayn-takes-spirits-maturation-to-the-abyss/)**
-  Spirits innovator Domhayn has launched a campaign to explore the effects of maturing a cask at ‘abyss-level’ pressures
-T...
-  *关键词: launch*
-
-![RTD sales up 12% in Australian on-trade in 2025](https://www.thespiritsbusiness.com/content/uploads/2024/12/Billsons-low-sugar-RTD.png)
-
-- **[RTD sales up 12% in Australian on-trade in 2025](https://www.thespiritsbusiness.com/2026/04/rtd-sales-up-12-in-australian-on-trade-in-2025/)**
-  The ready-to-drink category generated AU$2.5 billion (US$1.76bn) in Australia’s bars last year after rising by double di...
-
-![Ben Lomond starts search for official serve of The Open](https://www.thespiritsbusiness.com/content/uploads/2026/04/Ben-Lomond-1.jpg)
-
-- **[Ben Lomond starts search for official serve of The Open](https://www.thespiritsbusiness.com/2026/04/ben-lomond-starts-search-for-official-serve-of-the-open/)**
-  Loch Lomond Group's Ben Lomond Gin has begun its UK-wide search to find the official serve of The Open golf championship...
-
-![Larsen Cognac marks centenary with new look](https://www.thespiritsbusiness.com/content/uploads/2026/04/Larsen-Cognac-new-look.jpg)
-
-- **[Larsen Cognac marks centenary with new look](https://www.thespiritsbusiness.com/2026/04/larsen-cognac-marks-centenary-with-new-look/)**
-  After buying Larsen Cognac in 2023, International Beverage has introduced a new identity for the brand as it celebrates ...
-
 ### 📰 Wine Enthusiast
 
 ![3 Things We Learned About the Global Wine Industry at ProWein 2026](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_ProWein26_INSET_1_Messe_Dusseldorf_Tillmann_1920x1280.jpg)
@@ -155,5 +178,5 @@ T...
 
 ---
 
-*报告生成时间: 2026-04-09 16:00*  
+*报告生成时间: 2026-04-10 03:00*  
 *Antonelli Intelligence System*
