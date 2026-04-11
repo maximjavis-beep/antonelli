@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-11  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 1 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 35 条
+- **新增资讯**: 7 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -44,28 +44,6 @@
 
 - **[Back in form: The return of South Africa's Bordeaux blends](https://www.decanter.com/wine/wine-regions/back-in-form-the-return-of-south-africas-bordeaux-blends)**
   Return of a classic......
-
-![Editors’ picks: A clutch of great wines to try – April 2026](https://cdn.mos.cms.futurecdn.net/gkVR2zdXrgF9vHexAbv9XF-1280-80.jpg)
-
-- **[Editors’ picks: A clutch of great wines to try – April 2026](https://www.decanter.com/wine/editors-picks-a-clutch-of-great-wines-to-try-april-2026)**
-  See what our team has been trying recently......
-
-![Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://cdn.mos.cms.futurecdn.net/oeR9DrLDjwdrUwK6TeAM6C-1280-80.jpg)
-
-- **[Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://www.decanter.com/spirits/distilled-another-hendricks-gin-and-how-to-make-a-garden-cocktail)**
-  There's another side to Hendrick's......
-
-![Wine investment: Top-end Tuscan wines buck the trend](https://cdn.mos.cms.futurecdn.net/JEQs2ZYpnDJRuh4b6x4jBV-1280-80.jpg)
-
-- **[Wine investment: Top-end Tuscan wines buck the trend](https://www.decanter.com/wine-collecting/wine-investment-top-end-tuscan-wines-buck-the-trend)**
-  The Super Tuscans prove their worth......
-  *关键词: investment, trend*
-
-![Barcelona Wine Week: Trends and perspectives](https://cdn.mos.cms.futurecdn.net/wA27zsArnUWfW9iKNimK48-1280-80.png)
-
-- **[Barcelona Wine Week: Trends and perspectives](https://www.decanter.com/wine/wine-regions/barcelona-wine-week-trends-and-perspectives)**
-  The latest edition of Spain’s largest wine fair set the stage for some exciting tastings and discussions, allowing our S...
-  *关键词: trend*
 
 ### 📰 Wine-Searcher
 
@@ -117,11 +95,7 @@
 - **[Vermont’s Baker Distributing Acquires Calmont, Leaving 2 Beer Distributors in the State](https://www.brewbound.com/news/vermonts-baker-distributing-acquires-calmont-leaving-2-beer-distributors-in-the-state)**
   Molson Coors-aligned Baker Distributing acquired fellow Vermont blue/silver network house Calmont Beverage last month, a...
 
-- **[CPI: Beer Led March Price Increases On- & Off-Premise; Gas +18.9% YoY](https://www.brewbound.com/news/cpi-beer-led-march-price-increases-on-gas-18-9-yoy)**
-  Beer recorded the largest year-over-year (YoY) price increases across all bev-alc categories in March, according to the ...
-
-- **[Press Clips: Reyes’ New VP of Wine, Corona No Longer as Growth Driver, PBR’s $12 30-Packs & More](https://www.brewbound.com/news/press-clips-reyes-new-vp-of-wine-corona-no-longer-as-growth-driver-pbrs-12-30-packs-more)**
-  Check out news items initially reported in the Brewbound Insider Newsletter April 9-10, including headlines from Reyes, ...
+*📚 以上为近期内容*
 
 ### 📰 The Spirits Business
 
@@ -144,16 +118,7 @@ The post Aaron ...
   Tales of the Cocktail Foundation (TOTCF) has revealed its top 10 nominees across the US for this year’s Spirited Awards
 ...
 
-![Angostura rum receives brand refresh](https://www.thespiritsbusiness.com/content/uploads/2026/04/House-of-Angostura-new-design-.jpg)
-
-- **[Angostura rum receives brand refresh](https://www.thespiritsbusiness.com/2026/04/angostura-rum-receives-brand-refresh/)**
-  House of Angostura has given its rum portfolio a redesign and incorporated more sustainable packaging across the range
-T...
-
-![Crealis reshapes operations](https://www.thespiritsbusiness.com/content/uploads/2026/04/Crealis-pedistrip-closure.jpg)
-
-- **[Crealis reshapes operations](https://www.thespiritsbusiness.com/2026/04/crealis-reshapes-operations/)**
-  Closures producer Crealis has simplified its business structure to ensure customers can order products across the portfo...
+*📚 以上为近期内容*
 
 ### 📰 Wine Enthusiast
 
@@ -163,8 +128,20 @@ T...
   Last week, at Acker’s annual La Paulée Auction, a world record was smashed. A single 750mL bottle of 1945 Domaine de la ...
   *关键词: market*
 
+![3 Things We Learned About the Global Wine Industry at ProWein 2026](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_ProWein26_INSET_1_Messe_Dusseldorf_Tillmann_1920x1280.jpg)
+
+- **[3 Things We Learned About the Global Wine Industry at ProWein 2026](https://www.wineenthusiast.com/culture/industry-news/prowein-trade-fair-germany-2026/)**
+  Many recent headlines about the wine industry haven’t been so rosy, but the energy in Düsseldorf told a different story—...
+
+![What’s Next for the Wine Importer Who Took Down the Trump Tariffs at the Supreme Court?](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
+
+- **[What’s Next for the Wine Importer Who Took Down the Trump Tariffs at the Supreme Court?](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/victor-schwartz-supreme-court/)**
+  Amazon or Walmart didn't defeat the tariffs—it was Victor Schwartz, the small New York-based wine importer who founded V...
+
+*📚 以上为近期内容*
+
 
 ---
 
-*报告生成时间: 2026-04-11 03:00*  
+*报告生成时间: 2026-04-11 16:00*  
 *Antonelli Intelligence System*
