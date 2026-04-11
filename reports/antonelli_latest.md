@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-10  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-04-11  
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 43 条
+- **新增资讯**: 35 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -33,26 +33,39 @@
 - **[AUSTRALIA’S VIRAL PARTY POUCH](https://theshout.com.au/australias-viral-party-pouch/)**
   Quips has burst onto the Australian RTD scene, redefining the [&hellip;]...
 
-![Redman strikes distribution deal with Calabria](https://theshout.com.au/wp-content/uploads/2026/04/Redman-Wines-FOR-WEB-132-1.jpg?w=780)
-
-- **[Redman strikes distribution deal with Calabria](https://theshout.com.au/redman-strikes-distribution-deal-with-calabria/)**
-  The new distribution agreement will see Redman wines return to Western Australia after a 15-year hiatus....
-  *关键词: distribution*
-
-![California Wines trade tour returns in May](https://theshout.com.au/wp-content/uploads/2025/02/CaliforniaWines.jpg?w=780)
-
-- **[California Wines trade tour returns in May](https://theshout.com.au/california-wines-trade-tour-returns-in-may/)**
-  California Wines is set to return to Australia in 2026 with its national trade roadshow, building on the strong debut of...
-
-### 📰 Nomunication
-
-- **[Win a free ticket to Tokyo International BarShow 2026, May 9-10](https://www.nomunication.jp/2026/04/04/win-a-free-ticket-to-tokyo-international-barshow-2026-may-9-10/)**
-  It&#8217;s that time of year again &#8212; the Tokyo International BarShow is on May 9-10 at Tokyo Dome&#8217;s Prism Ha...
-
 *📚 以上为近期内容*
 
 
 ## 🌍 欧洲
+
+### 📰 Decanter
+
+![Back in form: The return of South Africa's Bordeaux blends](https://cdn.mos.cms.futurecdn.net/4umSap8Bz2EnZ93248PrHC-1280-80.jpg)
+
+- **[Back in form: The return of South Africa's Bordeaux blends](https://www.decanter.com/wine/wine-regions/back-in-form-the-return-of-south-africas-bordeaux-blends)**
+  Return of a classic......
+
+![Editors’ picks: A clutch of great wines to try – April 2026](https://cdn.mos.cms.futurecdn.net/gkVR2zdXrgF9vHexAbv9XF-1280-80.jpg)
+
+- **[Editors’ picks: A clutch of great wines to try – April 2026](https://www.decanter.com/wine/editors-picks-a-clutch-of-great-wines-to-try-april-2026)**
+  See what our team has been trying recently......
+
+![Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://cdn.mos.cms.futurecdn.net/oeR9DrLDjwdrUwK6TeAM6C-1280-80.jpg)
+
+- **[Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://www.decanter.com/spirits/distilled-another-hendricks-gin-and-how-to-make-a-garden-cocktail)**
+  There's another side to Hendrick's......
+
+![Wine investment: Top-end Tuscan wines buck the trend](https://cdn.mos.cms.futurecdn.net/JEQs2ZYpnDJRuh4b6x4jBV-1280-80.jpg)
+
+- **[Wine investment: Top-end Tuscan wines buck the trend](https://www.decanter.com/wine-collecting/wine-investment-top-end-tuscan-wines-buck-the-trend)**
+  The Super Tuscans prove their worth......
+  *关键词: investment, trend*
+
+![Barcelona Wine Week: Trends and perspectives](https://cdn.mos.cms.futurecdn.net/wA27zsArnUWfW9iKNimK48-1280-80.png)
+
+- **[Barcelona Wine Week: Trends and perspectives](https://www.decanter.com/wine/wine-regions/barcelona-wine-week-trends-and-perspectives)**
+  The latest edition of Spain’s largest wine fair set the stage for some exciting tastings and discussions, allowing our S...
+  *关键词: trend*
 
 ### 📰 Wine-Searcher
 
@@ -88,30 +101,6 @@
 
 - **[Bottega goes for gold](https://www.thedrinksbusiness.com/2026/04/bottega-goes-for-gold/)**
   Bottega’s instantly recognisable bottles have created an aura of glamour for the brand, but the gold-standard also appli...
-
-### 📰 Decanter
-
-![Editors’ picks: A clutch of great wines to try – April 2026](https://cdn.mos.cms.futurecdn.net/gkVR2zdXrgF9vHexAbv9XF-1280-80.jpg)
-
-- **[Editors’ picks: A clutch of great wines to try – April 2026](https://www.decanter.com/wine/editors-picks-a-clutch-of-great-wines-to-try-april-2026)**
-  See what our team has been trying recently......
-
-![Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://cdn.mos.cms.futurecdn.net/oeR9DrLDjwdrUwK6TeAM6C-1280-80.jpg)
-
-- **[Distilled: 'Another Hendrick's' gin and how to make a Garden cocktail](https://www.decanter.com/spirits/distilled-another-hendricks-gin-and-how-to-make-a-garden-cocktail)**
-  There's another side to Hendrick's......
-
-![Wine investment: Top-end Tuscan wines buck the trend](https://cdn.mos.cms.futurecdn.net/JEQs2ZYpnDJRuh4b6x4jBV-1280-80.jpg)
-
-- **[Wine investment: Top-end Tuscan wines buck the trend](https://www.decanter.com/wine-collecting/wine-investment-top-end-tuscan-wines-buck-the-trend)**
-  The Super Tuscans prove their worth......
-  *关键词: investment, trend*
-
-![Barcelona Wine Week: Trends and perspectives](https://cdn.mos.cms.futurecdn.net/wA27zsArnUWfW9iKNimK48-1280-80.png)
-
-- **[Barcelona Wine Week: Trends and perspectives](https://www.decanter.com/wine/wine-regions/barcelona-wine-week-trends-and-perspectives)**
-  The latest edition of Spain’s largest wine fair set the stage for some exciting tastings and discussions, allowing our S...
-  *关键词: trend*
 
 
 ## 🌍 美洲
@@ -177,5 +166,5 @@ T...
 
 ---
 
-*报告生成时间: 2026-04-10 16:00*  
+*报告生成时间: 2026-04-11 03:00*  
 *Antonelli Intelligence System*
