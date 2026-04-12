@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-11  
-**来源**: 全球 1 个地区 · 3 个信源
+**日期**: 2026-04-12  
+**来源**: 全球 1 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 7 条
+- **新增资讯**: 3 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -38,19 +38,24 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Spanish Giant Torres Deals with Debt](https://www.wine-searcher.com/images/news-rss/99/14/9914614233169d84ef4_torres1.jpg)
+
+- **[Spanish Giant Torres Deals with Debt](https://www.wine-searcher.com/m/2026/04/spanish-giant-torres-deals-with-debt?rss=Y)**
+  The financial winds blowing through Spain's wine industry are cold, as big companies look to consolidate or sell....
+
 ### 📰 Decanter
+
+![Italian cooperation: A blueprint for wine's future](https://cdn.mos.cms.futurecdn.net/zMrNMZm5DHTAKdHKUwjtX7-1280-80.jpg)
+
+- **[Italian cooperation: A blueprint for wine's future](https://www.decanter.com/wine/wine-regions/italian-cooperation-a-blueprint-for-wines-future)**
+  Strength in unity......
 
 ![Back in form: The return of South Africa's Bordeaux blends](https://cdn.mos.cms.futurecdn.net/4umSap8Bz2EnZ93248PrHC-1280-80.jpg)
 
 - **[Back in form: The return of South Africa's Bordeaux blends](https://www.decanter.com/wine/wine-regions/back-in-form-the-return-of-south-africas-bordeaux-blends)**
   Return of a classic......
-
-### 📰 Wine-Searcher
-
-![The Most Wanted Bordeaux of 2026](https://www.wine-searcher.com/images/news-rss/99/14/9914814233369d6e019_Bordeauxmain_3_.jpg)
-
-- **[The Most Wanted Bordeaux of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-bordeaux-of-2026?rss=Y)**
-  When it comes to this year's most wanted Bordeaux, it's little more than a reshuffle....
 
 ### 📰 The Drinks Business
 
@@ -70,15 +75,7 @@
 - **[European drinks firms urge India to ease import duties amid supply fears](https://www.thedrinksbusiness.com/2026/04/european-drinks-firms-urge-india-to-ease-import-duties-amid-supply-fears/)**
   A European business lobby group has urged India to temporarily axe 10% of import duties on key packaging materials, warn...
 
-![Rory McIlroy racks up US$65,000 wine bill at Champions dinner](https://www.thedrinksbusiness.com/content/uploads/2026/04/Rory-cropped.jpg)
-
-- **[Rory McIlroy racks up US$65,000 wine bill at Champions dinner](https://www.thedrinksbusiness.com/2026/04/rory-mcilroy-racks-up-us65000-wine-bill-at-champions-dinner/)**
-  After winning The Masters golf tournament last year, Rory McIlroy this week staged his Champions Dinner in the US state ...
-
-![Bottega goes for gold](https://www.thedrinksbusiness.com/content/uploads/2026/04/Villa-Rosina_Bottega-headquarters.jpg)
-
-- **[Bottega goes for gold](https://www.thedrinksbusiness.com/2026/04/bottega-goes-for-gold/)**
-  Bottega’s instantly recognisable bottles have created an aura of glamour for the brand, but the gold-standard also appli...
+*📚 以上为近期内容*
 
 
 ## 🌍 美洲
@@ -143,5 +140,5 @@ The post Aaron ...
 
 ---
 
-*报告生成时间: 2026-04-11 16:00*  
+*报告生成时间: 2026-04-12 03:00*  
 *Antonelli Intelligence System*
