@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-12  
-**来源**: 全球 1 个地区 · 2 个信源
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 3 条
+- **新增资讯**: 5 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -40,6 +40,11 @@
 
 ### 📰 Wine-Searcher
 
+![En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/images/news-rss/99/17/9917414237669dc0071_maro1.jpg)
+
+- **[En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/m/2026/04/en-primeur-prices-will-be-competitive?rss=Y)**
+  Bordeaux's En Primeur campaign is getting into gear, and one insider thinks buyers will be pleasantly surprised with the...
+
 ![Spanish Giant Torres Deals with Debt](https://www.wine-searcher.com/images/news-rss/99/14/9914614233169d84ef4_torres1.jpg)
 
 - **[Spanish Giant Torres Deals with Debt](https://www.wine-searcher.com/m/2026/04/spanish-giant-torres-deals-with-debt?rss=Y)**
@@ -47,15 +52,15 @@
 
 ### 📰 Decanter
 
+![Andrew Jefford: France's wine appellations need reform](https://cdn.mos.cms.futurecdn.net/mF7ZZH2xLX4hKHtBnLHzaP-1280-80.jpg)
+
+- **[Andrew Jefford: France's wine appellations need reform](https://www.decanter.com/wine-news/jefford-on-monday/andrew-jefford-frances-wine-appellations-need-reform)**
+  Our award-winning columnist argues for bold changes to make France's wine appellations fit for purpose as winemakers fac...
+
 ![Italian cooperation: A blueprint for wine's future](https://cdn.mos.cms.futurecdn.net/zMrNMZm5DHTAKdHKUwjtX7-1280-80.jpg)
 
 - **[Italian cooperation: A blueprint for wine's future](https://www.decanter.com/wine/wine-regions/italian-cooperation-a-blueprint-for-wines-future)**
   Strength in unity......
-
-![Back in form: The return of South Africa's Bordeaux blends](https://cdn.mos.cms.futurecdn.net/4umSap8Bz2EnZ93248PrHC-1280-80.jpg)
-
-- **[Back in form: The return of South Africa's Bordeaux blends](https://www.decanter.com/wine/wine-regions/back-in-form-the-return-of-south-africas-bordeaux-blends)**
-  Return of a classic......
 
 ### 📰 The Drinks Business
 
@@ -82,17 +87,8 @@
 
 ### 📰 Brewbound
 
-- **[NIQ On-Premise Update: Festivals, Baseball & Mini Cocktails](https://www.brewbound.com/news/niq-on-premise-update-festivals-baseball-mini-cocktails)**
-  Coachella kicks off this weekend, with up to 125,000 people set to flock to Indio, California, each day to see Sabrina C...
-
-- **[Sazerac Bid for Brown-Forman May Face Antitrust and Strategic Hurdles](https://www.brewbound.com/news/sazerac-bid-for-brown-forman-may-face-antitrust-and-strategic-hurdles)**
-  Weeks after Brown-Forman and Pernod Ricard confirmed they are in merger talks, Sazerac has entered the chat – but analys...
-  *关键词: merger*
-
-- **[Vermont’s Baker Distributing Acquires Calmont, Leaving 2 Beer Distributors in the State](https://www.brewbound.com/news/vermonts-baker-distributing-acquires-calmont-leaving-2-beer-distributors-in-the-state)**
-  Molson Coors-aligned Baker Distributing acquired fellow Vermont blue/silver network house Calmont Beverage last month, a...
-
-*📚 以上为近期内容*
+- **[Insider’s Week in Beer: 🏅 Beer’s Least Prestigious Prize Goes To …](https://newsletter.bevnet.com/subscriber/e9e16018c3ab400f9f48361b5c728ef8)**
+  Let’s start with a thanks to the folks at on-prem POS software company TOAST for confirming items I often include in thi...
 
 ### 📰 The Spirits Business
 
@@ -140,5 +136,5 @@ The post Aaron ...
 
 ---
 
-*报告生成时间: 2026-04-12 03:00*  
+*报告生成时间: 2026-04-12 16:00*  
 *Antonelli Intelligence System*
