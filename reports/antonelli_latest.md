@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-13  
-**来源**: 全球 3 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 24 条
+- **新增资讯**: 53 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,11 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
+
+![Melbourne Royal Australian International Spirits Awards opens 2026 entries](https://theshout.com.au/wp-content/uploads/2026/04/Judging-Steward.jpg?w=780)
+
+- **[Melbourne Royal Australian International Spirits Awards opens 2026 entries](https://theshout.com.au/melbourne-royal-australian-international-spirits-awards-opens-2026-entries/)**
+  The awards have been opened up to international entries for the first team, as well as introducing a new Gin & Tonic cat...
 
 ![ICONIC TEXAS BREWERY OPENS FIRST AUSTRALIAN SITE IN BRENDALE](https://theshout.com.au/wp-content/uploads/2026/04/Alamo-Beer-Main-1.jpg?w=780)
 
@@ -39,42 +44,48 @@
 - **[Applications for 2026 Wine Industry Mentor Program extended](https://theshout.com.au/applications-open-for-2026-wine-industry-mentor-program/)**
   The six-month mentor program is designed to accelerate the growth of the Australian wine industry’s emerging professiona...
 
-![Australia’s 2026 hop harvest delivers a strong, quality yield](https://theshout.com.au/wp-content/uploads/2026/04/3-x-2-images-1.png?w=780)
-
-- **[Australia’s 2026 hop harvest delivers a strong, quality yield](https://theshout.com.au/australias-2026-hop-harvest-delivers-a-strong-quality-yield/)**
-  Early feedback from Hop Products Australia, Ryefield Hops and Hilltop Hops indicates a strong 2026 harvest, with high qu...
-
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Barolo 2022: the Surprise Package](https://www.wine-searcher.com/images/news-rss/99/18/9918414239669dd5414_baro1.jpg)
+
+- **[Barolo 2022: the Surprise Package](https://www.wine-searcher.com/m/2026/04/barolo-2022-the-surprise-package?rss=Y)**
+  The 2022 vintage in Barolo wasn't a classic, but the wines are surprisingly approachable and impressive....
+
+![En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/images/news-rss/99/17/9917414237669dc0071_maro1.jpg)
+
+- **[En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/m/2026/04/en-primeur-prices-will-be-competitive?rss=Y)**
+  Bordeaux's En Primeur campaign is getting into gear, and one insider thinks buyers will be pleasantly surprised with the...
+
 ### 📰 The Drinks Business
 
-![Wine List of the Week: DakaDaka](https://www.thedrinksbusiness.com/content/uploads/2026/04/Daka-Daka-HR-43-1-scaled.jpg)
+![Richard Caring sells majority stake in Ivy empire for £1.4bn](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-531008845-1280x853-1.jpg)
 
-- **[Wine List of the Week: DakaDaka](https://www.thedrinksbusiness.com/2026/04/wine-list-of-the-week-dakadaka/)**
-  On ever-changing Heddon Street, DakaDaka brings Georgian cooking and wine culture into Mayfair. Its “convincing in the g...
+- **[Richard Caring sells majority stake in Ivy empire for £1.4bn](https://www.thedrinksbusiness.com/2026/04/richard-caring-sells-majority-stake-in-ivy-empire-for-1-4bn/)**
+  Richard Caring has agreed to sell a controlling interest in his restaurant and private members’ club group to Abu Dhabi ...
 
-![Rhône Valley whites gain ground in UK as production and interest rise](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-540129612.jpg)
+![Wells & Co sees sales revenue increase to £66.2 million](https://www.thedrinksbusiness.com/content/uploads/2026/04/Wells-Co-Annual-Review-FY25-4-scaled.jpg)
 
-- **[Rhône Valley whites gain ground in UK as production and interest rise](https://www.thedrinksbusiness.com/2026/04/rhone-valley-whites-gain-ground-in-uk-as-production-and-interest-rise/)**
-  White wines from the Rhône Valley are carving out a stronger presence in the UK, with production levels and sustainabili...
+- **[Wells & Co sees sales revenue increase to £66.2 million](https://www.thedrinksbusiness.com/2026/04/wells-co-sees-sales-revenue-increase-to-66-2-million/)**
+  Bedfordshire-based beer and pub business Wells & Co has shown a year of steady progress, with its 2025 annual accounts r...
 
-![Last chance saloon: don’t miss out on entering the DB Awards](https://www.thedrinksbusiness.com/content/uploads/2026/04/Saloon2-scaled.jpg)
+![Louis Roederer enters talks for Burgundy estate](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1343520694.jpg)
 
-- **[Last chance saloon: don’t miss out on entering the DB Awards](https://www.thedrinksbusiness.com/2026/04/last-chance-saloon-dont-miss-out-on-entering-the-db-awards/)**
-  There's still time to enter The Drinks Business Awards 2026 and be in with a shot of being crowned 'best of' in a range ...
-  *关键词: launch, market*
+- **[Louis Roederer enters talks for Burgundy estate](https://www.thedrinksbusiness.com/2026/04/louis-roederer-enters-talks-for-burgundy-estate/)**
+  Champagne house Louis Roederer has begun exclusive negotiations to acquire Domaine Pierre Damoy in Gevrey Chambertin. Th...
 
-![Crealis unifies global operations in strategic overhaul](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1327882500-scaled.jpg)
+![Vinarchy UK hit with £8million packaging tax](https://www.thedrinksbusiness.com/content/uploads/2026/04/EPR-scaled.jpg)
 
-- **[Crealis unifies global operations in strategic overhaul](https://www.thedrinksbusiness.com/2026/04/crealis-unifies-global-operations-in-strategic-overhaul/)**
-  Leading closure company Crealis has announced a sweeping reorganisation as it seeks to adapt to changing global market c...
-  *关键词: market*
+- **[Vinarchy UK hit with £8million packaging tax](https://www.thedrinksbusiness.com/2026/04/vinarchy-uk-hit-with-8million-packaging-tax/)**
+  The UK arm of Vinarchy, the company formed when Accolade merged with Pernod Ricard Winemakers, would have turned a profi...
 
-![Cost of dating climbs, US consumers cut back](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1718783170.jpg)
+![Project Paradise: Inside Sula’s acquisition of Chandon India](https://www.thedrinksbusiness.com/content/uploads/2026/04/image0-6.webp)
 
-- **[Cost of dating climbs, US consumers cut back](https://www.thedrinksbusiness.com/2026/04/cost-of-dating-climbs-us-consumers-cut-back/)**
-  Dating is on the decline in the US as costs rise, according to a new study commissioned by Maison Louis Jadot, with cons...
+- **[Project Paradise: Inside Sula’s acquisition of Chandon India](https://www.thedrinksbusiness.com/2026/04/project-paradise-inside-sulas-acquisition-of-chandon-india/)**
+  In conversation with Nimmi Malhotra, Sula’s founder and CEO, Rajeev Samant, discusses what Sula's acquisition of Chandon...
+  *关键词: acquisition, acquisition*
 
 ### 📰 Decanter
 
@@ -83,69 +94,86 @@
 - **[Champagne Report: The two faces of the Montagne de Reims](https://www.decanter.com/wine/wine-regions/champagne-report-the-two-faces-of-the-montagne-de-reims)**
   This Champagne sub-region has many aspects......
 
-![Andrew Jefford: France's wine appellations need reform](https://cdn.mos.cms.futurecdn.net/mF7ZZH2xLX4hKHtBnLHzaP-1280-80.jpg)
-
-- **[Andrew Jefford: France's wine appellations need reform](https://www.decanter.com/wine-news/jefford-on-monday/andrew-jefford-frances-wine-appellations-need-reform)**
-  Our award-winning columnist argues for bold changes to make France's wine appellations fit for purpose as winemakers fac...
-
-### 📰 Wine-Searcher
-
-![En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/images/news-rss/99/17/9917414237669dc0071_maro1.jpg)
-
-- **[En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/m/2026/04/en-primeur-prices-will-be-competitive?rss=Y)**
-  Bordeaux's En Primeur campaign is getting into gear, and one insider thinks buyers will be pleasantly surprised with the...
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
+- **[‘$1 Out of Every $8 Spent on Craft Beer’ Going to New Belgium Brands, per CEO](https://www.brewbound.com/news/1-out-of-every-8-spent-on-craft-beer-going-to-new-belgium-brands-per-ceo)**
+  New Belgium Brewing’s portfolio is craft’s top share gainer through Q1, CEO Shaun Belongie shared recently. The Kirin-ow...
+
+- **[Mark Anthony Brands to Acquire Finnish Long Drink](https://www.brewbound.com/news/mark-anthony-brands-to-acquire-finnish-long-drink)**
+  Mark Anthony Brands announced it has struck a deal to acquire the Finnish Long Drink, the popular gin-based, ready-to-dr...
+
+- **[Circana Weekly Scans: Beer Down YoY in Early Easter Reads](https://www.brewbound.com/news/circana-weekly-scans-beer-down-yoy-in-early-easter-reads)**
+  Spirits and wine may have had a few more eggs in their baskets this Easter compared to beer’s holiday haul, according to...
+  *关键词: market*
+
 - **[Ardagh Wins $175.5M Verdict in Boston Beer Can Volume Dispute; Boston to Appeal](https://www.brewbound.com/news/ardagh-wins-175-5m-verdict-in-boston-beer-can-volume-dispute)**
   A jury entered a $175.5 million verdict in favor of Ardagh Metal Packaging USA against Boston Beer Company for allegedly...
 
-- **[Insider’s Week in Beer: 🏅 Beer’s Least Prestigious Prize Goes To …](https://newsletter.bevnet.com/subscriber/e9e16018c3ab400f9f48361b5c728ef8)**
-  Let’s start with a thanks to the folks at on-prem POS software company TOAST for confirming items I often include in thi...
-
 ### 📰 The Spirits Business
 
-![Tanglin creates gin for Great Eastern](https://www.thespiritsbusiness.com/content/uploads/2026/04/Tanglin-Gin-and-Great-Eastern-.jpg)
+![Armorik Chouchenn whisky given permanent spot](https://www.thespiritsbusiness.com/content/uploads/2026/04/Armorik-chouchenn-whisky.png)
 
-- **[Tanglin creates gin for Great Eastern](https://www.thespiritsbusiness.com/2026/04/tanglin-creates-gin-for-great-eastern/)**
-  Singapore's Tanglin Gin Distillery has created a custom gin for insurance company Great Eastern to mark its partnership ...
-  *关键词: partnership*
+- **[Armorik Chouchenn whisky given permanent spot](https://www.thespiritsbusiness.com/2026/04/armorik-chouchenn-whisky-given-permanent-spot/)**
+  French whisky brand Armorik has upgraded one of its limited edition expressions to its permanent portfolio
+The post Armo...
 
-![SEC sues Drake’s Organic Spirits founder in $2.4m fraud case](https://www.thespiritsbusiness.com/content/uploads/2026/04/Drakes-Organic-Spirits-Boxtails.jpg)
+![Richard Caring sells hospitality empire for £1.4bn](https://www.thespiritsbusiness.com/content/uploads/2026/04/Sexy-Fish-bar.jpg)
 
-- **[SEC sues Drake’s Organic Spirits founder in $2.4m fraud case](https://www.thespiritsbusiness.com/2026/04/sec-sues-drakes-organic-spirits-founder-in-2-4m-fraud-case/)**
-  The SEC has accused the founder of Drake’s Organic Spirits of using inflated sales figures to raise more than US$2.4 mil...
+- **[Richard Caring sells hospitality empire for £1.4bn](https://www.thespiritsbusiness.com/2026/04/richard-caring-sells-hospitality-empire-for-1-4bn/)**
+  Hospitality mogul Richard Caring has sold a majority stake of his bar and restaurant empire to Diafa for a reported £1.4...
 
-![Salvatore Calabrese guides new Donovan Bar menu](https://www.thespiritsbusiness.com/content/uploads/2026/04/Donovan-bar-Cocktail-Collection.jpg)
+![Strength in depth: Stock Spirits Group](https://www.thespiritsbusiness.com/content/uploads/2026/04/Stock-spirits-Zlodkawa-Peach.jpg)
 
-- **[Salvatore Calabrese guides new Donovan Bar menu](https://www.thespiritsbusiness.com/2026/04/salvatore-calabrese-guides-new-donovan-bar-menu/)**
-  The Donovan Bar at Brown’s Hotel in London has unveiled the latest chapter of its Our Way menu, which is led by a revere...
+- **[Strength in depth: Stock Spirits Group](https://www.thespiritsbusiness.com/2026/04/strength-in-depth-stock-spirits-group/)**
+  Innovation is opening new doors for Stock Spirits as the group targets vodka expansion
+The post Strength in depth: Stock...
+  *关键词: expansion*
+
+![Hunter Laing founder dies](https://www.thespiritsbusiness.com/content/uploads/2026/04/Stewart-Hunter-Laing-.jpg)
+
+- **[Hunter Laing founder dies](https://www.thespiritsbusiness.com/2026/04/hunter-laing-founder-dies/)**
+  Stewart Hunter Laing, founder of Scotch whisky company Hunter Laing & Co, has died at the age of 79
+The post Hunter Lain...
+
+![The SB Podcast: why distribution needs a shake-up](https://www.thespiritsbusiness.com/content/uploads/2026/04/SB-Podcast-Tipple.jpg)
+
+- **[The SB Podcast: why distribution needs a shake-up](https://www.thespiritsbusiness.com/2026/04/the-sb-podcast-why-distribution-needs-a-shake-up/)**
+  Eoin Bara, CEO of Tipple, talks about how, and why, he believes brands should think about distribution differently
+The p...
+  *关键词: distribution*
 
 ### 📰 Wine Enthusiast
 
-![An Industry in Crisis? Luxury Wine Can’t Relate](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_1945-Domaine-de-la-Romanee-Conti_INSET_Acker_1500x2000.jpg)
+![Mother’s Day Gifts for Wine Lovers](https://res.cloudinary.com/htt8g4cd/image/upload/w_1920,c_scale,f_auto,q_auto/wp/mothersday_1920x660_position2)
 
-- **[An Industry in Crisis? Luxury Wine Can’t Relate](https://www.wineenthusiast.com/culture/industry-news/luxury-wine-market-thrives/)**
-  Last week, at Acker’s annual La Paulée Auction, a world record was smashed. A single 750mL bottle of 1945 Domaine de la ...
-  *关键词: market*
+- **[Mother’s Day Gifts for Wine Lovers](https://www.wineenthusiast.com/shop/wine-gifts/mothers-day-gifts/)**
+  Inspired Celebrations Read on to discover everything from stellar ideas for Mom’s big day to powerhouse mother-daughter ...
 
-![3 Things We Learned About the Global Wine Industry at ProWein 2026](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_ProWein26_INSET_1_Messe_Dusseldorf_Tillmann_1920x1280.jpg)
+![Self-Care Gifts](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_mothersday_lazysusan)
 
-- **[3 Things We Learned About the Global Wine Industry at ProWein 2026](https://www.wineenthusiast.com/culture/industry-news/prowein-trade-fair-germany-2026/)**
-  Many recent headlines about the wine industry haven’t been so rosy, but the energy in Düsseldorf told a different story—...
+- **[Self-Care Gifts](https://www.wineenthusiast.com/shop/wine-gifts/mothers-day-gifts/self-care-gifts/)**
+  The post Self-Care Gifts appeared first on Wine Enthusiast....
 
-![What’s Next for the Wine Importer Who Took Down the Trump Tariffs at the Supreme Court?](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
+![Gifts for the Somm Mom](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_mothersday_pure)
 
-- **[What’s Next for the Wine Importer Who Took Down the Trump Tariffs at the Supreme Court?](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/victor-schwartz-supreme-court/)**
-  Amazon or Walmart didn't defeat the tariffs—it was Victor Schwartz, the small New York-based wine importer who founded V...
+- **[Gifts for the Somm Mom](https://www.wineenthusiast.com/shop/wine-gifts/mothers-day-gifts/gifts-for-the-somm-mom/)**
+  The post Gifts for the Somm Mom appeared first on Wine Enthusiast....
 
-*📚 以上为近期内容*
+![Outdoor Entertaining Essentials](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_springrefresh_16)
+
+- **[Outdoor Entertaining Essentials](https://www.wineenthusiast.com/shop/wine-gifts/mothers-day-gifts/outdoor-entertaining-essentials/)**
+  The post Outdoor Entertaining Essentials appeared first on Wine Enthusiast....
+
+![Gifts for Wine Storage](https://res.cloudinary.com/htt8g4cd/image/upload/w_1000,h_643,c_lfill,g_center,f_auto,q_auto/wp/1920x1280_mothersday_caldas)
+
+- **[Gifts for Wine Storage](https://www.wineenthusiast.com/shop/wine-gifts/mothers-day-gifts/gifts-for-wine-storage/)**
+  The post Gifts for Wine Storage appeared first on Wine Enthusiast....
 
 
 ---
 
-*报告生成时间: 2026-04-13 03:00*  
+*报告生成时间: 2026-04-13 16:00*  
 *Antonelli Intelligence System*
