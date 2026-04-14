@@ -1,19 +1,24 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-13  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-04-14  
+**来源**: 全球 3 个地区 · 8 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 53 条
+- **新增资讯**: 57 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
 ## 🌍 亚洲
+
+### 📰 Nomunication
+
+- **[You can now look for the JSLMA Japanese Whisky logo on your bottles](https://www.nomunication.jp/2026/04/14/you-can-now-look-for-the-jslma-japanese-whisky-logo-on-your-bottles/)**
+  A year ago we reported on the Japan Spirits &#38; Liqueurs Makers Association&#8217;s (JSLMA) three-pronged plan to codi...
 
 ### 📰 The Shout
 
@@ -22,30 +27,49 @@
 - **[Melbourne Royal Australian International Spirits Awards opens 2026 entries](https://theshout.com.au/melbourne-royal-australian-international-spirits-awards-opens-2026-entries/)**
   The awards have been opened up to international entries for the first team, as well as introducing a new Gin & Tonic cat...
 
-![ICONIC TEXAS BREWERY OPENS FIRST AUSTRALIAN SITE IN BRENDALE](https://theshout.com.au/wp-content/uploads/2026/04/Alamo-Beer-Main-1.jpg?w=780)
-
-- **[ICONIC TEXAS BREWERY OPENS FIRST AUSTRALIAN SITE IN BRENDALE](https://theshout.com.au/iconic-texas-brewery-opens-first-australian-site-in-brendale/)**
-  Australian-owned private equity firm SKJ Capital recently announced its acquisition [&hellip;]...
-  *关键词: acquisition, acquisition*
-
-![Voodoo Ranger puts a twist on two classic serves](https://theshout.com.au/wp-content/uploads/2026/04/Voodoo-Ranger-Hard-Cola-and-Hard-Lemonade.png?w=780)
-
-- **[Voodoo Ranger puts a twist on two classic serves](https://theshout.com.au/voodoo-ranger/)**
-  The brand is launching its first vodka based RTDs in Hard Cola and Hard Lemonade flavours....
-  *关键词: launch*
-
-![Alepat Taylor appointed Victorian distributor for Gibson Wines](https://theshout.com.au/wp-content/uploads/2026/04/AlepatTaylorGibsonWines.jpg?w=780)
-
-- **[Alepat Taylor appointed Victorian distributor for Gibson Wines](https://theshout.com.au/alepat-taylor-appointed-victorian-distributor-for-gibson-wines/)**
-  Alepat Taylor has strengthened its Barossa portfolio in Victoria by becoming the distributor for Gibson Wines in the sta...
-
-![Applications for 2026 Wine Industry Mentor Program extended](https://theshout.com.au/wp-content/uploads/2026/03/Mentor-Program_landscape_open.jpg?w=780)
-
-- **[Applications for 2026 Wine Industry Mentor Program extended](https://theshout.com.au/applications-open-for-2026-wine-industry-mentor-program/)**
-  The six-month mentor program is designed to accelerate the growth of the Australian wine industry’s emerging professiona...
-
 
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![People will drink in local brewery taprooms if pubs keep ignoring independent beer](https://www.thedrinksbusiness.com/content/uploads/2026/04/Taproom-beer-pour-scaled.jpg)
+
+- **[People will drink in local brewery taprooms if pubs keep ignoring independent beer](https://www.thedrinksbusiness.com/2026/04/people-will-drink-in-local-brewery-taprooms-if-pubs-keep-ignoring-independent-beer/)**
+  Despite growing consumer demand for independent beer, gaining space in pubs remains restricted. Now, breweries are now s...
+  *关键词: market*
+
+![Why Molson Coors’ launch of Madrí Excepcional Limón is so well-timed](https://www.thedrinksbusiness.com/content/uploads/2026/04/Madri-Excepcional-Limon-4x440ml-cans-angle-scaled.png)
+
+- **[Why Molson Coors’ launch of Madrí Excepcional Limón is so well-timed](https://www.thedrinksbusiness.com/2026/04/why-molson-coors-launch-of-madri-excepcional-limon-is-so-well-timed/)**
+  Molson Coors has leapt on the growing fruit beer trend with the launch of its new flavoured lager Madrí Excepcional Limó...
+  *关键词: launch, trend*
+
+![JGC: ‘We want to be be one of Spain’s forward-looking groups’](https://www.thedrinksbusiness.com/content/uploads/2026/04/FRONTAL-BODEGA-ARNAIZ-scaled.jpg)
+
+- **[JGC: ‘We want to be be one of Spain’s forward-looking groups’](https://www.thedrinksbusiness.com/2026/04/jgc-we-want-to-be-be-one-of-spains-forward-looking-groups/)**
+  J García Carrión’s transformation into a Spanish wine colossus is the result of a multi-stranded strategy – and, with pl...
+
+![Study links breathalyser apps to shifts in drinking habits](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2199471016.jpg)
+
+- **[Study links breathalyser apps to shifts in drinking habits](https://www.thedrinksbusiness.com/2026/04/study-links-breathalyser-apps-to-shifts-in-drinking-habits/)**
+  New research suggests that repeated use of mobile breathalysers is associated with changes in how people drink and asses...
+
+![Extended pub hours approved for World Cup matches](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1412528138.jpg)
+
+- **[Extended pub hours approved for World Cup matches](https://www.thedrinksbusiness.com/2026/04/extended-pub-hours-approved-for-world-cup-matches/)**
+  Pubs in England and Wales will be permitted to trade later during key World Cup knockout matches this summer. The move f...
+
+### 📰 Decanter
+
+![The top wines to try on Tannat Day this year](https://cdn.mos.cms.futurecdn.net/uDRezN2mEQHr4a9kZiqLAK-1280-80.jpg)
+
+- **[The top wines to try on Tannat Day this year](https://www.decanter.com/wine/the-top-wines-to-try-on-tannat-day-this-year)**
+  Celebrate World Tannat Day with award-winning wines from DWWA......
+
+![Château la Borie: The wizard of Suze](https://cdn.mos.cms.futurecdn.net/giUefTBcT8CZpuCgZfzvm4-1280-80.png)
+
+- **[Château la Borie: The wizard of Suze](https://www.decanter.com/wine/rhone-valley/chateau-la-borie-the-wizard-of-suze)**
+  Who is behind this spectacular transformation?...
 
 ### 📰 Wine-Searcher
 
@@ -54,48 +78,38 @@
 - **[Barolo 2022: the Surprise Package](https://www.wine-searcher.com/m/2026/04/barolo-2022-the-surprise-package?rss=Y)**
   The 2022 vintage in Barolo wasn't a classic, but the wines are surprisingly approachable and impressive....
 
-![En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/images/news-rss/99/17/9917414237669dc0071_maro1.jpg)
-
-- **[En Primeur Prices will be "Competitive"](https://www.wine-searcher.com/m/2026/04/en-primeur-prices-will-be-competitive?rss=Y)**
-  Bordeaux's En Primeur campaign is getting into gear, and one insider thinks buyers will be pleasantly surprised with the...
-
-### 📰 The Drinks Business
-
-![Richard Caring sells majority stake in Ivy empire for £1.4bn](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-531008845-1280x853-1.jpg)
-
-- **[Richard Caring sells majority stake in Ivy empire for £1.4bn](https://www.thedrinksbusiness.com/2026/04/richard-caring-sells-majority-stake-in-ivy-empire-for-1-4bn/)**
-  Richard Caring has agreed to sell a controlling interest in his restaurant and private members’ club group to Abu Dhabi ...
-
-![Wells & Co sees sales revenue increase to £66.2 million](https://www.thedrinksbusiness.com/content/uploads/2026/04/Wells-Co-Annual-Review-FY25-4-scaled.jpg)
-
-- **[Wells & Co sees sales revenue increase to £66.2 million](https://www.thedrinksbusiness.com/2026/04/wells-co-sees-sales-revenue-increase-to-66-2-million/)**
-  Bedfordshire-based beer and pub business Wells & Co has shown a year of steady progress, with its 2025 annual accounts r...
-
-![Louis Roederer enters talks for Burgundy estate](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1343520694.jpg)
-
-- **[Louis Roederer enters talks for Burgundy estate](https://www.thedrinksbusiness.com/2026/04/louis-roederer-enters-talks-for-burgundy-estate/)**
-  Champagne house Louis Roederer has begun exclusive negotiations to acquire Domaine Pierre Damoy in Gevrey Chambertin. Th...
-
-![Vinarchy UK hit with £8million packaging tax](https://www.thedrinksbusiness.com/content/uploads/2026/04/EPR-scaled.jpg)
-
-- **[Vinarchy UK hit with £8million packaging tax](https://www.thedrinksbusiness.com/2026/04/vinarchy-uk-hit-with-8million-packaging-tax/)**
-  The UK arm of Vinarchy, the company formed when Accolade merged with Pernod Ricard Winemakers, would have turned a profi...
-
-![Project Paradise: Inside Sula’s acquisition of Chandon India](https://www.thedrinksbusiness.com/content/uploads/2026/04/image0-6.webp)
-
-- **[Project Paradise: Inside Sula’s acquisition of Chandon India](https://www.thedrinksbusiness.com/2026/04/project-paradise-inside-sulas-acquisition-of-chandon-india/)**
-  In conversation with Nimmi Malhotra, Sula’s founder and CEO, Rajeev Samant, discusses what Sula's acquisition of Chandon...
-  *关键词: acquisition, acquisition*
-
-### 📰 Decanter
-
-![Champagne Report: The two faces of the Montagne de Reims](https://cdn.mos.cms.futurecdn.net/jR44aKtheFeVKmZXLMPXub-1280-80.jpg)
-
-- **[Champagne Report: The two faces of the Montagne de Reims](https://www.decanter.com/wine/wine-regions/champagne-report-the-two-faces-of-the-montagne-de-reims)**
-  This Champagne sub-region has many aspects......
-
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Deadline nears for The Pre-Mixed, RTD & Hard Seltzer Masters](https://www.thespiritsbusiness.com/content/uploads/2026/02/Spirits-RTD-cocktails.jpg)
+
+- **[Deadline nears for The Pre-Mixed, RTD & Hard Seltzer Masters](https://www.thespiritsbusiness.com/2026/04/deadline-nears-for-the-pre-mixed-rtd-hard-seltzer-masters/)**
+  Canned, bottled, boxed or bagged – The Global Spirits Masters Competitions is looking for the best ready-to-drink brands...
+
+![SB meets… Paolo Dalla Mora, Liquid Ventures](https://www.thespiritsbusiness.com/content/uploads/2026/04/Paolo-Dalla-Mora-Liquid-Ventures-.jpg)
+
+- **[SB meets… Paolo Dalla Mora, Liquid Ventures](https://www.thespiritsbusiness.com/2026/04/sb-meets-paolo-dalla-mora-liquid-ventures/)**
+  As Europe’s first venture builder focused on the no-and-low category launches, we chat to its founder and CEO about his ...
+  *关键词: launch*
+
+![Disaronno celebrates ‘Dolce Side of Life’](https://www.thespiritsbusiness.com/content/uploads/2026/04/Disaronno-Dolce-Side-of-Life.jpg)
+
+- **[Disaronno celebrates ‘Dolce Side of Life’](https://www.thespiritsbusiness.com/2026/04/disaronno-celebrates-dolce-side-of-life/)**
+  Italian drinks firm Illva Saronno has launched its Dolce Side of Life campaign ahead of National Amaretto Day this Sunda...
+  *关键词: launch*
+
+![Industria Licorera de Caldas certified carbon-neutral](https://www.thespiritsbusiness.com/content/uploads/2026/04/ILC-Rum.jpg)
+
+- **[Industria Licorera de Caldas certified carbon-neutral](https://www.thespiritsbusiness.com/2026/04/industria-licorera-de-caldas-certified-carbon-neutral/)**
+  Spirits company Industria Licorera de Caldas is the first Colombian firm to gain a carbon-neutral certification for its ...
+
+![Armorik Chouchenn whisky given permanent spot](https://www.thespiritsbusiness.com/content/uploads/2026/04/Armorik-chouchenn-whisky.png)
+
+- **[Armorik Chouchenn whisky given permanent spot](https://www.thespiritsbusiness.com/2026/04/armorik-chouchenn-whisky-given-permanent-spot/)**
+  French whisky brand Armorik has upgraded one of its limited edition expressions to its permanent portfolio
+The post Armo...
 
 ### 📰 Brewbound
 
@@ -108,42 +122,6 @@
 - **[Circana Weekly Scans: Beer Down YoY in Early Easter Reads](https://www.brewbound.com/news/circana-weekly-scans-beer-down-yoy-in-early-easter-reads)**
   Spirits and wine may have had a few more eggs in their baskets this Easter compared to beer’s holiday haul, according to...
   *关键词: market*
-
-- **[Ardagh Wins $175.5M Verdict in Boston Beer Can Volume Dispute; Boston to Appeal](https://www.brewbound.com/news/ardagh-wins-175-5m-verdict-in-boston-beer-can-volume-dispute)**
-  A jury entered a $175.5 million verdict in favor of Ardagh Metal Packaging USA against Boston Beer Company for allegedly...
-
-### 📰 The Spirits Business
-
-![Armorik Chouchenn whisky given permanent spot](https://www.thespiritsbusiness.com/content/uploads/2026/04/Armorik-chouchenn-whisky.png)
-
-- **[Armorik Chouchenn whisky given permanent spot](https://www.thespiritsbusiness.com/2026/04/armorik-chouchenn-whisky-given-permanent-spot/)**
-  French whisky brand Armorik has upgraded one of its limited edition expressions to its permanent portfolio
-The post Armo...
-
-![Richard Caring sells hospitality empire for £1.4bn](https://www.thespiritsbusiness.com/content/uploads/2026/04/Sexy-Fish-bar.jpg)
-
-- **[Richard Caring sells hospitality empire for £1.4bn](https://www.thespiritsbusiness.com/2026/04/richard-caring-sells-hospitality-empire-for-1-4bn/)**
-  Hospitality mogul Richard Caring has sold a majority stake of his bar and restaurant empire to Diafa for a reported £1.4...
-
-![Strength in depth: Stock Spirits Group](https://www.thespiritsbusiness.com/content/uploads/2026/04/Stock-spirits-Zlodkawa-Peach.jpg)
-
-- **[Strength in depth: Stock Spirits Group](https://www.thespiritsbusiness.com/2026/04/strength-in-depth-stock-spirits-group/)**
-  Innovation is opening new doors for Stock Spirits as the group targets vodka expansion
-The post Strength in depth: Stock...
-  *关键词: expansion*
-
-![Hunter Laing founder dies](https://www.thespiritsbusiness.com/content/uploads/2026/04/Stewart-Hunter-Laing-.jpg)
-
-- **[Hunter Laing founder dies](https://www.thespiritsbusiness.com/2026/04/hunter-laing-founder-dies/)**
-  Stewart Hunter Laing, founder of Scotch whisky company Hunter Laing & Co, has died at the age of 79
-The post Hunter Lain...
-
-![The SB Podcast: why distribution needs a shake-up](https://www.thespiritsbusiness.com/content/uploads/2026/04/SB-Podcast-Tipple.jpg)
-
-- **[The SB Podcast: why distribution needs a shake-up](https://www.thespiritsbusiness.com/2026/04/the-sb-podcast-why-distribution-needs-a-shake-up/)**
-  Eoin Bara, CEO of Tipple, talks about how, and why, he believes brands should think about distribution differently
-The p...
-  *关键词: distribution*
 
 ### 📰 Wine Enthusiast
 
@@ -175,5 +153,5 @@ The p...
 
 ---
 
-*报告生成时间: 2026-04-13 16:00*  
+*报告生成时间: 2026-04-14 03:00*  
 *Antonelli Intelligence System*
