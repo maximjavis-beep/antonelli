@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 43 条
+- **新增资讯**: 37 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -23,11 +23,6 @@
   LARK Distilling Co. &#8211; Australia&#8217;s No.1 Luxury Single Malt &#8211; [&hellip;]...
   *关键词: launch*
 
-![Wednesday Women: Kylie Ind shares the realities of regional brewing](https://theshout.com.au/wp-content/uploads/2026/03/Kylie-and-Chris-Ind-1.jpg?w=780)
-
-- **[Wednesday Women: Kylie Ind shares the realities of regional brewing](https://theshout.com.au/wednesday-women-kylie-ind-shares-the-realities-of-regional-brewing/)**
-  Woolstore Brewery's head brewer has stepped up to the IBA Board, bringing a regional perspective and giving small-scale ...
-
 ### 📰 Nomunication
 
 - **[You can now look for the JSLMA Japanese Whisky logo on your bottles](https://www.nomunication.jp/2026/04/14/you-can-now-look-for-the-jslma-japanese-whisky-logo-on-your-bottles/)**
@@ -40,6 +35,16 @@
 
 ### 📰 Wine-Searcher
 
+![Napa Considers a Post-Cabernet Future](https://www.wine-searcher.com/images/news-rss/99/20/9920514242269ded5a0_nocab1.jpg)
+
+- **[Napa Considers a Post-Cabernet Future](https://www.wine-searcher.com/m/2026/04/napa-considers-a-post-cabernet-future?rss=Y)**
+  Napa and Cabernet go hand in hand, but even hardened wine veterans are asking how much longer can it last?...
+
+![Keep Up with En Primeur on Wine-Searcher](https://www.wine-searcher.com/images/news-rss/99/20/9920614242469defd53_Redmain.jpg)
+
+- **[Keep Up with En Primeur on Wine-Searcher](https://www.wine-searcher.com/m/2026/04/keep-up-with-en-primeur-on-wine-searcher?rss=Y)**
+  Make sure you don't miss anything from En Primeur with our guide to getting the best from your favorite wine site....
+
 ![The Most Wanted Champagnes of 2026](https://www.wine-searcher.com/images/news-rss/99/19/9919014240369deaa10_ChampMain_1_.jpg)
 
 - **[The Most Wanted Champagnes of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-champagnes-of-2026?rss=Y)**
@@ -47,31 +52,32 @@
 
 ### 📰 The Drinks Business
 
-![Scotch Whisky Association appoints Ian Duddy as international director](https://www.thedrinksbusiness.com/content/uploads/2026/04/SWA-appoints-Ian-Duddy-as-international-director-scaled.jpeg)
+![Bordeaux’s price performance and the scale of the task ahead](https://www.thedrinksbusiness.com/content/uploads/2023/05/iStock-1392724949-scaled.jpg)
 
-- **[Scotch Whisky Association appoints Ian Duddy as international director](https://www.thedrinksbusiness.com/2026/04/scotch-whisky-association-appoints-ian-duddy-as-international-director/)**
-  The Scotch Whisky Association (SWA) has hired Ian Duddy as its new international director who is set to bring more than ...
+- **[Bordeaux’s price performance and the scale of the task ahead](https://www.thedrinksbusiness.com/2026/04/bordeauxs-price-performance-and-the-scale-of-the-task-ahead/)**
+  The 10th annual study of the region from Wine Lister portrays a mixed picture on the eve of the 2025 primeurs, with trad...
 
-![LCB powers DTC success for drinks brands](https://www.thedrinksbusiness.com/content/uploads/2026/04/LCB-1.jpg)
+![WineGB appoints head of partnerships to drive growth](https://www.thedrinksbusiness.com/content/uploads/2026/04/Untitled-design-67.png)
 
-- **[LCB powers DTC success for drinks brands](https://www.thedrinksbusiness.com/2026/04/lcb-powers-dtc-success-for-drinks-brands/)**
-  London City Bond offers reliable, scalable fulfilment services for beverage brands aiming to succeed with DTC e-commerce...
+- **[WineGB appoints head of partnerships to drive growth](https://www.thedrinksbusiness.com/2026/04/winegb-appoints-head-of-partnerships-to-drive-growth/)**
+  Industry body WineGB has expanded its leadership team as the English and Welsh wine sector accelerates. Nicola Bates, CE...
+  *关键词: partnership*
 
-![Italy minister vows to invest in Sicily’s wine tourism](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1458895614-scaled.jpg)
+![Field blends make a comeback, but this time as the protagonist](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2228522553-scaled.jpg)
 
-- **[Italy minister vows to invest in Sicily’s wine tourism](https://www.thedrinksbusiness.com/2026/04/italy-minister-vows-to-invest-in-sicilys-wine-tourism/)**
-  Italy's Deputy Prime Minister, Matteo Salvini, revealed at Vinitaly that Sicily's wine tourism will be "increasingly sup...
+- **[Field blends make a comeback, but this time as the protagonist](https://www.thedrinksbusiness.com/2026/04/field-blends-get-radical-image-change/)**
+  The story is being rewritten for field blend wines, according to one Chilean winemaker, who insists that "value does not...
 
-![Vinitaly becomes stage for Meloni’s defence of Pope Leo after Trump criticism](https://www.thedrinksbusiness.com/content/uploads/2026/04/Giorgia_Meloni_Official_2023.jpg)
+![Why wine lovers should note Malbec’s location and altitude](https://www.thedrinksbusiness.com/content/uploads/2026/04/Lucas-in-the-vineyard-scaled.jpg)
 
-- **[Vinitaly becomes stage for Meloni’s defence of Pope Leo after Trump criticism](https://www.thedrinksbusiness.com/2026/04/vinitaly-becomes-stage-for-melonis-defence-of-pope-leo-after-trump-criticism/)**
-  The 58th edition of Vinitaly in Verona provided the backdrop for remarks by Italian Prime Minister Giorgia Meloni, who o...
+- **[Why wine lovers should note Malbec’s location and altitude](https://www.thedrinksbusiness.com/2026/04/why-wine-lovers-should-note-malbecs-location-and-altitude/)**
+  Malbec has evolved from being considered a one-dimensional, fruit-forward style to a terroir wine. Terrazas de Los Andes...
 
-![Lidl starts building first ever pub](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1402911905-1536x1026-1.jpg)
+![Maharaja Drinks launches Indian Heritage Spirits collection](https://www.thedrinksbusiness.com/content/uploads/2026/04/MD-HeritageExotica-Web-162.jpg)
 
-- **[Lidl starts building first ever pub](https://www.thedrinksbusiness.com/2026/04/lidl-starts-building-first-ever-pub/)**
-  Discount supermarket chain Lidl has begun to build its first ever boozer in east Belfast – a year after winning a long-r...
-  *关键词: market*
+- **[Maharaja Drinks launches Indian Heritage Spirits collection](https://www.thedrinksbusiness.com/2026/04/maharaja-drinks-launches-indian-heritage-spirits-collection/)**
+  Maharaja Drinks, the UK-based retailer of exclusively Indian wines, spirits and beers, has announced the launch of its n...
+  *关键词: launch*
 
 ### 📰 Decanter
 
@@ -80,92 +86,68 @@
 - **[Planning an overnight trip in Champagne? Here’s how to do it in style](https://www.decanter.com/wine/wine-regions/planning-an-overnight-trip-in-champagne-heres-how-to-do-it-in-style)**
   Get to the heart of Champagne with these expert-recommended itineraries......
 
-![Salon’s Cristian Rimoldi: ‘Champagne is one of the easiest wines to pair with food’](https://cdn.mos.cms.futurecdn.net/x9EZz5pfSQ4FNuKvWUcSsj-1280-80.jpg)
-
-- **[Salon’s Cristian Rimoldi: ‘Champagne is one of the easiest wines to pair with food’](https://www.decanter.com/wine-news/salons-cristian-rimoldi-champagne-is-one-of-the-easiest-wines-to-pair-with-food)**
-  A chat with Champagne Salon and Delamotte's Cristian Rimoldi......
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Inside Denver’s ‘cheeky’ new bar, Peach Crease Club](https://www.thespiritsbusiness.com/content/uploads/2026/04/Peach-Crease-Club.jpg)
-
-- **[Inside Denver’s ‘cheeky’ new bar, Peach Crease Club](https://www.thespiritsbusiness.com/2026/04/inside-denvers-cheeky-new-bar-peach-crease-club/)**
-  Denver’s Peach Crease Club was born from home entertaining during Covid-19 lockdowns and has now gained a permanent foot...
-
-![Altos Tequila rolls out redesign in UK following US debut](https://www.thespiritsbusiness.com/content/uploads/2026/04/Altos-Tequila-new-bottle-design-1.jpg)
-
-- **[Altos Tequila rolls out redesign in UK following US debut](https://www.thespiritsbusiness.com/2026/04/altos-tequila-rolls-out-redesign-in-uk-following-us-debut/)**
-  Following its debut in the US last year, Altos Tequila is now bringing its Mexican street-signage-inspired design to the...
-  *关键词: market*
-
-![Botivo collaboration taps into female sensuality](https://www.thespiritsbusiness.com/content/uploads/2026/04/Botivo-x-Coco-de-Mer-1.jpg)
-
-- **[Botivo collaboration taps into female sensuality](https://www.thespiritsbusiness.com/2026/04/botivo-collaboration-taps-into-female-sensuality/)**
-  British apéritif Botivo has joined forces with luxury pleasure brand Coco de Mer to create a limited edition aphrodisiac...
-
-![Master of Malt brings ’90s football nostalgia to range](https://www.thespiritsbusiness.com/content/uploads/2026/04/Master-of-Malt-football-series.jpg)
-
-- **[Master of Malt brings ’90s football nostalgia to range](https://www.thespiritsbusiness.com/2026/04/master-of-malt-brings-90s-football-nostalgia-to-range/)**
-  In anticipation of the Fifa World Cup, Master of Malt has debuted a label-led whisky range inspired by the ‘iconic era’ ...
-
-![Casa Redondo expands Belux partnership](https://www.thespiritsbusiness.com/content/uploads/2026/03/Sheridans.jpg)
-
-- **[Casa Redondo expands Belux partnership](https://www.thespiritsbusiness.com/2026/04/casa-redondo-expands-belux-partnership/)**
-  Portuguese spirits company Casa Redondo has appointed Alcobrands as the exclusive distributor of Sheridan's in Belgium a...
-  *关键词: partnership*
-
 ### 📰 Brewbound
 
-- **[Circana Q1 Highlights: Domestic Super Premium Led Share Gains; Molson Coors Sheds Most Among Top Vendors](https://www.brewbound.com/news/circana-q1-highlights-domestic-super-premium-led-share-gains-molson-coors-sheds-most-among-top-vendors)**
-  Nearly every beer segment recorded year-over-year (YoY) dollar sales growth in Q1, as 2026 continues to produce improved...
-  *关键词: market, trend*
+- **[BeerBoard March Madness Week 3: Michelob Ultra Unseats Corona Extra as Top Packaged Offering On-Premise](https://www.brewbound.com/news/beerboard-march-madness-week-3-michelob-ultra-unseats-corona-extra-as-top-packaged-offering-on-premise)**
+  An upset happened off the court during the final weekend of the NCAA basketball tournament. Anheuser-Busch InBev’s (A-B)...
 
-- **[Brooklyn Brewery Rebrands Non-Alcoholic Beer Line](https://www.brewbound.com/news/brooklyn-brewery-rebrands-non-alcoholic-beer-line)**
-  Brooklyn Brewery’s non-alcoholic beer line is getting a rebrand and dropping the Special Effects moniker used since the ...
+- **[BA Economist: 2026 Could Be a ‘Buying the Dip’ Moment for New Brewers](https://www.brewbound.com/news/ba-economist-2026-could-be-a-buying-the-dip-moment-for-new-brewers)**
+  Over the last two years, 1,072 craft breweries have shuttered, while 817 new breweries opened. Speaking to Brewbound fol...
+
+- **[Press Clips: New Constellation CEO’s Investment Commitment, 7-Eleven to Close 654 Stores, The Return of Bapple & More](https://www.brewbound.com/news/press-clips-new-constellation-ceos-investment-commitment-7-eleven-to-close-654-stores-the-return-of-bapple-more)**
+  Check out these news items, initially reported in the Brewbound Insider Newsletter April 13-15, including headlines from...
+  *关键词: investment*
+
+- **[NIQ Weekly Scans: Easter Boosts Bev-Alc Sales +6.8% WoW; Wine Benefits Most From Holiday](https://www.brewbound.com/news/niq-weekly-scans-easter-boosts-bev-alc-sales-6-8-wow-wine-benefits-most-from-holiday)**
+  Total bev-alc dollar sales accelerated 6.8% week-over-week (WoW) in off-premise channels in the first week of April as c...
+
+- **[BevNET Live NYC 2026 Early Registration Ends Next Week](https://www.brewbound.com/news/events/top-features/bevnet-live-nyc-2026-early-registration-ends-next-week/)**
+  Early registration pricing for BevNET Live NYC 2026 expires on Friday, April 24. The event takes place June 10–11 at the...
+
+### 📰 The Spirits Business
+
+![Casa Azul Spirits names Paul Stacey president](https://www.thespiritsbusiness.com/content/uploads/2026/04/Paul-Stacey-Casa-Azul.jpg)
+
+- **[Casa Azul Spirits names Paul Stacey president](https://www.thespiritsbusiness.com/2026/04/casa-azul-spirits-names-paul-stacey-president/)**
+  Tequila maker Casa Azul Spirits has appointed chief financial officer Paul Stacey as its first president
+The post Casa A...
+
+![Loch Lomond unveils 2026 Open whiskies](https://www.thespiritsbusiness.com/content/uploads/2026/04/Loch-Lomond-2.jpg)
+
+- **[Loch Lomond unveils 2026 Open whiskies](https://www.thespiritsbusiness.com/2026/04/loch-lomond-unveils-2026-open-whiskies/)**
+  Scotch whisky producer Loch Lomond has created two single malts to honour the 154th Open golf championship in July
+The p...
+
+![818 Tequila dominates Coachella’s first weekend](https://www.thespiritsbusiness.com/content/uploads/2023/03/818-1.jpg)
+
+- **[818 Tequila dominates Coachella’s first weekend](https://www.thespiritsbusiness.com/2026/04/818-tequila-dominates-coachellas-first-weekend/)**
+  Data from creator marketing platform Traackr has revealed the spirits brands that dominated social media over the first ...
+  *关键词: market*
+
+![Isle of Barra prepares for US debut](https://www.thespiritsbusiness.com/content/uploads/2026/04/Isle-of-Barra-Distillers.jpg)
+
+- **[Isle of Barra prepares for US debut](https://www.thespiritsbusiness.com/2026/04/isle-of-barra-prepares-for-us-debut/)**
+  Independent Scottish producer Isle of Barra Distillers has partnered with Total Wine & More to launch its spirits in the...
   *关键词: launch*
 
-- **[Brewers Association: Craft 2025 Production Volume -5.1%; 1,072 Brewery Closures in Last 2 Years](https://www.brewbound.com/news/brewers-association-craft-2025-production-volume-5-1-1072-brewery-closures-in-last-2-years)**
-  Craft brewers’ production volume fell a collective 5.1% in 2025, according to the Brewers Association’s (BA) annual Indu...
+![Falkirk Distillery makes cinematic debut](https://www.thespiritsbusiness.com/content/uploads/2026/04/Glenrothan-movie-poster.jpg)
 
-- **[BA Top 50: Sierra Nevada Overtakes Boston Beer at No. 2; Garage Beer, Outlaw Make Big Leaps](https://www.brewbound.com/news/ba-top-50-sierra-nevada-overtakes-boston-beer-at-no-2-garage-beer-outlaw-make-big-leaps)**
-  Beneath the surface of craft beer's 2025 production decline (-5.1%, to nearly 21.86 million barrels) were power moves, u...
+- **[Falkirk Distillery makes cinematic debut](https://www.thespiritsbusiness.com/2026/04/falkirk-distillery-makes-cinematic-debut/)**
+  Lowland distillery Falkirk will make its silver screen debut this week as the fictional setting for a new film starring ...
 
 ### 📰 Wine Enthusiast
 
-![Fino Sherry Is the Star of This Refreshing Low-Proof Paloma](https://www.wineenthusiast.com/wp-content/uploads/2025/11/AriaHighball1920x1280-1024x683.jpg)
+![Don’t Underestimate the Power of a 90-Point Wine](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_WineGlasses_WhiteWine_SubSubCategory_580x720-copy.jpg)
 
-- **[Fino Sherry Is the Star of This Refreshing Low-Proof Paloma](https://www.wineenthusiast.com/recipe/palomino-cocktail/)**
-  This Paloma riff subs Fino Sherry for some of the tequila, lowering the abv while maintaining the cocktail's sprightly, ...
-
-![In All Its Sparkling Glory, English Wine Continues Its Meteoric Rise](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_English_Fizz_INSET_1_Tom_Bunning_1920x1280-1024x683.jpg)
-
-- **[In All Its Sparkling Glory, English Wine Continues Its Meteoric Rise](https://www.wineenthusiast.com/culture/wine/english-sparkling-boom/)**
-  England is the world's fastest-growing wine region, even as it faces growing pains associated with rapid expansion.
-The ...
-  *关键词: expansion*
-
-![There’s a Glorious Bubbles Boom on California’s Central Coast](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_Central_Coast_Bubbles_Boom_INSET_1_CAMERON_INGALIS_ACACIA-_PRODUCTIONS_1920x1280-1024x683.jpg)
-
-- **[There’s a Glorious Bubbles Boom on California’s Central Coast](https://www.wineenthusiast.com/wine-types/sparkling-wine/central-coast-bubbles/)**
-  Four exceptional producers are floating to
-the top of the region’s growing sparkling wine scene.
-The post There’s a Glor...
-
-![Flanked by Lakes and Covered in Snow, This Michigan AVA Is an Improbable Bubbles Hotspot](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Tip_of_the_Mitt_INSET_1_1500x2000-768x1024.jpg)
-
-- **[Flanked by Lakes and Covered in Snow, This Michigan AVA Is an Improbable Bubbles Hotspot](https://www.wineenthusiast.com/basics/region-rundown/michigan-tip-of-the-mitt-ava/)**
-  Established in 2016, the Tip of the Mitt AVA covers 2,760 square miles across six counties in Michigan’s lower peninsula...
-
-![Whatever You Do, Don’t Call It Cava](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Catalonia_Sparkling_INSET_1_Yann_Audic_1500x2000-768x1024.jpg)
-
-- **[Whatever You Do, Don’t Call It Cava](https://www.wineenthusiast.com/culture/wine/cava-corpinnat/)**
-  Frustrated by the association with mass-produced Cava, some producers broke away from the Cava appellation to form Corpi...
+- **[Don’t Underestimate the Power of a 90-Point Wine](https://www.wineenthusiast.com/basics/buying-and-collecting/90-point-wine/)**
+  90-point wine scores used to make heads turn, regardless of the price. Now, they get underestimated.
+The post Don&#8217;...
 
 
 ---
 
-*报告生成时间: 2026-04-15 03:00*  
+*报告生成时间: 2026-04-15 16:00*  
 *Antonelli Intelligence System*
