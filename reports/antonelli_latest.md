@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-15  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-04-16  
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 37 条
+- **新增资讯**: 39 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -23,6 +23,18 @@
   LARK Distilling Co. &#8211; Australia&#8217;s No.1 Luxury Single Malt &#8211; [&hellip;]...
   *关键词: launch*
 
+![Wednesday Women: Kylie Ind shares the realities of regional brewing](https://theshout.com.au/wp-content/uploads/2026/03/Kylie-and-Chris-Ind-1.jpg?w=780)
+
+- **[Wednesday Women: Kylie Ind shares the realities of regional brewing](https://theshout.com.au/wednesday-women-kylie-ind-shares-the-realities-of-regional-brewing/)**
+  Woolstore Brewery's head brewer has stepped up to the IBA Board, bringing a regional perspective and giving small-scale ...
+
+![Melbourne Royal Australian International Spirits Awards opens 2026 entries](https://theshout.com.au/wp-content/uploads/2026/04/Judging-Steward.jpg?w=780)
+
+- **[Melbourne Royal Australian International Spirits Awards opens 2026 entries](https://theshout.com.au/melbourne-royal-australian-international-spirits-awards-opens-2026-entries/)**
+  The awards have been opened up to international entries for the first team, as well as introducing a new Gin & Tonic cat...
+
+*📚 以上为近期内容*
+
 ### 📰 Nomunication
 
 - **[You can now look for the JSLMA Japanese Whisky logo on your bottles](https://www.nomunication.jp/2026/04/14/you-can-now-look-for-the-jslma-japanese-whisky-logo-on-your-bottles/)**
@@ -32,6 +44,47 @@
 
 
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![The great Australian shake-up](https://www.thedrinksbusiness.com/content/uploads/2026/04/Australia-map-scaled.jpg)
+
+- **[The great Australian shake-up](https://www.thedrinksbusiness.com/2026/04/the-great-australian-shake-up/)**
+  A spate of recent hirings, firings and retirings across Australia's leading wine companies reflect the ongoing turbulenc...
+
+![Moët & Chandon extends Schiphol gifting concept with second pop-up phase](https://www.thedrinksbusiness.com/content/uploads/2026/04/5-scaled.jpg)
+
+- **[Moët & Chandon extends Schiphol gifting concept with second pop-up phase](https://www.thedrinksbusiness.com/2026/04/moet-chandon-extends-schiphol-gifting-concept-with-second-pop-up-phase/)**
+  Moët Hennessy Travel Retail and Lagardère Travel Retail have continued their Schiphol activation with a refined second i...
+
+![Overall beer category decline fails to hold back US craft ‘resilience’](https://www.thedrinksbusiness.com/content/uploads/2026/04/Craft-beer.jpeg)
+
+- **[Overall beer category decline fails to hold back US craft ‘resilience’](https://www.thedrinksbusiness.com/2026/04/overall-beer-category-decline-fails-to-hold-back-us-craft-resilience/)**
+  Craft beer in the US has outpaced the overall beer category, which declined 5.7% by volume, highlighting relative “resil...
+  *关键词: market*
+
+![Pernod Ricard shows early recovery as sales return to growth](https://www.thedrinksbusiness.com/content/uploads/2026/04/Pernod-Ricard-1536x822-1-1024x548-1-1.jpg)
+
+- **[Pernod Ricard shows early recovery as sales return to growth](https://www.thedrinksbusiness.com/2026/04/pernod-ricard-shows-early-recovery-as-sales-return-to-growth/)**
+  Pernod Ricard has reported a return to modest growth in its latest quarter, pointing to improving momentum after a chall...
+  *关键词: trend*
+
+![Duo busted smuggling 888 booze bottles into Malaysia](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1143544891-scaled.jpg)
+
+- **[Duo busted smuggling 888 booze bottles into Malaysia](https://www.thedrinksbusiness.com/2026/04/duo-busted-smuggling-888-booze-bottles-into-malaysia/)**
+  Border agents foiled the efforts of two men to smuggle alcohol into Malaysia – after 888 bottles of liquor were found st...
+
+### 📰 Decanter
+
+![The best wines to try on Malbec World Day](https://cdn.mos.cms.futurecdn.net/xRWKQoRC6jbUVE3o5oL8WK-1280-80.jpg)
+
+- **[The best wines to try on Malbec World Day](https://www.decanter.com/decanter-world-wine-awards/argentina-award-winning-wines-to-celebrate-malbec-world-day-436373)**
+  Top scoring Malbec wines from Decanter World Wine Awards......
+
+![Cult Italian winemakers: New chapters, new directions](https://cdn.mos.cms.futurecdn.net/hsoH7S349kH6pdjwFYQH3j-1280-80.jpg)
+
+- **[Cult Italian winemakers: New chapters, new directions](https://www.decanter.com/wine-reviews-tastings/cult-italian-winemakers-new-chapters-new-directions)**
+  Legends reborn......
 
 ### 📰 Wine-Searcher
 
@@ -45,49 +98,37 @@
 - **[Keep Up with En Primeur on Wine-Searcher](https://www.wine-searcher.com/m/2026/04/keep-up-with-en-primeur-on-wine-searcher?rss=Y)**
   Make sure you don't miss anything from En Primeur with our guide to getting the best from your favorite wine site....
 
-![The Most Wanted Champagnes of 2026](https://www.wine-searcher.com/images/news-rss/99/19/9919014240369deaa10_ChampMain_1_.jpg)
-
-- **[The Most Wanted Champagnes of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-champagnes-of-2026?rss=Y)**
-  Champagne has been under pressure for a few years, but could there be green shoots of hope on the horizon?...
-
-### 📰 The Drinks Business
-
-![Bordeaux’s price performance and the scale of the task ahead](https://www.thedrinksbusiness.com/content/uploads/2023/05/iStock-1392724949-scaled.jpg)
-
-- **[Bordeaux’s price performance and the scale of the task ahead](https://www.thedrinksbusiness.com/2026/04/bordeauxs-price-performance-and-the-scale-of-the-task-ahead/)**
-  The 10th annual study of the region from Wine Lister portrays a mixed picture on the eve of the 2025 primeurs, with trad...
-
-![WineGB appoints head of partnerships to drive growth](https://www.thedrinksbusiness.com/content/uploads/2026/04/Untitled-design-67.png)
-
-- **[WineGB appoints head of partnerships to drive growth](https://www.thedrinksbusiness.com/2026/04/winegb-appoints-head-of-partnerships-to-drive-growth/)**
-  Industry body WineGB has expanded its leadership team as the English and Welsh wine sector accelerates. Nicola Bates, CE...
-  *关键词: partnership*
-
-![Field blends make a comeback, but this time as the protagonist](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2228522553-scaled.jpg)
-
-- **[Field blends make a comeback, but this time as the protagonist](https://www.thedrinksbusiness.com/2026/04/field-blends-get-radical-image-change/)**
-  The story is being rewritten for field blend wines, according to one Chilean winemaker, who insists that "value does not...
-
-![Why wine lovers should note Malbec’s location and altitude](https://www.thedrinksbusiness.com/content/uploads/2026/04/Lucas-in-the-vineyard-scaled.jpg)
-
-- **[Why wine lovers should note Malbec’s location and altitude](https://www.thedrinksbusiness.com/2026/04/why-wine-lovers-should-note-malbecs-location-and-altitude/)**
-  Malbec has evolved from being considered a one-dimensional, fruit-forward style to a terroir wine. Terrazas de Los Andes...
-
-![Maharaja Drinks launches Indian Heritage Spirits collection](https://www.thedrinksbusiness.com/content/uploads/2026/04/MD-HeritageExotica-Web-162.jpg)
-
-- **[Maharaja Drinks launches Indian Heritage Spirits collection](https://www.thedrinksbusiness.com/2026/04/maharaja-drinks-launches-indian-heritage-spirits-collection/)**
-  Maharaja Drinks, the UK-based retailer of exclusively Indian wines, spirits and beers, has announced the launch of its n...
-  *关键词: launch*
-
-### 📰 Decanter
-
-![Planning an overnight trip in Champagne? Here’s how to do it in style](https://cdn.mos.cms.futurecdn.net/PBV3iY5YjGLeQQw7CQ5ddP-1280-80.jpg)
-
-- **[Planning an overnight trip in Champagne? Here’s how to do it in style](https://www.decanter.com/wine/wine-regions/planning-an-overnight-trip-in-champagne-heres-how-to-do-it-in-style)**
-  Get to the heart of Champagne with these expert-recommended itineraries......
-
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![What are bartenders loving and hating right now?](https://www.thespiritsbusiness.com/content/uploads/2026/04/Bartenders-ins-and-out.jpg)
+
+- **[What are bartenders loving and hating right now?](https://www.thespiritsbusiness.com/2026/04/what-are-bartenders-loving-and-hating-right-now/)**
+  Some of the best bartenders from around the world predict what will be in and what will be out for cocktail culture this...
+
+![Patrón keeps it 100](https://www.thespiritsbusiness.com/content/uploads/2026/04/Patron-100.jpg)
+
+- **[Patrón keeps it 100](https://www.thespiritsbusiness.com/2026/04/patron-keeps-it-100/)**
+  Bacardi-owned Patrón Tequila has unveiled its first distilled-to-proof release, Patrón 100, which is made through 100% t...
+
+![New Grove cellar master takes Mauritian rum to next level](https://www.thespiritsbusiness.com/content/uploads/2026/04/Francois-Xavier-Sobczak-New-Grove.jpg)
+
+- **[New Grove cellar master takes Mauritian rum to next level](https://www.thespiritsbusiness.com/2026/04/new-grove-cellar-master-takes-mauritian-rum-to-next-level/)**
+  François-Xavier Sobczak, the new cellar master at New Grove Distillery, shares what makes Mauritius an interesting origi...
+
+![Siberian Express vodka expands in Indian airports](https://www.thespiritsbusiness.com/content/uploads/2026/04/Siberian-Express-vodka.jpg)
+
+- **[Siberian Express vodka expands in Indian airports](https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/)**
+  Solex Group has introduced its Kazakh Siberian Express vodka into travel retail locations across India
+The post Siberian...
+
+![Weber Ranch: bucking the trend](https://www.thespiritsbusiness.com/content/uploads/2026/04/Weber-Ranch-vodka.jpg)
+
+- **[Weber Ranch: bucking the trend](https://www.thespiritsbusiness.com/2026/04/weber-ranch-bucking-the-trend/)**
+  As the first vodka made from 100% Blue Weber agave, Weber Ranch is challenging the status quo of the vodka category as i...
+  *关键词: trend*
 
 ### 📰 Brewbound
 
@@ -107,37 +148,6 @@
 - **[BevNET Live NYC 2026 Early Registration Ends Next Week](https://www.brewbound.com/news/events/top-features/bevnet-live-nyc-2026-early-registration-ends-next-week/)**
   Early registration pricing for BevNET Live NYC 2026 expires on Friday, April 24. The event takes place June 10–11 at the...
 
-### 📰 The Spirits Business
-
-![Casa Azul Spirits names Paul Stacey president](https://www.thespiritsbusiness.com/content/uploads/2026/04/Paul-Stacey-Casa-Azul.jpg)
-
-- **[Casa Azul Spirits names Paul Stacey president](https://www.thespiritsbusiness.com/2026/04/casa-azul-spirits-names-paul-stacey-president/)**
-  Tequila maker Casa Azul Spirits has appointed chief financial officer Paul Stacey as its first president
-The post Casa A...
-
-![Loch Lomond unveils 2026 Open whiskies](https://www.thespiritsbusiness.com/content/uploads/2026/04/Loch-Lomond-2.jpg)
-
-- **[Loch Lomond unveils 2026 Open whiskies](https://www.thespiritsbusiness.com/2026/04/loch-lomond-unveils-2026-open-whiskies/)**
-  Scotch whisky producer Loch Lomond has created two single malts to honour the 154th Open golf championship in July
-The p...
-
-![818 Tequila dominates Coachella’s first weekend](https://www.thespiritsbusiness.com/content/uploads/2023/03/818-1.jpg)
-
-- **[818 Tequila dominates Coachella’s first weekend](https://www.thespiritsbusiness.com/2026/04/818-tequila-dominates-coachellas-first-weekend/)**
-  Data from creator marketing platform Traackr has revealed the spirits brands that dominated social media over the first ...
-  *关键词: market*
-
-![Isle of Barra prepares for US debut](https://www.thespiritsbusiness.com/content/uploads/2026/04/Isle-of-Barra-Distillers.jpg)
-
-- **[Isle of Barra prepares for US debut](https://www.thespiritsbusiness.com/2026/04/isle-of-barra-prepares-for-us-debut/)**
-  Independent Scottish producer Isle of Barra Distillers has partnered with Total Wine & More to launch its spirits in the...
-  *关键词: launch*
-
-![Falkirk Distillery makes cinematic debut](https://www.thespiritsbusiness.com/content/uploads/2026/04/Glenrothan-movie-poster.jpg)
-
-- **[Falkirk Distillery makes cinematic debut](https://www.thespiritsbusiness.com/2026/04/falkirk-distillery-makes-cinematic-debut/)**
-  Lowland distillery Falkirk will make its silver screen debut this week as the fictional setting for a new film starring ...
-
 ### 📰 Wine Enthusiast
 
 ![Don’t Underestimate the Power of a 90-Point Wine](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_WineGlasses_WhiteWine_SubSubCategory_580x720-copy.jpg)
@@ -149,5 +159,5 @@ The post Don&#8217;...
 
 ---
 
-*报告生成时间: 2026-04-15 16:00*  
+*报告生成时间: 2026-04-16 03:01*  
 *Antonelli Intelligence System*
