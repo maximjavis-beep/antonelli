@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 39 条
+- **新增资讯**: 34 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -45,36 +45,47 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![White Wine's Winning Streak](https://www.wine-searcher.com/images/news-rss/99/21/9921114243369e01ef6_Whitewinemain.jpg)
+
+- **[White Wine's Winning Streak](https://www.wine-searcher.com/m/2026/04/white-wines-winning-streak?rss=Y)**
+  White wine is leaving red wine in the dust. How significantly are whites outpacing sales, what does it mean, and will th...
+
 ### 📰 The Drinks Business
 
-![The great Australian shake-up](https://www.thedrinksbusiness.com/content/uploads/2026/04/Australia-map-scaled.jpg)
+![Top 50 beer companies in America revealed](https://www.thedrinksbusiness.com/content/uploads/2026/04/beer-in-America-scaled.jpg)
 
-- **[The great Australian shake-up](https://www.thedrinksbusiness.com/2026/04/the-great-australian-shake-up/)**
-  A spate of recent hirings, firings and retirings across Australia's leading wine companies reflect the ongoing turbulenc...
+- **[Top 50 beer companies in America revealed](https://www.thedrinksbusiness.com/2026/04/top-50-beer-companies-in-america-revealed/)**
+  The top 50 breweries in the US have been ranked by the Brewers Association in its annual report based on volume output f...
 
-![Moët & Chandon extends Schiphol gifting concept with second pop-up phase](https://www.thedrinksbusiness.com/content/uploads/2026/04/5-scaled.jpg)
+![Kings College Christie’s wine cellar rarities go under the hammer](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-182687450-scaled.jpg)
 
-- **[Moët & Chandon extends Schiphol gifting concept with second pop-up phase](https://www.thedrinksbusiness.com/2026/04/moet-chandon-extends-schiphol-gifting-concept-with-second-pop-up-phase/)**
-  Moët Hennessy Travel Retail and Lagardère Travel Retail have continued their Schiphol activation with a refined second i...
+- **[Kings College Christie’s wine cellar rarities go under the hammer](https://www.thedrinksbusiness.com/2026/04/kings-college-christies-wine-cellar-rarities-go-under-the-hammer/)**
+  Ever wondered what's in the cellars of the UK's most historic universities? Now may be the time to find out, as Christie...
 
-![Overall beer category decline fails to hold back US craft ‘resilience’](https://www.thedrinksbusiness.com/content/uploads/2026/04/Craft-beer.jpeg)
+![Japan whisky and sake exports hit ¥95 billion in 2025](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1356332473-scaled.jpg)
 
-- **[Overall beer category decline fails to hold back US craft ‘resilience’](https://www.thedrinksbusiness.com/2026/04/overall-beer-category-decline-fails-to-hold-back-us-craft-resilience/)**
-  Craft beer in the US has outpaced the overall beer category, which declined 5.7% by volume, highlighting relative “resil...
-  *关键词: market*
+- **[Japan whisky and sake exports hit ¥95 billion in 2025](https://www.thedrinksbusiness.com/2026/04/whisky-and-sake-exports-hit-%c2%a595-billion-in-2025/)**
+  Japan’s combined whisky and sake exports have soared by 289% over the last 10 years – peaking at ¥95 billion (around £50...
 
-![Pernod Ricard shows early recovery as sales return to growth](https://www.thedrinksbusiness.com/content/uploads/2026/04/Pernod-Ricard-1536x822-1-1024x548-1-1.jpg)
+![Can ‘vaccine beers’ help win over anti-vaxxers?](https://www.thedrinksbusiness.com/content/uploads/2026/04/Screenshot-2026-04-16-at-11.12.09.png)
 
-- **[Pernod Ricard shows early recovery as sales return to growth](https://www.thedrinksbusiness.com/2026/04/pernod-ricard-shows-early-recovery-as-sales-return-to-growth/)**
-  Pernod Ricard has reported a return to modest growth in its latest quarter, pointing to improving momentum after a chall...
+- **[Can ‘vaccine beers’ help win over anti-vaxxers?](https://www.thedrinksbusiness.com/2026/04/can-vaccine-beers-help-win-over-anti-vaxxers/)**
+  A leading virologist claims that beer brewed with "vaccine yeast" can trigger the immune system to produce antibodies th...
+
+![Five key talking points from Vinitaly 2026](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1387990237-scaled.jpg)
+
+- **[Five key talking points from Vinitaly 2026](https://www.thedrinksbusiness.com/2026/04/five-talking-points-from-vinitaly-2026/)**
+  The Verona wine show concluded yesterday with Vinitaly 2026 coming at a pivotal moment for the Italian wine industry. Lo...
   *关键词: trend*
 
-![Duo busted smuggling 888 booze bottles into Malaysia](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1143544891-scaled.jpg)
-
-- **[Duo busted smuggling 888 booze bottles into Malaysia](https://www.thedrinksbusiness.com/2026/04/duo-busted-smuggling-888-booze-bottles-into-malaysia/)**
-  Border agents foiled the efforts of two men to smuggle alcohol into Malaysia – after 888 bottles of liquor were found st...
-
 ### 📰 Decanter
+
+![DWWA judge profile: Alejandro Iglesias](https://cdn.mos.cms.futurecdn.net/JtuzacTHs5fzxpYj5r6fnE-1280-80.jpg)
+
+- **[DWWA judge profile: Alejandro Iglesias](https://www.decanter.com/awards-home/the-dwwa-judges/dwwa-judge-profile-alejandro-iglesias-391678)**
+  DWWA judge profile: Alejandro Iglesias...
 
 ![The best wines to try on Malbec World Day](https://cdn.mos.cms.futurecdn.net/xRWKQoRC6jbUVE3o5oL8WK-1280-80.jpg)
 
@@ -86,78 +97,60 @@
 - **[Cult Italian winemakers: New chapters, new directions](https://www.decanter.com/wine-reviews-tastings/cult-italian-winemakers-new-chapters-new-directions)**
   Legends reborn......
 
-### 📰 Wine-Searcher
-
-![Napa Considers a Post-Cabernet Future](https://www.wine-searcher.com/images/news-rss/99/20/9920514242269ded5a0_nocab1.jpg)
-
-- **[Napa Considers a Post-Cabernet Future](https://www.wine-searcher.com/m/2026/04/napa-considers-a-post-cabernet-future?rss=Y)**
-  Napa and Cabernet go hand in hand, but even hardened wine veterans are asking how much longer can it last?...
-
-![Keep Up with En Primeur on Wine-Searcher](https://www.wine-searcher.com/images/news-rss/99/20/9920614242469defd53_Redmain.jpg)
-
-- **[Keep Up with En Primeur on Wine-Searcher](https://www.wine-searcher.com/m/2026/04/keep-up-with-en-primeur-on-wine-searcher?rss=Y)**
-  Make sure you don't miss anything from En Primeur with our guide to getting the best from your favorite wine site....
-
 
 ## 🌍 美洲
 
+### 📰 Brewbound
+
+- **[Ikasu Brewing Leans into ‘Weird,’ ‘Good Beer’ and Japanese Culinary Ingredients](https://www.brewbound.com/podcast/ikasu-brewing-leans-into-weird-good-beer-and-japanese-culinary-ingredients)**
+  Ikasu Brewing founder Masahiro “Masa” Kitano believes his Los Angeles-based, contract-brewed brand plans to lean into “w...
+
+- **[Cutwater and Surfside’s Triple-Digit Growth Boost Spirits Sales](https://www.brewbound.com/news/cutwater-and-surfsides-triple-digit-growth-boost-spirits-sales)**
+  With recent warmer weather comes an uptick in bev-alc dollar sales, which flipped to positive (+0.5%) in the two-week pe...
+
+- **[Report: Sazerac Bid $15 Billion For Brown-Forman](https://www.brewbound.com/news/report-sazerac-bid-15-billion-for-brown-forman)**
+  Sazerac offered to acquire Brown-Forman for about $15 billion, according to a new report from the Wall Street Journal....
+
+- **[New on Shelves: RTDs from SunnyD, Post Meridiem, Vodkade and Rancho La Gloria](https://www.brewbound.com/news/new-on-shelves-rtds-from-sunnyd-post-meridiem-vodkade-and-rancho-la-gloria)**
+  In the latest RTD news, SunnyD brings back "purple stuff," Chandon takes a six-year swing at reinventing the spritz and ...
+
 ### 📰 The Spirits Business
 
-![What are bartenders loving and hating right now?](https://www.thespiritsbusiness.com/content/uploads/2026/04/Bartenders-ins-and-out.jpg)
+![Siberian Express vodka expands in Indian travel retail](https://www.thespiritsbusiness.com/content/uploads/2026/04/Siberian-Express-vodka.jpg)
 
-- **[What are bartenders loving and hating right now?](https://www.thespiritsbusiness.com/2026/04/what-are-bartenders-loving-and-hating-right-now/)**
-  Some of the best bartenders from around the world predict what will be in and what will be out for cocktail culture this...
-
-![Patrón keeps it 100](https://www.thespiritsbusiness.com/content/uploads/2026/04/Patron-100.jpg)
-
-- **[Patrón keeps it 100](https://www.thespiritsbusiness.com/2026/04/patron-keeps-it-100/)**
-  Bacardi-owned Patrón Tequila has unveiled its first distilled-to-proof release, Patrón 100, which is made through 100% t...
-
-![New Grove cellar master takes Mauritian rum to next level](https://www.thespiritsbusiness.com/content/uploads/2026/04/Francois-Xavier-Sobczak-New-Grove.jpg)
-
-- **[New Grove cellar master takes Mauritian rum to next level](https://www.thespiritsbusiness.com/2026/04/new-grove-cellar-master-takes-mauritian-rum-to-next-level/)**
-  François-Xavier Sobczak, the new cellar master at New Grove Distillery, shares what makes Mauritius an interesting origi...
-
-![Siberian Express vodka expands in Indian airports](https://www.thespiritsbusiness.com/content/uploads/2026/04/Siberian-Express-vodka.jpg)
-
-- **[Siberian Express vodka expands in Indian airports](https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/)**
+- **[Siberian Express vodka expands in Indian travel retail](https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/)**
   Solex Group has introduced its Kazakh Siberian Express vodka into travel retail locations across India
 The post Siberian...
 
-![Weber Ranch: bucking the trend](https://www.thespiritsbusiness.com/content/uploads/2026/04/Weber-Ranch-vodka.jpg)
+![Annandale makes ‘major breakthrough’ in net zero whisky](https://www.thespiritsbusiness.com/content/uploads/2026/04/Annandale-2.jpg)
 
-- **[Weber Ranch: bucking the trend](https://www.thespiritsbusiness.com/2026/04/weber-ranch-bucking-the-trend/)**
-  As the first vodka made from 100% Blue Weber agave, Weber Ranch is challenging the status quo of the vodka category as i...
-  *关键词: trend*
+- **[Annandale makes ‘major breakthrough’ in net zero whisky](https://www.thespiritsbusiness.com/2026/04/annandale-makes-major-breakthrough-in-net-zero-whisky/)**
+  Scottish distillery Annandale has commissioned what it calls a 'world first’ decarbonisation system to heat its stills
+T...
 
-### 📰 Brewbound
+![Middle East weighs on Pernod FY forecast](https://www.thespiritsbusiness.com/content/uploads/2025/10/Jameson-family.jpg)
 
-- **[BeerBoard March Madness Week 3: Michelob Ultra Unseats Corona Extra as Top Packaged Offering On-Premise](https://www.brewbound.com/news/beerboard-march-madness-week-3-michelob-ultra-unseats-corona-extra-as-top-packaged-offering-on-premise)**
-  An upset happened off the court during the final weekend of the NCAA basketball tournament. Anheuser-Busch InBev’s (A-B)...
+- **[Middle East weighs on Pernod FY forecast](https://www.thespiritsbusiness.com/2026/04/middle-east-weighs-on-pernod-fy-forecast/)**
+  Pernod Ricard sales stabilised during its third quarter but the Middle East conflict is expected to drag down its full-y...
 
-- **[BA Economist: 2026 Could Be a ‘Buying the Dip’ Moment for New Brewers](https://www.brewbound.com/news/ba-economist-2026-could-be-a-buying-the-dip-moment-for-new-brewers)**
-  Over the last two years, 1,072 craft breweries have shuttered, while 817 new breweries opened. Speaking to Brewbound fol...
+![Toasts Not Tariffs fights for US hospitality survival](https://www.thespiritsbusiness.com/content/uploads/2025/02/American-whiskey-bourbon.png)
 
-- **[Press Clips: New Constellation CEO’s Investment Commitment, 7-Eleven to Close 654 Stores, The Return of Bapple & More](https://www.brewbound.com/news/press-clips-new-constellation-ceos-investment-commitment-7-eleven-to-close-654-stores-the-return-of-bapple-more)**
-  Check out these news items, initially reported in the Brewbound Insider Newsletter April 13-15, including headlines from...
+- **[Toasts Not Tariffs fights for US hospitality survival](https://www.thespiritsbusiness.com/2026/04/toast-not-tariffs-fights-for-us-hospitality-survival/)**
+  A coalition is urging the US government to exempt spirits from tariffs and secure the return of American products to Can...
+
+![Tilray aims to bring BrewDog back to $1bn valuation](https://www.thespiritsbusiness.com/content/uploads/2026/03/BrewDog-Las-Vegas-US.jpg)
+
+- **[Tilray aims to bring BrewDog back to $1bn valuation](https://www.thespiritsbusiness.com/2026/04/tilray-aims-to-bring-brewdog-back-to-1bn-valuation/)**
+  US beverage company Tilray Brands is hoping to return BrewDog to its previous billion-dollar valuation through reinvestm...
   *关键词: investment*
-
-- **[NIQ Weekly Scans: Easter Boosts Bev-Alc Sales +6.8% WoW; Wine Benefits Most From Holiday](https://www.brewbound.com/news/niq-weekly-scans-easter-boosts-bev-alc-sales-6-8-wow-wine-benefits-most-from-holiday)**
-  Total bev-alc dollar sales accelerated 6.8% week-over-week (WoW) in off-premise channels in the first week of April as c...
-
-- **[BevNET Live NYC 2026 Early Registration Ends Next Week](https://www.brewbound.com/news/events/top-features/bevnet-live-nyc-2026-early-registration-ends-next-week/)**
-  Early registration pricing for BevNET Live NYC 2026 expires on Friday, April 24. The event takes place June 10–11 at the...
 
 ### 📰 Wine Enthusiast
 
-![Don’t Underestimate the Power of a 90-Point Wine](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_WineGlasses_WhiteWine_SubSubCategory_580x720-copy.jpg)
-
-- **[Don’t Underestimate the Power of a 90-Point Wine](https://www.wineenthusiast.com/basics/buying-and-collecting/90-point-wine/)**
-  90-point wine scores used to make heads turn, regardless of the price. Now, they get underestimated.
-The post Don&#8217;...
+- **[Raise a Shot of Aguardiente to Karol G’s Historic Coachella Set](https://www.wineenthusiast.com/basics/aguardiente/)**
+  The anise-flavored liqueur, which Karol G sings about drinking at the club, has been considered Colombia’s unofficial na...
 
 
 ---
 
-*报告生成时间: 2026-04-16 03:01*  
+*报告生成时间: 2026-04-16 16:00*  
 *Antonelli Intelligence System*
