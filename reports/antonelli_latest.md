@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-16  
-**来源**: 全球 2 个地区 · 6 个信源
+**日期**: 2026-04-17  
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 34 条
+- **新增资讯**: 43 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,23 +17,20 @@
 
 ### 📰 The Shout
 
-![LARK Launches Bold New Luxury Single Malt Portfolio​](https://theshout.com.au/wp-content/uploads/2026/04/Lark-Range-1200x900px-HERO-.jpg?w=780)
+![Y Series secures NFL sponsorship deal](https://theshout.com.au/wp-content/uploads/2026/04/YSeriesNFLSponsorship.jpg?w=780)
 
-- **[LARK Launches Bold New Luxury Single Malt Portfolio​](https://theshout.com.au/lark-launches-bold-new-luxury-single-malt-portfolio/)**
-  LARK Distilling Co. &#8211; Australia&#8217;s No.1 Luxury Single Malt &#8211; [&hellip;]...
-  *关键词: launch*
+- **[Y Series secures NFL sponsorship deal](https://theshout.com.au/y-series-secures-nfl-sponsorship-deal/)**
+  South Australia’s Y Series has been named the Official Wine Sponsor of the National Football League (NFL) in Australia a...
 
-![Wednesday Women: Kylie Ind shares the realities of regional brewing](https://theshout.com.au/wp-content/uploads/2026/03/Kylie-and-Chris-Ind-1.jpg?w=780)
+![IBA’s industry voice strengthened by membership surge](https://theshout.com.au/wp-content/uploads/2026/04/3-x-2-images-3.png?w=780)
 
-- **[Wednesday Women: Kylie Ind shares the realities of regional brewing](https://theshout.com.au/wednesday-women-kylie-ind-shares-the-realities-of-regional-brewing/)**
-  Woolstore Brewery's head brewer has stepped up to the IBA Board, bringing a regional perspective and giving small-scale ...
+- **[IBA’s industry voice strengthened by membership surge](https://theshout.com.au/ibas-industry-voice-strengthened-by-membership-surge/)**
+  Focused on driving collective results, Chair Evin Craney says the IBA is well positioned to tackle persisting trade chal...
 
-![Melbourne Royal Australian International Spirits Awards opens 2026 entries](https://theshout.com.au/wp-content/uploads/2026/04/Judging-Steward.jpg?w=780)
+![New report delivers gender equity insights for wine businesses](https://theshout.com.au/wp-content/uploads/2026/04/iStock-2242411459-womanworkingwinery.jpg?w=780)
 
-- **[Melbourne Royal Australian International Spirits Awards opens 2026 entries](https://theshout.com.au/melbourne-royal-australian-international-spirits-awards-opens-2026-entries/)**
-  The awards have been opened up to international entries for the first team, as well as introducing a new Gin & Tonic cat...
-
-*📚 以上为近期内容*
+- **[New report delivers gender equity insights for wine businesses](https://theshout.com.au/new-report-delivers-gender-equity-insights-for-wine-businesses/)**
+  Wine industry communicator, Jane Thomson OAM, has authored the Post-CSW70 Insights Report, giving insights into gender e...
 
 ### 📰 Nomunication
 
@@ -45,40 +42,40 @@
 
 ## 🌍 欧洲
 
+### 📰 The Drinks Business
+
+![Beckham joins Stella Artois in World Cup bar takeover](https://www.thedrinksbusiness.com/content/uploads/2026/04/Stella-Artois-WC-1-scaled.jpg)
+
+- **[Beckham joins Stella Artois in World Cup bar takeover](https://www.thedrinksbusiness.com/2026/04/beckham-joins-stella-artois-in-world-cup-bar-takeover/)**
+  Stella Artois is putting bars at the heart of the FIFA World Cup 2026&#x2122; experience, with David Beckham leading a c...
+
+![Master Winemaker 100: Odilon de Varine](https://www.thedrinksbusiness.com/content/uploads/2026/04/Odilon-de-Varine-–CHAMPAGNE-GOSSET_19-scaled.jpg)
+
+- **[Master Winemaker 100: Odilon de Varine](https://www.thedrinksbusiness.com/2026/04/master-winemaker-100-odilon-de-varine/)**
+  The chef de cave at Champagne Gosset tells db about the impossibility of following a recipe, drinking Champagne at all h...
+
+![Global pressures reshape UK drinking habits on the high street](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1167156417.jpg)
+
+- **[Global pressures reshape UK drinking habits on the high street](https://www.thedrinksbusiness.com/2026/04/global-pressures-reshape-uk-drinking-habits-on-the-high-street/)**
+  Geopolitical instability and ongoing energy price volatility are beginning to influence everyday consumer behaviour in t...
+
+![HT Drinks buys GTR firm Compass Supply Solutions, placing former Majestic COO at the helm](https://www.thedrinksbusiness.com/content/uploads/2026/04/RobCookeOfficial-1.jpg)
+
+- **[HT Drinks buys GTR firm Compass Supply Solutions, placing former Majestic COO at the helm](https://www.thedrinksbusiness.com/2026/04/ht-drinks-buys-gtr-firm-compass-supply-solutions-placing-former-majestic-coo-at-the-helm/)**
+  As part of wholesaler HT Drinks’ acquisition of global travel retail company Compass Supply Solutions (CSS), former Maje...
+  *关键词: acquisition, acquisition*
+
+![Conor McGregor settles lawsuit over Proper No. 12 whiskey but can’t resist one last jibe](https://www.thedrinksbusiness.com/content/uploads/2026/04/Conor-Mcgregor.jpg)
+
+- **[Conor McGregor settles lawsuit over Proper No. 12 whiskey but can’t resist one last jibe](https://www.thedrinksbusiness.com/2026/04/conor-mcgregor-settles-lawsuit-over-proper-no-12-whiskey-but-cant-help-one-last-jibe/)**
+  The UFC champion and drinks entrepreneur Conor McGregor has settled a dispute with fellow fighter Artem Lobov, who claim...
+
 ### 📰 Wine-Searcher
 
 ![White Wine's Winning Streak](https://www.wine-searcher.com/images/news-rss/99/21/9921114243369e01ef6_Whitewinemain.jpg)
 
 - **[White Wine's Winning Streak](https://www.wine-searcher.com/m/2026/04/white-wines-winning-streak?rss=Y)**
   White wine is leaving red wine in the dust. How significantly are whites outpacing sales, what does it mean, and will th...
-
-### 📰 The Drinks Business
-
-![Top 50 beer companies in America revealed](https://www.thedrinksbusiness.com/content/uploads/2026/04/beer-in-America-scaled.jpg)
-
-- **[Top 50 beer companies in America revealed](https://www.thedrinksbusiness.com/2026/04/top-50-beer-companies-in-america-revealed/)**
-  The top 50 breweries in the US have been ranked by the Brewers Association in its annual report based on volume output f...
-
-![Kings College Christie’s wine cellar rarities go under the hammer](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-182687450-scaled.jpg)
-
-- **[Kings College Christie’s wine cellar rarities go under the hammer](https://www.thedrinksbusiness.com/2026/04/kings-college-christies-wine-cellar-rarities-go-under-the-hammer/)**
-  Ever wondered what's in the cellars of the UK's most historic universities? Now may be the time to find out, as Christie...
-
-![Japan whisky and sake exports hit ¥95 billion in 2025](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1356332473-scaled.jpg)
-
-- **[Japan whisky and sake exports hit ¥95 billion in 2025](https://www.thedrinksbusiness.com/2026/04/whisky-and-sake-exports-hit-%c2%a595-billion-in-2025/)**
-  Japan’s combined whisky and sake exports have soared by 289% over the last 10 years – peaking at ¥95 billion (around £50...
-
-![Can ‘vaccine beers’ help win over anti-vaxxers?](https://www.thedrinksbusiness.com/content/uploads/2026/04/Screenshot-2026-04-16-at-11.12.09.png)
-
-- **[Can ‘vaccine beers’ help win over anti-vaxxers?](https://www.thedrinksbusiness.com/2026/04/can-vaccine-beers-help-win-over-anti-vaxxers/)**
-  A leading virologist claims that beer brewed with "vaccine yeast" can trigger the immune system to produce antibodies th...
-
-![Five key talking points from Vinitaly 2026](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1387990237-scaled.jpg)
-
-- **[Five key talking points from Vinitaly 2026](https://www.thedrinksbusiness.com/2026/04/five-talking-points-from-vinitaly-2026/)**
-  The Verona wine show concluded yesterday with Vinitaly 2026 coming at a pivotal moment for the Italian wine industry. Lo...
-  *关键词: trend*
 
 ### 📰 Decanter
 
@@ -152,5 +149,5 @@ T...
 
 ---
 
-*报告生成时间: 2026-04-16 16:00*  
+*报告生成时间: 2026-04-17 03:00*  
 *Antonelli Intelligence System*
