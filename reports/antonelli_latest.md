@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 43 条
+- **新增资讯**: 33 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -42,112 +42,114 @@
 
 ## 🌍 欧洲
 
-### 📰 The Drinks Business
-
-![Beckham joins Stella Artois in World Cup bar takeover](https://www.thedrinksbusiness.com/content/uploads/2026/04/Stella-Artois-WC-1-scaled.jpg)
-
-- **[Beckham joins Stella Artois in World Cup bar takeover](https://www.thedrinksbusiness.com/2026/04/beckham-joins-stella-artois-in-world-cup-bar-takeover/)**
-  Stella Artois is putting bars at the heart of the FIFA World Cup 2026&#x2122; experience, with David Beckham leading a c...
-
-![Master Winemaker 100: Odilon de Varine](https://www.thedrinksbusiness.com/content/uploads/2026/04/Odilon-de-Varine-–CHAMPAGNE-GOSSET_19-scaled.jpg)
-
-- **[Master Winemaker 100: Odilon de Varine](https://www.thedrinksbusiness.com/2026/04/master-winemaker-100-odilon-de-varine/)**
-  The chef de cave at Champagne Gosset tells db about the impossibility of following a recipe, drinking Champagne at all h...
-
-![Global pressures reshape UK drinking habits on the high street](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1167156417.jpg)
-
-- **[Global pressures reshape UK drinking habits on the high street](https://www.thedrinksbusiness.com/2026/04/global-pressures-reshape-uk-drinking-habits-on-the-high-street/)**
-  Geopolitical instability and ongoing energy price volatility are beginning to influence everyday consumer behaviour in t...
-
-![HT Drinks buys GTR firm Compass Supply Solutions, placing former Majestic COO at the helm](https://www.thedrinksbusiness.com/content/uploads/2026/04/RobCookeOfficial-1.jpg)
-
-- **[HT Drinks buys GTR firm Compass Supply Solutions, placing former Majestic COO at the helm](https://www.thedrinksbusiness.com/2026/04/ht-drinks-buys-gtr-firm-compass-supply-solutions-placing-former-majestic-coo-at-the-helm/)**
-  As part of wholesaler HT Drinks’ acquisition of global travel retail company Compass Supply Solutions (CSS), former Maje...
-  *关键词: acquisition, acquisition*
-
-![Conor McGregor settles lawsuit over Proper No. 12 whiskey but can’t resist one last jibe](https://www.thedrinksbusiness.com/content/uploads/2026/04/Conor-Mcgregor.jpg)
-
-- **[Conor McGregor settles lawsuit over Proper No. 12 whiskey but can’t resist one last jibe](https://www.thedrinksbusiness.com/2026/04/conor-mcgregor-settles-lawsuit-over-proper-no-12-whiskey-but-cant-help-one-last-jibe/)**
-  The UFC champion and drinks entrepreneur Conor McGregor has settled a dispute with fellow fighter Artem Lobov, who claim...
-
 ### 📰 Wine-Searcher
 
-![White Wine's Winning Streak](https://www.wine-searcher.com/images/news-rss/99/21/9921114243369e01ef6_Whitewinemain.jpg)
+![The Most Wanted Tequilas of 2026](https://www.wine-searcher.com/images/news-rss/99/23/9923114246469e1634d_TeqMain.jpg)
 
-- **[White Wine's Winning Streak](https://www.wine-searcher.com/m/2026/04/white-wines-winning-streak?rss=Y)**
-  White wine is leaving red wine in the dust. How significantly are whites outpacing sales, what does it mean, and will th...
+- **[The Most Wanted Tequilas of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-tequilas-of-2026?rss=Y)**
+  Tequila has weathered the storms of the past two years relatively well, but one producer really stands out....
+
+### 📰 The Drinks Business
+
+![#WeekInPictures: Pinot Noir reimagined, fashion awards and London tastings](https://www.thedrinksbusiness.com/content/uploads/2026/04/image007-scaled.jpg)
+
+- **[#WeekInPictures: Pinot Noir reimagined, fashion awards and London tastings](https://www.thedrinksbusiness.com/2026/04/weekinpictures-pinot-noir-reimagined-fashion-awards-and-london-tastings/)**
+  From an unlikely Pinot Noir in Valpolicella to fashion week pours in Beverly Hills and a rum relaunch in London, the wee...
+  *关键词: launch*
+
+![‘There’s no one silver bullet’ for brewery survival except being ‘hyper-focused’ on consumer needs](https://www.thedrinksbusiness.com/content/uploads/2026/04/Craft-beer-success-scaled.jpg)
+
+- **[‘There’s no one silver bullet’ for brewery survival except being ‘hyper-focused’ on consumer needs](https://www.thedrinksbusiness.com/2026/04/theres-no-one-silver-bullet-for-brewery-survival-except-being-hyper-focused-on-consumer-needs/)**
+  Independent breweries have been warned that they cannot lean on the idea of a singular magical solution to success, but ...
+
+![Kentucky distiller charged with criminal loan deception](https://www.thedrinksbusiness.com/content/uploads/2026/04/Loan-scaled.jpg)
+
+- **[Kentucky distiller charged with criminal loan deception](https://www.thedrinksbusiness.com/2026/04/kentucky-distiller-charged-with-criminal-loan-deception/)**
+  A grand jury has charged Darron Dillow, co-owner of Limestone Farms Distillery, with "theft by deception" for allegedly ...
+
+![Spain’s most overlooked wines, according to the experts](https://www.thedrinksbusiness.com/content/uploads/2021/04/Spain-tiles.jpg)
+
+- **[Spain’s most overlooked wines, according to the experts](https://www.thedrinksbusiness.com/2026/04/spains-most-overlooked-wines-according-to-the-experts/)**
+  A historic rosé style and a little-known La Mancha sub-region are among the names tipped for wider acclaim, as db discov...
+
+![Tropical terroir: inside Bali’s budding wine scene](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2179032607-scaled.jpg)
+
+- **[Tropical terroir: inside Bali’s budding wine scene](https://www.thedrinksbusiness.com/2026/04/tropical-terroir-behind-the-scenes-of-balis-budding-wine-scene/)**
+  Amelie Maurice-Jones investigates how local producers, rising on-trade demand and shifting consumer attitudes are reshap...
 
 ### 📰 Decanter
 
-![DWWA judge profile: Alejandro Iglesias](https://cdn.mos.cms.futurecdn.net/JtuzacTHs5fzxpYj5r6fnE-1280-80.jpg)
+![Get to know South Africa’s old vines in six wines](https://cdn.mos.cms.futurecdn.net/2UhfgXYZ9uBufa8JC9QNE9-1280-80.gif)
 
-- **[DWWA judge profile: Alejandro Iglesias](https://www.decanter.com/awards-home/the-dwwa-judges/dwwa-judge-profile-alejandro-iglesias-391678)**
-  DWWA judge profile: Alejandro Iglesias...
-
-![The best wines to try on Malbec World Day](https://cdn.mos.cms.futurecdn.net/xRWKQoRC6jbUVE3o5oL8WK-1280-80.jpg)
-
-- **[The best wines to try on Malbec World Day](https://www.decanter.com/decanter-world-wine-awards/argentina-award-winning-wines-to-celebrate-malbec-world-day-436373)**
-  Top scoring Malbec wines from Decanter World Wine Awards......
-
-![Cult Italian winemakers: New chapters, new directions](https://cdn.mos.cms.futurecdn.net/hsoH7S349kH6pdjwFYQH3j-1280-80.jpg)
-
-- **[Cult Italian winemakers: New chapters, new directions](https://www.decanter.com/wine-reviews-tastings/cult-italian-winemakers-new-chapters-new-directions)**
-  Legends reborn......
+- **[Get to know South Africa’s old vines in six wines](https://www.decanter.com/learn/get-to-know-south-africas-old-vines-in-six-wines)**
+  A rare and precious resource......
 
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
-- **[Ikasu Brewing Leans into ‘Weird,’ ‘Good Beer’ and Japanese Culinary Ingredients](https://www.brewbound.com/podcast/ikasu-brewing-leans-into-weird-good-beer-and-japanese-culinary-ingredients)**
-  Ikasu Brewing founder Masahiro “Masa” Kitano believes his Los Angeles-based, contract-brewed brand plans to lean into “w...
+- **[BERO Lands in Walmart, Kroger and Publix Stores Nationwide](https://www.brewbound.com/news/bero-lands-in-walmart-kroger-and-publix-stores-nationwide)**
+  Non-alcoholic (NA) beer brand BERO has secured placements at major off-premise retailers, giving it nationwide presence ...
+  *关键词: expansion*
 
-- **[Cutwater and Surfside’s Triple-Digit Growth Boost Spirits Sales](https://www.brewbound.com/news/cutwater-and-surfsides-triple-digit-growth-boost-spirits-sales)**
-  With recent warmer weather comes an uptick in bev-alc dollar sales, which flipped to positive (+0.5%) in the two-week pe...
+- **[21st Amendment Brand Acquired by Evil Genius; Relaunches Distribution](https://www.brewbound.com/news/21st-amendment-brand-acquired-by-evil-genius-relaunches-distribution)**
+  Philadelphia’s Evil Genius Beer Co. has acquired the 21st Amendment (21A) brand, reviving its offerings after the 25-yea...
+  *关键词: launch, distribution*
 
-- **[Report: Sazerac Bid $15 Billion For Brown-Forman](https://www.brewbound.com/news/report-sazerac-bid-15-billion-for-brown-forman)**
-  Sazerac offered to acquire Brown-Forman for about $15 billion, according to a new report from the Wall Street Journal....
+- **[CBC 2026 Must-Hit Sessions: Taproom Profitability, Effective Marketing, Scaling for Distributing and Winning in Chains](https://www.brewbound.com/news/cbc-2026-must-hit-sessions-taproom-profitability-effective-marketing-scaling-for-distributing-and-winning-in-chains)**
+  The 2026 Craft Brewers Conference (CBC) is just days away. This year’s CBC may be shorter than previous incarnations, bu...
+  *关键词: market*
 
-- **[New on Shelves: RTDs from SunnyD, Post Meridiem, Vodkade and Rancho La Gloria](https://www.brewbound.com/news/new-on-shelves-rtds-from-sunnyd-post-meridiem-vodkade-and-rancho-la-gloria)**
-  In the latest RTD news, SunnyD brings back "purple stuff," Chandon takes a six-year swing at reinventing the spritz and ...
+- **[CBC 2026 Pre-Conference Reading List](https://www.brewbound.com/news/cbc-2026-pre-conference-reading-list)**
+  Headed to Philadelphia in the next few days for the 2026 Craft Brewers Conference (CBC)? We’ve compiled a list of the to...
+
+- **[Press Clips: Gambrinus/Trumer Layoffs, Ash & Elm Distro Expansion, Harpoon Bets on Boston & More](https://www.brewbound.com/news/press-clips-gambrinus-trumer-layoffs-ash-elm-distro-expansion-harpoon-bets-on-boston-more)**
+  Check out news items initially reported in the Brewbound Insider Newsletter April 16-17, including headlines from Gambri...
+  *关键词: expansion*
 
 ### 📰 The Spirits Business
 
-![Siberian Express vodka expands in Indian travel retail](https://www.thespiritsbusiness.com/content/uploads/2026/04/Siberian-Express-vodka.jpg)
+![Chilco River acquires Daru Whiskey](https://www.thespiritsbusiness.com/content/uploads/2026/04/Chilco.jpg)
 
-- **[Siberian Express vodka expands in Indian travel retail](https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/)**
-  Solex Group has introduced its Kazakh Siberian Express vodka into travel retail locations across India
-The post Siberian...
+- **[Chilco River acquires Daru Whiskey](https://www.thespiritsbusiness.com/2026/04/chilco-river-acquires-daru-whiskey/)**
+  California-based Chilco River Holdings has agreed to purchase Canadian brand Daru Whiskey
+The post Chilco River acquires...
 
-![Annandale makes ‘major breakthrough’ in net zero whisky](https://www.thespiritsbusiness.com/content/uploads/2026/04/Annandale-2.jpg)
+![Café del Mar Spirits eyes European expansion](https://www.thespiritsbusiness.com/content/uploads/2026/04/Cafe-del-Mar-Spirits.jpg)
 
-- **[Annandale makes ‘major breakthrough’ in net zero whisky](https://www.thespiritsbusiness.com/2026/04/annandale-makes-major-breakthrough-in-net-zero-whisky/)**
-  Scottish distillery Annandale has commissioned what it calls a 'world first’ decarbonisation system to heat its stills
-T...
+- **[Café del Mar Spirits eyes European expansion](https://www.thespiritsbusiness.com/2026/04/cafe-del-mar-spirits-eyes-european-expansion/)**
+  Balearic Drinks is set to expand the availability of its Café del Mar Spirits range this year in key European markets
+Th...
+  *关键词: expansion, market*
 
-![Middle East weighs on Pernod FY forecast](https://www.thespiritsbusiness.com/content/uploads/2025/10/Jameson-family.jpg)
+![Cocktail stories: Champs-Élysées 2.0](https://www.thespiritsbusiness.com/content/uploads/2026/04/Cocktail-Champs-Elysees-2.0lg.jpg)
 
-- **[Middle East weighs on Pernod FY forecast](https://www.thespiritsbusiness.com/2026/04/middle-east-weighs-on-pernod-fy-forecast/)**
-  Pernod Ricard sales stabilised during its third quarter but the Middle East conflict is expected to drag down its full-y...
+- **[Cocktail stories: Champs-Élysées 2.0](https://www.thespiritsbusiness.com/2026/04/cocktail-stories-champs-elysees-2-0/)**
+  Hennessy aims to revive a classic Cognac cocktail to celebrate an iconic Parisian avenue, with a 2026 twist
+The post Coc...
 
-![Toasts Not Tariffs fights for US hospitality survival](https://www.thespiritsbusiness.com/content/uploads/2025/02/American-whiskey-bourbon.png)
+![New board appointments at Campari Group](https://www.thespiritsbusiness.com/content/uploads/2025/11/Liqueurs-Campari.jpg)
 
-- **[Toasts Not Tariffs fights for US hospitality survival](https://www.thespiritsbusiness.com/2026/04/toast-not-tariffs-fights-for-us-hospitality-survival/)**
-  A coalition is urging the US government to exempt spirits from tariffs and secure the return of American products to Can...
+- **[New board appointments at Campari Group](https://www.thespiritsbusiness.com/2026/04/new-board-appointments-at-campari-group/)**
+  Campari Group has confirmed new appointments to its board of directors following the group’s annual general meeting
+The ...
 
-![Tilray aims to bring BrewDog back to $1bn valuation](https://www.thespiritsbusiness.com/content/uploads/2026/03/BrewDog-Las-Vegas-US.jpg)
+![Mumford & Sons star opens Mitsi in LA](https://www.thespiritsbusiness.com/content/uploads/2026/04/Mitsi-Junglebird_Cocktails_PatrickHuy.jpg)
 
-- **[Tilray aims to bring BrewDog back to $1bn valuation](https://www.thespiritsbusiness.com/2026/04/tilray-aims-to-bring-brewdog-back-to-1bn-valuation/)**
-  US beverage company Tilray Brands is hoping to return BrewDog to its previous billion-dollar valuation through reinvestm...
-  *关键词: investment*
+- **[Mumford & Sons star opens Mitsi in LA](https://www.thespiritsbusiness.com/2026/04/mumford-sons-star-opens-mitsi-in-la/)**
+  Mitsi has opened today as a ‘love letter’ to Los Angeles and the city’s creatives, created by Mumford & Sons’ Ben Lovett...
 
 ### 📰 Wine Enthusiast
 
-- **[Raise a Shot of Aguardiente to Karol G’s Historic Coachella Set](https://www.wineenthusiast.com/basics/aguardiente/)**
-  The anise-flavored liqueur, which Karol G sings about drinking at the club, has been considered Colombia’s unofficial na...
+![50 Years After the ‘Judgment of Paris,’ American Wine Is Once Again on a Precipice](https://www.wineenthusiast.com/wp-content/uploads/2023/05/Racking_Decorative_SUB_580x720_E.jpg)
+
+- **[50 Years After the ‘Judgment of Paris,’ American Wine Is Once Again on a Precipice](https://www.wineenthusiast.com/culture/judgment-of-paris-50th-anniversary/)**
+  50 years after that infamous tasting, California—and American wine at large—face a new set of far messier challenges.
+Th...
 
 
 ---
 
-*报告生成时间: 2026-04-17 03:00*  
+*报告生成时间: 2026-04-17 16:01*  
 *Antonelli Intelligence System*
