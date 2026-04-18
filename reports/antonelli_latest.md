@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 32 条
+- **新增资讯**: 28 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -42,6 +42,18 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Bordeaux "Got Lazy" after Parker](https://www.wine-searcher.com/images/news-rss/99/21/9921214243469e16d5e_parker1.jpg)
+
+- **[Bordeaux "Got Lazy" after Parker](https://www.wine-searcher.com/m/2026/04/bordeaux-got-lazy-after-parker?rss=Y)**
+  Bordeaux was changed by wine critic Robert Parker, but it wasn't always for the best, according to a major Bordeaux play...
+
+![The Most Wanted Tequilas of 2026](https://www.wine-searcher.com/images/news-rss/99/23/9923114246469e1634d_TeqMain.jpg)
+
+- **[The Most Wanted Tequilas of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-tequilas-of-2026?rss=Y)**
+  Tequila has weathered the storms of the past two years relatively well, but one producer really stands out....
+
 ### 📰 Decanter
 
 ![18 expert-endorsed Cerasuolo d’Abruzzo wines to track down](https://cdn.mos.cms.futurecdn.net/iLv3s6Pvu9JnBmqzuGZus3-1280-80.jpg)
@@ -53,13 +65,6 @@
 
 - **[Get to know South Africa’s old vines in six wines](https://www.decanter.com/learn/get-to-know-south-africas-old-vines-in-six-wines)**
   A rare and precious resource......
-
-### 📰 Wine-Searcher
-
-![The Most Wanted Tequilas of 2026](https://www.wine-searcher.com/images/news-rss/99/23/9923114246469e1634d_TeqMain.jpg)
-
-- **[The Most Wanted Tequilas of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-tequilas-of-2026?rss=Y)**
-  Tequila has weathered the storms of the past two years relatively well, but one producer really stands out....
 
 ### 📰 The Drinks Business
 
@@ -94,6 +99,9 @@
 
 ### 📰 Brewbound
 
+- **[Insider’s Week in Beer: PBR’s Curious Pickle Tradition](https://newsletter.bevnet.com/subscriber/07d2d81482274e4a9775a81bb0193f36)**
+  Now, what I’ve never seen in my decades of sitting in dive bars … is someone sticking a pickle spear into a beer. But, t...
+
 - **[BERO Lands in Walmart, Kroger and Publix Stores Nationwide](https://www.brewbound.com/news/bero-lands-in-walmart-kroger-and-publix-stores-nationwide)**
   Non-alcoholic (NA) beer brand BERO has secured placements at major off-premise retailers, giving it nationwide presence ...
   *关键词: expansion*
@@ -108,10 +116,6 @@
 
 - **[CBC 2026 Pre-Conference Reading List](https://www.brewbound.com/news/cbc-2026-pre-conference-reading-list)**
   Headed to Philadelphia in the next few days for the 2026 Craft Brewers Conference (CBC)? We’ve compiled a list of the to...
-
-- **[Press Clips: Gambrinus/Trumer Layoffs, Ash & Elm Distro Expansion, Harpoon Bets on Boston & More](https://www.brewbound.com/news/press-clips-gambrinus-trumer-layoffs-ash-elm-distro-expansion-harpoon-bets-on-boston-more)**
-  Check out news items initially reported in the Brewbound Insider Newsletter April 16-17, including headlines from Gambri...
-  *关键词: expansion*
 
 ### 📰 The Spirits Business
 
@@ -156,5 +160,5 @@ Th...
 
 ---
 
-*报告生成时间: 2026-04-18 03:00*  
+*报告生成时间: 2026-04-18 16:00*  
 *Antonelli Intelligence System*
