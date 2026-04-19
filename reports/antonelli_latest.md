@@ -1,7 +1,7 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-19  
-**来源**: 全球 2 个地区 · 3 个信源
+**来源**: 全球 1 个地区 · 2 个信源
 
 ---
 
@@ -47,24 +47,29 @@
 
 ## 🌍 欧洲
 
-### 📰 Decanter
-
-![Verdicchio: Multifaceted wines laden with soul](https://cdn.mos.cms.futurecdn.net/BY4UieQA8pXYQvVs4BuC77-1280-80.jpg)
-
-- **[Verdicchio: Multifaceted wines laden with soul](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/the-wines-of-verdicchio-multifaceted-and-laden-with-soul)**
-  A showcase of brilliant Italian whites......
-
-![18 expert-endorsed Cerasuolo d’Abruzzo wines to track down](https://cdn.mos.cms.futurecdn.net/iLv3s6Pvu9JnBmqzuGZus3-1280-80.jpg)
-
-- **[18 expert-endorsed Cerasuolo d’Abruzzo wines to track down](https://www.decanter.com/wine-reviews-tastings/18-expert-endorsed-cerasuolo-dabruzzo-wines-to-track-down)**
-  An Italian trailblazer......
-
 ### 📰 Wine-Searcher
+
+![Bordeaux Prices Likely to Rise](https://www.wine-searcher.com/images/news-rss/99/24/9924114248369e53c77_bordup2.jpg)
+
+- **[Bordeaux Prices Likely to Rise](https://www.wine-searcher.com/m/2026/04/bordeaux-prices-likely-to-rise?rss=Y)**
+  As Bordeaux En Primeur 2025 starts up, negociants, merchants and châteaux do their traditional dance over price....
 
 ![Bordeaux "Got Lazy" after Parker](https://www.wine-searcher.com/images/news-rss/99/21/9921214243469e16d5e_parker1.jpg)
 
 - **[Bordeaux "Got Lazy" after Parker](https://www.wine-searcher.com/m/2026/04/bordeaux-got-lazy-after-parker?rss=Y)**
   Bordeaux was changed by wine critic Robert Parker, but it wasn't always for the best, according to a major Bordeaux play...
+
+### 📰 Decanter
+
+![Honesty should be the best policy for wine critics](https://cdn.mos.cms.futurecdn.net/v2SsD4Ax8ucMdx9DWjWryM-1280-80.jpg)
+
+- **[Honesty should be the best policy for wine critics](https://www.decanter.com/wine-news/guest-blog/honesty-should-be-the-best-policy-for-wine-critics)**
+  Telling the truth......
+
+![Verdicchio: Multifaceted wines laden with soul](https://cdn.mos.cms.futurecdn.net/BY4UieQA8pXYQvVs4BuC77-1280-80.jpg)
+
+- **[Verdicchio: Multifaceted wines laden with soul](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/the-wines-of-verdicchio-multifaceted-and-laden-with-soul)**
+  A showcase of brilliant Italian whites......
 
 ### 📰 The Drinks Business
 
@@ -93,6 +98,16 @@
 
 - **[Insider’s Week in Beer: PBR’s Curious Pickle Tradition](https://newsletter.bevnet.com/subscriber/07d2d81482274e4a9775a81bb0193f36)**
   Now, what I’ve never seen in my decades of sitting in dive bars … is someone sticking a pickle spear into a beer. But, t...
+
+- **[BERO Lands in Walmart, Kroger and Publix Stores Nationwide](https://www.brewbound.com/news/bero-lands-in-walmart-kroger-and-publix-stores-nationwide)**
+  Non-alcoholic (NA) beer brand BERO has secured placements at major off-premise retailers, giving it nationwide presence ...
+  *关键词: expansion*
+
+- **[21st Amendment Brand Acquired by Evil Genius; Relaunches Distribution](https://www.brewbound.com/news/21st-amendment-brand-acquired-by-evil-genius-relaunches-distribution)**
+  Philadelphia’s Evil Genius Beer Co. has acquired the 21st Amendment (21A) brand, reviving its offerings after the 25-yea...
+  *关键词: launch, distribution*
+
+*📚 以上为近期内容*
 
 ### 📰 The Spirits Business
 
@@ -139,5 +154,5 @@ The post Don&#8217;...
 
 ---
 
-*报告生成时间: 2026-04-19 03:00*  
+*报告生成时间: 2026-04-19 16:00*  
 *Antonelli Intelligence System*
