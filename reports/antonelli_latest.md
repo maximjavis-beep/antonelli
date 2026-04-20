@@ -1,19 +1,47 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-19  
-**来源**: 全球 1 个地区 · 2 个信源
+**日期**: 2026-04-20  
+**来源**: 全球 3 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 4 条
+- **新增资讯**: 15 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
 
 
 ## 🌍 亚洲
+
+### 📰 The Shout
+
+![A beastly new indulgence](https://theshout.com.au/wp-content/uploads/2026/04/Fixed-KRAKEN-DARK-CARAMEL-DIGITAL_1200x900.jpg?w=780)
+
+- **[A beastly new indulgence](https://theshout.com.au/australias-1-brand-now-pouring-pinot-noir/)**
+  New from The No.1 Premium+ Rum in Australia comes a [&hellip;]...
+
+![Hospitality remains the most resilient shift work sector](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1431332828-femalebarworker.jpg?w=780)
+
+- **[Hospitality remains the most resilient shift work sector](https://theshout.com.au/hospitality-remains-the-most-resilient-shift-work-sector/)**
+  Deputy has published its ‘Big Shift Report 2026’, which takes a deep dive into Australia’s shift work industries and the...
+
+![Asahi and VRC announce new long-term beer partnership](https://theshout.com.au/wp-content/uploads/2026/04/iStock-865260374-flemingtonracecourse.jpg?w=780)
+
+- **[Asahi and VRC announce new long-term beer partnership](https://theshout.com.au/asahi-and-vrc-announce-new-long-term-beer-partnership/)**
+  Victoria Racing Club has announced a seven-year partnership with Asahi Beverages for the drinks offering at Flemington r...
+  *关键词: partnership*
+
+![Blind Boy Brewing redefines craft beer accessibility](https://theshout.com.au/wp-content/uploads/2026/04/Jacob-Blind-Boy.png?w=780)
+
+- **[Blind Boy Brewing redefines craft beer accessibility](https://theshout.com.au/blind-boy-brewing-redefines-accessibility-for-the-craft-beer-industry/)**
+  Founder Jacob Viel has turned the challenges of being legally blind into an award-winning brewery – bringing accessibili...
+
+![Eduardo Conde joins Rhubi as Brand Ambassador](https://theshout.com.au/wp-content/uploads/2026/04/EduardoCondeRhubiAmbassador.jpg?w=780)
+
+- **[Eduardo Conde joins Rhubi as Brand Ambassador](https://theshout.com.au/eduardo-conde-joins-rhubi-as-brand-ambassador/)**
+  Conde will help amplify Rhubi's presence across the on-premise, shaping serve development, menu integration and trade en...
 
 ### 📰 Nomunication
 
@@ -25,27 +53,47 @@
 
 *📚 以上为近期内容*
 
-### 📰 The Shout
-
-![Y Series secures NFL sponsorship deal](https://theshout.com.au/wp-content/uploads/2026/04/YSeriesNFLSponsorship.jpg?w=780)
-
-- **[Y Series secures NFL sponsorship deal](https://theshout.com.au/y-series-secures-nfl-sponsorship-deal/)**
-  South Australia’s Y Series has been named the Official Wine Sponsor of the National Football League (NFL) in Australia a...
-
-![IBA’s industry voice strengthened by membership surge](https://theshout.com.au/wp-content/uploads/2026/04/3-x-2-images-3.png?w=780)
-
-- **[IBA’s industry voice strengthened by membership surge](https://theshout.com.au/ibas-industry-voice-strengthened-by-membership-surge/)**
-  Focused on driving collective results, Chair Evin Craney says the IBA is well positioned to tackle persisting trade chal...
-
-![New report delivers gender equity insights for wine businesses](https://theshout.com.au/wp-content/uploads/2026/04/iStock-2242411459-womanworkingwinery.jpg?w=780)
-
-- **[New report delivers gender equity insights for wine businesses](https://theshout.com.au/new-report-delivers-gender-equity-insights-for-wine-businesses/)**
-  Wine industry communicator, Jane Thomson OAM, has authored the Post-CSW70 Insights Report, giving insights into gender e...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 欧洲
+
+### 📰 The Drinks Business
+
+![Tiny Scottish island gets go-ahead for new brewery](https://www.thedrinksbusiness.com/content/uploads/2025/11/pexels-cottonbro-5538252-scaled.jpg)
+
+- **[Tiny Scottish island gets go-ahead for new brewery](https://www.thedrinksbusiness.com/2026/04/tiny-scottish-island-gets-go-ahead-for-new-brewery/)**
+  Permission for a brewery to be built on the Scottish Isle of Gigha has been granted by the local authorities after conve...
+
+![Chef Dave Pynt to sit at the helm of People People Brewing Co](https://www.thedrinksbusiness.com/content/uploads/2026/04/Founder_-Dave-Pynt-_-PHOTO-CREDIT_-RYAN-LOH-scaled.jpg)
+
+- **[Chef Dave Pynt to sit at the helm of People People Brewing Co](https://www.thedrinksbusiness.com/2026/04/chef-dave-pynt-to-sit-at-the-helm-of-people-people-brewing-co/)**
+  The chef Dave Pynt, who is also the founder of Burnt Ends Hospitality Group, is set to take up a position as the head of...
+
+![Master Winemaker 100: Jesús Mendoza](https://www.thedrinksbusiness.com/content/uploads/2026/04/img_72-1-1-scaled.jpg)
+
+- **[Master Winemaker 100: Jesús Mendoza](https://www.thedrinksbusiness.com/2026/04/master-winemaker-100-jesus-mendoza-2/)**
+  Jesús Mendoza, head oenologist and technical director at Rioja’s Bodegas Remírez de Ganuza db about bottling terroir, dr...
+
+![HMRC quietly updates alcohol duty band](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2214472550.jpg)
+
+- **[HMRC quietly updates alcohol duty band](https://www.thedrinksbusiness.com/2026/04/hmrc-quietly-updates-alcohol-duty-band/)**
+  The UK Government has updated its alcohol duty classifications, revising how drinks are taxed according to strength. The...
+
+### 📰 Decanter
+
+![New book on Japanese wine offers 'comprehensive guide'](https://cdn.mos.cms.futurecdn.net/cPFkcZ9H68ZTJw62NVFAuf-1280-80.jpg)
+
+- **[New book on Japanese wine offers 'comprehensive guide'](https://www.decanter.com/learn/wine-books-latest-reviews/new-book-on-japanese-wine-offers-comprehensive-guide)**
+  Our reviewer finds a self-published gem......
+
+![$15 white Burgundy and magnums of Riesling: What our Burgundy expert drinks at home](https://cdn.mos.cms.futurecdn.net/GqAqKus4fbVrxHdUgKhcbb-1280-80.png)
+
+- **[$15 white Burgundy and magnums of Riesling: What our Burgundy expert drinks at home](https://www.decanter.com/wine/usd15-white-burgundy-and-magnums-of-riesling-what-our-burgundy-expert-drinks-at-home)**
+  It's not all Burgundy actually......
+
+![Honesty should be the best policy for wine critics](https://cdn.mos.cms.futurecdn.net/v2SsD4Ax8ucMdx9DWjWryM-1280-80.jpg)
+
+- **[Honesty should be the best policy for wine critics](https://www.decanter.com/wine-news/guest-blog/honesty-should-be-the-best-policy-for-wine-critics)**
+  Telling the truth......
 
 ### 📰 Wine-Searcher
 
@@ -54,45 +102,21 @@
 - **[Bordeaux Prices Likely to Rise](https://www.wine-searcher.com/m/2026/04/bordeaux-prices-likely-to-rise?rss=Y)**
   As Bordeaux En Primeur 2025 starts up, negociants, merchants and châteaux do their traditional dance over price....
 
-![Bordeaux "Got Lazy" after Parker](https://www.wine-searcher.com/images/news-rss/99/21/9921214243469e16d5e_parker1.jpg)
-
-- **[Bordeaux "Got Lazy" after Parker](https://www.wine-searcher.com/m/2026/04/bordeaux-got-lazy-after-parker?rss=Y)**
-  Bordeaux was changed by wine critic Robert Parker, but it wasn't always for the best, according to a major Bordeaux play...
-
-### 📰 Decanter
-
-![Honesty should be the best policy for wine critics](https://cdn.mos.cms.futurecdn.net/v2SsD4Ax8ucMdx9DWjWryM-1280-80.jpg)
-
-- **[Honesty should be the best policy for wine critics](https://www.decanter.com/wine-news/guest-blog/honesty-should-be-the-best-policy-for-wine-critics)**
-  Telling the truth......
-
-![Verdicchio: Multifaceted wines laden with soul](https://cdn.mos.cms.futurecdn.net/BY4UieQA8pXYQvVs4BuC77-1280-80.jpg)
-
-- **[Verdicchio: Multifaceted wines laden with soul](https://www.decanter.com/wine-reviews-tastings/wine-panel-tastings/the-wines-of-verdicchio-multifaceted-and-laden-with-soul)**
-  A showcase of brilliant Italian whites......
-
-### 📰 The Drinks Business
-
-![#WeekInPictures: Pinot Noir reimagined, fashion awards and London tastings](https://www.thedrinksbusiness.com/content/uploads/2026/04/image007-scaled.jpg)
-
-- **[#WeekInPictures: Pinot Noir reimagined, fashion awards and London tastings](https://www.thedrinksbusiness.com/2026/04/weekinpictures-pinot-noir-reimagined-fashion-awards-and-london-tastings/)**
-  From an unlikely Pinot Noir in Valpolicella to fashion week pours in Beverly Hills and a rum relaunch in London, the wee...
-  *关键词: launch*
-
-![‘There’s no one silver bullet’ for brewery survival except being ‘hyper-focused’ on consumer needs](https://www.thedrinksbusiness.com/content/uploads/2026/04/Craft-beer-success-scaled.jpg)
-
-- **[‘There’s no one silver bullet’ for brewery survival except being ‘hyper-focused’ on consumer needs](https://www.thedrinksbusiness.com/2026/04/theres-no-one-silver-bullet-for-brewery-survival-except-being-hyper-focused-on-consumer-needs/)**
-  Independent breweries have been warned that they cannot lean on the idea of a singular magical solution to success, but ...
-
-![Kentucky distiller charged with criminal loan deception](https://www.thedrinksbusiness.com/content/uploads/2026/04/Loan-scaled.jpg)
-
-- **[Kentucky distiller charged with criminal loan deception](https://www.thedrinksbusiness.com/2026/04/kentucky-distiller-charged-with-criminal-loan-deception/)**
-  A grand jury has charged Darron Dillow, co-owner of Limestone Farms Distillery, with "theft by deception" for allegedly ...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![The big interview: Helen Medina on leading the WSA](https://www.thespiritsbusiness.com/content/uploads/2026/04/MAIN-IMAGE-Helen-Medina-WSAlg.jpg)
+
+- **[The big interview: Helen Medina on leading the WSA](https://www.thespiritsbusiness.com/2026/04/the-big-interview-helen-medina-on-leading-the-wsa/)**
+  Helen Medina, the first CEO of the World Spirits Alliance, explains how the organisation is helping global policymakers ...
+
+![Chicago Rum Fest returns for its 10th year](https://www.thespiritsbusiness.com/content/uploads/2026/04/Chicago-Rum-Fest.jpg)
+
+- **[Chicago Rum Fest returns for its 10th year](https://www.thespiritsbusiness.com/2026/04/chicago-rum-fest-returns-for-its-10th-year/)**
+  The Rum Lab will return to Logan Square Auditorium on 25 April to host the 10th edition of the Chicago Rum Festival
+The ...
 
 ### 📰 Brewbound
 
@@ -106,29 +130,6 @@
 - **[21st Amendment Brand Acquired by Evil Genius; Relaunches Distribution](https://www.brewbound.com/news/21st-amendment-brand-acquired-by-evil-genius-relaunches-distribution)**
   Philadelphia’s Evil Genius Beer Co. has acquired the 21st Amendment (21A) brand, reviving its offerings after the 25-yea...
   *关键词: launch, distribution*
-
-*📚 以上为近期内容*
-
-### 📰 The Spirits Business
-
-![Chilco River acquires Daru Whiskey](https://www.thespiritsbusiness.com/content/uploads/2026/04/Chilco.jpg)
-
-- **[Chilco River acquires Daru Whiskey](https://www.thespiritsbusiness.com/2026/04/chilco-river-acquires-daru-whiskey/)**
-  California-based Chilco River Holdings has agreed to purchase Canadian brand Daru Whiskey
-The post Chilco River acquires...
-
-![Café del Mar Spirits eyes European expansion](https://www.thespiritsbusiness.com/content/uploads/2026/04/Cafe-del-Mar-Spirits.jpg)
-
-- **[Café del Mar Spirits eyes European expansion](https://www.thespiritsbusiness.com/2026/04/cafe-del-mar-spirits-eyes-european-expansion/)**
-  Balearic Drinks is set to expand the availability of its Café del Mar Spirits range this year in key European markets
-Th...
-  *关键词: expansion, market*
-
-![Cocktail stories: Champs-Élysées 2.0](https://www.thespiritsbusiness.com/content/uploads/2026/04/Cocktail-Champs-Elysees-2.0lg.jpg)
-
-- **[Cocktail stories: Champs-Élysées 2.0](https://www.thespiritsbusiness.com/2026/04/cocktail-stories-champs-elysees-2-0/)**
-  Hennessy aims to revive a classic Cognac cocktail to celebrate an iconic Parisian avenue, with a 2026 twist
-The post Coc...
 
 *📚 以上为近期内容*
 
@@ -154,5 +155,5 @@ The post Don&#8217;...
 
 ---
 
-*报告生成时间: 2026-04-19 16:00*  
+*报告生成时间: 2026-04-20 03:00*  
 *Antonelli Intelligence System*
