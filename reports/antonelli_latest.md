@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-20  
-**来源**: 全球 3 个地区 · 5 个信源
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 15 条
+- **新增资讯**: 31 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -16,6 +16,12 @@
 ## 🌍 亚洲
 
 ### 📰 The Shout
+
+![Wednesday Women: Joanna Steuart on moving the needle in hospitality marketing](https://theshout.com.au/wp-content/uploads/2026/04/Joanna-Steuart-e1775629053233.jpg?w=780)
+
+- **[Wednesday Women: Joanna Steuart on moving the needle in hospitality marketing](https://theshout.com.au/wednesday-women-joanna-steuart-on-moving-the-needle-in-hospitality-marketing/)**
+  Applejack's Director of Marketing and Partnerships reflects on the full spectrum of hospitality marketing – from AI adop...
+  *关键词: partnership, market*
 
 ![A beastly new indulgence](https://theshout.com.au/wp-content/uploads/2026/04/Fixed-KRAKEN-DARK-CARAMEL-DIGITAL_1200x900.jpg?w=780)
 
@@ -38,11 +44,6 @@
 - **[Blind Boy Brewing redefines craft beer accessibility](https://theshout.com.au/blind-boy-brewing-redefines-accessibility-for-the-craft-beer-industry/)**
   Founder Jacob Viel has turned the challenges of being legally blind into an award-winning brewery – bringing accessibili...
 
-![Eduardo Conde joins Rhubi as Brand Ambassador](https://theshout.com.au/wp-content/uploads/2026/04/EduardoCondeRhubiAmbassador.jpg?w=780)
-
-- **[Eduardo Conde joins Rhubi as Brand Ambassador](https://theshout.com.au/eduardo-conde-joins-rhubi-as-brand-ambassador/)**
-  Conde will help amplify Rhubi's presence across the on-premise, shaping serve development, menu integration and trade en...
-
 ### 📰 Nomunication
 
 - **[You can now visit Suntory’s oldest distillery, and it’s in downtown Osaka](https://www.nomunication.jp/2026/04/18/you-can-now-visit-suntorys-oldest-distillery-and-its-in-downtown-osaka/)**
@@ -56,27 +57,42 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Wine Tariff Refunds on the Way](https://www.wine-searcher.com/images/news-rss/99/25/9925014251369e6a962_tariff1.jpg)
+
+- **[Wine Tariff Refunds on the Way](https://www.wine-searcher.com/m/2026/04/wine-tariff-refunds-on-the-way?rss=Y)**
+  At last, some good news for the wine industry: tariff refunds applications are open....
+
 ### 📰 The Drinks Business
 
-![Tiny Scottish island gets go-ahead for new brewery](https://www.thedrinksbusiness.com/content/uploads/2025/11/pexels-cottonbro-5538252-scaled.jpg)
+![Hospitality faces steepest cost surge as UK ‘inflation gap’ widens](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2256450243.jpg)
 
-- **[Tiny Scottish island gets go-ahead for new brewery](https://www.thedrinksbusiness.com/2026/04/tiny-scottish-island-gets-go-ahead-for-new-brewery/)**
-  Permission for a brewery to be built on the Scottish Isle of Gigha has been granted by the local authorities after conve...
+- **[Hospitality faces steepest cost surge as UK ‘inflation gap’ widens](https://www.thedrinksbusiness.com/2026/04/hospitality-faces-steepest-cost-surge-as-uk-inflation-gap-widens/)**
+  New research shows the day-to-day cost of running small and medium-sized businesses has outpaced consumer inflation by 1...
 
-![Chef Dave Pynt to sit at the helm of People People Brewing Co](https://www.thedrinksbusiness.com/content/uploads/2026/04/Founder_-Dave-Pynt-_-PHOTO-CREDIT_-RYAN-LOH-scaled.jpg)
+![Dorset sparkling wine vineyard for sale for over £1m](https://www.thedrinksbusiness.com/content/uploads/2026/04/muston-vineyard-from-air-1024x670-1.webp)
 
-- **[Chef Dave Pynt to sit at the helm of People People Brewing Co](https://www.thedrinksbusiness.com/2026/04/chef-dave-pynt-to-sit-at-the-helm-of-people-people-brewing-co/)**
-  The chef Dave Pynt, who is also the founder of Burnt Ends Hospitality Group, is set to take up a position as the head of...
+- **[Dorset sparkling wine vineyard for sale for over £1m](https://www.thedrinksbusiness.com/2026/04/dorset-sparkling-wine-vineyard-for-sale-for-over-1m/)**
+  A Dorset vineyard planted with classic sparkling wine grapes has been put up for sale with scope for expansion and touri...
+  *关键词: expansion*
 
-![Master Winemaker 100: Jesús Mendoza](https://www.thedrinksbusiness.com/content/uploads/2026/04/img_72-1-1-scaled.jpg)
+![Concha y Toro launches new subsidiary focusing on Chardonnay and Pinot from Limarí](https://www.thedrinksbusiness.com/content/uploads/2026/04/Vinedo-Quebrada-Seca_06-scaled.jpg)
 
-- **[Master Winemaker 100: Jesús Mendoza](https://www.thedrinksbusiness.com/2026/04/master-winemaker-100-jesus-mendoza-2/)**
-  Jesús Mendoza, head oenologist and technical director at Rioja’s Bodegas Remírez de Ganuza db about bottling terroir, dr...
+- **[Concha y Toro launches new subsidiary focusing on Chardonnay and Pinot from Limarí](https://www.thedrinksbusiness.com/2026/04/concha-y-toro-launches-new-subsidiary-focusing-on-chardonnay-and-pinot-from-limari/)**
+  Viña Concha y Toro has spun out Viña Amelia into a new subsidiary that will focus exclusively on its "exceptional" Chard...
+  *关键词: launch*
 
-![HMRC quietly updates alcohol duty band](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2214472550.jpg)
+![AI will help wine sales in hospitality but won’t replace humans](https://www.thedrinksbusiness.com/content/uploads/2026/04/sommelier-stuff-1536x1024-1.jpg)
 
-- **[HMRC quietly updates alcohol duty band](https://www.thedrinksbusiness.com/2026/04/hmrc-quietly-updates-alcohol-duty-band/)**
-  The UK Government has updated its alcohol duty classifications, revising how drinks are taxed according to strength. The...
+- **[AI will help wine sales in hospitality but won’t replace humans](https://www.thedrinksbusiness.com/2026/04/ai-will-help-wine-sales-in-hospitality-but-wont-replace-humans/)**
+  As Artificial intelligence becomes increasingly embedded in hospitality, db hosted a webinar earlier this year to see ho...
+
+![Nyetimber appoints Steven Edwards as executive chef](https://www.thedrinksbusiness.com/content/uploads/2026/04/image001.jpg)
+
+- **[Nyetimber appoints Steven Edwards as executive chef](https://www.thedrinksbusiness.com/2026/04/nyetimber-appoints-steven-edwards-as-executive-chef/)**
+  English sparkling wine producer Nyetimber has appointed MasterChef: The Professionals winner Steven Edwards to lead its ...
+  *关键词: launch*
 
 ### 📰 Decanter
 
@@ -90,48 +106,56 @@
 - **[$15 white Burgundy and magnums of Riesling: What our Burgundy expert drinks at home](https://www.decanter.com/wine/usd15-white-burgundy-and-magnums-of-riesling-what-our-burgundy-expert-drinks-at-home)**
   It's not all Burgundy actually......
 
-![Honesty should be the best policy for wine critics](https://cdn.mos.cms.futurecdn.net/v2SsD4Ax8ucMdx9DWjWryM-1280-80.jpg)
-
-- **[Honesty should be the best policy for wine critics](https://www.decanter.com/wine-news/guest-blog/honesty-should-be-the-best-policy-for-wine-critics)**
-  Telling the truth......
-
-### 📰 Wine-Searcher
-
-![Bordeaux Prices Likely to Rise](https://www.wine-searcher.com/images/news-rss/99/24/9924114248369e53c77_bordup2.jpg)
-
-- **[Bordeaux Prices Likely to Rise](https://www.wine-searcher.com/m/2026/04/bordeaux-prices-likely-to-rise?rss=Y)**
-  As Bordeaux En Primeur 2025 starts up, negociants, merchants and châteaux do their traditional dance over price....
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![The big interview: Helen Medina on leading the WSA](https://www.thespiritsbusiness.com/content/uploads/2026/04/MAIN-IMAGE-Helen-Medina-WSAlg.jpg)
-
-- **[The big interview: Helen Medina on leading the WSA](https://www.thespiritsbusiness.com/2026/04/the-big-interview-helen-medina-on-leading-the-wsa/)**
-  Helen Medina, the first CEO of the World Spirits Alliance, explains how the organisation is helping global policymakers ...
-
-![Chicago Rum Fest returns for its 10th year](https://www.thespiritsbusiness.com/content/uploads/2026/04/Chicago-Rum-Fest.jpg)
-
-- **[Chicago Rum Fest returns for its 10th year](https://www.thespiritsbusiness.com/2026/04/chicago-rum-fest-returns-for-its-10th-year/)**
-  The Rum Lab will return to Logan Square Auditorium on 25 April to host the 10th edition of the Chicago Rum Festival
-The ...
-
 ### 📰 Brewbound
 
-- **[Insider’s Week in Beer: PBR’s Curious Pickle Tradition](https://newsletter.bevnet.com/subscriber/07d2d81482274e4a9775a81bb0193f36)**
-  Now, what I’ve never seen in my decades of sitting in dive bars … is someone sticking a pickle spear into a beer. But, t...
+- **[Brewers Association Reimagines 2026 CBC for Post-Boom Years, Sets Stage for Mature Market](https://www.brewbound.com/news/brewers-association-reimagines-2026-cbc-for-post-boom-years-sets-stage-for-mature-market)**
+  The 2026 edition of the Brewers Association’s Craft Brewers Conference (in Philadelphia (April 20-22) arrives amid turbu...
+  *关键词: market*
 
-- **[BERO Lands in Walmart, Kroger and Publix Stores Nationwide](https://www.brewbound.com/news/bero-lands-in-walmart-kroger-and-publix-stores-nationwide)**
-  Non-alcoholic (NA) beer brand BERO has secured placements at major off-premise retailers, giving it nationwide presence ...
+- **[Proposed Hemp Bev Bill Allows States To Opt Out Of November Ban](https://www.brewbound.com/news/proposed-hemp-bev-bill-allows-states-to-opt-out-of-november-ban)**
+  Senator Rand Paul (R-KY) proposed legislation last week that would allow states to respectively determine the future of ...
+
+- **[NBWA/Fintech Q1 Update: Are High Gas Prices Good For Beer?](https://www.brewbound.com/news/nbwa-fintech-q1-update-are-high-gas-prices-good-for-beer)**
+  Rising gas prices may be bad for consumers’ wallets, but increased costs and their impact on shopping habits may actuall...
+
+- **[Run The Jewels’ Juice Runners Lands $2M For Expansion](https://www.brewbound.com/news/run-the-jewels-juice-runners-lands-2m-for-expansion)**
+  The ready-to-drink (RTD) cocktail from Hip-Hop duo Run The Jewels has closed a $2 million seed round....
   *关键词: expansion*
 
-- **[21st Amendment Brand Acquired by Evil Genius; Relaunches Distribution](https://www.brewbound.com/news/21st-amendment-brand-acquired-by-evil-genius-relaunches-distribution)**
-  Philadelphia’s Evil Genius Beer Co. has acquired the 21st Amendment (21A) brand, reviving its offerings after the 25-yea...
-  *关键词: launch, distribution*
+### 📰 The Spirits Business
 
-*📚 以上为近期内容*
+![Run The Jewels gains $2m investment for RTDs](https://www.thespiritsbusiness.com/content/uploads/2026/04/Juice-Runners.jpg)
+
+- **[Run The Jewels gains $2m investment for RTDs](https://www.thespiritsbusiness.com/2026/04/run-the-jewels-gains-2m-investment-for-rtds/)**
+  Juice Runners, the ready-to-drink brand from hip-hop duo Run The Jewels, has raised US$2 million in a seed funding round...
+  *关键词: investment*
+
+![Glengoyne creates Signature whisky for supermarkets](https://www.thespiritsbusiness.com/content/uploads/2026/04/Glengoyne-Signature-1.jpg)
+
+- **[Glengoyne creates Signature whisky for supermarkets](https://www.thespiritsbusiness.com/2026/04/glengoyne-creates-signature-whisky-for-supermarkets/)**
+  Ian Macleod Distillers has launched a grocery-exclusive Glengoyne single malt called Signature
+The post Glengoyne create...
+  *关键词: launch, market*
+
+![Westminster licensing consultation could be ‘unlawful’](https://www.thespiritsbusiness.com/content/uploads/2026/04/Soho-Westminster-iStock-1330661521.jpg)
+
+- **[Westminster licensing consultation could be ‘unlawful’](https://www.thespiritsbusiness.com/2026/04/westminster-licensing-consultation-branded-unlawful/)**
+  The Night Time Industries Association has criticised the Westminster City Council over its nightlife consultation
+The po...
+
+![Four Pillars launches Three Peach Gin](https://www.thespiritsbusiness.com/content/uploads/2026/04/Four-Pillars-Three-Peach-Gin.jpg)
+
+- **[Four Pillars launches Three Peach Gin](https://www.thespiritsbusiness.com/2026/04/four-pillars-launches-three-peach-gin/)**
+  Australian distillery Four Pillars has launched a limited edition Three Peach Gin, which is designed to stand out in coc...
+  *关键词: launch*
+
+![Colombian firm ILC on building a circular spirits model](https://www.thespiritsbusiness.com/content/uploads/2026/04/ILC-forest.jpg)
+
+- **[Colombian firm ILC on building a circular spirits model](https://www.thespiritsbusiness.com/2026/04/colombian-firm-ilc-on-building-a-circular-spirits-model/)**
+  Industria Licorera de Caldas is on a mission to be recognised as a global leader in sustainability within spirits by 203...
 
 ### 📰 Wine Enthusiast
 
@@ -155,5 +179,5 @@ The post Don&#8217;...
 
 ---
 
-*报告生成时间: 2026-04-20 03:00*  
+*报告生成时间: 2026-04-20 16:00*  
 *Antonelli Intelligence System*
