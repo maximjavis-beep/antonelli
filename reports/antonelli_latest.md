@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-20  
+**日期**: 2026-04-21  
 **来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 31 条
+- **新增资讯**: 39 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,84 +17,63 @@
 
 ### 📰 The Shout
 
+![TAB Live approved in Victoria and NSW](https://theshout.com.au/wp-content/uploads/2026/04/Tabcorp-retail-LR.jpg?w=780)
+
+- **[TAB Live approved in Victoria and NSW](https://theshout.com.au/tab-live-approved-in-victoria-and-nsw/)**
+  Tabcorp's in-play live betting feature, TAB Live, will be rolling out to NSW and Victorian venues in the coming weeks....
+
 ![Wednesday Women: Joanna Steuart on moving the needle in hospitality marketing](https://theshout.com.au/wp-content/uploads/2026/04/Joanna-Steuart-e1775629053233.jpg?w=780)
 
 - **[Wednesday Women: Joanna Steuart on moving the needle in hospitality marketing](https://theshout.com.au/wednesday-women-joanna-steuart-on-moving-the-needle-in-hospitality-marketing/)**
   Applejack's Director of Marketing and Partnerships reflects on the full spectrum of hospitality marketing – from AI adop...
   *关键词: partnership, market*
 
-![A beastly new indulgence](https://theshout.com.au/wp-content/uploads/2026/04/Fixed-KRAKEN-DARK-CARAMEL-DIGITAL_1200x900.jpg?w=780)
-
-- **[A beastly new indulgence](https://theshout.com.au/australias-1-brand-now-pouring-pinot-noir/)**
-  New from The No.1 Premium+ Rum in Australia comes a [&hellip;]...
-
-![Hospitality remains the most resilient shift work sector](https://theshout.com.au/wp-content/uploads/2026/04/iStock-1431332828-femalebarworker.jpg?w=780)
-
-- **[Hospitality remains the most resilient shift work sector](https://theshout.com.au/hospitality-remains-the-most-resilient-shift-work-sector/)**
-  Deputy has published its ‘Big Shift Report 2026’, which takes a deep dive into Australia’s shift work industries and the...
-
-![Asahi and VRC announce new long-term beer partnership](https://theshout.com.au/wp-content/uploads/2026/04/iStock-865260374-flemingtonracecourse.jpg?w=780)
-
-- **[Asahi and VRC announce new long-term beer partnership](https://theshout.com.au/asahi-and-vrc-announce-new-long-term-beer-partnership/)**
-  Victoria Racing Club has announced a seven-year partnership with Asahi Beverages for the drinks offering at Flemington r...
-  *关键词: partnership*
-
-![Blind Boy Brewing redefines craft beer accessibility](https://theshout.com.au/wp-content/uploads/2026/04/Jacob-Blind-Boy.png?w=780)
-
-- **[Blind Boy Brewing redefines craft beer accessibility](https://theshout.com.au/blind-boy-brewing-redefines-accessibility-for-the-craft-beer-industry/)**
-  Founder Jacob Viel has turned the challenges of being legally blind into an award-winning brewery – bringing accessibili...
-
 ### 📰 Nomunication
 
 - **[You can now visit Suntory’s oldest distillery, and it’s in downtown Osaka](https://www.nomunication.jp/2026/04/18/you-can-now-visit-suntorys-oldest-distillery-and-its-in-downtown-osaka/)**
   Great news out of Suntory this past week: the company&#8217;s Osaka Factory&#8211;their oldest distillery&#8211;will for...
-
-- **[You can now look for the JSLMA Japanese Whisky logo on your bottles](https://www.nomunication.jp/2026/04/14/you-can-now-look-for-the-jslma-japanese-whisky-logo-on-your-bottles/)**
-  A year ago we reported on the Japan Spirits &#38; Liqueurs Makers Association&#8217;s (JSLMA) three-pronged plan to codi...
 
 *📚 以上为近期内容*
 
 
 ## 🌍 欧洲
 
-### 📰 Wine-Searcher
-
-![Wine Tariff Refunds on the Way](https://www.wine-searcher.com/images/news-rss/99/25/9925014251369e6a962_tariff1.jpg)
-
-- **[Wine Tariff Refunds on the Way](https://www.wine-searcher.com/m/2026/04/wine-tariff-refunds-on-the-way?rss=Y)**
-  At last, some good news for the wine industry: tariff refunds applications are open....
-
 ### 📰 The Drinks Business
 
-![Hospitality faces steepest cost surge as UK ‘inflation gap’ widens](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2256450243.jpg)
+![UK national jailed for 10 years over US$97m fine wine fraud](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-157281670-scaled.jpg)
 
-- **[Hospitality faces steepest cost surge as UK ‘inflation gap’ widens](https://www.thedrinksbusiness.com/2026/04/hospitality-faces-steepest-cost-surge-as-uk-inflation-gap-widens/)**
-  New research shows the day-to-day cost of running small and medium-sized businesses has outpaced consumer inflation by 1...
+- **[UK national jailed for 10 years over US$97m fine wine fraud](https://www.thedrinksbusiness.com/2026/04/uk-national-jailed-for-10-years-over-us97m-fine-wine-fraud/)**
+  A London-based fraudster has been sentenced in New York after orchestrating a global wine investment scam that defrauded...
+  *关键词: investment*
 
-![Dorset sparkling wine vineyard for sale for over £1m](https://www.thedrinksbusiness.com/content/uploads/2026/04/muston-vineyard-from-air-1024x670-1.webp)
+![All the medallists from The Champagne Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2021/03/Champagne-Masters-17-Entry-Form-1-350x350.jpg)
 
-- **[Dorset sparkling wine vineyard for sale for over £1m](https://www.thedrinksbusiness.com/2026/04/dorset-sparkling-wine-vineyard-for-sale-for-over-1m/)**
-  A Dorset vineyard planted with classic sparkling wine grapes has been put up for sale with scope for expansion and touri...
-  *关键词: expansion*
+- **[All the medallists from The Champagne Masters 2026](https://www.thedrinksbusiness.com/2026/04/all-the-medallists-from-the-champagne-masters-2026/)**
+  Refined production processes and – paradoxically – difficult trading conditions are creating Champagnes of supreme quali...
 
-![Concha y Toro launches new subsidiary focusing on Chardonnay and Pinot from Limarí](https://www.thedrinksbusiness.com/content/uploads/2026/04/Vinedo-Quebrada-Seca_06-scaled.jpg)
+![Kweichow Moutai profits fall as China alcohol demand softens](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1452944278-scaled-e1680772329320-1280x919-1.jpg)
 
-- **[Concha y Toro launches new subsidiary focusing on Chardonnay and Pinot from Limarí](https://www.thedrinksbusiness.com/2026/04/concha-y-toro-launches-new-subsidiary-focusing-on-chardonnay-and-pinot-from-limari/)**
-  Viña Concha y Toro has spun out Viña Amelia into a new subsidiary that will focus exclusively on its "exceptional" Chard...
-  *关键词: launch*
+- **[Kweichow Moutai profits fall as China alcohol demand softens](https://www.thedrinksbusiness.com/2026/04/kweichow-moutai-profits-fall-as-china-alcohol-demand-softens/)**
+  Kweichow Moutai has reported its first annual decline in profits and revenue in more than two decades, highlighting weak...
 
-![AI will help wine sales in hospitality but won’t replace humans](https://www.thedrinksbusiness.com/content/uploads/2026/04/sommelier-stuff-1536x1024-1.jpg)
+![How ‘precision viticulture’ defines Mar de Frades Albariño](https://www.thedrinksbusiness.com/content/uploads/2026/04/Mar-de-Frades.jpg)
 
-- **[AI will help wine sales in hospitality but won’t replace humans](https://www.thedrinksbusiness.com/2026/04/ai-will-help-wine-sales-in-hospitality-but-wont-replace-humans/)**
-  As Artificial intelligence becomes increasingly embedded in hospitality, db hosted a webinar earlier this year to see ho...
+- **[How ‘precision viticulture’ defines Mar de Frades Albariño](https://www.thedrinksbusiness.com/2026/04/how-precision-viticulture-defines-mar-de-frades-albarino/)**
+  Mar de Frades encapsulates Albariño's complexity and why it should stand among the world's great white wines.
+The post H...
 
-![Nyetimber appoints Steven Edwards as executive chef](https://www.thedrinksbusiness.com/content/uploads/2026/04/image001.jpg)
+![The trends driving India’s craft beer revolution](https://www.thedrinksbusiness.com/content/uploads/2026/02/Indian-beer-scaled.jpg)
 
-- **[Nyetimber appoints Steven Edwards as executive chef](https://www.thedrinksbusiness.com/2026/04/nyetimber-appoints-steven-edwards-as-executive-chef/)**
-  English sparkling wine producer Nyetimber has appointed MasterChef: The Professionals winner Steven Edwards to lead its ...
-  *关键词: launch*
+- **[The trends driving India’s craft beer revolution](https://www.thedrinksbusiness.com/2026/04/the-trends-driving-indias-craft-beer-revolution/)**
+  India’s craft beer sector has been forecast to reach US$1 billion by 2027 in what is being described as the market’s “gr...
+  *关键词: expansion, market, trend*
 
 ### 📰 Decanter
+
+![Bari city guide for wine lovers: Where to eat and drink in the capital of Puglia](https://cdn.mos.cms.futurecdn.net/ovDWN6u9ukqGDnJPy4bFM4-1280-80.jpg)
+
+- **[Bari city guide for wine lovers: Where to eat and drink in the capital of Puglia](https://www.decanter.com/wine-travel/bari-city-guide-for-wine-lovers-where-to-eat-and-drink-in-the-capital-of-puglia)**
+  Plan your perfect trip......
 
 ![New book on Japanese wine offers 'comprehensive guide'](https://cdn.mos.cms.futurecdn.net/cPFkcZ9H68ZTJw62NVFAuf-1280-80.jpg)
 
@@ -106,10 +85,20 @@
 - **[$15 white Burgundy and magnums of Riesling: What our Burgundy expert drinks at home](https://www.decanter.com/wine/usd15-white-burgundy-and-magnums-of-riesling-what-our-burgundy-expert-drinks-at-home)**
   It's not all Burgundy actually......
 
+### 📰 Wine-Searcher
+
+![Wine Tariff Refunds on the Way](https://www.wine-searcher.com/images/news-rss/99/25/9925014251369e6a962_tariff1.jpg)
+
+- **[Wine Tariff Refunds on the Way](https://www.wine-searcher.com/m/2026/04/wine-tariff-refunds-on-the-way?rss=Y)**
+  At last, some good news for the wine industry: tariff refunds applications are open....
+
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
+
+- **[Stone Brewing Sold to Firestone Walker and Duvel USA](https://www.brewbound.com/news/stone-brewing-sold-to-firestone-walker-and-duvel-usa)**
+  Firestone Walker and Duvel USA have inked a “definitive agreement” to acquire the Stone Brewing brand from Sapporo USA....
 
 - **[Brewers Association Reimagines 2026 CBC for Post-Boom Years, Sets Stage for Mature Market](https://www.brewbound.com/news/brewers-association-reimagines-2026-cbc-for-post-boom-years-sets-stage-for-mature-market)**
   The 2026 edition of the Brewers Association’s Craft Brewers Conference (in Philadelphia (April 20-22) arrives amid turbu...
@@ -126,6 +115,18 @@
   *关键词: expansion*
 
 ### 📰 The Spirits Business
+
+![Campari brings Aperol Spritz to can format](https://www.thespiritsbusiness.com/content/uploads/2026/04/Aperol-Spritz-To-Go.jpg)
+
+- **[Campari brings Aperol Spritz to can format](https://www.thespiritsbusiness.com/2026/04/campari-brings-aperol-spritz-to-can-format/)**
+  Italy's Campari Group has introduced a canned lower-ABV version of its bottled Aperol Spritz
+The post Campari brings Ape...
+
+![Lucas Bols kicks off cocktail contest](https://www.thespiritsbusiness.com/content/uploads/2026/04/Lucas-Bols-Cocktail-Battle-North-America.jpg)
+
+- **[Lucas Bols kicks off cocktail contest](https://www.thespiritsbusiness.com/2026/04/lucas-bols-kicks-off-cocktail-contest/)**
+  The Bols Cocktail Battle in North America has launched to showcase ‘bold, visually driven cocktails’ and modern drinking...
+  *关键词: launch*
 
 ![Run The Jewels gains $2m investment for RTDs](https://www.thespiritsbusiness.com/content/uploads/2026/04/Juice-Runners.jpg)
 
@@ -145,17 +146,6 @@ The post Glengoyne create...
 - **[Westminster licensing consultation could be ‘unlawful’](https://www.thespiritsbusiness.com/2026/04/westminster-licensing-consultation-branded-unlawful/)**
   The Night Time Industries Association has criticised the Westminster City Council over its nightlife consultation
 The po...
-
-![Four Pillars launches Three Peach Gin](https://www.thespiritsbusiness.com/content/uploads/2026/04/Four-Pillars-Three-Peach-Gin.jpg)
-
-- **[Four Pillars launches Three Peach Gin](https://www.thespiritsbusiness.com/2026/04/four-pillars-launches-three-peach-gin/)**
-  Australian distillery Four Pillars has launched a limited edition Three Peach Gin, which is designed to stand out in coc...
-  *关键词: launch*
-
-![Colombian firm ILC on building a circular spirits model](https://www.thespiritsbusiness.com/content/uploads/2026/04/ILC-forest.jpg)
-
-- **[Colombian firm ILC on building a circular spirits model](https://www.thespiritsbusiness.com/2026/04/colombian-firm-ilc-on-building-a-circular-spirits-model/)**
-  Industria Licorera de Caldas is on a mission to be recognised as a global leader in sustainability within spirits by 203...
 
 ### 📰 Wine Enthusiast
 
@@ -179,5 +169,5 @@ The post Don&#8217;...
 
 ---
 
-*报告生成时间: 2026-04-20 16:00*  
+*报告生成时间: 2026-04-21 03:00*  
 *Antonelli Intelligence System*
