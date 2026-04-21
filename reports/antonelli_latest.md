@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
 **日期**: 2026-04-21  
-**来源**: 全球 3 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 39 条
+- **新增资讯**: 40 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,16 +17,20 @@
 
 ### 📰 The Shout
 
+![Wednesday Women: Talking culture and consistency with Florence Ovsec](https://theshout.com.au/wp-content/uploads/2026/04/IMG_8463.jpg?w=780)
+
+- **[Wednesday Women: Talking culture and consistency with Florence Ovsec](https://theshout.com.au/wednesday-women-talking-culture-and-consistency-with-florence-ovsec/)**
+  House Made Hospitality's CBD Portfolio Manager shares insights into setting the vision, culture and brand standards acro...
+
+![Last chance to enter Marie Brizard Cocktail Competition](https://theshout.com.au/wp-content/uploads/2026/04/MB26-site-takeover-Branded-Article-1200x900px.png?w=780)
+
+- **[Last chance to enter Marie Brizard Cocktail Competition](https://theshout.com.au/last-chance-to-enter-marie-brizard-cocktail-competition/)**
+  Enter before Thursday 30 April for the chance to win a $3,000 prize package and compete in the global finals in Bordeaux...
+
 ![TAB Live approved in Victoria and NSW](https://theshout.com.au/wp-content/uploads/2026/04/Tabcorp-retail-LR.jpg?w=780)
 
 - **[TAB Live approved in Victoria and NSW](https://theshout.com.au/tab-live-approved-in-victoria-and-nsw/)**
   Tabcorp's in-play live betting feature, TAB Live, will be rolling out to NSW and Victorian venues in the coming weeks....
-
-![Wednesday Women: Joanna Steuart on moving the needle in hospitality marketing](https://theshout.com.au/wp-content/uploads/2026/04/Joanna-Steuart-e1775629053233.jpg?w=780)
-
-- **[Wednesday Women: Joanna Steuart on moving the needle in hospitality marketing](https://theshout.com.au/wednesday-women-joanna-steuart-on-moving-the-needle-in-hospitality-marketing/)**
-  Applejack's Director of Marketing and Partnerships reflects on the full spectrum of hospitality marketing – from AI adop...
-  *关键词: partnership, market*
 
 ### 📰 Nomunication
 
@@ -38,35 +42,42 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![The Most Wanted Napa Wines of 2026](https://www.wine-searcher.com/images/news-rss/99/24/9924714249769e6a324_Napamain_1_.jpg)
+
+- **[The Most Wanted Napa Wines of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-napa-wines-of-2026?rss=Y)**
+  Even the great wines of Napa face falling demand as the cost of living bites....
+
 ### 📰 The Drinks Business
 
-![UK national jailed for 10 years over US$97m fine wine fraud](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-157281670-scaled.jpg)
+![‘Legendary’ Glamis Castle Château Lafite 1870 sets new record](https://www.thedrinksbusiness.com/content/uploads/2026/04/Chateau-Lafite-Rothschild-1865-est.-15000-20000-and-two-magnums-of-the-renowned-Glamis-Castle-Chateau-Lafite-Rothschild-1870-est.-30000-50000-scaled.jpg)
 
-- **[UK national jailed for 10 years over US$97m fine wine fraud](https://www.thedrinksbusiness.com/2026/04/uk-national-jailed-for-10-years-over-us97m-fine-wine-fraud/)**
-  A London-based fraudster has been sentenced in New York after orchestrating a global wine investment scam that defrauded...
-  *关键词: investment*
+- **[‘Legendary’ Glamis Castle Château Lafite 1870 sets new record](https://www.thedrinksbusiness.com/2026/04/legendary-glamis-castle-magnum-of-chateau-lafite-rothschild-1870-sets-new-world-record/)**
+  Two Magnums of Lafite 1870, which lay undisturbed in the cellars of Glamis Castle for nearly 100 years, achieved $306,25...
 
-![All the medallists from The Champagne Masters 2026](https://www.thedrinksbusiness.com/content/uploads/2021/03/Champagne-Masters-17-Entry-Form-1-350x350.jpg)
+![Yellow Tail owner slips into loss as costs rise](https://www.thedrinksbusiness.com/content/uploads/2026/04/Yellow-Tail-1.jpg)
 
-- **[All the medallists from The Champagne Masters 2026](https://www.thedrinksbusiness.com/2026/04/all-the-medallists-from-the-champagne-masters-2026/)**
-  Refined production processes and – paradoxically – difficult trading conditions are creating Champagnes of supreme quali...
+- **[Yellow Tail owner slips into loss as costs rise](https://www.thedrinksbusiness.com/2026/04/yellow-tail-owner-slips-into-loss-as-costs-rise/)**
+  Yellow Tail owner Casella Wines has moved from profit to loss as pressures build across its core export markets. Managem...
+  *关键词: market*
 
-![Kweichow Moutai profits fall as China alcohol demand softens](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1452944278-scaled-e1680772329320-1280x919-1.jpg)
+![Pernod Ricard gains family backing in Brown-Forman pursuit](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-470555565-1280x854-1-1.jpg)
 
-- **[Kweichow Moutai profits fall as China alcohol demand softens](https://www.thedrinksbusiness.com/2026/04/kweichow-moutai-profits-fall-as-china-alcohol-demand-softens/)**
-  Kweichow Moutai has reported its first annual decline in profits and revenue in more than two decades, highlighting weak...
+- **[Pernod Ricard gains family backing in Brown-Forman pursuit](https://www.thedrinksbusiness.com/2026/04/pernod-ricard-gains-family-backing-in-brown-forman-pursuit/)**
+  Pernod Ricard is reported to have secured support from the Brown family in its bid to combine with Brown-Forman. The pro...
+  *关键词: merger*
 
-![How ‘precision viticulture’ defines Mar de Frades Albariño](https://www.thedrinksbusiness.com/content/uploads/2026/04/Mar-de-Frades.jpg)
+![Why blueberry flavoured drinks are the next ones to watch](https://www.thedrinksbusiness.com/content/uploads/2026/04/Blueberry-trend-scaled.jpg)
 
-- **[How ‘precision viticulture’ defines Mar de Frades Albariño](https://www.thedrinksbusiness.com/2026/04/how-precision-viticulture-defines-mar-de-frades-albarino/)**
-  Mar de Frades encapsulates Albariño's complexity and why it should stand among the world's great white wines.
-The post H...
+- **[Why blueberry flavoured drinks are the next ones to watch](https://www.thedrinksbusiness.com/2026/04/why-blueberry-flavoured-drinks-are-the-next-ones-to-watch/)**
+  Blueberry flavours are seeing a surge in growth, catapulted by both the viral trend for blueberry coffees, a boost in po...
+  *关键词: trend*
 
-![The trends driving India’s craft beer revolution](https://www.thedrinksbusiness.com/content/uploads/2026/02/Indian-beer-scaled.jpg)
+![Pernod Ricard said to kick off process for India IPO](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1097419686-1024x683-1.jpg)
 
-- **[The trends driving India’s craft beer revolution](https://www.thedrinksbusiness.com/2026/04/the-trends-driving-indias-craft-beer-revolution/)**
-  India’s craft beer sector has been forecast to reach US$1 billion by 2027 in what is being described as the market’s “gr...
-  *关键词: expansion, market, trend*
+- **[Pernod Ricard said to kick off process for India IPO](https://www.thedrinksbusiness.com/2026/04/pernod-ricard-said-to-kick-off-process-for-india-ipo/)**
+  Spirits giant Pernod Ricard is reportedly eyeing a potential initial public offering (IPO) of its Indian business arm, a...
 
 ### 📰 Decanter
 
@@ -75,99 +86,86 @@ The post H...
 - **[Bari city guide for wine lovers: Where to eat and drink in the capital of Puglia](https://www.decanter.com/wine-travel/bari-city-guide-for-wine-lovers-where-to-eat-and-drink-in-the-capital-of-puglia)**
   Plan your perfect trip......
 
-![New book on Japanese wine offers 'comprehensive guide'](https://cdn.mos.cms.futurecdn.net/cPFkcZ9H68ZTJw62NVFAuf-1280-80.jpg)
-
-- **[New book on Japanese wine offers 'comprehensive guide'](https://www.decanter.com/learn/wine-books-latest-reviews/new-book-on-japanese-wine-offers-comprehensive-guide)**
-  Our reviewer finds a self-published gem......
-
-![$15 white Burgundy and magnums of Riesling: What our Burgundy expert drinks at home](https://cdn.mos.cms.futurecdn.net/GqAqKus4fbVrxHdUgKhcbb-1280-80.png)
-
-- **[$15 white Burgundy and magnums of Riesling: What our Burgundy expert drinks at home](https://www.decanter.com/wine/usd15-white-burgundy-and-magnums-of-riesling-what-our-burgundy-expert-drinks-at-home)**
-  It's not all Burgundy actually......
-
-### 📰 Wine-Searcher
-
-![Wine Tariff Refunds on the Way](https://www.wine-searcher.com/images/news-rss/99/25/9925014251369e6a962_tariff1.jpg)
-
-- **[Wine Tariff Refunds on the Way](https://www.wine-searcher.com/m/2026/04/wine-tariff-refunds-on-the-way?rss=Y)**
-  At last, some good news for the wine industry: tariff refunds applications are open....
-
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
+- **[Circana Weekly Scans: Bev-Alc Dollars -1.9%; Beer Category Outperforms at -1.2%](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-dollars-1-9-beer-category-outperforms-at-1-2)**
+  Total beverage-alcohol off-premise dollar sales declined 1.9% year-over-year (YoY), to $1.354 billion, in the week endin...
+  *关键词: market*
+
+- **[CBC Keynote Speaker Will Guidara Encourages Brewers to Evaluate & Elevate Consumer Touchpoints](https://www.brewbound.com/news/cbc-keynote-speaker-will-guidara-encourages-brewers-to-evaluate-elevate-consumer-touchpoints)**
+  Now may be the time to invest in mints or hot dogs, as sales could rise following Monday’s Craft Brewers Conference (CBC...
+
+- **[Suntory’s On The Rocks Expands Margarita Lineup](https://www.brewbound.com/news/suntorys-on-the-rocks-expands-margarita-lineup)**
+  Suntory's On The Rocks is expanding its margarita lineup as the RTD style continues to outpace other trends....
+  *关键词: trend*
+
 - **[Stone Brewing Sold to Firestone Walker and Duvel USA](https://www.brewbound.com/news/stone-brewing-sold-to-firestone-walker-and-duvel-usa)**
   Firestone Walker and Duvel USA have inked a “definitive agreement” to acquire the Stone Brewing brand from Sapporo USA....
 
-- **[Brewers Association Reimagines 2026 CBC for Post-Boom Years, Sets Stage for Mature Market](https://www.brewbound.com/news/brewers-association-reimagines-2026-cbc-for-post-boom-years-sets-stage-for-mature-market)**
-  The 2026 edition of the Brewers Association’s Craft Brewers Conference (in Philadelphia (April 20-22) arrives amid turbu...
-  *关键词: market*
-
-- **[Proposed Hemp Bev Bill Allows States To Opt Out Of November Ban](https://www.brewbound.com/news/proposed-hemp-bev-bill-allows-states-to-opt-out-of-november-ban)**
-  Senator Rand Paul (R-KY) proposed legislation last week that would allow states to respectively determine the future of ...
-
-- **[NBWA/Fintech Q1 Update: Are High Gas Prices Good For Beer?](https://www.brewbound.com/news/nbwa-fintech-q1-update-are-high-gas-prices-good-for-beer)**
-  Rising gas prices may be bad for consumers’ wallets, but increased costs and their impact on shopping habits may actuall...
-
-- **[Run The Jewels’ Juice Runners Lands $2M For Expansion](https://www.brewbound.com/news/run-the-jewels-juice-runners-lands-2m-for-expansion)**
-  The ready-to-drink (RTD) cocktail from Hip-Hop duo Run The Jewels has closed a $2 million seed round....
-  *关键词: expansion*
-
 ### 📰 The Spirits Business
 
-![Campari brings Aperol Spritz to can format](https://www.thespiritsbusiness.com/content/uploads/2026/04/Aperol-Spritz-To-Go.jpg)
+![Koch Mezcal partners with Maison Ferrand UK](https://www.thespiritsbusiness.com/content/uploads/2026/04/Koch-Mezcal-1.jpg)
 
-- **[Campari brings Aperol Spritz to can format](https://www.thespiritsbusiness.com/2026/04/campari-brings-aperol-spritz-to-can-format/)**
-  Italy's Campari Group has introduced a canned lower-ABV version of its bottled Aperol Spritz
-The post Campari brings Ape...
+- **[Koch Mezcal partners with Maison Ferrand UK](https://www.thespiritsbusiness.com/2026/04/koch-mezcal-partners-with-maison-ferrand-uk/)**
+  Export partner Brand Venture has appointed Maison Ferrand as Koch Mezcal's exclusive distributor in the UK
+The post Koch...
 
-![Lucas Bols kicks off cocktail contest](https://www.thespiritsbusiness.com/content/uploads/2026/04/Lucas-Bols-Cocktail-Battle-North-America.jpg)
+![Label 5 launches first travel retail exclusive](https://www.thespiritsbusiness.com/content/uploads/2026/04/Label-5.jpg)
 
-- **[Lucas Bols kicks off cocktail contest](https://www.thespiritsbusiness.com/2026/04/lucas-bols-kicks-off-cocktail-contest/)**
-  The Bols Cocktail Battle in North America has launched to showcase ‘bold, visually driven cocktails’ and modern drinking...
+- **[Label 5 launches first travel retail exclusive](https://www.thespiritsbusiness.com/2026/04/label-5-launches-first-travel-retail-exclusive/)**
+  Blended Scotch whisky brand Label 5 has introduced an eight-year-old expression exclusively for travel retail
+The post L...
   *关键词: launch*
 
-![Run The Jewels gains $2m investment for RTDs](https://www.thespiritsbusiness.com/content/uploads/2026/04/Juice-Runners.jpg)
+![Aaron Díaz leaves Lima’s Carnaval to open two bars](https://www.thespiritsbusiness.com/content/uploads/2026/04/Aaron-Diaz-3.jpg)
 
-- **[Run The Jewels gains $2m investment for RTDs](https://www.thespiritsbusiness.com/2026/04/run-the-jewels-gains-2m-investment-for-rtds/)**
-  Juice Runners, the ready-to-drink brand from hip-hop duo Run The Jewels, has raised US$2 million in a seed funding round...
-  *关键词: investment*
+- **[Aaron Díaz leaves Lima’s Carnaval to open two bars](https://www.thespiritsbusiness.com/2026/04/aaron-diaz-leaves-limas-carnaval-to-open-two-bars/)**
+  Peruvian bartender Aaron Díaz has left Carnaval in Lima after nine years to join Super Group: Hospitality & Experiences
+...
 
-![Glengoyne creates Signature whisky for supermarkets](https://www.thespiritsbusiness.com/content/uploads/2026/04/Glengoyne-Signature-1.jpg)
+![Rum swaps premiumisation for affordability](https://www.thespiritsbusiness.com/content/uploads/2026/04/rum-iStock-1155475058.jpg)
 
-- **[Glengoyne creates Signature whisky for supermarkets](https://www.thespiritsbusiness.com/2026/04/glengoyne-creates-signature-whisky-for-supermarkets/)**
-  Ian Macleod Distillers has launched a grocery-exclusive Glengoyne single malt called Signature
-The post Glengoyne create...
-  *关键词: launch, market*
+- **[Rum swaps premiumisation for affordability](https://www.thespiritsbusiness.com/2026/04/rum-swaps-premiumisation-for-affordability/)**
+  While rum producers have been flagging up their luxury offerings in recent years, they are now focusing on more affordab...
 
-![Westminster licensing consultation could be ‘unlawful’](https://www.thespiritsbusiness.com/content/uploads/2026/04/Soho-Westminster-iStock-1330661521.jpg)
+![Trump administration begins $166bn tariffs refund](https://www.thespiritsbusiness.com/content/uploads/2023/12/whisky-tariffs-iStock-483572888.jpg)
 
-- **[Westminster licensing consultation could be ‘unlawful’](https://www.thespiritsbusiness.com/2026/04/westminster-licensing-consultation-branded-unlawful/)**
-  The Night Time Industries Association has criticised the Westminster City Council over its nightlife consultation
-The po...
+- **[Trump administration begins $166bn tariffs refund](https://www.thespiritsbusiness.com/2026/04/trump-administration-begins-166bn-tariffs-refund/)**
+  The Trump administration has started processing US$166 billion worth of refunds on tariffs ruled unlawful by the US Supr...
 
 ### 📰 Wine Enthusiast
 
-![50 Years After the ‘Judgment of Paris,’ American Wine Is Once Again on a Precipice](https://www.wineenthusiast.com/wp-content/uploads/2023/05/Racking_Decorative_SUB_580x720_E.jpg)
+![Which is Right for Your Collection?](https://res.cloudinary.com/htt8g4cd/image/upload/w_1920,c_limit,f_auto,q_auto/wp/03_26_label_forward_vs_traditional_storage_hero_we_1920x1280)
 
-- **[50 Years After the ‘Judgment of Paris,’ American Wine Is Once Again on a Precipice](https://www.wineenthusiast.com/culture/judgment-of-paris-50th-anniversary/)**
-  50 years after that infamous tasting, California—and American wine at large—face a new set of far messier challenges.
-Th...
+- **[Which is Right for Your Collection?](https://www.wineenthusiast.com/shop/wine-coolers/traditional-vs-label-forward/)**
+  Label Forward vs. Traditional Wine Cellars: Which Is Right for Your Collection? By Laura Newman In the world of fine win...
 
-- **[Raise a Shot of Aguardiente to Karol G’s Historic Coachella Set](https://www.wineenthusiast.com/basics/aguardiente/)**
-  The anise-flavored liqueur, which Karol G sings about drinking at the club, has been considered Colombia’s unofficial na...
+![14 Kentucky Derby Cocktails for All-Day Revelry](https://www.wineenthusiast.com/wp-content/uploads/2023/05/HERO_Mint_Julep_GettyImages-12816695081-1-1024x683.jpg)
 
-![Don’t Underestimate the Power of a 90-Point Wine](https://www.wineenthusiast.com/wp-content/uploads/2022/11/L3_Glassware_WineGlasses_WhiteWine_SubSubCategory_580x720-copy.jpg)
+- **[14 Kentucky Derby Cocktails for All-Day Revelry](https://www.wineenthusiast.com/recipes/cocktail-recipes/kentucky-derby-drinks/)**
+  From mint julep variations to juicy bourbon smashes, these delightful Kentucky Derby drinks will have you off to the rac...
 
-- **[Don’t Underestimate the Power of a 90-Point Wine](https://www.wineenthusiast.com/basics/buying-and-collecting/90-point-wine/)**
-  90-point wine scores used to make heads turn, regardless of the price. Now, they get underestimated.
-The post Don&#8217;...
+![Love Horses? Try These Whiskeys](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Pinhook_Bourbon_Portfolio_INSET_Pinhook_1920x1280-1024x683.jpg)
 
-*📚 以上为近期内容*
+- **[Love Horses? Try These Whiskeys](https://www.wineenthusiast.com/culture/spirits/horse-whiskeys-kentucky-derby-day/)**
+  The connection between horses and bourbon in Kentucky is centuries-old. Try these whiskeys that feature horses on the la...
+
+![Yes, It’s Possible to Find Great Red Wine Under $20](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/04_26_pecchenino_dolcetto_dogliani_san_luigi_2023_inset_saratogawine_700x466)
+
+- **[Yes, It’s Possible to Find Great Red Wine Under $20](https://www.wineenthusiast.com/ratings/wine-ratings/red-wine-ratings/best-value-red-wine/)**
+  There’s never a need to stress over finding a good, inexpensive red wine. Excellent options abound across the globe.
+The...
+
+![How Wine and Spirits Got Stuck in the Middle of a Global Trade War](https://www.wineenthusiast.com/wp-content/uploads/2025/09/09_25_Tariff_Timeline_HERO_GettyImages-957874678_2209945047_1920x1280.jpg)
+
+- **[How Wine and Spirits Got Stuck in the Middle of a Global Trade War](https://www.wineenthusiast.com/culture/wine-spirits-tariff-timeline/)**
+  An Exhaustive (and Exhausting) Timeline of the American Tariff Roller Coaster Over the last eight years, the alcohol ind...
 
 
 ---
 
-*报告生成时间: 2026-04-21 03:00*  
+*报告生成时间: 2026-04-21 16:00*  
 *Antonelli Intelligence System*
