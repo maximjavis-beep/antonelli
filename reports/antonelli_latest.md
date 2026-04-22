@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-21  
+**日期**: 2026-04-22  
 **来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 40 条
+- **新增资讯**: 60 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,20 +17,33 @@
 
 ### 📰 The Shout
 
-![Wednesday Women: Talking culture and consistency with Florence Ovsec](https://theshout.com.au/wp-content/uploads/2026/04/IMG_8463.jpg?w=780)
+![Australia’s #1* Brand. Now Pouring Pinot Noir](https://theshout.com.au/wp-content/uploads/2026/04/Main-Fixed.jpg?w=780)
 
-- **[Wednesday Women: Talking culture and consistency with Florence Ovsec](https://theshout.com.au/wednesday-women-talking-culture-and-consistency-with-florence-ovsec/)**
-  House Made Hospitality's CBD Portfolio Manager shares insights into setting the vision, culture and brand standards acro...
+- **[Australia’s #1* Brand. Now Pouring Pinot Noir](https://theshout.com.au/australias-1-brand-now-pouring-pinot-noir/)**
+  Brown Brothers expands its Classic range with the launch of Brown Brothers Classic [&hellip;]...
+  *关键词: launch*
 
-![Last chance to enter Marie Brizard Cocktail Competition](https://theshout.com.au/wp-content/uploads/2026/04/MB26-site-takeover-Branded-Article-1200x900px.png?w=780)
+![New PhD research targets vineyard pests](https://theshout.com.au/wp-content/uploads/2026/04/iStock-2172704787.jpg?w=780)
 
-- **[Last chance to enter Marie Brizard Cocktail Competition](https://theshout.com.au/last-chance-to-enter-marie-brizard-cocktail-competition/)**
-  Enter before Thursday 30 April for the chance to win a $3,000 prize package and compete in the global finals in Bordeaux...
+- **[New PhD research targets vineyard pests](https://theshout.com.au/new-phd-research-targets-vineyard-pests/)**
+  ANU-led research targets vineyard pests using genetic tools to improve identification, tracking and management strategie...
 
-![TAB Live approved in Victoria and NSW](https://theshout.com.au/wp-content/uploads/2026/04/Tabcorp-retail-LR.jpg?w=780)
+![Laundy Hotels acquires Woy Woy Hotel](https://theshout.com.au/wp-content/uploads/2026/04/LaundyHotelsWoyWoy.jpg?w=780)
 
-- **[TAB Live approved in Victoria and NSW](https://theshout.com.au/tab-live-approved-in-victoria-and-nsw/)**
-  Tabcorp's in-play live betting feature, TAB Live, will be rolling out to NSW and Victorian venues in the coming weeks....
+- **[Laundy Hotels acquires Woy Woy Hotel](https://theshout.com.au/laundy-hotels-acquires-woy-woy-hotel/)**
+  Laundy Hotels has expanded its Central Coast footprint with the acquisition of the Woy Woy Hotel for approximately $41m....
+  *关键词: acquisition, acquisition*
+
+![Finalists for Top Wineries of Australia 2026 revealed](https://theshout.com.au/wp-content/uploads/2026/04/Huon-Hooke-The-Real-Review-Photo-by-Tim-Levy-2.jpg?w=780)
+
+- **[Finalists for Top Wineries of Australia 2026 revealed](https://theshout.com.au/finalists-for-top-wineries-of-australia-2026-revealed/)**
+  Celebrating the best winemakers and products, The Real Review has announced the 24 finalists for its 2026 category award...
+
+![Australia’s Champagne imports revealed](https://theshout.com.au/wp-content/uploads/2023/09/iStock-1194326232.jpg?w=780)
+
+- **[Australia’s Champagne imports revealed](https://theshout.com.au/australias-champagne-imports-revealed/)**
+  Australia remains a key market for exports of Champagne from France, with the latest Champagne shipments revealed....
+  *关键词: market*
 
 ### 📰 Nomunication
 
@@ -42,6 +55,51 @@
 
 ## 🌍 欧洲
 
+### 📰 The Drinks Business
+
+![Andrew Lloyd Webber to sell final tranche of wine collection](https://www.thedrinksbusiness.com/content/uploads/2026/04/Andrew-Lloyd-Webber-Portrait.jpg)
+
+- **[Andrew Lloyd Webber to sell final tranche of wine collection](https://www.thedrinksbusiness.com/2026/04/andrew-lloyd-webber-to-sell-rest-of-wine-collection-at-auction/)**
+  Christie's is selling the final tranche of wines from Andrew Lloyd Webber's wine collection to raise money to help disad...
+
+![Kirkstall Brewery opens taproom in Leeds](https://www.thedrinksbusiness.com/content/uploads/2026/04/Kirkstall-scaled.jpg)
+
+- **[Kirkstall Brewery opens taproom in Leeds](https://www.thedrinksbusiness.com/2026/04/kirkstall-brewery-opens-taproom-in-leeds/)**
+  Leeds-based Kirkstall Brewery is set to open The City Taproom on Sovereign Street near Leeds station tomorrow. The site,...
+  *关键词: launch, partnership*
+
+![Doors open at Diageo’s US$415m Alabama site](https://www.thedrinksbusiness.com/content/uploads/2026/04/diageo-opens-new-state-of-the-art-manufacturing-facility-montgomery-ribbon-cutting-image.jpg)
+
+- **[Doors open at Diageo’s US$415m Alabama site](https://www.thedrinksbusiness.com/2026/04/doors-open-at-diageos-us415m-alabama-site/)**
+  Diageo has officially opened its US$415 million manufacturing and warehousing facility in Montgomery, boosting supply ca...
+
+![Duvel Moorgat buys Stone Brewing from Sapporo](https://www.thedrinksbusiness.com/content/uploads/2023/02/image0-80.jpeg)
+
+- **[Duvel Moorgat buys Stone Brewing from Sapporo](https://www.thedrinksbusiness.com/2026/04/duvel-moorgat-buys-stone-brewing-from-sapporo/)**
+  California’s Stone Brewing Co. has been acquired by Belgian beer giant Duvel Moortgat’s US arm in a deal that will see t...
+
+![AI hype or reality? Wine sector weighs its next move](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2213447257.jpg)
+
+- **[AI hype or reality? Wine sector weighs its next move](https://www.thedrinksbusiness.com/2026/04/ai-hype-or-reality-wine-sector-weighs-its-next-move/)**
+  As AI reshapes discovery, wineries are engaging with the technology but still questioning its real-world value, accordin...
+
+### 📰 Decanter
+
+![Meet the sommelier: Award-winning Dani Giganto Arias on top pairings and go-to wines](https://cdn.mos.cms.futurecdn.net/72AHKoiXknhpKSCMMFk9in-1280-80.jpg)
+
+- **[Meet the sommelier: Award-winning Dani Giganto Arias on top pairings and go-to wines](https://www.decanter.com/learn/food/meet-the-sommelier-award-winning-dani-giganto-arias-on-top-pairings-and-go-to-wines)**
+  Top pairings, go-to wines and my 'pet hate'......
+
+!['My 12 Best Napa Chardonnays of All Time' – our expert picks a dozen greats](https://cdn.mos.cms.futurecdn.net/KyWc6ortutfGeie7YqqDSf-1280-80.jpg)
+
+- **['My 12 Best Napa Chardonnays of All Time' – our expert picks a dozen greats](https://www.decanter.com/wine/napa-valley/my-12-best-napa-chardonnays-of-all-time-our-expert-picks-a-dozen-greats)**
+  Twelve wines to rival the best around......
+
+![Lafite 1870 magnums smash estimates in 'immortal' Bordeaux auction](https://cdn.mos.cms.futurecdn.net/MbVXKJLbNw7Rps8h8YeW7P-1280-80.jpg)
+
+- **[Lafite 1870 magnums smash estimates in 'immortal' Bordeaux auction](https://www.decanter.com/wine-news/lafite-1870-magnums-smash-estimates-in-immortal-bordeaux-auction)**
+  Thirst for rare Bordeaux drives total sales above $2m......
+
 ### 📰 Wine-Searcher
 
 ![The Most Wanted Napa Wines of 2026](https://www.wine-searcher.com/images/news-rss/99/24/9924714249769e6a324_Napamain_1_.jpg)
@@ -49,45 +107,37 @@
 - **[The Most Wanted Napa Wines of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-napa-wines-of-2026?rss=Y)**
   Even the great wines of Napa face falling demand as the cost of living bites....
 
-### 📰 The Drinks Business
-
-![‘Legendary’ Glamis Castle Château Lafite 1870 sets new record](https://www.thedrinksbusiness.com/content/uploads/2026/04/Chateau-Lafite-Rothschild-1865-est.-15000-20000-and-two-magnums-of-the-renowned-Glamis-Castle-Chateau-Lafite-Rothschild-1870-est.-30000-50000-scaled.jpg)
-
-- **[‘Legendary’ Glamis Castle Château Lafite 1870 sets new record](https://www.thedrinksbusiness.com/2026/04/legendary-glamis-castle-magnum-of-chateau-lafite-rothschild-1870-sets-new-world-record/)**
-  Two Magnums of Lafite 1870, which lay undisturbed in the cellars of Glamis Castle for nearly 100 years, achieved $306,25...
-
-![Yellow Tail owner slips into loss as costs rise](https://www.thedrinksbusiness.com/content/uploads/2026/04/Yellow-Tail-1.jpg)
-
-- **[Yellow Tail owner slips into loss as costs rise](https://www.thedrinksbusiness.com/2026/04/yellow-tail-owner-slips-into-loss-as-costs-rise/)**
-  Yellow Tail owner Casella Wines has moved from profit to loss as pressures build across its core export markets. Managem...
-  *关键词: market*
-
-![Pernod Ricard gains family backing in Brown-Forman pursuit](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-470555565-1280x854-1-1.jpg)
-
-- **[Pernod Ricard gains family backing in Brown-Forman pursuit](https://www.thedrinksbusiness.com/2026/04/pernod-ricard-gains-family-backing-in-brown-forman-pursuit/)**
-  Pernod Ricard is reported to have secured support from the Brown family in its bid to combine with Brown-Forman. The pro...
-  *关键词: merger*
-
-![Why blueberry flavoured drinks are the next ones to watch](https://www.thedrinksbusiness.com/content/uploads/2026/04/Blueberry-trend-scaled.jpg)
-
-- **[Why blueberry flavoured drinks are the next ones to watch](https://www.thedrinksbusiness.com/2026/04/why-blueberry-flavoured-drinks-are-the-next-ones-to-watch/)**
-  Blueberry flavours are seeing a surge in growth, catapulted by both the viral trend for blueberry coffees, a boost in po...
-  *关键词: trend*
-
-![Pernod Ricard said to kick off process for India IPO](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-1097419686-1024x683-1.jpg)
-
-- **[Pernod Ricard said to kick off process for India IPO](https://www.thedrinksbusiness.com/2026/04/pernod-ricard-said-to-kick-off-process-for-india-ipo/)**
-  Spirits giant Pernod Ricard is reportedly eyeing a potential initial public offering (IPO) of its Indian business arm, a...
-
-### 📰 Decanter
-
-![Bari city guide for wine lovers: Where to eat and drink in the capital of Puglia](https://cdn.mos.cms.futurecdn.net/ovDWN6u9ukqGDnJPy4bFM4-1280-80.jpg)
-
-- **[Bari city guide for wine lovers: Where to eat and drink in the capital of Puglia](https://www.decanter.com/wine-travel/bari-city-guide-for-wine-lovers-where-to-eat-and-drink-in-the-capital-of-puglia)**
-  Plan your perfect trip......
-
 
 ## 🌍 美洲
+
+### 📰 The Spirits Business
+
+![Ojo de Tigre creates art contest for London Pride](https://www.thespiritsbusiness.com/content/uploads/2026/04/Ojo-de-Tigre-PRIDE-IN-LONDON-V3.jpg)
+
+- **[Ojo de Tigre creates art contest for London Pride](https://www.thespiritsbusiness.com/2026/04/ojo-de-tigre-creates-art-contest-for-london-pride/)**
+  Mezcal brand Ojo de Tigre has partnered with Pride in London to launch an art competition for LGBTQI+ creatives across t...
+  *关键词: launch*
+
+![Diageo opens $415m Alabama site](https://www.thespiritsbusiness.com/content/uploads/2026/04/Diageo-Montgomery.jpg)
+
+- **[Diageo opens $415m Alabama site](https://www.thespiritsbusiness.com/2026/04/diageo-opens-415m-alabama-site/)**
+  Smirnoff owner Diageo has opened its new US$415 million manufacturing facility in Alabama, US, creating approximately 10...
+
+![Buffalo Trace Distillery café confirms opening date](https://www.thespiritsbusiness.com/content/uploads/2026/04/Buffalo-Trace-John-G-Carlisle-Cafe.jpg)
+
+- **[Buffalo Trace Distillery café confirms opening date](https://www.thespiritsbusiness.com/2026/04/buffalo-trace-distillery-cafe-confirms-opening-date/)**
+  Frankfort-based Buffalo Trace Distillery will open its first permanent dining destination, the John G Carlisle Cafe, on ...
+
+![Espolòn celebrates short kings with The Hangover’s Ken Jeong](https://www.thespiritsbusiness.com/content/uploads/2026/04/Espolon-1.jpg)
+
+- **[Espolòn celebrates short kings with The Hangover’s Ken Jeong](https://www.thespiritsbusiness.com/2026/04/espolon-celebrates-short-kings-with-the-hangovers-ken-jeong/)**
+  Campari Group-owned Espolòn Tequila has teamed up with actor and comedian Ken Jeong on a new campaign for Short King Wee...
+
+![Is Canada’s spirits market opening up?](https://www.thespiritsbusiness.com/content/uploads/2026/04/Canada-1.jpg)
+
+- **[Is Canada’s spirits market opening up?](https://www.thespiritsbusiness.com/2026/04/is-canadas-spirits-market-opening-up/)**
+  As two Canadian provinces ink a landmark deal to allow reciprocal DTC alcohol sales, could this be the start of an open ...
+  *关键词: market*
 
 ### 📰 Brewbound
 
@@ -101,40 +151,6 @@
 - **[Suntory’s On The Rocks Expands Margarita Lineup](https://www.brewbound.com/news/suntorys-on-the-rocks-expands-margarita-lineup)**
   Suntory's On The Rocks is expanding its margarita lineup as the RTD style continues to outpace other trends....
   *关键词: trend*
-
-- **[Stone Brewing Sold to Firestone Walker and Duvel USA](https://www.brewbound.com/news/stone-brewing-sold-to-firestone-walker-and-duvel-usa)**
-  Firestone Walker and Duvel USA have inked a “definitive agreement” to acquire the Stone Brewing brand from Sapporo USA....
-
-### 📰 The Spirits Business
-
-![Koch Mezcal partners with Maison Ferrand UK](https://www.thespiritsbusiness.com/content/uploads/2026/04/Koch-Mezcal-1.jpg)
-
-- **[Koch Mezcal partners with Maison Ferrand UK](https://www.thespiritsbusiness.com/2026/04/koch-mezcal-partners-with-maison-ferrand-uk/)**
-  Export partner Brand Venture has appointed Maison Ferrand as Koch Mezcal's exclusive distributor in the UK
-The post Koch...
-
-![Label 5 launches first travel retail exclusive](https://www.thespiritsbusiness.com/content/uploads/2026/04/Label-5.jpg)
-
-- **[Label 5 launches first travel retail exclusive](https://www.thespiritsbusiness.com/2026/04/label-5-launches-first-travel-retail-exclusive/)**
-  Blended Scotch whisky brand Label 5 has introduced an eight-year-old expression exclusively for travel retail
-The post L...
-  *关键词: launch*
-
-![Aaron Díaz leaves Lima’s Carnaval to open two bars](https://www.thespiritsbusiness.com/content/uploads/2026/04/Aaron-Diaz-3.jpg)
-
-- **[Aaron Díaz leaves Lima’s Carnaval to open two bars](https://www.thespiritsbusiness.com/2026/04/aaron-diaz-leaves-limas-carnaval-to-open-two-bars/)**
-  Peruvian bartender Aaron Díaz has left Carnaval in Lima after nine years to join Super Group: Hospitality & Experiences
-...
-
-![Rum swaps premiumisation for affordability](https://www.thespiritsbusiness.com/content/uploads/2026/04/rum-iStock-1155475058.jpg)
-
-- **[Rum swaps premiumisation for affordability](https://www.thespiritsbusiness.com/2026/04/rum-swaps-premiumisation-for-affordability/)**
-  While rum producers have been flagging up their luxury offerings in recent years, they are now focusing on more affordab...
-
-![Trump administration begins $166bn tariffs refund](https://www.thespiritsbusiness.com/content/uploads/2023/12/whisky-tariffs-iStock-483572888.jpg)
-
-- **[Trump administration begins $166bn tariffs refund](https://www.thespiritsbusiness.com/2026/04/trump-administration-begins-166bn-tariffs-refund/)**
-  The Trump administration has started processing US$166 billion worth of refunds on tariffs ruled unlawful by the US Supr...
 
 ### 📰 Wine Enthusiast
 
@@ -167,5 +183,5 @@ The...
 
 ---
 
-*报告生成时间: 2026-04-21 16:00*  
+*报告生成时间: 2026-04-22 03:00*  
 *Antonelli Intelligence System*
