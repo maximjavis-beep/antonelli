@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 60 条
+- **新增资讯**: 45 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -55,33 +55,43 @@
 
 ## 🌍 欧洲
 
+### 📰 Wine-Searcher
+
+![Bagging Bargains from 2024 Bordeaux](https://www.wine-searcher.com/images/news-rss/99/26/9926714255169e82826_milles1.jpg)
+
+- **[Bagging Bargains from 2024 Bordeaux](https://www.wine-searcher.com/m/2026/04/bagging-bargains-from-2024-bordeaux?rss=Y)**
+  As the 2025 Bordeaux vintage meets its public, the previous vintage offers some genuine bargains for the canny buyer....
+
 ### 📰 The Drinks Business
 
-![Andrew Lloyd Webber to sell final tranche of wine collection](https://www.thedrinksbusiness.com/content/uploads/2026/04/Andrew-Lloyd-Webber-Portrait.jpg)
+![Top 3 trends from ProWine Tokyo 2026](https://www.thedrinksbusiness.com/content/uploads/2026/04/ProWine-Tokyo-scaled.jpg)
 
-- **[Andrew Lloyd Webber to sell final tranche of wine collection](https://www.thedrinksbusiness.com/2026/04/andrew-lloyd-webber-to-sell-rest-of-wine-collection-at-auction/)**
-  Christie's is selling the final tranche of wines from Andrew Lloyd Webber's wine collection to raise money to help disad...
+- **[Top 3 trends from ProWine Tokyo 2026](https://www.thedrinksbusiness.com/2026/04/3-top-trends-from-prowine-tokyo-2026/)**
+  Following last week's event, Noriko Nakamura identifies the three biggest talking points from ProWine Tokyo, which conti...
+  *关键词: market, trend*
 
-![Kirkstall Brewery opens taproom in Leeds](https://www.thedrinksbusiness.com/content/uploads/2026/04/Kirkstall-scaled.jpg)
+![Why Italian white wine has enormous untapped potential](https://www.thedrinksbusiness.com/content/uploads/2026/04/white-wine-and-pasta-scaled.jpg)
 
-- **[Kirkstall Brewery opens taproom in Leeds](https://www.thedrinksbusiness.com/2026/04/kirkstall-brewery-opens-taproom-in-leeds/)**
-  Leeds-based Kirkstall Brewery is set to open The City Taproom on Sovereign Street near Leeds station tomorrow. The site,...
-  *关键词: launch, partnership*
+- **[Why Italian white wine has enormous untapped potential](https://www.thedrinksbusiness.com/2026/04/why-italian-white-wine-has-enormous-untapped-potential/)**
+  A recent masterclass held by The Drinks Business at Vinitaly sought to show how Italian white wines are capable of punch...
+  *关键词: market*
 
-![Doors open at Diageo’s US$415m Alabama site](https://www.thedrinksbusiness.com/content/uploads/2026/04/diageo-opens-new-state-of-the-art-manufacturing-facility-montgomery-ribbon-cutting-image.jpg)
+![India turns scrutiny on AB InBev as antitrust probe shifts course](https://www.thedrinksbusiness.com/content/uploads/2026/04/ABInBev_1.png)
 
-- **[Doors open at Diageo’s US$415m Alabama site](https://www.thedrinksbusiness.com/2026/04/doors-open-at-diageos-us415m-alabama-site/)**
-  Diageo has officially opened its US$415 million manufacturing and warehousing facility in Montgomery, boosting supply ca...
+- **[India turns scrutiny on AB InBev as antitrust probe shifts course](https://www.thedrinksbusiness.com/2026/04/india-turns-scrutiny-on-ab-inbev-as-antitrust-probe-shifts-course/)**
+  The world’s largest brewer, AB InBev, has found itself recast from collaborator to subject of investigation in India’s c...
+  *关键词: market*
 
-![Duvel Moorgat buys Stone Brewing from Sapporo](https://www.thedrinksbusiness.com/content/uploads/2023/02/image0-80.jpeg)
+![Treasury Wine Estates unveils recovery plan as shares surge](https://www.thedrinksbusiness.com/content/uploads/2026/04/PPenfolds-hi-res-bottles-1280x959-1-1-1.jpg)
 
-- **[Duvel Moorgat buys Stone Brewing from Sapporo](https://www.thedrinksbusiness.com/2026/04/duvel-moorgat-buys-stone-brewing-from-sapporo/)**
-  California’s Stone Brewing Co. has been acquired by Belgian beer giant Duvel Moortgat’s US arm in a deal that will see t...
+- **[Treasury Wine Estates unveils recovery plan as shares surge](https://www.thedrinksbusiness.com/2026/04/treasury-wine-estates-unveils-recovery-plan-as-shares-surge/)**
+  Australia’s largest wine group has announced a major restructuring plan that boosted its share price by 17% in a single ...
+  *关键词: market*
 
-![AI hype or reality? Wine sector weighs its next move](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2213447257.jpg)
+![Serena Williams becomes global brand ambassador for Heineken 0.0](https://www.thedrinksbusiness.com/content/uploads/2026/04/Serena-cropped-scaled.jpg)
 
-- **[AI hype or reality? Wine sector weighs its next move](https://www.thedrinksbusiness.com/2026/04/ai-hype-or-reality-wine-sector-weighs-its-next-move/)**
-  As AI reshapes discovery, wineries are engaging with the technology but still questioning its real-world value, accordin...
+- **[Serena Williams becomes global brand ambassador for Heineken 0.0](https://www.thedrinksbusiness.com/2026/04/serena-williams-becomes-global-brand-ambassador-for-heineken-0-0/)**
+  Decorated tennis champion Serena Williams, who retired with 23 Grand Slam singles titles, is the new face of Heineken's ...
 
 ### 📰 Decanter
 
@@ -100,88 +110,72 @@
 - **[Lafite 1870 magnums smash estimates in 'immortal' Bordeaux auction](https://www.decanter.com/wine-news/lafite-1870-magnums-smash-estimates-in-immortal-bordeaux-auction)**
   Thirst for rare Bordeaux drives total sales above $2m......
 
-### 📰 Wine-Searcher
-
-![The Most Wanted Napa Wines of 2026](https://www.wine-searcher.com/images/news-rss/99/24/9924714249769e6a324_Napamain_1_.jpg)
-
-- **[The Most Wanted Napa Wines of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-napa-wines-of-2026?rss=Y)**
-  Even the great wines of Napa face falling demand as the cost of living bites....
-
 
 ## 🌍 美洲
 
-### 📰 The Spirits Business
-
-![Ojo de Tigre creates art contest for London Pride](https://www.thespiritsbusiness.com/content/uploads/2026/04/Ojo-de-Tigre-PRIDE-IN-LONDON-V3.jpg)
-
-- **[Ojo de Tigre creates art contest for London Pride](https://www.thespiritsbusiness.com/2026/04/ojo-de-tigre-creates-art-contest-for-london-pride/)**
-  Mezcal brand Ojo de Tigre has partnered with Pride in London to launch an art competition for LGBTQI+ creatives across t...
-  *关键词: launch*
-
-![Diageo opens $415m Alabama site](https://www.thespiritsbusiness.com/content/uploads/2026/04/Diageo-Montgomery.jpg)
-
-- **[Diageo opens $415m Alabama site](https://www.thespiritsbusiness.com/2026/04/diageo-opens-415m-alabama-site/)**
-  Smirnoff owner Diageo has opened its new US$415 million manufacturing facility in Alabama, US, creating approximately 10...
-
-![Buffalo Trace Distillery café confirms opening date](https://www.thespiritsbusiness.com/content/uploads/2026/04/Buffalo-Trace-John-G-Carlisle-Cafe.jpg)
-
-- **[Buffalo Trace Distillery café confirms opening date](https://www.thespiritsbusiness.com/2026/04/buffalo-trace-distillery-cafe-confirms-opening-date/)**
-  Frankfort-based Buffalo Trace Distillery will open its first permanent dining destination, the John G Carlisle Cafe, on ...
-
-![Espolòn celebrates short kings with The Hangover’s Ken Jeong](https://www.thespiritsbusiness.com/content/uploads/2026/04/Espolon-1.jpg)
-
-- **[Espolòn celebrates short kings with The Hangover’s Ken Jeong](https://www.thespiritsbusiness.com/2026/04/espolon-celebrates-short-kings-with-the-hangovers-ken-jeong/)**
-  Campari Group-owned Espolòn Tequila has teamed up with actor and comedian Ken Jeong on a new campaign for Short King Wee...
-
-![Is Canada’s spirits market opening up?](https://www.thespiritsbusiness.com/content/uploads/2026/04/Canada-1.jpg)
-
-- **[Is Canada’s spirits market opening up?](https://www.thespiritsbusiness.com/2026/04/is-canadas-spirits-market-opening-up/)**
-  As two Canadian provinces ink a landmark deal to allow reciprocal DTC alcohol sales, could this be the start of an open ...
-  *关键词: market*
-
 ### 📰 Brewbound
 
-- **[Circana Weekly Scans: Bev-Alc Dollars -1.9%; Beer Category Outperforms at -1.2%](https://www.brewbound.com/news/circana-weekly-scans-bev-alc-dollars-1-9-beer-category-outperforms-at-1-2)**
-  Total beverage-alcohol off-premise dollar sales declined 1.9% year-over-year (YoY), to $1.354 billion, in the week endin...
+- **[NIQ: St. Patrick’s Boost Bev-Alc On-Premise Sales Across All Categories; Velocity +1% YoY in L12W](https://www.brewbound.com/news/niq-st-patricks-boost-bev-alc-on-premise-sales-across-all-categories-velocity-1-yoy-in-l12w)**
+  All beverage-alcohol categories had a stronger St. Patrick’s Day in the on-premise this year compared to 2025, according...
   *关键词: market*
 
-- **[CBC Keynote Speaker Will Guidara Encourages Brewers to Evaluate & Elevate Consumer Touchpoints](https://www.brewbound.com/news/cbc-keynote-speaker-will-guidara-encourages-brewers-to-evaluate-elevate-consumer-touchpoints)**
-  Now may be the time to invest in mints or hot dogs, as sales could rise following Monday’s Craft Brewers Conference (CBC...
+- **[CBC Week + a Blockbuster Brewery Deal](https://www.brewbound.com/podcast/cbc-week--a-blockbuster-brewery-deal)**
+  The Brewers Association’s Craft Brewers Conference (CBC) rolled into Philadelphia this week – and so did the Brewbound P...
 
-- **[Suntory’s On The Rocks Expands Margarita Lineup](https://www.brewbound.com/news/suntorys-on-the-rocks-expands-margarita-lineup)**
-  Suntory's On The Rocks is expanding its margarita lineup as the RTD style continues to outpace other trends....
-  *关键词: trend*
+- **[Supply Costs, Beer Pricing and Consolidation: Bart Watson Addresses Hot Topics Ahead of State of the Industry Address](https://www.brewbound.com/news/supply-costs-beer-pricing-and-consolidation-bart-watson-addresses-hot-topics-ahead-of-state-of-the-industry-address)**
+  There is more anticipation for Brewers Association (BA) president and CEO Bart Watson’s annual “State of the Industry” a...
+
+- **[Press Clips: BrewDog’s Reported £20m Debt, The Biggest Chain Retail Mistake, Iron Hill’s Return & More](https://www.brewbound.com/news/press-clips-brewdogs-reported-20m-debt-the-biggest-chain-retail-mistake-iron-hills-return-more)**
+  Check out news items initially reported in the Brewbound Insider Newsletter April 20-22, including headlines from Tilray...
+
+### 📰 The Spirits Business
+
+![Campbeltown distillery offers 1% equity for £300k](https://www.thespiritsbusiness.com/content/uploads/2026/04/Witchburn-Distillery.jpg)
+
+- **[Campbeltown distillery offers 1% equity for £300k](https://www.thespiritsbusiness.com/2026/04/campbeltown-distillery-offers-1-equity-for-300k/)**
+  Brave New Spirits has launched an equity programme for its nearly completed Witchburn Distillery in Campbeltown
+The post...
+  *关键词: launch*
+
+![SGWS founding member Bennett Glazer dies](https://www.thespiritsbusiness.com/content/uploads/2026/04/Bennett-Glazer-SGWS.jpg)
+
+- **[SGWS founding member Bennett Glazer dies](https://www.thespiritsbusiness.com/2026/04/sgws-founding-member-bennett-glazer-dies/)**
+  Bennett Glazer, executive vice chairman of Southern Glazer’s Wine & Spirits, has died at the age of 80
+The post SGWS fou...
+
+![The Shift Change prepares bartenders for ICE encounters](https://www.thespiritsbusiness.com/content/uploads/2026/04/1.-Meteor-The-Pinnacle-Guide-Q1-Application-2024-2K7A8781.jpg)
+
+- **[The Shift Change prepares bartenders for ICE encounters](https://www.thespiritsbusiness.com/2026/04/the-shift-change-prepares-bartenders-for-ice-encounters/)**
+  Non-profit Escuelitas has partnered with Minneapolis bar Meteor to launch The Shift Change, a tour to educate people on ...
+  *关键词: launch*
+
+![Lark sales flat in Q3 despite range relaunch](https://www.thespiritsbusiness.com/content/uploads/2026/01/LARK-single-malts-Tasmania-1.jpg)
+
+- **[Lark sales flat in Q3 despite range relaunch](https://www.thespiritsbusiness.com/2026/04/lark-sales-flat-in-q3-despite-range-relaunch/)**
+  Australian Lark Distilling Co’s sales grew by 0.2% in the third quarter of its 2026 financial year, with its new signatu...
+  *关键词: launch*
+
+![Witchmark fills 1,000th whisky cask](https://www.thespiritsbusiness.com/content/uploads/2026/04/Witchmark-casks.jpg)
+
+- **[Witchmark fills 1,000th whisky cask](https://www.thespiritsbusiness.com/2026/04/witchmark-fills-1000th-whisky-cask/)**
+  Wiltshire-based Witchmark Distillery has filled its 1,000th cask of English whisky, 18 months after starting production
+...
 
 ### 📰 Wine Enthusiast
 
-![Which is Right for Your Collection?](https://res.cloudinary.com/htt8g4cd/image/upload/w_1920,c_limit,f_auto,q_auto/wp/03_26_label_forward_vs_traditional_storage_hero_we_1920x1280)
+![Is Oregon the Champagne of America?](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
 
-- **[Which is Right for Your Collection?](https://www.wineenthusiast.com/shop/wine-coolers/traditional-vs-label-forward/)**
-  Label Forward vs. Traditional Wine Cellars: Which Is Right for Your Collection? By Laura Newman In the world of fine win...
+- **[Is Oregon the Champagne of America?](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/oregon-sparkling-wine-podcast/)**
+  On the Wine Enthusiast podcast, we spoke with WE Writer-at-Large Michael Alberty about “Method Oregon” and the state’s t...
 
-![14 Kentucky Derby Cocktails for All-Day Revelry](https://www.wineenthusiast.com/wp-content/uploads/2023/05/HERO_Mint_Julep_GettyImages-12816695081-1-1024x683.jpg)
+![At Vinitaly 2026, Optimism Outweighs Global Strife](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Vinitaly_2026_INSET_1_EnneviFoto_1920x1280-1024x683.jpg)
 
-- **[14 Kentucky Derby Cocktails for All-Day Revelry](https://www.wineenthusiast.com/recipes/cocktail-recipes/kentucky-derby-drinks/)**
-  From mint julep variations to juicy bourbon smashes, these delightful Kentucky Derby drinks will have you off to the rac...
-
-![Love Horses? Try These Whiskeys](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Pinhook_Bourbon_Portfolio_INSET_Pinhook_1920x1280-1024x683.jpg)
-
-- **[Love Horses? Try These Whiskeys](https://www.wineenthusiast.com/culture/spirits/horse-whiskeys-kentucky-derby-day/)**
-  The connection between horses and bourbon in Kentucky is centuries-old. Try these whiskeys that feature horses on the la...
-
-![Yes, It’s Possible to Find Great Red Wine Under $20](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/04_26_pecchenino_dolcetto_dogliani_san_luigi_2023_inset_saratogawine_700x466)
-
-- **[Yes, It’s Possible to Find Great Red Wine Under $20](https://www.wineenthusiast.com/ratings/wine-ratings/red-wine-ratings/best-value-red-wine/)**
-  There’s never a need to stress over finding a good, inexpensive red wine. Excellent options abound across the globe.
-The...
-
-![How Wine and Spirits Got Stuck in the Middle of a Global Trade War](https://www.wineenthusiast.com/wp-content/uploads/2025/09/09_25_Tariff_Timeline_HERO_GettyImages-957874678_2209945047_1920x1280.jpg)
-
-- **[How Wine and Spirits Got Stuck in the Middle of a Global Trade War](https://www.wineenthusiast.com/culture/wine-spirits-tariff-timeline/)**
-  An Exhaustive (and Exhausting) Timeline of the American Tariff Roller Coaster Over the last eight years, the alcohol ind...
+- **[At Vinitaly 2026, Optimism Outweighs Global Strife](https://www.wineenthusiast.com/culture/industry-news/vinitaly-2026/)**
+  Tariffs and war be damned. Vinitaly 2026 shone a spotlight on innovation and reinvention.
+The post At Vinitaly 2026, Opt...
 
 
 ---
 
-*报告生成时间: 2026-04-22 03:00*  
+*报告生成时间: 2026-04-22 16:01*  
 *Antonelli Intelligence System*
