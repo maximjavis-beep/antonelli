@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 38 条
+- **新增资讯**: 28 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -100,11 +100,6 @@
   Queen Côtes de Provence Rosé Cuvée Rock n’ Roll 2025 will be available in the UK from 5 May. Our expert gets a first tas...
   *关键词: launch*
 
-![The best sub-£50 Champagnes from the Montagne de Reims](https://cdn.mos.cms.futurecdn.net/5AAb79hB3aGcvYRELY7BxR-1280-80.png)
-
-- **[The best sub-£50 Champagnes from the Montagne de Reims](https://www.decanter.com/wine/champagne/the-best-sub-gbp50-champagnes-from-the-montagne-de-reims)**
-  There's gold in them thar hills......
-
 
 ## 🌍 美洲
 
@@ -171,5 +166,5 @@ The post...
 
 ---
 
-*报告生成时间: 2026-04-24 03:00*  
+*报告生成时间: 2026-04-24 16:00*  
 *Antonelli Intelligence System*
