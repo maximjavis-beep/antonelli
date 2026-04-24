@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-23  
+**日期**: 2026-04-24  
 **来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 58 条
+- **新增资讯**: 38 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -52,11 +52,6 @@
 
 - **[Napa Wineries Strangled by Red Tape](https://www.wine-searcher.com/m/2026/04/napa-wineries-strangled-by-red-tape?rss=Y)**
   Napa County has bitten the winemaking hand that feeds it, but who will pay the price?...
-
-![Bagging Bargains from 2024 Bordeaux](https://www.wine-searcher.com/images/news-rss/99/26/9926714255169e82826_milles1.jpg)
-
-- **[Bagging Bargains from 2024 Bordeaux](https://www.wine-searcher.com/m/2026/04/bagging-bargains-from-2024-bordeaux?rss=Y)**
-  As the 2025 Bordeaux vintage meets its public, the previous vintage offers some genuine bargains for the canny buyer....
 
 ### 📰 The Drinks Business
 
@@ -173,19 +168,8 @@ The post...
 - **[Somms Are Obsessing Over this Racy White Wine from Hungary](https://www.wineenthusiast.com/basics/grapes-101/dry-furmint-hungary/)**
   Despite its long history in Hungary’s Tokaj region, the white wine grape Furmint isn’t yet a household name in the U.S.—...
 
-![Is Oregon the Champagne of America?](https://www.wineenthusiast.com/wp-content/uploads/2022/09/US_UK_Apple_Podcasts_Listen_Badge_RGB.png)
-
-- **[Is Oregon the Champagne of America?](https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/oregon-sparkling-wine-podcast/)**
-  On the Wine Enthusiast podcast, we spoke with WE Writer-at-Large Michael Alberty about “Method Oregon” and the state’s t...
-
-![At Vinitaly 2026, Optimism Outweighs Global Strife](https://www.wineenthusiast.com/wp-content/uploads/2026/04/04_26_Vinitaly_2026_INSET_1_EnneviFoto_1920x1280-1024x683.jpg)
-
-- **[At Vinitaly 2026, Optimism Outweighs Global Strife](https://www.wineenthusiast.com/culture/industry-news/vinitaly-2026/)**
-  Tariffs and war be damned. Vinitaly 2026 shone a spotlight on innovation and reinvention.
-The post At Vinitaly 2026, Opt...
-
 
 ---
 
-*报告生成时间: 2026-04-23 16:00*  
+*报告生成时间: 2026-04-24 03:00*  
 *Antonelli Intelligence System*
