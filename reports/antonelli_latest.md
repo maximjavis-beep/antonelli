@@ -1,13 +1,13 @@
 # 🍷 Antonelli 酒类情报日报
 
-**日期**: 2026-04-24  
-**来源**: 全球 2 个地区 · 6 个信源
+**日期**: 2026-04-26  
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 28 条
+- **新增资讯**: 39 条
 - **重点关键词**: 并购、新品发布、市场扩张、分销合作
 
 ---
@@ -17,154 +17,169 @@
 
 ### 📰 The Shout
 
-![Australia’s #1* Brand. Now Pouring Pinot Noir](https://theshout.com.au/wp-content/uploads/2026/04/Main-Fixed.jpg?w=780)
+![Australian Distillers Association launches Industry Awards](https://theshout.com.au/wp-content/uploads/2026/04/AustralianDistillersAssociationAwards.jpg?w=780)
 
-- **[Australia’s #1* Brand. Now Pouring Pinot Noir](https://theshout.com.au/australias-1-brand-now-pouring-pinot-noir/)**
-  Brown Brothers expands its Classic range with the launch of Brown Brothers Classic [&hellip;]...
+- **[Australian Distillers Association launches Industry Awards](https://theshout.com.au/australian-distillers-association-launches-industry-awards/)**
+  The Australian Distillers Association will shine a spotlight on the local spirits sector this June, launching its inaugu...
   *关键词: launch*
 
-![New PhD research targets vineyard pests](https://theshout.com.au/wp-content/uploads/2026/04/iStock-2172704787.jpg?w=780)
+![Bird in Hand appoints new CEO](https://theshout.com.au/wp-content/uploads/2026/04/MashoomTaitBirdinHandCEO.jpg?w=780)
 
-- **[New PhD research targets vineyard pests](https://theshout.com.au/new-phd-research-targets-vineyard-pests/)**
-  ANU-led research targets vineyard pests using genetic tools to improve identification, tracking and management strategie...
+- **[Bird in Hand appoints new CEO](https://theshout.com.au/bird-in-hand-appoints-new-ceo/)**
+  The new CEO will focus on international growth, strategic partnerships and portfolio expansion, including the developmen...
+  *关键词: partnership, expansion*
 
-![Laundy Hotels acquires Woy Woy Hotel](https://theshout.com.au/wp-content/uploads/2026/04/LaundyHotelsWoyWoy.jpg?w=780)
+![Calabria Family Wine Group unifies its domestic platform](https://theshout.com.au/wp-content/uploads/2026/04/Calabria-Wines.jpg?w=780)
 
-- **[Laundy Hotels acquires Woy Woy Hotel](https://theshout.com.au/laundy-hotels-acquires-woy-woy-hotel/)**
-  Laundy Hotels has expanded its Central Coast footprint with the acquisition of the Woy Woy Hotel for approximately $41m....
-  *关键词: acquisition, acquisition*
+- **[Calabria Family Wine Group unifies its domestic platform](https://theshout.com.au/calabria-family-wine-group-unifies-its-domestic-platform/)**
+  The family has announced it will unify its domestic trading and distribution platform under the name House of Fine Wine....
+  *关键词: distribution*
 
-*📚 以上为近期内容*
+![Trans-Tasman scrutiny for Kegstar-Konvoy deal](https://theshout.com.au/wp-content/uploads/2025/10/KonvoyKegs_Shoot1_jbelnick_-3-1.jpg?w=780)
 
-### 📰 Nomunication
+- **[Trans-Tasman scrutiny for Kegstar-Konvoy deal](https://theshout.com.au/trans-tasman-scrutiny-for-kegstar-konvoy-deal/)**
+  New Zealand blocks Kegstar-Konvoy deal as Australia’s competition watchdog escalates its own investigation....
 
-- **[You can now visit Suntory’s oldest distillery, and it’s in downtown Osaka](https://www.nomunication.jp/2026/04/18/you-can-now-visit-suntorys-oldest-distillery-and-its-in-downtown-osaka/)**
-  Great news out of Suntory this past week: the company&#8217;s Osaka Factory&#8211;their oldest distillery&#8211;will for...
+![Paul Broadbent joins Tito’s Vodka’s new international team to drive Oceania and East Asia growth](https://theshout.com.au/wp-content/uploads/2026/04/PaulBroadbentTitosVodka.jpg?w=780)
 
-*📚 以上为近期内容*
+- **[Paul Broadbent joins Tito’s Vodka’s new international team to drive Oceania and East Asia growth](https://theshout.com.au/paul-broadbent-joins-titos-vodka-to-drive-oceania-growth/)**
+  Broadbent has joined Tito’s Handmade Vodka as Regional Manager for East Asia & Oceania, as the brand looks to grow its p...
 
 
 ## 🌍 欧洲
 
 ### 📰 Wine-Searcher
 
-![Napa Wineries Strangled by Red Tape](https://www.wine-searcher.com/images/news-rss/99/24/9924814250669e696ad_napac1.jpg)
+![The Most Wanted Single Malts of 2026](https://www.wine-searcher.com/images/news-rss/99/28/9928614258669ea9325_Whiskeymain.jpg)
 
-- **[Napa Wineries Strangled by Red Tape](https://www.wine-searcher.com/m/2026/04/napa-wineries-strangled-by-red-tape?rss=Y)**
-  Napa County has bitten the winemaking hand that feeds it, but who will pay the price?...
+- **[The Most Wanted Single Malts of 2026](https://www.wine-searcher.com/m/2026/04/the-most-wanted-single-malts-of-2026?rss=Y)**
+  Even the best of spirits have struggled over the past two years, but single malts are on the rise again....
+
+![Bordeaux Giant Names Successor](https://www.wine-searcher.com/images/news-rss/99/26/9926614255069eab667_sudden1.jpg)
+
+- **[Bordeaux Giant Names Successor](https://www.wine-searcher.com/m/2026/04/bordeaux-giant-names-successor?rss=Y)**
+  Catch up on the wine news you might have missed with our weekly news round-up....
 
 ### 📰 The Drinks Business
 
-![Tasmanian whites woo South Korea](https://www.thedrinksbusiness.com/content/uploads/2026/04/JC-Cellar-Door-Lake-view-scaled.jpg)
+![Stonegate completes 160 pub development schemes](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-175768254.jpg)
 
-- **[Tasmanian whites woo South Korea](https://www.thedrinksbusiness.com/2026/04/tasmanian-whites-woo-south-korea/)**
-  Josef Chromy Wines has partnered with Choix Trading to launch in South Korea’s on-trade sectors. Rebecca Lo looks into w...
-  *关键词: launch, partnership, market*
+- **[Stonegate completes 160 pub development schemes](https://www.thedrinksbusiness.com/2026/04/stonegate-completes-160-pub-development-schemes/)**
+  Stonegate Group has completed 160 development schemes across its leased and tenanted division, Pub Partners, in the firs...
 
-![Beer Hour: Mark Wingfield Digby](https://www.thedrinksbusiness.com/content/uploads/2026/04/MWD-Profile-Pic.jpg)
+![Sazerac eyes Brown-Forman and larger stake in John Distilleries](https://www.thedrinksbusiness.com/content/uploads/2026/04/Sazerac.webp)
 
-- **[Beer Hour: Mark Wingfield Digby](https://www.thedrinksbusiness.com/2026/04/beer-hour-mark-wingfield-digby/)**
-  Mark Wingfield Digby, Budweiser Brewing Group’s off trade director for the UK, tells Jessica Mason how working with peop...
+- **[Sazerac eyes Brown-Forman and larger stake in John Distilleries](https://www.thedrinksbusiness.com/2026/04/sazerac-eyes-brown-forman-and-larger-stake-in-john-distilleries/)**
+  US spirits group Sazerac is pursuing expansion on two fronts, with a US$15 billion bid for Brown-Forman and reported tal...
+  *关键词: expansion*
 
-![Fladgate declares 2024 vintage Ports in smallest release on record](https://www.thedrinksbusiness.com/content/uploads/2026/04/All-brands-2024-taylor-fladgate-port-scaled.jpg)
+![‘Show the price of a pint’: transparency push gains traction in Westminster](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-476271055.jpg)
 
-- **[Fladgate declares 2024 vintage Ports in smallest release on record](https://www.thedrinksbusiness.com/2026/04/fladgate-declares-2024-vintage-ports-in-smallest-release-on-record/)**
-  Fladgate Family Wines has declared a 2024 vintage across its three main Port houses – Taylor’s, Fonseca and Croft – mark...
+- **[‘Show the price of a pint’: transparency push gains traction in Westminster](https://www.thedrinksbusiness.com/2026/04/show-the-price-of-a-pint-transparency-push-gains-traction-in-westminster/)**
+  An early day motion in Parliament has called for more visible pricing in pubs and bars across the UK. The proposal refle...
 
-![Map reveals cheapest pints of Guinness in the UK](https://www.thedrinksbusiness.com/content/uploads/2025/11/Guinness-scaled.jpg)
+![How much does one hectare cost to buy around the world?](https://www.thedrinksbusiness.com/content/uploads/2026/04/Stack-of-coins-scaled.jpg)
 
-- **[Map reveals cheapest pints of Guinness in the UK](https://www.thedrinksbusiness.com/2026/04/map-reveals-cheapest-pints-of-guinness-in-the-uk/)**
-  Around 6,500 venues have had their costs assessed and collated into a map showing how much visitors will need to pay for...
+- **[How much does one hectare cost to buy around the world?](https://www.thedrinksbusiness.com/2026/04/how-much-does-one-hectare-cost-to-buy-around-the-world/)**
+  Vineyard sales are far from being in decline and for the investor "scarcity beats scale",  reveals the new Wealth Report...
 
-![London’s new Twin Peaks-inspired bar is a place to misbehave](https://www.thedrinksbusiness.com/content/uploads/2026/04/Copy-of-Adam-Firman_Hausu_High-Res-7-scaled.jpg)
+![Tequila Centinela expands US reach](https://www.thedrinksbusiness.com/content/uploads/2026/04/iStock-2267709746-scaled.jpg)
 
-- **[London’s new Twin Peaks-inspired bar is a place to misbehave](https://www.thedrinksbusiness.com/2026/04/londons-new-twin-peaks-inspired-bar-is-a-place-to-misbehave/)**
-  Last month, Upstairs at Hausu, a David Lynch-inspired hi-fi bar launched in Peckham Rye. Its co-director talks Amelie Ma...
-  *关键词: launch*
+- **[Tequila Centinela expands US reach](https://www.thedrinksbusiness.com/2026/04/tequila-centinela-expands-us-reach/)**
+  Mexican spirits producer Tequila Centinela has partnered with distributor RNDC to expand its footprint in the United Sta...
+  *关键词: distribution, market*
 
 ### 📰 Decanter
 
-![Archive dive in five: Decanter April 2004](https://cdn.mos.cms.futurecdn.net/DAhobBjBwhQhbWQEVqXrz5-1280-80.gif)
+![Rooted in Italy: Native varieties at the pinnacle of DWWA scoring](https://cdn.mos.cms.futurecdn.net/dymPmFkwDG2VY5RDpaVKMa-1280-80.png)
 
-- **[Archive dive in five: Decanter April 2004](https://www.decanter.com/magazine/archive-dive-in-five-decanter-april-2004)**
-  What we said then about a supersized Spain tasting and Brian Croser…...
+- **[Rooted in Italy: Native varieties at the pinnacle of DWWA scoring](https://www.decanter.com/decanter-world-wine-awards/rooted-in-italy-native-varieties-at-the-pinnacle-of-dwwa-scoring)**
+  Ten Platinum-awarded (97 points and above) wines from last year’s DWWA were selected by the Master of Wine....
 
-![International Viognier Day](https://cdn.mos.cms.futurecdn.net/raZHbfTdFgvkC2DAQ45YfU-1280-80.jpg)
+![New Nebbiolo releases that show this grape's light-hearted side](https://cdn.mos.cms.futurecdn.net/w5tsbQECnKWzkmQ4Azsyia-1280-80.jpg)
 
-- **[International Viognier Day](https://www.decanter.com/decanter-world-wine-awards/international-viognier-day-dwwa-474125)**
-  Viognier is renowned for its rich texture, rounded mouthfeel and heady aromas of apricot, peach and honeysuckle......
+- **[New Nebbiolo releases that show this grape's light-hearted side](https://www.decanter.com/wine/piedmont-wine-region/new-nebbiolo-releases-that-show-this-grapes-light-hearted-side)**
+  A brighter shade of pale red......
 
-![‘Like our music, this wine is for everyone’ – Queen drummer Roger Taylor launches rosé wine](https://cdn.mos.cms.futurecdn.net/bJ8rFUH5KbtHz4HXhXGcZh-1280-80.gif)
+![Vintage Armagnac: What difference does a year make?](https://cdn.mos.cms.futurecdn.net/knjaLgGspbSfvJK6s8NSoa-1280-80.jpg)
 
-- **[‘Like our music, this wine is for everyone’ – Queen drummer Roger Taylor launches rosé wine](https://www.decanter.com/wine/provence/like-our-music-this-wine-is-for-everyone-queen-drummer-roger-taylor-launches-rose-wine)**
-  Queen Côtes de Provence Rosé Cuvée Rock n’ Roll 2025 will be available in the UK from 5 May. Our expert gets a first tas...
-  *关键词: launch*
+- **[Vintage Armagnac: What difference does a year make?](https://www.decanter.com/spirits/vintage-armagnac-what-difference-does-a-year-make)**
+  And a great bottle to try......
+
+![World Marselan Day](https://cdn.mos.cms.futurecdn.net/ADdpDhoVTcwqKTSJNMkoj9-1280-80.jpg)
+
+- **[World Marselan Day](https://www.decanter.com/decanter-world-wine-awards/marselan-day-10-wines-to-try-502502)**
+  A French scientist created Marselan in 1961, and it’s now one of China’s flagship grape varieties ......
+
+![Soul of the South: Italy's wild, chaotic and creative southern wines](https://cdn.mos.cms.futurecdn.net/CYpdrFPENUXEyvz6j49br3-1280-80.jpg)
+
+- **[Soul of the South: Italy's wild, chaotic and creative southern wines](https://www.decanter.com/wine/wine-regions/soul-of-the-south-italys-wild-chaotic-and-creative-southern-wines)**
+  Embrace the strange......
 
 
 ## 🌍 美洲
 
 ### 📰 Brewbound
 
-- **[Hard Tea’s $2.1 Billion Market Is Highly Concentrated](https://www.brewbound.com/news/hard-teas-2-1-billion-market-is-highly-concentrated)**
-  Just ten vendors account for about 97% of hard tea ready-to-drink (RTD) dollars, according to a new analysis from Bump W...
+- **[NIQ Weekly Scans: Mass Retail Bev-Alc Sales Rebound Despite Easter Holiday Recalibration](https://www.brewbound.com/news/niq-weekly-scans-mass-retail-bev-alc-sales-rebound-despite-easter-holiday-recalibration)**
+  Beverage-alcohol’s off-premise sales returned to year-over-year (YoY) contraction post-Easter, according to the latest r...
   *关键词: market*
 
-- **[Angry Orchard, Truly and Samuel Adams Brand Leads to Exit Boston Beer; Successors Named](https://www.brewbound.com/news/angry-orchard-truly-and-samuel-adams-brand-leads-to-exit-boston-beer-successors-named)**
-  A pair of Boston Beer Company brand leaders are leaving the company. After nine years of rising through Boston Beer’s ra...
+- **[Mining For Opportunities: How Lawson’s Digs into Data to Differentiate](https://www.brewbound.com/news/mining-for-opportunities-how-lawsons-digs-into-data-to-differentiate)**
+  Are demographics destiny for craft brewers? Maybe, but maybe not, according to Brewers Association (BA) staff economist ...
 
-- **[BA’s Bart Watson Encourages Brewers to Embrace the Sunshine Peaking Through Clouds](https://www.brewbound.com/news/bas-bart-watson-encourages-brewers-to-embrace-the-sunshine-peaking-through-clouds)**
-  Craft beer needs a vibe shift, and the Brewers Association (BA) is spearheading a campaign to make that happen....
+- **[Press Clips: HUSA’s Innovation-Driven Q1 Highlights, NA’s Biggest Growth Opportunity, World Beer Cup Results & More](https://www.brewbound.com/news/press-clips-husas-innovation-driven-q1-highlights-nas-biggest-growth-opportunity-world-beer-cup-results-more)**
+  Check out news items were initially reported in the Brewbound Insider Newsletter April 23-24, including headlines from H...
 
-- **[Constellation Brands Taps Ex-Diageo Beer Exec Jack Edwards to Lead Sales](https://www.brewbound.com/news/constellation-brands-taps-ex-diageo-beer-exec-jack-edwards-to-lead-sales)**
-  After more than a year, Constellation Brands has filled its chief sales officer role. The Mexican beer importer announce...
+- **[Athletic CMO Andrew Katz Exits NA Brewer; Search Ongoing for New Marketing Lead](https://www.brewbound.com/news/athletic-cmo-andrew-katz-exits-na-brewer-search-ongoing-for-new-marketing-lead)**
+  Athletic Brewing Company CMO Andrew Katz has left the dedicated non-alcoholic (NA) beer maker after nearly five years....
+  *关键词: market*
 
-- **[Nowadays Preps for November Ban with ‘Extra Light’ THC Beverage Line](https://www.brewbound.com/news/nowadays-preps-for-november-ban-with-extra-light-thc-beverage-line)**
-  Facing an ever-increasing likelihood that hemp THC beverages will be outlawed this fall, Nowadays is preparing for the l...
+- **[Insider’s Week in Beer: 🍻 Pre-Gaming: Not Just For College Kids Anymore](https://newsletter.bevnet.com/subscriber/4dc828d015984fe39487e0a7ace8abd3)**
+  Let’s start with some good news this week! All of the bev-alc inflation over the past few years combined with other larg...
 
 ### 📰 The Spirits Business
 
-![Mangrove takes on Arette Tequila in UK](https://www.thespiritsbusiness.com/content/uploads/2026/04/AretteART_Mar2026-78.jpg)
+![Motel Mezcal refocuses distribution in Singapore](https://www.thespiritsbusiness.com/content/uploads/2026/04/Motel-Mezcal-1.jpg)
 
-- **[Mangrove takes on Arette Tequila in UK](https://www.thespiritsbusiness.com/2026/04/mangrove-brings-arette-tequila-to-the-uk/)**
-  Fifth-generation, family-run Tequila brand Arette, made at the El Llano Distillery, will now be distributed in the UK by...
+- **[Motel Mezcal refocuses distribution in Singapore](https://www.thespiritsbusiness.com/2026/04/motel-mezcal-refocuses-distribution-in-singapore/)**
+  Oaxacan brand Motel Mezcal has appointed Cool Potions as its exclusive importer and distributor in Singapore
+The post Mo...
+  *关键词: distribution*
 
-![Hayman’s offers a trip to London](https://www.thespiritsbusiness.com/content/uploads/2026/04/Haymans-Gin.jpg)
+![Doghouse bar to serve London’s ‘largest’ Old Fashioned menu](https://www.thespiritsbusiness.com/content/uploads/2026/04/Katherine-and-Braden-Founders-Doghouse-Bar.jpg)
 
-- **[Hayman’s offers a trip to London](https://www.thespiritsbusiness.com/2026/04/haymans-offers-a-trip-to-london/)**
-  Family-owned Hayman's Gin has launched an international on-pack retail competition that offers shoppers a chance to win ...
+- **[Doghouse bar to serve London’s ‘largest’ Old Fashioned menu](https://www.thespiritsbusiness.com/2026/04/doghouse-bar-to-serve-londons-largest-old-fashioned-menu/)**
+  London’s Doghouse Distillery will open its own bar at 10 Clapham Common Southside, just a mile away from its main site, ...
+
+![Discus lands $900k to expand export opportunities](https://www.thespiritsbusiness.com/content/uploads/2026/03/US-American-whiskey.jpg)
+
+- **[Discus lands $900k to expand export opportunities](https://www.thespiritsbusiness.com/2026/04/discus-lands-900k-to-expand-export-opportunities/)**
+  The Distilled Spirits Council of the US has received US$900,000 in government funding to promote American spirits overse...
+
+![Jägermeister opens €17.6m barrel storage site](https://www.thespiritsbusiness.com/content/uploads/2026/04/Jagermeister-barrel-site.jpg)
+
+- **[Jägermeister opens €17.6m barrel storage site](https://www.thespiritsbusiness.com/2026/04/jagermeister-opens-e17-6m-barrel-storage-site/)**
+  Mast-Jägermeister has completed construction of its new €17.6 million (US$20.6m) barrel storage facility in Germany
+The ...
+
+![Stoli Vodka ups presence in French retail](https://www.thespiritsbusiness.com/content/uploads/2026/04/Stoli-Vodka-France.jpg)
+
+- **[Stoli Vodka ups presence in French retail](https://www.thespiritsbusiness.com/2026/04/stoli-vodka-ups-presence-in-french-retail/)**
+  Stoli Group's flagship vodka brand has partnered with distributor Slaur Sardet to launch in the French grocery channel
+T...
   *关键词: launch*
-
-![Tomintoul restarts tours for 2026](https://www.thespiritsbusiness.com/content/uploads/2026/04/Tomintoul.jpg)
-
-- **[Tomintoul restarts tours for 2026](https://www.thespiritsbusiness.com/2026/04/tomintoul-restarts-tours-for-2026/)**
-  Tours have resumed at Angus Dundee Distillers-owned Tomintoul for spring, with the Speyside distillery also unveiling tw...
-
-![Four Roses adds to Single Barrel Collection](https://www.thespiritsbusiness.com/content/uploads/2026/04/Four-Roses-Single-Barrel-Collection.jpg)
-
-- **[Four Roses adds to Single Barrel Collection](https://www.thespiritsbusiness.com/2026/04/four-roses-adds-to-single-barrel-collection/)**
-  Gallo-owned Four Roses Bourbon has launched the second annual instalment of its Single Barrel Collection, dedicated to i...
-  *关键词: launch*
-
-![Sip & Guzzle topples Handshake as Best North American Bar](https://www.thespiritsbusiness.com/content/uploads/2026/04/Sip_and_Guzzle-50-Best-Bars-North-America.jpg)
-
-- **[Sip & Guzzle topples Handshake as Best North American Bar](https://www.thespiritsbusiness.com/2026/04/sip-guzzle-topples-handshake-as-best-north-american-bar/)**
-  The 50 Best Bars in North America 2026 list has been revealed, with New York’s Sip & Guzzle taking the top spot
-The post...
 
 ### 📰 Wine Enthusiast
 
-![The Best Pinot Grigios for Under $20](https://res.cloudinary.com/htt8g4cd/image/upload/f_auto,q_auto/wp/04_26_2023_cooper_mountain_pinot_gris_inset_coopermountainvineyards_700x466)
+![The Best Long Island Wineries to Visit Right Now](https://www.wineenthusiast.com/wp-content/uploads/2023/07/07_23_Paumanok_Vineyards_Massoud_family_INSET_Christopher_Fenimore_1920x1280-1024x683.jpg)
 
-- **[The Best Pinot Grigios for Under $20](https://www.wineenthusiast.com/ratings/refreshing-affordable-pinot-grigios/)**
-  Pinot Grigio, also known as Pinot Gris, can be used to produce stunning, high-end wines. But it’s also responsible for t...
-
-![Somms Are Obsessing Over this Racy White Wine from Hungary](https://www.wineenthusiast.com/wp-content/uploads/2026/01/01_26_Furmint_grape_cluster_INSET_-Andrs_kovacs_1500x2000-768x1024.jpg)
-
-- **[Somms Are Obsessing Over this Racy White Wine from Hungary](https://www.wineenthusiast.com/basics/grapes-101/dry-furmint-hungary/)**
-  Despite its long history in Hungary’s Tokaj region, the white wine grape Furmint isn’t yet a household name in the U.S.—...
+- **[The Best Long Island Wineries to Visit Right Now](https://www.wineenthusiast.com/culture/travel/best-long-island-wineries/)**
+  In New York State, Long Island is just hitting its stride as a wine region. Here are the top wineries to visit.
+The post...
 
 
 ---
 
-*报告生成时间: 2026-04-24 16:00*  
+*报告生成时间: 2026-04-26 03:00*  
 *Antonelli Intelligence System*
